@@ -1,0 +1,43 @@
+{
+  "project": "resonance-knowledge",
+  "analyzed_at": "2026-06-30T22:04:48.442701+00:00",
+  "standards_compliance": {
+    "readme": true,
+    "license": true,
+    "philosophy": false,
+    "claude_md": true,
+    "gitignore": true
+  },
+  "vulnerabilities": [
+    {
+      "severity": "medium",
+      "issue": ".gitignore is missing recommended patterns: node_modules/, __pycache__/"
+    }
+  ],
+  "gaps": [
+    "No CI/CD configuration found"
+  ],
+  "test_readiness": "No test infrastructure found. Primary source language is sql. Recommend starting with unit tests for the core data/query functions before expanding coverage.",
+  "recommendations": [
+    {
+      "priority": 1,
+      "action": "Create PHILOSOPHY.md"
+    },
+    {
+      "priority": 2,
+      "action": "Address: .gitignore is missing recommended patterns: node_modules/, __pycache__/"
+    },
+    {
+      "priority": 3,
+      "action": "No CI/CD configuration found"
+    },
+    {
+      "priority": 4,
+      "action": "Establish a test suite"
+    },
+    {
+      "priority": 5,
+      "action": "Add CI/CD configuration"
+    }
+  ]
+}

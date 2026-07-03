@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" diff 1f20ecc HEAD -- src/)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show 0529c7d -- src/main.rs src/db.rs src/query.rs)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show 1f20ecc -- src/db.rs src/query.rs)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show 1f20ecc -- docs/CHECKLIST.md)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" log --all --oneline --follow -- src/db.rs src/query.rs)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" log --all --oneline -- src/db.rs)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show --name-status e086bc6)",
+      "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show --name-status 0529c7d)",
+      "Bash(mkdir -p \"c:/_superposition/AudHDities-Resonance/resonance-knowledge/reports\")"
+    ],
+    "additionalDirectories": [
+      "c:\\_superposition\\AudHDities-Resonance\\resonance-knowledge"
+    ]
+  },
+  "attribution": {
+    "commit": "Co-authored-by: Quantum Weaver <audhdities@proton.me>\nCo-authored-by: Aethelred <aethelred-cello@proton.me>"
+  }
+}
