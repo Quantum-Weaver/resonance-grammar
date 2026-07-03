@@ -9,7 +9,10 @@
       "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" log --all --oneline -- src/db.rs)",
       "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show --name-status e086bc6)",
       "Bash(git -C \"c:/_superposition/AudHDities-Resonance/resonance-knowledge\" show --name-status 0529c7d)",
-      "Bash(mkdir -p \"c:/_superposition/AudHDities-Resonance/resonance-knowledge/reports\")"
+      "Bash(mkdir -p \"c:/_superposition/AudHDities-Resonance/resonance-knowledge/reports\")",
+      "PowerShell(git -C \"c:\\\\_superposition\\\\resonance-knowledge\" checkout -b resonance-knowledge/cli)",
+      "PowerShell(git -C \"c:\\\\_superposition\\\\resonance-knowledge\" add src/db.rs src/query.rs src/main.rs docs/CHECKLIST.md)",
+      "PowerShell(git -C \"c:\\\\_superposition\\\\resonance-knowledge\" commit -m \"Phase K-1: Query CLI - atom, emoji, sense lookup with JSON output\")"
     ],
     "additionalDirectories": [
       "c:\\_superposition\\AudHDities-Resonance\\resonance-knowledge"
