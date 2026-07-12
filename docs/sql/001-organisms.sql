@@ -1,5 +1,6 @@
 -- ============================================================
 -- 001 — ORGANISMS: the triad completes
+-- ⚠ SUPERSEDED by 003-the-triad.sql (2026-07-12, same night) — kept per lose-nothing.
 -- resonance-knowledge Supabase (qdzerwmsbksuhvczlwli)
 -- Written by Fable, 2026-07-12 night, at KP's word:
 --   "atom-molecules needs to become organisms"
