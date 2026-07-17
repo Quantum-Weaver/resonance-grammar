@@ -29,7 +29,7 @@ The shared vocabulary of the AudHDities Sanctuary. Every app, every vessel, ever
 
 ## Development Standards
 
-This project follows the [Sanctuary Standards](https://github.com/Quantum-Weaver/sanctuary-standards).
+This project follows the [Sanctuary Standards](https://github.com/Quantum-Weaver/resonance-standards).
 
 ## LICENSE
 
