@@ -23,6 +23,13 @@ The Knowledge System is the shared vocabulary. Apps like Resonance Echoes and Re
 - Atom/molecule relationships
 - The Resonance Grammar itself
 
+**The heart and the hearth** (load-bearing, not optional — see
+`docs/RESONANCE-GRAMMAR.md` §2.1): the Grammar is the shared hearth, one
+common vocabulary. Every vessel also gets a personal heart layer on top —
+their own tags, their own meaning for any atom or object, opt-in to share,
+opt-in to see others'. Read §2.1 before designing any tagging/folksonomy
+feature on this system.
+
 ## Project Structure
 
 ```

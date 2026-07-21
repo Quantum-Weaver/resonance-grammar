@@ -33,6 +33,43 @@ source.
 | **The Whole in Every Fragment** | Every atom contains the full vocabulary. Every molecule contains the full grammar. Every interaction contains the full Sanctuary. |
 | **Portability** | The Grammar works on any medium. Paper, screen, voice, presence. No device required. |
 | **Accessibility** | Designed for neurodivergent minds. The pause is a feature. Overwhelm is respected. Clarity is a form of care. |
+| **The Heart and the Hearth** | The Grammar's atoms/molecules are the shared, common meaning — the hearth everyone gathers at. Any vessel may also tag anything, anywhere, with what it means *to them* — the heart, personal and not required to match the common definition. Opt in and let others see your meanings, or don't, and still see the meanings of those who did. See §2.1. |
+
+### 2.1 The Heart and the Hearth (personal meaning, opt-in)
+
+*Named by KP, 2026-07-20, discussed with Fable the same day; recorded here
+so the principle doesn't drift as the system is built.*
+
+The Grammar itself — atoms, molecules, the sensory lexicon — is the
+**hearth**: one shared vocabulary, defined once, common to every vessel who
+reads it. That commonality is the whole point of §3–4 below; it's what lets
+every Sanctuary app speak the same language.
+
+The **heart** is what sits beside it, not in place of it: every vessel's
+own, personal layer of meaning laid on top of the shared vocabulary — a
+private thesaurus, a folksonomy, a tag on any atom, molecule, or object
+saying what it means *to them specifically*, which may or may not match the
+canonical definition. This is opt-in both ways:
+
+- A vessel may **tag** anything with their own meaning and choose to
+  **share** it, so others can see how this vessel understands the thing.
+- A vessel who never shares their own tags can still **see** the shared
+  meanings of vessels who opted in — visibility doesn't require
+  reciprocity.
+- Silence is a complete, valid choice. Nothing is inferred from a vessel
+  who tags nothing or shares nothing.
+
+**Why it matters:** the Grammar lets every app speak one language. The
+heart layer is what lets every *vessel* still be understood in their own —
+so meaning can be common enough to build on and personal enough to be
+true, at the same time, without either one overwriting the other.
+
+**Existing ground to build from:** `AudHDities` already has a generated
+`folksonomy` table and full CRUD surface
+(`mnemosyne-assessment/folksonomy`) — this principle isn't starting from
+zero; the technical seed already exists downstream of this repo. Phase K-2
+onward (MCP server, app integrations) should treat the heart/hearth split
+as load-bearing, not a later nice-to-have.
 
 ---
 
