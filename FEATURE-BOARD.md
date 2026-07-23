@@ -14,6 +14,12 @@ interconnected to the audhdities sanctuary."
 1. **Feeds first:** the taxonomic reanalysis (Iðavöllr seed) seeds the
    Supabase properly (atoms/molecules/organisms/taxonomy/ontology) —
    this repo fronts what that work fills.
+   *Status 2026-07-23: IN MOTION — the excavator season's first seed is
+   staged on the lighthouse (9,102 organisms · 8,696 molecules · 2,739
+   new atoms · 35,322 bonds; living grounds only), delivery via
+   `resonance-bridge/grammar_seeder.py --deliver` at KP's word. The
+   gateway layer (2) remains unplanned by KP's word the same day —
+   recorded, not designed.*
 2. **The gateway layer** — apps request what they need dynamically;
    the Grammar engine (Rust/SQLite) grows toward serving it.
 3. **The UX** — immersive learning/understanding surfaces into the
