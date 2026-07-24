@@ -22,6 +22,12 @@ interconnected to the audhdities sanctuary."
    recorded, not designed.*
 2. **The gateway layer** — apps request what they need dynamically;
    the Grammar engine (Rust/SQLite) grows toward serving it.
+   *2026-07-23 night: THE RECENTERING SEEDED — KP's word ("recenter
+   the resonance-knowledge folder to prepare for what it is to
+   become, standards aligned to become the immersive knowledge ux").
+   The seed gathers every description and kin-seed in one place:
+   `resonance-chamber/idavoll/seeds/THE-KNOWLEDGE-RECENTERING.md`.
+   Opens at KP's word; standards first, surfaces after.*
 3. **The UX** — immersive learning/understanding surfaces into the
    Sanctuary; kin: the vessel-graphs seed (emoji ontologies walked as
    graphs) and Ziggy's experience layer.
