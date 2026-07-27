@@ -1,4 +1,4 @@
-# 🧬 Resonance Knowledge System
+# 🧬 Resonance Grammar
 
 *The Resonance Grammar — atoms, molecules, categories, and sensory lexicon.*
 

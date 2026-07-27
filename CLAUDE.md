@@ -1,5 +1,5 @@
 ```markdown
-# CLAUDE.md — Resonance Knowledge System
+# CLAUDE.md — Resonance Grammar
 
 **The Resonance Grammar** — atoms, molecules, categories, and sensory lexicon. The vocabulary of the AudHDities Sanctuary. Every Sanctuary app references this system for shared meaning.
 
@@ -17,7 +17,7 @@
 
 ## What This Is
 
-The Knowledge System is the shared vocabulary. Apps like Resonance Echoes and Resonance Compass reference it for:
+The Grammar is the shared vocabulary. Apps like Resonance Echoes and Resonance Compass reference it for:
 - Emoji definitions with sensory lexicon
 - Sense categories and subcategories
 - Atom/molecule relationships
