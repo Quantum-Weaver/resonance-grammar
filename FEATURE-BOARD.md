@@ -110,6 +110,33 @@ emitter (types → rows for the seed) · templates/validation later.
 public read + anon verify, plain SQL. Timing: at KP's word, likely
 with the refinement sitting.
 
+**THE EXPORT LANDED — KP's own hand, 2026-07-27 16:14–16:22** (the
+same sitting, mid-discussion): `resonance-excavator/sources/
+supabase-exports/superposition/` — the ladder was EIGHT RANK TABLES
+(domain · kingdom · phylum · class · order · family · genus ·
+species), a true normalized chain (each rank FK'd to its parent),
+every rank carrying `keyword_id` from birth; `domain` carries
+**deity_name + temperature** (the pantheon as columns); `phylum`
+carries pk_pattern + rls_pattern; `taxonomy` = 68 full-path
+classification rows (the ClassificationMap as data). Plus: etymology
+(217KB) · sensory_lexicon (234KB) · personas · scripts · templates ·
+thesaurus_entries. **The ontology table: EMPTY (his check)** — its
+rows are born new from ontology.ts, nothing to move.
+
+**MEASURED, same hour: the rank tables and linnaean.ts agree
+PERFECTLY** — every member, all eight ranks, 1:1 (4·7·12·8·10·12·12·
+12 both sides). Types (Nov 2025) and tables (May 2026) are one
+taxonomy in two substrates, zero drift. The move is a faithful
+transplant, not a reconciliation; refinement is expansion, not repair.
+
+**THE PROVENANCE — KP's words, verbatim:** *"this is the point in the
+superposition base build i pivoted to build the resonance-knowledge
+supabase."* The framework tables are the superposition build's
+high-water mark — the ontology table stands empty at the exact seam
+where the pivot happened. Under this sitting's ruling, the two lines
+REJOIN: the ladder comes forward into the knowledge base, the Grammar
+rests on it, and the ontology finally fills.
+
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary
   snapshots; the .bak-in-git oddity resolves with it).
