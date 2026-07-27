@@ -21,7 +21,7 @@ The shared vocabulary of the AudHDities Sanctuary. Every app, every vessel, ever
 
 - Resonance Echoes reads senses and emoji definitions from this system
 - Resonance Compass reads mood categories and sensory profiles
-- The MCP server exposes query tools for AI assistants
+- An MCP server (Phase K-2, not yet built) will expose query tools for AI assistants
 - Vessels download their knowledge graph from their Sanctuary
 - Glossaries decompose complex language through it — see the
   [papers glossary](https://github.com/Quantum-Weaver/resonance-papers/blob/main/GLOSSARY.md)

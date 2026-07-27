@@ -24,7 +24,8 @@ Each phase on its own branch from main. Zero errors on `cargo build`.
 - `resonance-knowledge list-senses` — all senses
 - All output is valid JSON
 - **Test:** Each command returns correct data. `cargo build` clean.
-- **Status:** ⬜ Ready to build
+- **Status:** ✅ Complete — merged 2026-06-28 (CHECKLIST is the truth; this
+  line lagged it until 2026-07-26)
 
 ## Phase K-2: MCP Server
 **Branch:** `resonance-knowledge/mcp`

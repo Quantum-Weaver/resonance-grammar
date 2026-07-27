@@ -43,8 +43,12 @@ src/
 docs/
 ├── RESONANCE-GRAMMAR.md  # The full protocol specification
 ├── CHECKLIST.md          # Build state
-└── SCHEMA.md             # Database schema documentation
+├── BUILD-SEQUENCE.md     # Phase plan
+├── CLAUDE-CONTEXT.md · CONTRIBUTING.md · SCREEN-INVENTORY.md
+└── sql/                  # The new-table ritual (000) + plain-SQL policies
 ```
+(Schema truth lives in the SQL itself — src/schema/ + docs/sql/; there is
+no SCHEMA.md.)
 
 ## Essential Rules
 
