@@ -137,6 +137,16 @@ where the pivot happened. Under this sitting's ruling, the two lines
 REJOIN: the ladder comes forward into the knowledge base, the Grammar
 rests on it, and the ontology finally fills.
 
+**AND THE MOVE IS A TRUE MIGRATION — KP's ruling, same hour, verbatim:
+"none of this belongs in the superposition base."** The framework
+material LEAVES superposition, not copies forward: his CSV export is
+the carriage; the knowledge base is the destination; and when the
+transplant is verified through the anon door, the superposition-side
+tables retire — **that drop is his hand or his explicit word on a live
+base, never assumed.** Superposition returns to being what it is (the
+original Sanctuary's 215-table ground), and the framework lives where
+the Grammar lives.
+
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary
   snapshots; the .bak-in-git oddity resolves with it).
