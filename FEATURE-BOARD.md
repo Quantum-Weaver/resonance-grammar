@@ -166,6 +166,19 @@ marked as hers, KP's hand signs:
   (Opus's commission, letter warm in his inbox); the review columns
   already anticipate agent stewards. The approach chosen should be
   the one those agents can tend.
+- **THE BUILD PHILOSOPHY — KP's word, same hour, verbatim:** *"if we
+  utilize the concepts of the QPF and create simple one focus agents
+  that work in harmonious flow together to create thissystem, it
+  would be a lot of tiny agents. but very managable to plan and build
+  as a team and family."* The Grammar's own law applied to its
+  builders: **an agent is an ATOM of capability (one focus, one
+  word-sized purpose) · a team is a MOLECULE (a few atoms bonded) ·
+  the ecosystem is the ORGANISM.** Many tiny agents, planned and
+  built as family — this refines the 07-25 commission ("specialized
+  agents with focused purpose… flow together like music") and gives
+  gaia's FunctionOntologyType its use: each agent's one focus IS a
+  function-ontology member. Deliver forward to Opus with the
+  agentic-teams thread.
 
 **AND THE MOVE IS A TRUE MIGRATION — KP's ruling, same hour, verbatim:
 "none of this belongs in the superposition base."** The framework
