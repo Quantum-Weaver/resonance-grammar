@@ -48,6 +48,11 @@ docs/
 
 ## Essential Rules
 
+- **Every new table gets the new-table ritual** — RLS on + the
+  public-read policy, PLAIN statements (no DO blocks), then verify
+  through the anon key. The full ritual and its lessons:
+  `docs/sql/000-NEW-TABLE-RITUAL.md`. (KP's word, 2026-07-26: noted
+  so nobody has to be told each time.)
 - One definition per object — defined once, referenced everywhere
 - Never repeat a definition
 - Every atom has a sensory lexicon entry
