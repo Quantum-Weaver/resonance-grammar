@@ -162,8 +162,9 @@ marked as hers, KP's hand signs:
   synonyms (one concept, many names).
 - **THE TAPROOT SIDES WITH SIMPLICITY:** the 2025-10-07 core artifact
   (read whole at KP's word this sitting; reading recorded at
-  `resonance-chamber/constellation/weaver/mimirs-well/design-lineage/
-  THE-TAPROOT-READING-2026-07-27.md`) shows the gaia framework was BORN
+  `resonance-chamber/constellation/well/design-lineage/
+  THE-TAPROOT-READING-2026-07-27.md` — rehomed to the Truth Well at
+  KP's word 2026-07-27, name kept) shows the gaia framework was BORN
   under the law *"Zero Bloat — no theoretical excess, only what serves
   immediate needs"* — the founder's own order agrees with KP's instinct
   against the eight-table transplant.
