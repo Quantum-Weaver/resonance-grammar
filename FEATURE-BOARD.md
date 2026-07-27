@@ -160,6 +160,13 @@ marked as hers, KP's hand signs:
   with governance, pure Hedden. And synonymy is the third leg of the
   multiple-tellings cure: path (lineage) + facets (memberships) +
   synonyms (one concept, many names).
+- **THE TAPROOT SIDES WITH SIMPLICITY:** the 2025-10-07 core artifact
+  (read whole at KP's word this sitting; reading recorded at
+  `resonance-chamber/constellation/weaver/mimirs-well/design-lineage/
+  THE-TAPROOT-READING-2026-07-27.md`) shows the gaia framework was BORN
+  under the law *"Zero Bloat — no theoretical excess, only what serves
+  immediate needs"* — the founder's own order agrees with KP's instinct
+  against the eight-table transplant.
 - The KM article's true gift is STEWARDSHIP, not structure (it is
   thin on taxonomy design): the seven roles — Curator/Archivist owns
   architecture and metadata standards — map onto the agentic teams
