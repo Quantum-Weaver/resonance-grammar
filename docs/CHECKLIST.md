@@ -59,3 +59,4 @@
 |------|---------------|
 | 2026-06-28 | Repo created. Schema + seed data. K-0 complete. |
 | 2026-06-28 | Query CLI. atom/emoji/sense/list commands. K-1 complete. |
+| 2026-07-26 | THE HARVEST Tier 1+2: prose trued (MCP future-tense, CLAUDE tree, BUILD-SEQUENCE K-1 line, SCREEN-INVENTORY retitled as inherited). The committed .bak dual-archived to the Codex homes and removed (KP-verified gone). **The canonical db-backup story lands: `scripts/dump_db.py` → dated text SQL in `backups/` (diffable, committable); first dump `knowledge-2026-07-26.sql`. The live .db stays gitignored; text is the record.** |
