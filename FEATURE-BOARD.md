@@ -73,6 +73,43 @@ interconnected to the audhdities sanctuary."
    plural question · the acronym question) gate this too. Timing per
    his word: aware, not worried; after the rebuild's needs call it.
 
+## THE FRAMEWORK TABLES — KP's ruling, 2026-07-27, verbatim + the probe
+
+> "together they help provide a system framework for the knowledge
+> grammar to rest underneath of. these will be table rows in the
+> ontology, taxonomy, and linnean tables. which likely do not yet exist
+> or exist in the superpositon base and should be moved and refined."
+
+**The GAIA organs (cosmic/gaia: linnaean · taxonomy · ontology, carried
+2026-07-27, "need some refinement" — his word) become THE FRAMEWORK the
+Grammar rests on: three tables in the resonance-knowledge Supabase,
+their rows seeded from the organs' members.**
+
+**Probed the same sitting (publishable key, read-only):**
+- `taxonomy` + `ontology` EXIST in the SUPERPOSITION base today — dark
+  to the publishable key (401, the exists-but-dark signature; their
+  shape readable at KP's word via dashboard/secret key). These MOVE
+  AND REFINE per his ruling. 262 May-era SQL snippets in the Codex
+  archive carry their design lineage.
+- `linnaean` exists NOWHERE as a table (404 under five name variants)
+  — it is BORN new, from the organ's eight ranks.
+
+**The schema is already designed — identification-key.ts IS it in type
+form:** every rank-record carries {member · keywords[] · ontology[] ·
+taxonomy[] · a rank-specific dimension} — i.e., the linnaean table plus
+its TWO JUNCTIONS (linnaean↔ontology · linnaean↔taxonomy) plus the
+keywords bridge to the Grammar's atoms. `CrossSystemIdentification` is
+the query-result contract (what the bridge serves when asked "what is
+this?"). `PREBUILT_IDENTIFICATIONS.QuantumWeaver` is the FIRST SEED ROW
+— a complete cross-system identification, confidence 0.95.
+
+**The engine's roles in the table work:** `classifier.ts` = the
+row-maker (classifies new things into rows) · `exporter.ts` = the
+emitter (types → rows for the seed) · templates/validation later.
+**The new-table ritual (docs/sql/000) governs every CREATE** — RLS +
+public read + anon verify, plain SQL. Timing: at KP's word, likely
+with the refinement sitting.
+
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary
   snapshots; the .bak-in-git oddity resolves with it).
