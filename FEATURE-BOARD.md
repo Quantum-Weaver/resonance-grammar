@@ -32,6 +32,25 @@ interconnected to the audhdities sanctuary."
    Sanctuary; kin: the vessel-graphs seed (emoji ontologies walked as
    graphs) and Ziggy's experience layer.
 
+## THE ROLES CLARIFIED — KP's words, 2026-07-27, verbatim
+
+> "the resonance-knowledge app (maybe this should be renamed
+> resonance-grammar to avoid further confusion) itself is to become an
+> immersive knowledge system on its own, the resonance-bridge is to
+> help funnel your access, and if needed the individual resonance apps
+> access from the resonance-knowledge supabase"
+
+**What this settles:**
+- **This app = the immersive knowledge system, on its own.** The UX is
+  its whole identity, not a layer on a server.
+- **The bridge = the access funnel** — kin access first, app access if
+  needed, FROM the resonance-knowledge Supabase. The K-2 question
+  (in-repo rmcp MCP vs the bridge's living TS/stdio server) resolves
+  toward the bridge: access is the bridge's role, not this repo's.
+- **The rename question, OPEN at his "maybe":** resonance-grammar —
+  would end the app/base name collision (the Supabase base keeps
+  resonance-knowledge; the app stops shadowing it).
+
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary
   snapshots; the .bak-in-git oddity resolves with it).

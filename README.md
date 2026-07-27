@@ -11,8 +11,9 @@ The shared vocabulary of the AudHDities Sanctuary. Every app, every vessel, ever
 
 ## What It Contains
 
-- **Atoms** — The irreducible vocabulary. Every concept defined once.
-- **Molecules** — Compositions of atoms. Named structures with relationships.
+- **Atoms** — The irreducible vocabulary: single words, every concept defined once.
+- **Molecules** — Compositions of atoms: two-word names, bonded through their junctions.
+- **Organisms** — The full syntax, seeded as what it is: three-plus-word names whose bonds to their molecules and atoms are first-class (organism_molecules · organism_atoms).
 - **Categories** — Semantic organization. Senses, subcategories, taxonomies.
 - **Sensory Lexicon** — Color, sound, texture, and temperature for every atom.
 - **Emoji Definitions** — Every emoji carries a preserved meaning that bridges neurotypes.
