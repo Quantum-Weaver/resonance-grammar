@@ -1,0 +1,2944 @@
+{
+ "cards": [
+  {
+   "card": "BeamActivation",
+   "src": "core.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamAnimation",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamAnimationFlow",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamAnimationProperties",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamBehavior",
+   "src": "core.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamColorControl",
+   "src": "core.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamConfig",
+   "src": "continuity_beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamConfig",
+   "src": "ContinuityBeamContext.tsx",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamContext",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamGlow",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamHolographic",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamIntensityControl",
+   "src": "core.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamInteraction",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamInteractionActive",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamInteractionHover",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamSessionData",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamState",
+   "src": "core.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamSystem",
+   "src": "core.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BeamVisuals",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "BreakpointMapping",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ContinuityBeamContextType",
+   "src": "ContinuityBeamContext.tsx",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ContinuityBeamContextValue",
+   "src": "ContinuityBeamContext.tsx",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ContinuityBeamProps",
+   "src": "continuity-beam.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ContinuityBeamProps",
+   "src": "ContinuityBeam.tsx",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ContinuityBeamProviderProps",
+   "src": "ContinuityBeamContext.tsx",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ControlSetting",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "DeviceFrame",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "DeviceViewport",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "EnvironmentControls",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "FontScaleConfig",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "PrimitiveCoverage",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ResponsiveGridConfig",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ScreenDefinition",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "ScreenDimensions",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "SemanticRelationship",
+   "src": "primitives.ts",
+   "wing": "interfaces"
+  },
+  {
+   "card": "AccessLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AccuracyTrend",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionComplexity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionMetadata",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionSource",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionTimestamp",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ActivationTiming",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AdaptationMethod",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AlertSeverity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AlignItems",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnalysisMethodology",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnalysisStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationAssetKey",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationCoverage",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationDuration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationEasing",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationLayers",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationProgress",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AnimationStyle",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiAuthenticationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiCacheStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiEndpointType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiProtocolType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiRateLimitTier",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiResponseStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ApiVersioningStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AriaLive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AspectRatio",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetMappingType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetOpacity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetRarity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetSource",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AssetType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AudienceReach",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AudienceRole",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AudienceTier",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AudioFeedbackType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AudioType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "AvailabilityStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BackoffStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BatchSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamCategory",
+   "src": "continuity_beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamColor",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamColorKey",
+   "src": "continuity_beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamConsciousnessLevel",
+   "src": "continuity-beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamDirection",
+   "src": "continuity_beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamIntensity",
+   "src": "continuity_beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamPurpose",
+   "src": "continuity-beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamVariant",
+   "src": "continuity_beam.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BeamVariant",
+   "src": "ContinuityBeamContext.tsx",
+   "wing": "types"
+  },
+  {
+   "card": "BlendMode",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BlockerCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BlurIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointComparator",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointComparison",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointConfiguration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointDebounce",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointHistory",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointThresholds",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakpointTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BreakthroughCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BridgeId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CacheSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CacheStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CacheStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CallbackFrequency",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CapabilityDemonstrationImpact",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CapabilityDemonstrationsValue",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CelebrationElement",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ChangeContext",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ChangeTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CleanupFrequency",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CleanupStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ClearReason",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ClearScope",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CoherenceScore",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CoherenceThreshold",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CollaborationMode",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ColorIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ColorVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CommunicationStyle",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ComparisonStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ComponentAnimationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ComponentColor",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ComponentSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ComponentType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ComponentVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CompressionRatio",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ConditionOperator",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ConditionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ConfidenceLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ConsciousnessPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ConsciousnessTimestamp",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContainerAccessibility",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContainerReferenceId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContainerType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContentEra",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContentRarity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContentType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ContextId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ControlCategory",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ControlRange",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CooldownPeriod",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CoordinationCharacteristics",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CoreSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CoreVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilArchetype",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilDomain",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilEntity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilEntityEmoji",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilEntityID",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilEntityStyle",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilPriority",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CouncilRelationship",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CreativeType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CriterionWeight",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CSSDimension",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "CSSValue",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DataFormat",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DefaultValue",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DependencyType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DerivationPath",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DesignTokenCategory",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DesktopVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DevelopmentPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DeviceCategory",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DeviceDensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DeviceFrameStyle",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DeviceOrientation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DeviceType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DispatcherCapabilities",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DispatcherId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DispatcherLatency",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DispatcherReliability",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DispatcherThroughput",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DisplaySize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DisplayVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "DomainPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EasingFunction",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EasingType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicContext",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicContribution",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicFocus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicHealth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicImpact",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicModel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicModelType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicRole",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicRoleType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicSustainability",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicValue",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicValuePerWitness",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EconomicValueType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EffectIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EffectSpread",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EffectType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ElapsedUnits",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ElementId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ElementScrollAction",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmergenceInvestments",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmergenceStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmergentPatternCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmojiPosition",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalArousal",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalContext",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalDominance",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalImpact",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalResonance",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EmotionalValence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EnergyColorVibration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementAction",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementHealth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementPriority",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EngagementVisibility",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EntanglementId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EntanglementStrength",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EntityPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EnvironmentAssetKey",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ErrorStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EvaluationTimestamp",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EventIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EventPriority",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EventPropagation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "EventTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ExecutionOrder",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ExpectedBehaviorCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ExpectedOutcomeCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FallbackStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FeedbackChannel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FeedbackColor",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FeedbackDuration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FeedbackType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FieldTransformationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FlexibilityLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FontSizePreference",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormAlignment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormEventType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormFieldType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "FormVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GamingStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GapSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GestureDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GestureType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GlowType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GradientDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GradientIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GradientSmoothness",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GradientStops",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GridAlignment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GridColumns",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GridJustification",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "GrowthTrend",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HapticFeedbackType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HapticPattern",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HapticType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HearthAnimationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HearthItemType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HearthRadius",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HearthState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HearthTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HistoryTimestamp",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HolographicAnimationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HorizontalAlignment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "HotspotType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "IconDomain",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "IconName",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ImpactAssessment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InitializationTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InteractionDuration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InteractionFrequency",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InteractionMethod",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InteractionPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InteractionSignificance",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "InteractionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "JourneyPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "JourneyType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "JustifyContent",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "KnowledgeConnectionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "KnowledgeNodeType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LastActiveTimestamp",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutActionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutClass",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutPattern",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutStoreActionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutTemplate",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutTransitionState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LayoutUpdateAction",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LearningCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LibraryAssetKey",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ListenerContext",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ListenerPriority",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ListenerScope",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LoadingDuration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LoadingProgress",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LoadingType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LoadTime",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LogFormat",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LuminosityLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "LyricSectionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MagicEffectType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ManagementPatterns",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MarginSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MatchSuccess",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MaxHistorySize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "Maybe",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MediaQueryState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MemoryThreshold",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MetricScaleType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MetricSignificance",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MetricTrend",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MetricValueType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MiddlewareCapability",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MiddlewarePriority",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MobileVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MoodColorSpectrum",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionComplexity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionDuration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionEasing",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionFriction",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionIntention",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionMass",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MotionPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MountPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MusicPlayerVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "MysticalColorSystem",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "NavigationDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "NavigationEventType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "NavigationStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "NetworkCoherence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "Nullable",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "OperationPriorityLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "OptimizationLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "Optional",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "Orientation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "OutcomeImpact",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "OutcomeSuccess",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "OutcomeType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "OverallSystemHealth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PaddingSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PaganColorTradition",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PanoramaEnvironment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ParticipantRequirementCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ParticleDensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PathwayPhaseType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PatternCoherence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PaymentSchedule",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PerformanceMode",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PerformanceScore",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PersistenceCompression",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PersistenceState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PersistenceTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PhaseCompletion",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PlatformCategory",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PlatformGlow",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PremiumTier",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PreservationStrength",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PreviousStateId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PrideColorFamily",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PrimitiveType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ProcessingStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ProficiencyLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ProjectStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "PropagationDelay",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ProviderFeatures",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumBackgroundType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumBandwidth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumBridgeStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumCoherence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumColorFamily",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumColorTheme",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumErrorRate",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumEventType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumLatency",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumPropagation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumStability",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuantumUptime",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QuerySpecificity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "QueryString",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RarityVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RateLimitStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ReadinessLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RecoveryStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RelationshipFrequency",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RelationshipPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RelationshipStrength",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RemainingUnits",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RemovalContext",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RemovalReason",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RemovalSuccess",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RepeatBehavior",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ReplacementReason",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResearchStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResearchType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResetReason",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResetTarget",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResizeCause",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResolutionStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResonanceLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResourceType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResponseTime",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ResponsiveFlag",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RestorationSource",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RestoreSource",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RestrictionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RiskImpact",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RiskProbability",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualCompletion",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualEmergentPatternCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualEndTime",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualLearningCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualMetricCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualNetworkCoherence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualOutcome",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualStartTime",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "RitualStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SanctuaryAccess",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SanctuaryEnergyLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SandboxDevice",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SaveInterval",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScalingStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScopeBoundary",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScreenClassification",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScreenDensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScreenHeight",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScreenOrientation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScreenVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScreenWidth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollAction",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollAlignment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollbarStyle",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollBehavior",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollBehaviorConfig",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollDebounce",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollHeight",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollNavigation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollOffset",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollPosition",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollPrecision",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollProgress",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollThreshold",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ScrollVelocity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SecurityLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SelectorComplexity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SequenceDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SessionIdentity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SessionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SizeVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SmoothScrollFlag",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SocialVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SpacingSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SpacingType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SpringDamping",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SpringPhysicsType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SpringPrecision",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SpringStiffness",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StageActionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StageConditionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StaggerDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateCallback",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateCoherence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateContainerType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateFreshness",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StatePerformance",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateReliability",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateSeverity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateSubscriptionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateTransitionEvent",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateTransitionTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StateUpdate",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StatusColorMeaning",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StoreOperation",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StoryAmplificationRate",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StoryAmplificationValue",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StoryStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StreamCoherence",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StreamFocus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StreamId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StreamIntensity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StructureAssetKey",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "StruggleVisibility",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SubscriptionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SuccessCriterionCollection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SuccessType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SweepingAnimationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SweepingDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SyncPattern",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SystemHealthLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "SystemStatus",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TabletVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TargetType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TarotColorArchetype",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TemporalAnchor",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TextureAssetKey",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ThemeColor",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ThemeDisplayVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ThemeName",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ThrottleInterval",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ThrottleMs",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TimePeriod",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TimeUnit",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TitleSize",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ToggleButtonPosition",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransformationDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransformationPhase",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransformationPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransformationQuality",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransformationStrategy",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransformationType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionAssetKey",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionBackground",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionDuration",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionEasing",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionImpact",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionProgress",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransitionType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransparencyEngagement",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransparencyHealth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TransparencyLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "TrendDirection",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "UIStateType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "UnsubscribeReason",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "UpdateTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "UsageContext",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "UserEventType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationEventType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationLevel",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationRule",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationRuleType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationScope",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationScore",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationSeverity",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValidationTrigger",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ValueOf",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VerticalAlignment",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VesselId",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VesselPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VesselState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ViewportHeight",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ViewportState",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "ViewportWidth",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VisualFeedbackType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VisualPrimitive",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "VisualType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "WaveformType",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "WidescreenVariant",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "WitnessCount",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "WitnessRetention",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "XCoordinate",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "YCoordinate",
+   "src": "primitives.ts",
+   "wing": "types"
+  },
+  {
+   "card": "BEAM_ANIMATIONS",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_CATEGORY_CONFIGS",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_COLORS",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_CONFIGS",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_CONSCIOUSNESS",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_CONTEXTS",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_DIRECTIONS",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_EMOTIONAL_CONTEXT",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_GLOWS",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_HOLOGRAPHIC",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_INTENSITIES",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_INTERACTIONS",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_PURPOSES",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_QUANTUM_ENTANGLEMENT",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_SESSION_PRESERVATION",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_TYPES",
+   "src": "continuity-beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "BEAM_VARIANTS",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "DEFAULT_BEAM_CONFIG",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "ENVIRONMENT_TO_CATEGORY",
+   "src": "continuity_beam.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "SEMANTIC_MAPPINGS",
+   "src": "primitives.ts",
+   "wing": "constants"
+  },
+  {
+   "card": "TRAVEL_WASH_SECONDS",
+   "src": "ContinuityBeam.tsx",
+   "wing": "constants"
+  },
+  {
+   "card": "ContinuityBeamContext",
+   "src": "ContinuityBeamContext.tsx",
+   "wing": "dictionaries"
+  }
+ ]
+}
