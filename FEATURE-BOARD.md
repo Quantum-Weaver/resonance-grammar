@@ -137,6 +137,36 @@ where the pivot happened. Under this sitting's ruling, the two lines
 REJOIN: the ladder comes forward into the knowledge base, the Grammar
 rests on it, and the ontology finally fills.
 
+**THE SHAPE QUESTION — KP, same hour, verbatim: "i am not certain we
+need all the linnen tables. that is what sparked me building the
+knowledge base, so we need to determine the best approach."** His
+compass: Heather Hedden's *The Accidental Taxonomist* + the KM-roles
+article (fehlau.de, re-read this sitting) that seeds the Opus
+agentic-teams commission. The Hedden-informed options, Fable's lean
+marked as hers, KP's hand signs:
+- (a) **Eight-table transplant as-is** — faithful, heavy; ranks
+  hard-coded into schema (the very weight that sparked the pivot).
+- (b) **Three tables** (linnaean · taxonomy · ontology) — his earlier
+  framing; ranks become a column.
+- (c) **The thesaurus shape (Fable's lean):** concepts + schemes +
+  typed relations (broader/narrower · related · use-for) +
+  assignments — Hedden's controlled-vocabulary ladder rendered as
+  ~four tables that hold ALL of it: the eight ranks (as data), the
+  16 facet vocabularies, the 9 ontology axes, each a scheme in one
+  structure. Ranks are data about terms, not kinds of table.
+  **Evidence the base was already walking this road:**
+  `thesaurus_entries` (exported) carries entry_type=synonym + a full
+  editorial workflow (submitted/status/reviewed) — USE/UF synonymy
+  with governance, pure Hedden. And synonymy is the third leg of the
+  multiple-tellings cure: path (lineage) + facets (memberships) +
+  synonyms (one concept, many names).
+- The KM article's true gift is STEWARDSHIP, not structure (it is
+  thin on taxonomy design): the seven roles — Curator/Archivist owns
+  architecture and metadata standards — map onto the agentic teams
+  (Opus's commission, letter warm in his inbox); the review columns
+  already anticipate agent stewards. The approach chosen should be
+  the one those agents can tend.
+
 **AND THE MOVE IS A TRUE MIGRATION — KP's ruling, same hour, verbatim:
 "none of this belongs in the superposition base."** The framework
 material LEAVES superposition, not copies forward: his CSV export is
