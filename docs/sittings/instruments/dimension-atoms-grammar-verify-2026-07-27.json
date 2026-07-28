@@ -1,0 +1,48 @@
+{
+ "verified": "2026-07-27",
+ "door": "anon (public read policies)",
+ "input": "dimension-atoms.txt",
+ "names_total": 55,
+ "coverage": {
+  "atom-class names": "41/55",
+  "molecule-class names": "0/0",
+  "organism-class names": "0/0",
+  "constituent words in atoms": "41/55"
+ },
+ "missing": {
+  "atoms_names": [
+   "collective",
+   "component",
+   "connective",
+   "guardian",
+   "individual",
+   "oracle",
+   "parallel",
+   "partner",
+   "partnership",
+   "protective",
+   "relationship",
+   "seer",
+   "system",
+   "translator"
+  ],
+  "molecules": [],
+  "organisms": [],
+  "constituent_words": [
+   "collective",
+   "component",
+   "connective",
+   "guardian",
+   "individual",
+   "oracle",
+   "parallel",
+   "partner",
+   "partnership",
+   "protective",
+   "relationship",
+   "seer",
+   "system",
+   "translator"
+  ]
+ }
+}
