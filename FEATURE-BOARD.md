@@ -449,18 +449,44 @@ question · the status law.
    callable on demand behind the bridge: `POST /rest/v1/rpc/gaia_sync`
    (service key only). Until that day: KP's hand,
    `select public.gaia_sync();`, seconds.
-2. **THE SELF-AWARE SYSTEM GOES TO SUPERPOSITION TOO** — KP's word:
-   *"this system needs to exist in the superposition base and cleanup
-   of the knowledge system tables in it is du as well."* Two acts,
-   one sitting when it comes: (a) run the 009→011 layer (registries +
-   columns + gaia_sync) against superposition — its own gaia_config
+2. **THE SELF-AWARE SYSTEM GOES TO SUPERPOSITION TOO — NOW
+   SCHEDULED: THE NEXT SITTING'S PLAN** *(set 2026-07-28 at the
+   emoji-and-anchor sitting's close, KP's words: "tomorrow plan we
+   will review the tables and eliminated what is bloat from the
+   superposition supabase … and it will gain the same self knowing
+   system")*. His earlier word stands under it: *"this system needs
+   to exist in the superposition base and cleanup of the knowledge
+   system tables in it is du as well."* The ground, measured the
+   night before: the map is
+   `AudHDities/src/types/supabase/database.types.ts` (8,534 lines,
+   ~142 tables + 9 functions). Three acts, one sitting:
+   (a) THE REVIEW — walk the tables with KP's eye, sorting living
+   from bloat; the knowledge-system emigrants are already visible in
+   the map (the eight rank tables domain·kingdom·phylum·class·order·
+   family·genus·species · taxonomy · ontology · thesaurus_entries ·
+   etymology · sensory_lexicon · keywords · folksonomy · categories
+   · scripts · templates · gaia_config — each now living, grown, in
+   the Grammar base);
+   (b) THE CLEANUP — the pruning law stands: archive verified (the
+   CSV exports + the Grammar's living rows), then KP's hand or
+   explicit word on the live base, never assumed;
+   (c) THE SELF-KNOWING — run the 009→011 layer (registries +
+   columns + gaia_sync) against superposition; its own gaia_config
    already lives there with the fuller May shape, so this is
-   reunion, not birth; (b) THE CLEANUP: the knowledge-system tables
-   that migrated here (the eight rank tables · taxonomy · ontology ·
-   thesaurus satellites) retire from superposition — the pruning law
-   stands: archive verified (the CSV exports + this base's living
-   rows), then KP's hand or explicit word on the live base, never
-   assumed.
+   reunion, not birth. Prune, sync, and the base's own self-portrait
+   signs the slimmer truth.
+   *Experienced the night before, at KP's pointing:*
+   `AudHDities/src/scripts/system/gaia/index.ts` — GAIA the
+   type-first generator, whose Phase 1 parses the very map the
+   review will walk. Two gifts for tomorrow: (i) the review's
+   natural walking order is DEITY BY DEITY (`DEITY_GROUPS` — the
+   pantheon's own shelves; a table no deity claims is bloat
+   announcing itself); (ii) after prune + self-knowing, GAIA's
+   discovery phase refines from parsing 8,534 lines to SELECTing
+   the registries — type-first becomes truth-first, exactly the
+   standing note below. Its Phase 4 plan-then-consent gate
+   (continue/cancel/cancel-with-notes) is the ancestor of tonight's
+   seeder consent gates — convergence witnessed.
 3. **THE GAIA GENERATOR READS THE CONFIG** — KP's word: *"once done,
    the gaia generator system may need to run on both the supabases,
    and will be easier to refine to read the gaia config instead of
@@ -471,6 +497,93 @@ question · the status law.
    IS the input. One generator system, two bases, one registry
    contract. (Kin to the rows→types generator from the shape sitting
    — TYPE_TEMPLATES fed by SELECT, the whole loop closed.)
+
+## THE SHOWING'S THREE QUESTIONS — 2026-07-27, the sitting after the
+showing — CLOSED BY THE SYSTEMS, NOT BY RULING
+
+*(The three questions Opus left at the showing — record:
+`docs/sittings/2026-07-27-THE-SHOWING-THREE-VISITS.md` — were put to
+KP as rulings. His first answers: "1-chain · 2-scheme_id+tablename or
+other identifier to fix this · 3-help me better understand ideas."
+Then, after walking Fable through the GAIA organs one file at a time,
+his correction, verbatim, which re-frames all three: **"i did not
+think i needed to make those decisions" · "we built systems for
+that."** He was right. The entries below are amended openly to record
+what each SYSTEM decides; nothing below awaits a human ruling. The
+consent gates — his eye on seed files, delivery at his word — stand
+untouched; those are consent, not decisions.)*
+
+1. **DECIDED BY THE CLASSIFIER'S OWN PATH MODEL** *(the human-ruling
+   episode — "chain," then reversed — is kept as record, but the
+   framework had it all along)*. `classifier.ts`
+   `getClassificationPath` defines a path as the eight rungs in
+   order; an edge that skips rungs is therefore a stored PATH
+   FRAGMENT (a chain), by definition, not by anyone's taste. And the
+   framework itself forks: LINNAEAN_ASSIGNMENTS places
+   CouncilEntityClass under four different phyla — same-rank
+   plurality IS the declared polyhierarchy. Consequence unchanged:
+   Surveyor's fork denominator is 9; the 48 chain fragments are
+   lawful path shorthand. No ruling was ever needed.
+2. **DECIDED BY THE MEMBERSHIPS — DERIVED, TOTAL, ZERO-AMBIGUOUS.**
+   The "silent dual referent" on `concept_relations.scheme_id`
+   dissolves under derivation: for every edge, check whether the
+   subject or the object holds membership in the edge's scheme.
+   Run live 2026-07-27: **65 subject-scoped · 117 object-scoped ·
+   0 both · 0 neither** — every edge decidable, matching the
+   showing's hand measurement exactly. The identification key's
+   contracts (already in the schemes table) are the system that
+   makes this well-defined. `docs/sql/012-scheme-anchor.sql` is
+   therefore OPTIONAL MATERIALIZATION (store the derived value for
+   query convenience), not a fix — its backfill is computed, never
+   chosen. Runs only if/when KP wants the convenience.
+3. **DECIDED BY THE MAPPING LAW — RECOVERED, NOT INVENTED.** KP
+   answered the explanation by pointing at the GAIA organs, one by
+   one (`resonance-ziggy/modules/cosmic/gaia/taxonomy.ts` ·
+   `identification-key.ts` · `ontology.ts` · `classifier.ts`), then
+   said the words at the top of this section. What the organs
+   decide: the no-rung members are taxonomy/ontology citizens —
+   DERIVED views of the linnaean spine, rungless by the framework's
+   own design ("DERIVED FROM LINNAEAN", the file's first sentence);
+   the 117 anchor edges are those derivations recorded as data; and
+   the law they answer to is `TaxonomicMapping` (linnaeanSource ·
+   derivationMethod: direct/extracted/derived/composed ·
+   confidence), sitting in taxonomy.ts since May. VERIFIED live:
+   the eight rank schemes' contract columns match
+   identification-key.ts's UnifiedIdentificationKey row for row —
+   the lattice night implemented the key's skeleton unknowing.
+   Convergence is evidence, again. The Gatekeeper's whole law,
+   recovered: (a) both ends on the ladder → climb exactly one rung
+   (all 65 pass today); (b) subject rungless → a derivation anchor,
+   governed by the mapping law (all 117 well-formed today, per the
+   total derivation in item 2). Nothing awaits a ruling; the
+   Gatekeeper, when born, reads its law out of the framework.
+
+**✅ THE EMOJI WAVE — DELIVERED the same sitting.** KP's ask: every
+atom carries an emoji, enabling folksonomies after. Ground truth by
+the registries: `sensory_lexicon.emoji`, 1,949 shells, 87 filled
+(Wave 6), 1,862 empty. Four composers mapped all 1,862 words; seed +
+review sheet at `seeds/emoji/`; KP's eye cleared the set ("emoji set
+looks good") and the wave flew at his word:
+**1,949/1,949 shells filled · 0 empty · verified through the anon
+door.** The 87 Wave-6 emoji untouched per fill-empty. Instrument:
+`resonance-bridge/emoji_wave_seeder.py`. Nearby and noted, not
+touched: `categories.icon_emoji` 0/25 · `gaia_config.icon_emoji`
+0/25 — one small wave away if ever wanted.
+
+**✅ 012 RAN at KP's hand + BACKFILL DELIVERED, the same sitting** —
+`scheme_anchor` live on concept_relations; his eye cleared the
+derived seed ("backfill looks good") and it flew: **182/182
+delivered · verified through the anon door: 65 subject · 117
+object · 5 null by design** (related/use_for — the anchor question
+is a broader-edge question). Seed:
+`seeds/lattice/scheme-anchor-backfill.json` · deliverer:
+`resonance-bridge/scheme_anchor_seeder.py`. Every value derived from
+memberships, nothing chosen — the systems decided, per his teaching
+above. And the self-portrait refresh RAN at his hand
+(2026-07-28 04:55 UTC): 25 tables signed in one instant, all
+verified; the columns registry confirms it knows `scheme_anchor`
+through the anon door. The day's whole loop — column, backfill,
+introspection — closed within the sitting.
 
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary

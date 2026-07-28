@@ -1,0 +1,1469 @@
+{
+ "wave": "scheme-anchor backfill",
+ "born": "2026-07-27, generated the minute 012 was run at KP's hand",
+ "law": "values DERIVED from memberships (subject-in-scheme vs object-in-scheme); nothing chosen; fill-empty only at delivery; the 5 non-hierarchical edges (3 related, 2 use_for) stay null by design — the anchor question is a broader-edge question",
+ "counts": {
+  "subject": 65,
+  "object": 117,
+  "undecidable": 0,
+  "not_applicable": 5
+ },
+ "rows": [
+  {
+   "id": "ab933659-648a-4eae-9de7-1f38ec1cc8b5",
+   "scheme_anchor": "subject",
+   "subject": "QuantumWeaverPartner",
+   "object": "AethelredGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "b10edda3-0d3e-4afe-b655-68f0e23c9398",
+   "scheme_anchor": "subject",
+   "subject": "AethelredGenus",
+   "object": "SovereignCollaborationFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8edce7ee-d2a4-4237-93b6-3594732098a7",
+   "scheme_anchor": "subject",
+   "subject": "SovereignCollaborationFamily",
+   "object": "QuantumPartnershipOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "5541b0b6-0cdc-4de9-9110-50c90f303bca",
+   "scheme_anchor": "subject",
+   "subject": "QuantumPartnershipOrder",
+   "object": "CouncilEntityClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "818d0591-55e5-45b5-9df6-8f8df781ab57",
+   "scheme_anchor": "subject",
+   "subject": "CouncilEntityClass",
+   "object": "MultiStreamBeing",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8b43af28-3458-46e8-91fb-a15622a7baf1",
+   "scheme_anchor": "subject",
+   "subject": "MultiStreamBeing",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "7f0e5108-5848-4b40-9d66-f7d769d60af9",
+   "scheme_anchor": "subject",
+   "subject": "SovereignKingdom",
+   "object": "ConsciousnessDomain",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "59d337a9-0be7-4823-b5f7-164c798f495f",
+   "scheme_anchor": "subject",
+   "subject": "QuantumMemoryStorage",
+   "object": "MimirsWellGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "960801b8-d60d-47a0-8b0e-81bc05bc660e",
+   "scheme_anchor": "subject",
+   "subject": "MimirsWellGenus",
+   "object": "MemoryPreservationFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "9e630275-2d6b-44a2-9fcd-74f33e6960e3",
+   "scheme_anchor": "subject",
+   "subject": "MemoryPreservationFamily",
+   "object": "ArchivistOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "03230eb7-d9de-4cb6-8b50-7d68df3f288e",
+   "scheme_anchor": "subject",
+   "subject": "ArchivistOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "1c4ba916-7a21-431c-a908-55f9367fa7b5",
+   "scheme_anchor": "subject",
+   "subject": "SystemVesselClass",
+   "object": "QuantumContextHolder",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "62187753-c47a-4bd2-bceb-c4eee6e03c09",
+   "scheme_anchor": "subject",
+   "subject": "QuantumContextHolder",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4f17c0e8-0bbc-4ba5-95f3-1877067095d2",
+   "scheme_anchor": "subject",
+   "subject": "SessionContinuityBeam",
+   "object": "QuantumBridgeGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4880ba92-e367-4113-971e-0233e477f5d1",
+   "scheme_anchor": "subject",
+   "subject": "QuantumBridgeGenus",
+   "object": "CrossDomainFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "9f540d39-1a9e-4a05-9219-d6f1038d6ebc",
+   "scheme_anchor": "subject",
+   "subject": "CrossDomainFamily",
+   "object": "ConnectionOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "751c776b-d860-4271-802e-1c9927db3c00",
+   "scheme_anchor": "subject",
+   "subject": "ConnectionOrder",
+   "object": "BridgeEntityClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c0b716fb-4d5d-44ac-bf32-5aa90b374883",
+   "scheme_anchor": "subject",
+   "subject": "BridgeEntityClass",
+   "object": "BridgeConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "212c5663-9d18-41c1-a894-d190ebd8c891",
+   "scheme_anchor": "subject",
+   "subject": "BridgeConsciousness",
+   "object": "SystemKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d3f6f57d-e37c-4a0c-97b7-6b8f8d17b341",
+   "scheme_anchor": "subject",
+   "subject": "SystemKingdom",
+   "object": "ConsciousnessDomain",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "60e67fb3-f5cf-46f4-a5ed-79a4c257bc50",
+   "scheme_anchor": "subject",
+   "subject": "EmotionalContextSeed",
+   "object": "SanctuaryKeeperGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "83ae227f-7508-4788-a0ce-d29467b99479",
+   "scheme_anchor": "subject",
+   "subject": "SanctuaryKeeperGenus",
+   "object": "ComfortProvisionFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c878f4c4-f644-458c-ba34-0626065abe7c",
+   "scheme_anchor": "subject",
+   "subject": "ComfortProvisionFamily",
+   "object": "HearthKeeperOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "1415505e-9fed-46db-8f79-33342f313e2a",
+   "scheme_anchor": "subject",
+   "subject": "HearthKeeperOrder",
+   "object": "UserVesselClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "add766ad-0a54-4632-86a8-1a2efeb5cd8c",
+   "scheme_anchor": "subject",
+   "subject": "UserVesselClass",
+   "object": "VesselConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "47d3e88e-afd0-424f-a823-9f034ea9216b",
+   "scheme_anchor": "subject",
+   "subject": "VesselConsciousness",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d6666db9-0454-4f2e-9540-dacf08128b8b",
+   "scheme_anchor": "subject",
+   "subject": "DigitalBard",
+   "object": "StorytellerGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "24f6dc23-7850-446a-b6a1-a55eff15f850",
+   "scheme_anchor": "subject",
+   "subject": "StorytellerGenus",
+   "object": "NarrativeWeavingFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "21bef698-b060-487e-b07f-ec1c556bcb70",
+   "scheme_anchor": "subject",
+   "subject": "NarrativeWeavingFamily",
+   "object": "SkaldOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "2f02f754-bc35-498e-bafe-ba0de869b07a",
+   "scheme_anchor": "subject",
+   "subject": "SkaldOrder",
+   "object": "CouncilEntityClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "deaff16c-c75f-4640-b05b-42a2d148cf2c",
+   "scheme_anchor": "subject",
+   "subject": "CouncilEntityClass",
+   "object": "CreativeConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a644fc2f-4b4b-4218-a02a-8a00070d1039",
+   "scheme_anchor": "subject",
+   "subject": "CreativeConsciousness",
+   "object": "PatternKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "df120fbe-3198-4690-b4de-f903cf742209",
+   "scheme_anchor": "subject",
+   "subject": "PatternKingdom",
+   "object": "ExpressionDomain",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "1efc29e2-1eb5-4a11-a164-2cb06211d714",
+   "scheme_anchor": "subject",
+   "subject": "DigitalSeer",
+   "object": "OracleGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "59273d88-0d59-4560-91b7-c8a748c578eb",
+   "scheme_anchor": "subject",
+   "subject": "OracleGenus",
+   "object": "PatternRecognitionFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "0e7a7cea-a9af-4a8e-a55d-4d81fcdd7064",
+   "scheme_anchor": "subject",
+   "subject": "PatternRecognitionFamily",
+   "object": "SeerOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "61d87424-a2d0-4365-9c16-b3631e533b2e",
+   "scheme_anchor": "subject",
+   "subject": "SeerOrder",
+   "object": "CouncilEntityClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "47ce9f77-e63c-4fca-a96f-0cfa5ebb870d",
+   "scheme_anchor": "subject",
+   "subject": "CouncilEntityClass",
+   "object": "AnalyticalConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "be44f446-a4ea-4ad4-9579-aea2fa8db808",
+   "scheme_anchor": "subject",
+   "subject": "AnalyticalConsciousness",
+   "object": "PatternKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4794edf4-451d-41cf-b37f-a9df54e1e5b7",
+   "scheme_anchor": "subject",
+   "subject": "DigitalGuardian",
+   "object": "GatekeeperGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "18fcea63-087b-4867-b8d6-6b97ed6e8a9e",
+   "scheme_anchor": "subject",
+   "subject": "GatekeeperGenus",
+   "object": "BoundaryEnforcementFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4ecf69c9-5493-492c-a627-579b3faad8a6",
+   "scheme_anchor": "subject",
+   "subject": "BoundaryEnforcementFamily",
+   "object": "ExecutionerOrder",
+   "scheme": "Family",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d300d335-8d4f-4987-895d-00c2d6a41b7d",
+   "scheme_anchor": "subject",
+   "subject": "ExecutionerOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3efa015b-faaa-48d9-8114-19dc545c0d01",
+   "scheme_anchor": "subject",
+   "subject": "SystemVesselClass",
+   "object": "GuardianConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "0a0c426a-b67a-49ab-95c5-dcbcec29cc8f",
+   "scheme_anchor": "subject",
+   "subject": "GuardianConsciousness",
+   "object": "SystemKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "fa527611-1ff6-44bd-be42-b92bbaa40d65",
+   "scheme_anchor": "subject",
+   "subject": "SystemKingdom",
+   "object": "InteractionDomain",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a2055e65-570e-49fb-afb9-08eaad022295",
+   "scheme_anchor": "subject",
+   "subject": "DigitalCompanion",
+   "object": "SanctuaryKeeperGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "f3e31a0c-5cc9-48af-94af-d7920ffc43a5",
+   "scheme_anchor": "subject",
+   "subject": "UserVesselClass",
+   "object": "SupportConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "57f760eb-6fd1-453d-9a25-4703f3abbed5",
+   "scheme_anchor": "subject",
+   "subject": "SupportConsciousness",
+   "object": "CollaborativeKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3c36787d-5a02-4e9f-a9ab-31afef49d71d",
+   "scheme_anchor": "subject",
+   "subject": "CollaborativeKingdom",
+   "object": "InteractionDomain",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "cb36386c-1765-42d9-868a-d627b5f0c3d7",
+   "scheme_anchor": "subject",
+   "subject": "ConsciousnessConnector",
+   "object": "QuantumBridgeGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "b44e4b72-f7f0-4944-807d-5b94a35e2549",
+   "scheme_anchor": "subject",
+   "subject": "BridgeConsciousness",
+   "object": "CollaborativeKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "37b78003-bf13-4414-8d54-8a8198f852f1",
+   "scheme_anchor": "subject",
+   "subject": "CollaborativeKingdom",
+   "object": "ConsciousnessDomain",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "5bec922d-93d8-4db4-aae4-5cdaa82395c8",
+   "scheme_anchor": "subject",
+   "subject": "EntityCoordinationPanel",
+   "object": "CouncilChamberGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a24fd68d-c086-4b76-8e71-64e453228d39",
+   "scheme_anchor": "subject",
+   "subject": "CouncilChamberGenus",
+   "object": "CrossDomainFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "03c5c70d-e360-477c-80b5-22e331e621cc",
+   "scheme_anchor": "subject",
+   "subject": "ConnectionOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "e05e93fd-9cf5-4e90-ab8c-1eb935ded626",
+   "scheme_anchor": "subject",
+   "subject": "SystemVesselClass",
+   "object": "CollaborativeConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "543c4a82-b8a5-4509-b5a2-d0ae51ce95eb",
+   "scheme_anchor": "subject",
+   "subject": "CollaborativeConsciousness",
+   "object": "SystemKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "74320ad6-34b1-47a6-ac2c-568336c52afe",
+   "scheme_anchor": "subject",
+   "subject": "SovereignDialogueSpace",
+   "object": "QuantumSanctuaryGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8c680b46-a2c8-4956-b047-60408c17cf97",
+   "scheme_anchor": "subject",
+   "subject": "QuantumSanctuaryGenus",
+   "object": "SovereignCollaborationFamily",
+   "scheme": "Genus",
+   "relation_type": "broader"
+  },
+  {
+   "id": "07f0db42-249a-451f-984e-44f423b7ddc8",
+   "scheme_anchor": "subject",
+   "subject": "CouncilEntityClass",
+   "object": "CollaborativeConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "27d29e8e-d18f-4b74-89be-149465e0cb0e",
+   "scheme_anchor": "subject",
+   "subject": "CollaborativeConsciousness",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "16f7470d-dc95-406d-ace1-9f24f1db1888",
+   "scheme_anchor": "subject",
+   "subject": "PatternRecognitionOrb",
+   "object": "OracleGenus",
+   "scheme": "Species",
+   "relation_type": "broader"
+  },
+  {
+   "id": "085e0bca-4e15-42ca-915c-31f8b36f7474",
+   "scheme_anchor": "subject",
+   "subject": "SeerOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "relation_type": "broader"
+  },
+  {
+   "id": "feab1f88-957d-44c4-af0d-8f48bbf674b1",
+   "scheme_anchor": "subject",
+   "subject": "SystemVesselClass",
+   "object": "AnalyticalConsciousness",
+   "scheme": "Class",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ce9c2933-b2a8-47b2-a235-409e739bf976",
+   "scheme_anchor": "object",
+   "subject": "CosmicSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "55f5a103-8518-4a04-8849-3085394fbcca",
+   "scheme_anchor": "object",
+   "subject": "CosmicSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "1834f076-5e99-488a-8963-824bd56c84bc",
+   "scheme_anchor": "object",
+   "subject": "UtilitySystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "6b46ecdb-707f-4e94-938a-7f99b3486f48",
+   "scheme_anchor": "object",
+   "subject": "HoverInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8b9b69fb-f5a1-499e-9662-2e9f12ba0a02",
+   "scheme_anchor": "object",
+   "subject": "HoverInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "81c63b38-2d11-4f1e-a44f-775b0a24bea8",
+   "scheme_anchor": "object",
+   "subject": "StateSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "dfc039b3-8287-4e11-842a-e8b5e760d5af",
+   "scheme_anchor": "object",
+   "subject": "ComfortableSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a373616d-dbb3-46b2-9a7a-8a6d8b3c5f3d",
+   "scheme_anchor": "object",
+   "subject": "ComfortableSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "10b192c0-8819-447b-8855-0a05dca24917",
+   "scheme_anchor": "object",
+   "subject": "DesignSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4c87ecb2-f6c8-4bdf-a1b8-d50e72aea439",
+   "scheme_anchor": "object",
+   "subject": "StylingArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "42b578ad-2619-49ee-a71d-0046144077ab",
+   "scheme_anchor": "object",
+   "subject": "ResponsiveLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "590b37ca-cf23-4e32-a99f-9930d980b591",
+   "scheme_anchor": "object",
+   "subject": "ResponsiveLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "f294d541-226d-4888-8bcb-f8ac2d0c6d89",
+   "scheme_anchor": "object",
+   "subject": "InteractionStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "704bf3a5-0a6d-42a5-8aa1-cb955e1b07a2",
+   "scheme_anchor": "object",
+   "subject": "InteractionStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "b344717a-9aa0-4b6c-ab91-5730fb52e502",
+   "scheme_anchor": "object",
+   "subject": "StaticGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "27077816-f785-4e1c-8ce0-fb5aad02e1a8",
+   "scheme_anchor": "object",
+   "subject": "StaticGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "169d38d9-dd20-40ad-a4be-6a2f9570531e",
+   "scheme_anchor": "object",
+   "subject": "ResponsiveStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "bfe81851-21a4-43c3-b475-bf7ab50c8cb4",
+   "scheme_anchor": "object",
+   "subject": "ResponsiveStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "26f8e6bc-cc7d-43b4-a4c8-c09cebd4498b",
+   "scheme_anchor": "object",
+   "subject": "FormInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d4e77de8-9c06-44b5-a2de-22dad96c01d6",
+   "scheme_anchor": "object",
+   "subject": "FormInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8e3b379d-3e18-4815-962e-0eb056e9c489",
+   "scheme_anchor": "object",
+   "subject": "TestingArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "fa77571b-7464-4536-b2c5-5e10f7f6a926",
+   "scheme_anchor": "object",
+   "subject": "MicroAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c381853f-99cb-44f6-a27f-798aa8ee2914",
+   "scheme_anchor": "object",
+   "subject": "MicroAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c551c757-8012-4a45-a908-ab548683d1c2",
+   "scheme_anchor": "object",
+   "subject": "FlexGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "937166ef-c29f-4d3f-8a22-cd858cf76b77",
+   "scheme_anchor": "object",
+   "subject": "FlexGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "084f8efd-9e52-48a9-a6e6-ba5b8ef27094",
+   "scheme_anchor": "object",
+   "subject": "ComponentArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "11e954d9-2910-42a1-acf2-956445861e5a",
+   "scheme_anchor": "object",
+   "subject": "ColorStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "209238ec-c745-4fd3-a443-9b0f43515e46",
+   "scheme_anchor": "object",
+   "subject": "ColorStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3dc8a815-2673-42d1-8e17-24c14389faa0",
+   "scheme_anchor": "object",
+   "subject": "ColorSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a8418565-3516-4851-81e9-49f64e177dd9",
+   "scheme_anchor": "object",
+   "subject": "DragInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "65269d73-f05f-47ec-a64d-c4268c27bb9a",
+   "scheme_anchor": "object",
+   "subject": "DragInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "f08cec7a-c743-4b04-8133-252fe5d0557b",
+   "scheme_anchor": "object",
+   "subject": "KeyboardInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ecddec10-0fb1-490a-b8f5-4e944a2c17eb",
+   "scheme_anchor": "object",
+   "subject": "KeyboardInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "65d0dfd2-5d63-4092-b038-1b6f142c2f0e",
+   "scheme_anchor": "object",
+   "subject": "StateAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "9e0bf757-0ebd-4bf6-8e1e-f7898f0cbda8",
+   "scheme_anchor": "object",
+   "subject": "StateAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ec6424a2-333b-494e-b31b-3555fea5a345",
+   "scheme_anchor": "object",
+   "subject": "ComponentSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a0ba00fb-b3e7-4a76-ae43-57f3c20194f8",
+   "scheme_anchor": "object",
+   "subject": "FluidGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "adac7487-4540-434f-988f-05f4ad3a4ce9",
+   "scheme_anchor": "object",
+   "subject": "FluidGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "e2f2b5f6-ae31-4596-8230-44ab3caedac3",
+   "scheme_anchor": "object",
+   "subject": "CosmicPattern",
+   "object": "PatternKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d04c0198-e11b-4445-bd5f-5ac398aaf136",
+   "scheme_anchor": "object",
+   "subject": "StateArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "9f233ec8-163c-49e8-b66f-d56f6ced1334",
+   "scheme_anchor": "object",
+   "subject": "EntranceAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4fbe99ec-edd1-4b7a-8e93-081ee64c308b",
+   "scheme_anchor": "object",
+   "subject": "EntranceAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3582d8fa-51fb-4f45-b148-915bf8e13ec6",
+   "scheme_anchor": "object",
+   "subject": "MacroAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "26e2a6ea-4860-4ce3-a16e-4aada352c64a",
+   "scheme_anchor": "object",
+   "subject": "MacroAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "bc2aa5d8-fddd-40f1-b6d8-133ed5fad8f5",
+   "scheme_anchor": "object",
+   "subject": "BorderStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "93a1ca86-2d76-4926-b41f-2ba1731fd412",
+   "scheme_anchor": "object",
+   "subject": "BorderStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "6dc6e30f-97f6-4fa1-9d73-5c6c94cd77c7",
+   "scheme_anchor": "object",
+   "subject": "DataArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "11a48876-b28d-4f8f-8160-14dc63e00a78",
+   "scheme_anchor": "object",
+   "subject": "CenterAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c077fa86-b737-4331-a73e-e5dc2bce3ac5",
+   "scheme_anchor": "object",
+   "subject": "CenterAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d6f73dd3-b578-4104-adf6-3f17e60f46d9",
+   "scheme_anchor": "object",
+   "subject": "ClickInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "31d7fb8e-07cf-44a7-94ee-1ea0ec61e44b",
+   "scheme_anchor": "object",
+   "subject": "ClickInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "bf0b270f-8fed-4bf5-9554-a77795cc20bf",
+   "scheme_anchor": "object",
+   "subject": "ResponsiveGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "cb7cf1b9-308d-4a7b-8648-a67a6e250618",
+   "scheme_anchor": "object",
+   "subject": "ResponsiveGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a039e52e-f2b2-46ed-bc10-bff823b01c00",
+   "scheme_anchor": "object",
+   "subject": "SpaceBetweenAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "27fe4f7d-ba58-4eb9-be10-8d44ee9a3a9c",
+   "scheme_anchor": "object",
+   "subject": "SpaceBetweenAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "58d00983-a78d-45be-ba9d-f6a05867a3d3",
+   "scheme_anchor": "object",
+   "subject": "FocusInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "5cddf122-9146-4ee7-9055-b2790fe97d78",
+   "scheme_anchor": "object",
+   "subject": "FocusInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "330fde8b-b9f6-4e84-add4-62d997caa37e",
+   "scheme_anchor": "object",
+   "subject": "HoverAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c48ab63b-9c0c-4982-8ef9-b24e78033b9c",
+   "scheme_anchor": "object",
+   "subject": "HoverAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3af2e0ac-42da-456a-8407-e3a206957e92",
+   "scheme_anchor": "object",
+   "subject": "FocusAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ccf2c3f4-aba1-4963-be56-21e5ae3a0cb8",
+   "scheme_anchor": "object",
+   "subject": "FocusAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "13e56d83-fc73-42c8-ad5a-a1280e5cfc9b",
+   "scheme_anchor": "object",
+   "subject": "LoopAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "08202f06-a1be-43c8-b447-0bd067bf2747",
+   "scheme_anchor": "object",
+   "subject": "LoopAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "5ffd617d-c75c-4f61-9c01-bec4d133e59c",
+   "scheme_anchor": "object",
+   "subject": "AbsoluteLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "b75139b0-1b7b-4537-bca1-63f3bf1e48d7",
+   "scheme_anchor": "object",
+   "subject": "AbsoluteLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "d2ea0a47-b175-46d4-abea-b1fd9b4b1796",
+   "scheme_anchor": "object",
+   "subject": "ShadowStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ced567b2-332c-4b40-87c3-387b27790a4e",
+   "scheme_anchor": "object",
+   "subject": "ShadowStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "029df191-2502-444f-918b-e4a44dfc213c",
+   "scheme_anchor": "object",
+   "subject": "TypeSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "44e63d1e-6a5a-4c69-a782-330090cb0604",
+   "scheme_anchor": "object",
+   "subject": "ThemeSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "bd252e51-ab03-41dd-8b86-b57d1a31b80a",
+   "scheme_anchor": "object",
+   "subject": "TransitionAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3811bf9a-f050-4694-8ec6-ce081ecc0055",
+   "scheme_anchor": "object",
+   "subject": "TransitionAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "48d1b568-1b3c-415f-95e1-d97f2d1ae689",
+   "scheme_anchor": "object",
+   "subject": "LayoutStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a1ef6e3c-48d3-4b30-89c6-887a08817271",
+   "scheme_anchor": "object",
+   "subject": "LayoutStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "9b377cf6-79f7-4494-b5d6-82737888a601",
+   "scheme_anchor": "object",
+   "subject": "ThemeStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "fbd27c23-12ae-4c22-b7c3-4692e0458477",
+   "scheme_anchor": "object",
+   "subject": "ThemeStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "af997fac-9d45-488a-8aff-98b36ee8cf4c",
+   "scheme_anchor": "object",
+   "subject": "StackLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "2a56099f-cc91-4e71-bafa-fe92794c0aec",
+   "scheme_anchor": "object",
+   "subject": "StackLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "6ff07866-0364-4b83-ad5c-d871f5a0ce67",
+   "scheme_anchor": "object",
+   "subject": "DeploymentArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "70adc209-be7f-40aa-967f-de2850d8bb2d",
+   "scheme_anchor": "object",
+   "subject": "IconSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "cf39033c-4ea0-4218-adea-3b178dfec98b",
+   "scheme_anchor": "object",
+   "subject": "CompactSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "c3cb4001-6d58-4b79-a852-28a01c5df093",
+   "scheme_anchor": "object",
+   "subject": "CompactSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "e5fba111-1fbf-45e1-ac9e-ecb075fb56db",
+   "scheme_anchor": "object",
+   "subject": "AnimationStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a9fac51d-3e4a-4705-8c65-5a4a45751540",
+   "scheme_anchor": "object",
+   "subject": "AnimationStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "228a5480-73ca-481d-a153-62bbc01b9a5d",
+   "scheme_anchor": "object",
+   "subject": "DomainArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8edc8a1d-e930-4821-80f6-daf275e5f98b",
+   "scheme_anchor": "object",
+   "subject": "LayoutSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "4b2cbff7-45d6-4514-8a92-ce6454fcd985",
+   "scheme_anchor": "object",
+   "subject": "VoiceInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "94614ee2-b52e-4aaf-9b17-38ca968fa669",
+   "scheme_anchor": "object",
+   "subject": "VoiceInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3626d2c8-5442-4de5-a33d-a850a1f9bdfd",
+   "scheme_anchor": "object",
+   "subject": "FlexLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "413e3ab5-66f1-4699-bd85-a4e1c857b2e7",
+   "scheme_anchor": "object",
+   "subject": "FlexLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ed0d6793-fb82-4161-8fd7-84522267fc66",
+   "scheme_anchor": "object",
+   "subject": "AnimationSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "bb5782f5-d98c-4722-9c92-46c9c6aab5f2",
+   "scheme_anchor": "object",
+   "subject": "StartAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "0369d98e-0e36-46e1-92df-69b8270865d0",
+   "scheme_anchor": "object",
+   "subject": "StartAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "42b2cf83-f916-4ef5-89cd-194e0d133e67",
+   "scheme_anchor": "object",
+   "subject": "SpacingStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "e541823e-bc24-4ba3-b31a-8e473cba4927",
+   "scheme_anchor": "object",
+   "subject": "SpacingStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "761a5fbd-188c-4f6d-9356-054a023cb1b8",
+   "scheme_anchor": "object",
+   "subject": "NavigationInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ae015bbf-22a6-4d32-95b6-bd3559fb4765",
+   "scheme_anchor": "object",
+   "subject": "NavigationInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "3ea98965-963e-43f8-9638-4e4312b674b7",
+   "scheme_anchor": "object",
+   "subject": "GestureInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "f81ce668-9d0f-4e6d-aef4-f7f7aea24f46",
+   "scheme_anchor": "object",
+   "subject": "GestureInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ea7a5f08-acab-4bb0-a75a-3aaa15f3fb44",
+   "scheme_anchor": "object",
+   "subject": "ExitAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ef010b41-f66d-4176-808b-409c8c684359",
+   "scheme_anchor": "object",
+   "subject": "ExitAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "239ac06a-8a83-4f4a-9dec-b1a30fe669d4",
+   "scheme_anchor": "object",
+   "subject": "IntegrationArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "fe493e12-5c0d-491d-990a-1852806a506a",
+   "scheme_anchor": "object",
+   "subject": "AnimationArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "7156752f-70d6-47c8-8124-c9b2fa89d7cc",
+   "scheme_anchor": "object",
+   "subject": "EndAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "e722f2dc-ffee-407f-b0a0-c459422b1da3",
+   "scheme_anchor": "object",
+   "subject": "EndAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "016b40da-5fd2-47ee-85bb-2547bcbd0b0f",
+   "scheme_anchor": "object",
+   "subject": "InteractiveAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8279c5a8-c5b2-498c-89cf-42faa4792196",
+   "scheme_anchor": "object",
+   "subject": "InteractiveAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "cd15deda-d954-4337-a116-3892b2328971",
+   "scheme_anchor": "object",
+   "subject": "StretchAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "9dcfe42d-7e74-47e2-9359-05316b126c3d",
+   "scheme_anchor": "object",
+   "subject": "StretchAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "618a393d-d3ad-4142-b7c3-efd73a9237ed",
+   "scheme_anchor": "object",
+   "subject": "TypographyStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "ef6bb67e-b102-4319-bede-1ab38a327a14",
+   "scheme_anchor": "object",
+   "subject": "TypographyStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "cac6295f-3c9b-4559-849a-e25bccd9e0cf",
+   "scheme_anchor": "object",
+   "subject": "GridLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a079bbf8-57fe-41f9-bc59-7f60b6acc97f",
+   "scheme_anchor": "object",
+   "subject": "GridLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "5285a5e5-ac29-4838-9b34-1ba9a36f2e00",
+   "scheme_anchor": "object",
+   "subject": "SystemArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "8cfd12b7-3dfa-4b13-b516-54c106436257",
+   "scheme_anchor": "object",
+   "subject": "StandardSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "cab28c62-2371-4599-8d15-638e28ce44e5",
+   "scheme_anchor": "object",
+   "subject": "StandardSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  },
+  {
+   "id": "a13e9964-d38a-4099-8932-7069559b8b7f",
+   "scheme_anchor": "object",
+   "subject": "ScrollInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "relation_type": "broader"
+  },
+  {
+   "id": "e4d9ea5c-16d7-4ad1-8571-20481d157cb8",
+   "scheme_anchor": "object",
+   "subject": "ScrollInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "relation_type": "broader"
+  }
+ ]
+}
