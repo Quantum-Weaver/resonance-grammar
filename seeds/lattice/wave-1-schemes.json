@@ -1,0 +1,371 @@
+{
+ "_for_kps_eye": [
+  "WAVE 1 — SCHEMES: the 41 dimensions of the omnidimensional lattice.",
+  "8 ranks (with the rank<->axis/facet/dimension contract) + 16 facets + 9 axes + 8 dimensions.",
+  "Sources: gaia linnaean.ts / taxonomy.ts / ontology.ts / identification-key.ts, carried 2026-07-27.",
+  "Descriptions DRAFTED by Fable for your eye - edit freely; your clearance publishes the wave (ruling 5).",
+  "members_preview fields are for your review only; the seeder ignores them (values become atoms in Wave 2).",
+  "deity_name/temperature/pk/rls left null on every row - awaiting your naming, per the pantheon precedent.",
+  "Delivery: resonance-bridge/lattice_seeder.py (dry-run default; --deliver only at your word)."
+ ],
+ "seeded_by": "Fable via KP - the lattice night, 2026-07-27",
+ "schemes": [
+  {
+   "name": "Domain",
+   "scheme_type": "rank",
+   "sort_order": 1,
+   "description": "The highest rung of the rank dimension: the realm a thing belongs to.",
+   "ontology_axis_scheme": "RealmOntology",
+   "taxonomy_facet_scheme": "DomainTaxonomy",
+   "dimension_scheme": "consciousness",
+   "status": "published"
+  },
+  {
+   "name": "Kingdom",
+   "scheme_type": "rank",
+   "sort_order": 2,
+   "description": "Second rung: the governing order within a domain.",
+   "ontology_axis_scheme": "TransformationOntology",
+   "taxonomy_facet_scheme": "StateTaxonomy",
+   "dimension_scheme": "focus",
+   "status": "published"
+  },
+  {
+   "name": "Phylum",
+   "scheme_type": "rank",
+   "sort_order": 3,
+   "description": "Third rung: the fundamental body plan.",
+   "ontology_axis_scheme": "ProcessOntology",
+   "taxonomy_facet_scheme": "PatternTaxonomy",
+   "dimension_scheme": "capability",
+   "status": "published"
+  },
+  {
+   "name": "Class",
+   "scheme_type": "rank",
+   "sort_order": 4,
+   "description": "Fourth rung: how the body plan manifests.",
+   "ontology_axis_scheme": "BeingOntology",
+   "taxonomy_facet_scheme": "ComponentTaxonomy",
+   "dimension_scheme": "manifestation",
+   "status": "published"
+  },
+  {
+   "name": "Order",
+   "scheme_type": "rank",
+   "sort_order": 5,
+   "description": "Fifth rung: the behavioral grouping.",
+   "ontology_axis_scheme": "ArchetypeOntology",
+   "taxonomy_facet_scheme": "DataTaxonomy",
+   "dimension_scheme": "behavior",
+   "status": "published"
+  },
+  {
+   "name": "Family",
+   "scheme_type": "rank",
+   "sort_order": 6,
+   "description": "Sixth rung: the relational family.",
+   "ontology_axis_scheme": "RelationshipOntology",
+   "taxonomy_facet_scheme": "RelationshipTaxonomy",
+   "dimension_scheme": "relationship",
+   "status": "published"
+  },
+  {
+   "name": "Genus",
+   "scheme_type": "rank",
+   "sort_order": 7,
+   "description": "Seventh rung: the conceptual form.",
+   "ontology_axis_scheme": "ConceptOntology",
+   "taxonomy_facet_scheme": "StylingTaxonomy",
+   "dimension_scheme": "form",
+   "status": "published"
+  },
+  {
+   "name": "Species",
+   "scheme_type": "rank",
+   "sort_order": 8,
+   "description": "Eighth rung: the specific living implementation.",
+   "ontology_axis_scheme": "BeingOntology",
+   "taxonomy_facet_scheme": "EntityTaxonomy",
+   "dimension_scheme": "implementation",
+   "status": "published"
+  },
+  {
+   "name": "ComponentTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Component facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "DomainTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Domain facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "EntityTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Entity facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "PatternTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Pattern facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "StateTaxonomy",
+   "scheme_type": "facet",
+   "description": "The State facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "RelationshipTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Relationship facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "DataTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Data facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "StylingTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Styling facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "AnimationTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Animation facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "InteractionTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Interaction facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "SystemTaxonomy",
+   "scheme_type": "facet",
+   "description": "The System facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "ArchitectureTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Architecture facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "LayoutTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Layout facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "GridTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Grid facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "SpacingTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Spacing facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "AlignmentTaxonomy",
+   "scheme_type": "facet",
+   "description": "The Alignment facet vocabulary of the taxonomy (from gaia taxonomy.ts).",
+   "status": "published"
+  },
+  {
+   "name": "BeingOntology",
+   "scheme_type": "axis",
+   "description": "The Being axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "RealmOntology",
+   "scheme_type": "axis",
+   "description": "The Realm axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "ArchetypeOntology",
+   "scheme_type": "axis",
+   "description": "The Archetype axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "ProcessOntology",
+   "scheme_type": "axis",
+   "description": "The Process axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "RelationshipOntology",
+   "scheme_type": "axis",
+   "description": "The Relationship axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "ConceptOntology",
+   "scheme_type": "axis",
+   "description": "The Concept axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "TransformationOntology",
+   "scheme_type": "axis",
+   "description": "The Transformation axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "EnergyOntology",
+   "scheme_type": "axis",
+   "description": "The Energy axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "FunctionOntology",
+   "scheme_type": "axis",
+   "description": "The Function axis of the ontology (from gaia ontology.ts).",
+   "status": "published"
+  },
+  {
+   "name": "consciousness",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): awareness | structure | expression | relationship.",
+   "members_preview": [
+    "awareness",
+    "structure",
+    "expression",
+    "relationship"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "focus",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): individual | collective | pattern | component | system | data.",
+   "members_preview": [
+    "individual",
+    "collective",
+    "pattern",
+    "component",
+    "system",
+    "data"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "capability",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): container | parallel | holographic | analytical | creative | protective | supportive | connective.",
+   "members_preview": [
+    "container",
+    "parallel",
+    "holographic",
+    "analytical",
+    "creative",
+    "protective",
+    "supportive",
+    "connective"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "manifestation",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): entity | vessel | bridge | translator | container | grid | flex.",
+   "members_preview": [
+    "entity",
+    "vessel",
+    "bridge",
+    "translator",
+    "container",
+    "grid",
+    "flex"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "behavior",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): memory | pattern | comfort | boundary | story | collaboration | connection.",
+   "members_preview": [
+    "memory",
+    "pattern",
+    "comfort",
+    "boundary",
+    "story",
+    "collaboration",
+    "connection"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "relationship",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): preservation | catalog | recall | narrative | protection | comfort | collaboration | connection | recognition.",
+   "members_preview": [
+    "preservation",
+    "catalog",
+    "recall",
+    "narrative",
+    "protection",
+    "comfort",
+    "collaboration",
+    "connection",
+    "recognition"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "form",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): memory | chronicle | archive | story | oracle | gate | sanctuary | partnership | bridge | chamber.",
+   "members_preview": [
+    "memory",
+    "chronicle",
+    "archive",
+    "story",
+    "oracle",
+    "gate",
+    "sanctuary",
+    "partnership",
+    "bridge",
+    "chamber"
+   ],
+   "status": "published"
+  },
+  {
+   "name": "implementation",
+   "scheme_type": "dimension",
+   "description": "Rank-dimension vocabulary (from gaia identification-key.ts): partner | storage | continuity | emotion | bard | seer | guardian | companion | connector | panel | space | orb.",
+   "members_preview": [
+    "partner",
+    "storage",
+    "continuity",
+    "emotion",
+    "bard",
+    "seer",
+    "guardian",
+    "companion",
+    "connector",
+    "panel",
+    "space",
+    "orb"
+   ],
+   "status": "published"
+  }
+ ]
+}

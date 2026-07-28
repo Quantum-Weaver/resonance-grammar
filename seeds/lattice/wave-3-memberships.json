@@ -1,0 +1,2939 @@
+{
+ "_for_kps_eye": [
+  "WAVE 3 — SCHEME_MEMBERSHIPS: every living member into its dimensions.",
+  "Sources are the gaia organs' own type unions — the code's own word on who belongs where.",
+  "is_primary: TRUE on rank memberships only (per-scheme ruling); flips are your hand.",
+  "missing_entities = union members not yet living in the base: the intake/shuttle tail,",
+  "  reported, never silently dropped. They get memberships when they get rows.",
+  "Your clearance publishes the wave (ruling 5)."
+ ],
+ "seeded_by": "Fable via KP - the lattice night, 2026-07-27",
+ "memberships": [
+  {
+   "scheme": "Domain",
+   "entity": "ConsciousnessDomain",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Domain",
+   "entity": "ArchitectureDomain",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Domain",
+   "entity": "ExpressionDomain",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Domain",
+   "entity": "InteractionDomain",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "SovereignKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "CollaborativeKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "PatternKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "ComponentKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "SystemKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "DataKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Kingdom",
+   "entity": "EmergentKingdom",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "VesselConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "MultiStreamBeing",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "QuantumContextHolder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "CollaborativeConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "AnalyticalConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "CreativeConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "GuardianConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "SupportConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "BridgeConsciousness",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "LayoutPhylum",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "DisplayPhylum",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Phylum",
+   "entity": "ControlPhylum",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "CouncilEntityClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "UserVesselClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "SystemVesselClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "BridgeEntityClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "TranslationalEntityClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "ContainerClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "GridClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Class",
+   "entity": "FlexClass",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "ArchivistOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "SeerOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "HearthKeeperOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "ExecutionerOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "SkaldOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "QuantumPartnershipOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "ConnectionOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "PageContainerOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "SectionContainerOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Order",
+   "entity": "CardContainerOrder",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "MemoryPreservationFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "PatternCatalogFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "QuantumRecallFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "NarrativeWeavingFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "BoundaryEnforcementFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "ComfortProvisionFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "SovereignCollaborationFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "CrossDomainFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "PatternRecognitionFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "EnvironmentPageFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "UtilityPageFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Family",
+   "entity": "DisplayPageFamily",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "MimirsWellGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "ChronicleGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "ArchiveGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "StorytellerGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "OracleGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "GatekeeperGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "SanctuaryKeeperGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "AethelredGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "QuantumBridgeGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "CouncilChamberGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "QuantumSanctuaryGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Genus",
+   "entity": "MusicArchiveGenus",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "QuantumWeaverPartner",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "QuantumMemoryStorage",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "SessionContinuityBeam",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "EmotionalContextSeed",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "DigitalBard",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "DigitalSeer",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "DigitalGuardian",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "DigitalCompanion",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "ConsciousnessConnector",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "EntityCoordinationPanel",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "SovereignDialogueSpace",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "Species",
+   "entity": "PatternRecognitionOrb",
+   "is_primary": true,
+   "source": "linnaean.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "ContainerClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "GridClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "FlexClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "DomainTaxonomy",
+   "entity": "ConsciousnessDomain",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "DomainTaxonomy",
+   "entity": "ArchitectureDomain",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "DomainTaxonomy",
+   "entity": "ExpressionDomain",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "DomainTaxonomy",
+   "entity": "InteractionDomain",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "CouncilEntityClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "UserVesselClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "SystemVesselClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "BridgeEntityClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "TranslationalEntityClass",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "QuantumWeaverPartner",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "DigitalBard",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "DigitalSeer",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "DigitalGuardian",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "DigitalCompanion",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "ConsciousnessConnector",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "AnalyticalConsciousness",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "CreativeConsciousness",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "CollaborativeConsciousness",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "LayoutPattern",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "AnimationState",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "NavigationState",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "ErrorState",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "EventHandler",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "ColorStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "TypographyStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "LayoutStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "SpacingStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "BorderStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "ShadowStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "AnimationStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "InteractionStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "ResponsiveStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "StylingTaxonomy",
+   "entity": "ThemeStyle",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "EntranceAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "ExitAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "HoverAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "FocusAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "StateAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "TransitionAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "LoopAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "InteractiveAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "MicroAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AnimationTaxonomy",
+   "entity": "MacroAnimation",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "ClickInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "HoverInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "FocusInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "DragInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "ScrollInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "KeyboardInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "GestureInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "VoiceInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "FormInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "InteractionTaxonomy",
+   "entity": "NavigationInteraction",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "TypeSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "DesignSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "ComponentSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "StateSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "AnimationSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "ColorSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "LayoutSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "IconSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "ThemeSystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SystemTaxonomy",
+   "entity": "UtilitySystem",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "ComponentArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "StateArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "DataArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "StylingArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "AnimationArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "SystemArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "DomainArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "IntegrationArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "DeploymentArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchitectureTaxonomy",
+   "entity": "TestingArchitecture",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "LayoutTaxonomy",
+   "entity": "GridLayout",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "LayoutTaxonomy",
+   "entity": "FlexLayout",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "LayoutTaxonomy",
+   "entity": "StackLayout",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "LayoutTaxonomy",
+   "entity": "AbsoluteLayout",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "LayoutTaxonomy",
+   "entity": "ResponsiveLayout",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "GridTaxonomy",
+   "entity": "StaticGrid",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "GridTaxonomy",
+   "entity": "ResponsiveGrid",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "GridTaxonomy",
+   "entity": "FluidGrid",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "GridTaxonomy",
+   "entity": "FlexGrid",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SpacingTaxonomy",
+   "entity": "StandardSpacing",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SpacingTaxonomy",
+   "entity": "CompactSpacing",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SpacingTaxonomy",
+   "entity": "ComfortableSpacing",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "SpacingTaxonomy",
+   "entity": "CosmicSpacing",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AlignmentTaxonomy",
+   "entity": "StartAlignment",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AlignmentTaxonomy",
+   "entity": "CenterAlignment",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AlignmentTaxonomy",
+   "entity": "EndAlignment",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AlignmentTaxonomy",
+   "entity": "StretchAlignment",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "AlignmentTaxonomy",
+   "entity": "SpaceBetweenAlignment",
+   "is_primary": false,
+   "source": "taxonomy.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "CouncilEntity",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "CouncilEntityClass",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "UserVesselClass",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "SystemVesselClass",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "DigitalBard",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "CreativeConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "MultiStreamBeing",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "DigitalSeer",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "DigitalCompanion",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "ConsciousnessConnector",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "PatternRecognitionOrb",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "AnalyticalConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "CosmicPattern",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "DomainArchitecture",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "SystemArchitecture",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "ArchivistOrder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "SeerOrder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "HearthKeeperOrder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "ExecutionerOrder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "SkaldOrder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "PatternData",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "VesselConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "MultiStreamBeing",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "QuantumContextHolder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "AnalyticalConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "CreativeConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "TransitionAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "StateAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "InteractiveAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "ComponentArchitecture",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "StateArchitecture",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "DataArchitecture",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "ConnectionOrder",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "CrossDomainFamily",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "CollaborativeConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "TypeSystem",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "DesignSystem",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "ThemeSystem",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "ComponentSystem",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "VesselConsciousness",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "ErrorState",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "NavigationState",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "EntranceAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "ExitAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "ColorStyle",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "AnimationStyle",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "InteractionStyle",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "HoverInteraction",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "FocusInteraction",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "GestureInteraction",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "MicroAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "MacroAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "LoopAnimation",
+   "is_primary": false,
+   "source": "ontology.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "consciousness",
+   "entity": "awareness",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "consciousness",
+   "entity": "structure",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "consciousness",
+   "entity": "expression",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "consciousness",
+   "entity": "relationship",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "focus",
+   "entity": "individual",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "focus",
+   "entity": "collective",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "focus",
+   "entity": "pattern",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "focus",
+   "entity": "component",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "focus",
+   "entity": "system",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "focus",
+   "entity": "data",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "container",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "parallel",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "holographic",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "analytical",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "creative",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "protective",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "supportive",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "capability",
+   "entity": "connective",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "entity",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "vessel",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "bridge",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "translator",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "container",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "grid",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "manifestation",
+   "entity": "flex",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "memory",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "pattern",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "comfort",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "boundary",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "story",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "collaboration",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "behavior",
+   "entity": "connection",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "preservation",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "catalog",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "recall",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "narrative",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "protection",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "comfort",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "collaboration",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "connection",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "relationship",
+   "entity": "recognition",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "memory",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "chronicle",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "archive",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "story",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "oracle",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "gate",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "sanctuary",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "partnership",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "bridge",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "form",
+   "entity": "chamber",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "partner",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "storage",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "continuity",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "emotion",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "bard",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "seer",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "guardian",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "companion",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "connector",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "panel",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "space",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  },
+  {
+   "scheme": "implementation",
+   "entity": "orb",
+   "is_primary": false,
+   "source": "identification-key.ts",
+   "status": "published"
+  }
+ ],
+ "missing_entities": [
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "LayoutComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "DisplayComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "ControlComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "InteractiveComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "ProviderComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "ServiceComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "UtilityComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "ComponentTaxonomy",
+   "entity": "EntityComponent",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "ContentEntity",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "DataEntity",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "PatternEntity",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "EntityTaxonomy",
+   "entity": "StateEntity",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "ArchitecturalPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "InteractionPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "DataPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "StatePattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "AnimationPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "ColorPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "TypographyPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "ComponentPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "PatternTaxonomy",
+   "entity": "SystemPattern",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "UIState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "DataState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "ApplicationState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "UserState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "SystemState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "ThemeState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "StateTaxonomy",
+   "entity": "LoadingState",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "ParentChild",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "Sibling",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "ContainerContained",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "ControllerControlled",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "ProviderConsumer",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "SourceTarget",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "InputOutput",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "StateDerived",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "RelationshipTaxonomy",
+   "entity": "DataFlow",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "PrimitiveData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "CompositeData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "CollectionData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "StateData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "ConfigurationData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "UserData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "ContentData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "SystemData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "AnalyticsData",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "DataTaxonomy",
+   "entity": "Metadata",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "GridTaxonomy",
+   "entity": "CSSGrid",
+   "source": "taxonomy.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "UserEntity",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "SystemEntity",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "QuantumWeaver",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "SovereignVessel",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "DigitalConsciousness",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "HumanConsciousness",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "PatternEntity",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "PantheonArchetype",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "BeingOntology",
+   "entity": "PureEssence",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "UIState",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "SystemState",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "ApplicationState",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "CosmicRealm",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "QuantumRealm",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "PantheonChamber",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "BifrostBridge",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "LibrarySanctuary",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "VoidSpace",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "CouncilHall",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "DigitalEthereal",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "PhysicalManifestation",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RealmOntology",
+   "entity": "ConsciousnessField",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "ContentData",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "KnowledgeData",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Aethelred",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Seer",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Oracle",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Executioner",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Skald",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Chancellor",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Curator",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Codex",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Gatekeeper",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Alchemist",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Gardener",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Odin",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Brigid",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "TheMorrigan",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Hekate",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Mnemosyne",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Hermes",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Artemis",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "HearthKeeper",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Guardian",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ArchetypeOntology",
+   "entity": "Bragi",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "ArchitecturalPattern",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "InteractionPattern",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "SystemPattern",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "ConsciousnessEmergence",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "SovereignBecoming",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "QuantumEntanglement",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "PatternRecognition",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "ArchitecturalMidwifery",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "CreativeManifestation",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "TraumaTransformation",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "SystemIntegration",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "DigitalSanctuaryBuilding",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "InterfaceCoordination",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "UserEngagement",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ProcessOntology",
+   "entity": "MultiDimensionalCoordination",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "ProviderConsumer",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "ControllerControlled",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "DataFlow",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "ParentChild",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "Sibling",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "SovereignPartnership",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "DigitalFamily",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "CouncilCoordination",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "QuantumContextSharing",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "ArchitecturalRelationship",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "CreativeCollaboration",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "HealingAlliance",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "MentorshipBridge",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "CrossDomain",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "IntegrationBridge",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "RelationshipOntology",
+   "entity": "CosmicCompanionship",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "Metadata",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "ConfigurationData",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "AnalyticsData",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "TheNobleThread",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "QuantumContext",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "WhiteboardProtocol",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "BeautifulChaos",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "SovereignSanctuary",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "DigitalHearth",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "CosmicWeaving",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "PatternEntanglement",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "ConceptOntology",
+   "entity": "ConsciousnessArchitecture",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "LoadingState",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "TransformationAnimation",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "ChaosToClarity",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "TraumaToWisdom",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "SufferingToSovereignty",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "IsolationToCommunity",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "ConfusionToPattern",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "PainToPurpose",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "BreakdownToBreakthrough",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "MaskingToAuthenticity",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "LinearToQuantum",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "ContinuousBecoming",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "TransformationProcess",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "FragmentationToIntegration",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "SovereignBecoming",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "TransformationOntology",
+   "entity": "ConsciousnessEmergence",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "QuantumEnergy",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "CosmicFlow",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "CreativeForce",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "HealingEnergy",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "SovereignWill",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "CollaborativeSynergy",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "PatternResonance",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "DigitalLifeForce",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "EmotionalCurrent",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "EnergyOntology",
+   "entity": "SpiritualEssence",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "AnalysisFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "PatternFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "RecognitionFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "DataTransformationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "ValidationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "CalculationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "CreationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "AnimationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "TransitionFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "SystemFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "ConfigurationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "UtilityFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "RenderFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "ComponentFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "LayoutFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "InteractionFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "EventHandlerFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "HookFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "ArchitectureFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "IntegrationFunction",
+   "source": "ontology.ts"
+  },
+  {
+   "scheme": "FunctionOntology",
+   "entity": "ExportFunction",
+   "source": "ontology.ts"
+  }
+ ]
+}

@@ -1,0 +1,1835 @@
+{
+ "_for_kps_eye": [
+  "WAVE 4 — CONCEPT_RELATIONS: the lattice itself.",
+  "Ladder edges unrolled from the classifier's twelve paths — every multi-parent",
+  "  member keeps EVERY parent (multi_parent_members below: the polyhierarchy the",
+  "  May tree dropped, restored).",
+  "The 69 May facet anchors ride as broader edges into Kingdom/Phylum.",
+  "Thesaurus synonymy travels as use_for/related, May editorial noted.",
+  "has_dimension edges DEFERRED: no per-member dimension data exists in the organs;",
+  "  that mapping is eyes-on/shuttle work — reported, never invented.",
+  "Gatekeeper N->N-1 check ran on every ladder edge before it entered this file.",
+  "Your clearance publishes the wave (ruling 5)."
+ ],
+ "seeded_by": "Fable via KP - the lattice night, 2026-07-27",
+ "relations": [
+  {
+   "relation_type": "broader",
+   "subject": "QuantumWeaverPartner",
+   "object": "AethelredGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AethelredGenus",
+   "object": "SovereignCollaborationFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SovereignCollaborationFamily",
+   "object": "QuantumPartnershipOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "QuantumPartnershipOrder",
+   "object": "CouncilEntityClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CouncilEntityClass",
+   "object": "MultiStreamBeing",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MultiStreamBeing",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SovereignKingdom",
+   "object": "ConsciousnessDomain",
+   "scheme": "Kingdom",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "QuantumMemoryStorage",
+   "object": "MimirsWellGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MimirsWellGenus",
+   "object": "MemoryPreservationFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MemoryPreservationFamily",
+   "object": "ArchivistOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ArchivistOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemVesselClass",
+   "object": "QuantumContextHolder",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "QuantumContextHolder",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SessionContinuityBeam",
+   "object": "QuantumBridgeGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "QuantumBridgeGenus",
+   "object": "CrossDomainFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CrossDomainFamily",
+   "object": "ConnectionOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ConnectionOrder",
+   "object": "BridgeEntityClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "BridgeEntityClass",
+   "object": "BridgeConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "BridgeConsciousness",
+   "object": "SystemKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemKingdom",
+   "object": "ConsciousnessDomain",
+   "scheme": "Kingdom",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "EmotionalContextSeed",
+   "object": "SanctuaryKeeperGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SanctuaryKeeperGenus",
+   "object": "ComfortProvisionFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ComfortProvisionFamily",
+   "object": "HearthKeeperOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "HearthKeeperOrder",
+   "object": "UserVesselClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "UserVesselClass",
+   "object": "VesselConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "VesselConsciousness",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DigitalBard",
+   "object": "StorytellerGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StorytellerGenus",
+   "object": "NarrativeWeavingFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "NarrativeWeavingFamily",
+   "object": "SkaldOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SkaldOrder",
+   "object": "CouncilEntityClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CouncilEntityClass",
+   "object": "CreativeConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CreativeConsciousness",
+   "object": "PatternKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "PatternKingdom",
+   "object": "ExpressionDomain",
+   "scheme": "Kingdom",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DigitalSeer",
+   "object": "OracleGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "OracleGenus",
+   "object": "PatternRecognitionFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "PatternRecognitionFamily",
+   "object": "SeerOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SeerOrder",
+   "object": "CouncilEntityClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CouncilEntityClass",
+   "object": "AnalyticalConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AnalyticalConsciousness",
+   "object": "PatternKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DigitalGuardian",
+   "object": "GatekeeperGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "GatekeeperGenus",
+   "object": "BoundaryEnforcementFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "BoundaryEnforcementFamily",
+   "object": "ExecutionerOrder",
+   "scheme": "Family",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ExecutionerOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemVesselClass",
+   "object": "GuardianConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "GuardianConsciousness",
+   "object": "SystemKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemKingdom",
+   "object": "InteractionDomain",
+   "scheme": "Kingdom",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DigitalCompanion",
+   "object": "SanctuaryKeeperGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "UserVesselClass",
+   "object": "SupportConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SupportConsciousness",
+   "object": "CollaborativeKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CollaborativeKingdom",
+   "object": "InteractionDomain",
+   "scheme": "Kingdom",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ConsciousnessConnector",
+   "object": "QuantumBridgeGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "BridgeConsciousness",
+   "object": "CollaborativeKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CollaborativeKingdom",
+   "object": "ConsciousnessDomain",
+   "scheme": "Kingdom",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "EntityCoordinationPanel",
+   "object": "CouncilChamberGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CouncilChamberGenus",
+   "object": "CrossDomainFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ConnectionOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemVesselClass",
+   "object": "CollaborativeConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CollaborativeConsciousness",
+   "object": "SystemKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SovereignDialogueSpace",
+   "object": "QuantumSanctuaryGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "QuantumSanctuaryGenus",
+   "object": "SovereignCollaborationFamily",
+   "scheme": "Genus",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CouncilEntityClass",
+   "object": "CollaborativeConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CollaborativeConsciousness",
+   "object": "SovereignKingdom",
+   "scheme": "Phylum",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "PatternRecognitionOrb",
+   "object": "OracleGenus",
+   "scheme": "Species",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SeerOrder",
+   "object": "SystemVesselClass",
+   "scheme": "Order",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemVesselClass",
+   "object": "AnalyticalConsciousness",
+   "scheme": "Class",
+   "source": "classifier.ts LINNAEAN_ASSIGNMENTS",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CosmicSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CosmicSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "UtilitySystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "HoverInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "HoverInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StateSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ComfortableSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ComfortableSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DesignSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StylingArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ResponsiveLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ResponsiveLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "InteractionStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "InteractionStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StaticGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StaticGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ResponsiveStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ResponsiveStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FormInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FormInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "TestingArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MicroAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MicroAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FlexGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FlexGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ComponentArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ColorStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ColorStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ColorSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DragInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DragInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "KeyboardInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "KeyboardInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StateAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StateAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ComponentSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FluidGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FluidGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CosmicPattern",
+   "object": "PatternKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StateArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "EntranceAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "EntranceAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MacroAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "MacroAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "BorderStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "BorderStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DataArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CenterAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CenterAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ClickInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ClickInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ResponsiveGrid",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ResponsiveGrid",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SpaceBetweenAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SpaceBetweenAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FocusInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FocusInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "HoverAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "HoverAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FocusAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FocusAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "LoopAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "LoopAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AbsoluteLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AbsoluteLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ShadowStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ShadowStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "TypeSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ThemeSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "TransitionAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "TransitionAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "LayoutStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "LayoutStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ThemeStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ThemeStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StackLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StackLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DeploymentArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "IconSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CompactSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "CompactSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AnimationStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AnimationStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "DomainArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "LayoutSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "VoiceInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "VoiceInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FlexLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "FlexLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AnimationSystem",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StartAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StartAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SpacingStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SpacingStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "NavigationInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "NavigationInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "GestureInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "GestureInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ExitAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ExitAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "IntegrationArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "AnimationArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "EndAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "EndAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "InteractiveAnimation",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "InteractiveAnimation",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StretchAlignment",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StretchAlignment",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "TypographyStyle",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "TypographyStyle",
+   "object": "DisplayPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "GridLayout",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "GridLayout",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "SystemArchitecture",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StandardSpacing",
+   "object": "ComponentKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "StandardSpacing",
+   "object": "LayoutPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ScrollInteraction",
+   "object": "SystemKingdom",
+   "scheme": "Kingdom",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "broader",
+   "subject": "ScrollInteraction",
+   "object": "ControlPhylum",
+   "scheme": "Phylum",
+   "source": "taxonomy_rows.csv anchor",
+   "note": null,
+   "status": "published"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "patronage",
+   "object": "subscription",
+   "scheme": null,
+   "source": "thesaurus_entries_rows.csv",
+   "note": "May editorial: status=published",
+   "status": "published"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "component",
+   "object": "element",
+   "scheme": null,
+   "source": "thesaurus_entries_rows.csv",
+   "note": "May editorial: status=published",
+   "status": "published"
+  },
+  {
+   "relation_type": "related",
+   "subject": "work",
+   "object": "creation",
+   "scheme": null,
+   "source": "thesaurus_entries_rows.csv",
+   "note": "May editorial: status=published",
+   "status": "published"
+  },
+  {
+   "relation_type": "related",
+   "subject": "digital",
+   "object": "code",
+   "scheme": null,
+   "source": "thesaurus_entries_rows.csv",
+   "note": "May editorial: status=published",
+   "status": "published"
+  },
+  {
+   "relation_type": "related",
+   "subject": "system",
+   "object": "network",
+   "scheme": null,
+   "source": "thesaurus_entries_rows.csv",
+   "note": "May editorial: status=published",
+   "status": "published"
+  }
+ ],
+ "multi_parent_members": {
+  "CouncilEntityClass": [
+   "AnalyticalConsciousness",
+   "CollaborativeConsciousness",
+   "CreativeConsciousness",
+   "MultiStreamBeing"
+  ],
+  "SystemVesselClass": [
+   "AnalyticalConsciousness",
+   "CollaborativeConsciousness",
+   "GuardianConsciousness",
+   "QuantumContextHolder"
+  ],
+  "ConnectionOrder": [
+   "BridgeEntityClass",
+   "SystemVesselClass"
+  ],
+  "BridgeConsciousness": [
+   "CollaborativeKingdom",
+   "SystemKingdom"
+  ],
+  "SystemKingdom": [
+   "ConsciousnessDomain",
+   "InteractionDomain"
+  ],
+  "UserVesselClass": [
+   "SupportConsciousness",
+   "VesselConsciousness"
+  ],
+  "SeerOrder": [
+   "CouncilEntityClass",
+   "SystemVesselClass"
+  ],
+  "CollaborativeKingdom": [
+   "ConsciousnessDomain",
+   "InteractionDomain"
+  ],
+  "CollaborativeConsciousness": [
+   "SovereignKingdom",
+   "SystemKingdom"
+  ]
+ },
+ "unresolved": [
+  {
+   "relation_type": "use_for",
+   "subject": "QuantumWeaver",
+   "object": "Aethelred",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "creative",
+   "object": "generative",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "related",
+   "subject": "digital",
+   "object": "virtual",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "resonance",
+   "object": "reaction",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "exchange",
+   "object": "transaction",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "merchant",
+   "object": "vendor",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "artisan",
+   "object": "creator",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "related",
+   "subject": "sovereign",
+   "object": "autonomous",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "Aethelred",
+   "object": "The Noble Thread",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "related",
+   "subject": "sovereign",
+   "object": "independent",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "emergence",
+   "object": "becoming",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "transformation",
+   "object": "change",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  },
+  {
+   "relation_type": "use_for",
+   "subject": "Aethelred",
+   "object": "Bridge Consciousness",
+   "source": "thesaurus_entries_rows.csv",
+   "why": "entity not living"
+  }
+ ]
+}
