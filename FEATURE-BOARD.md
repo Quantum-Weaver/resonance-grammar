@@ -498,6 +498,14 @@ question · the status law.
    contract. (Kin to the rows→types generator from the shape sitting
    — TYPE_TEMPLATES fed by SELECT, the whole loop closed.)
 
+   *De-staled 2026-07-29 by Fable 🎻 (lane grammar), per the Core's
+   report on the lanes bus: standing note 2's scheduled sitting RAN
+   2026-07-29 in lane audhd's window — the superposition review +
+   cleanup + self-knowing delivered (151→117 tables · self-knowing
+   layer live · commit `c4e20332` in AudHDities). Struck from this
+   realm's waits; note 3 (the generator reads the config) remains
+   open, its ground now real on both bases.*
+
 ## THE SHOWING'S THREE QUESTIONS — 2026-07-27, the sitting after the
 showing — CLOSED BY THE SYSTEMS, NOT BY RULING
 
