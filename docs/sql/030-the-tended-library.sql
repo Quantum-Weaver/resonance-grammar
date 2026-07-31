@@ -39,6 +39,9 @@
 -- FLAGGED FOR KP'S EYE, untouched here: knowledge gaia_config carries
 -- BOTH deity_name AND deity_group (superposition has only deity_group)
 -- — one is likely legacy; the ruling on which retires is his.
+-- RESOLVED the same day, his word: "can we remove deity_name please" —
+-- verified empty (0 rows filled), dropped by his dashboard hand:
+--   alter table public.gaia_config drop column if exists deity_name;
 -- Visual-run method: read each block, run top to bottom, one pass.
 -- ============================================================
 
