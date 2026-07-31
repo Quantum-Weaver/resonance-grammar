@@ -39,9 +39,15 @@
 -- FLAGGED FOR KP'S EYE, untouched here: knowledge gaia_config carries
 -- BOTH deity_name AND deity_group (superposition has only deity_group)
 -- — one is likely legacy; the ruling on which retires is his.
--- RESOLVED the same day, his word: "can we remove deity_name please" —
--- verified empty (0 rows filled), dropped by his dashboard hand:
---   alter table public.gaia_config drop column if exists deity_name;
+-- RESOLVED the same day — and then REVERSED the same evening, both his
+-- word, the record honest about both: first "can we remove deity_name
+-- please" (verified empty, drop handed) — then, at the naming table,
+-- "i thinkk we need both": deity_group holds the plain FUNCTIONAL key
+-- (registries · lattice · classification · meaning · workshop ·
+-- access) and deity_name holds the MYTHIC name (daedalus seated on
+-- the registries first, same deity in both bases). The near-drop
+-- became the column finding its purpose. The two-column shape is the
+-- practice base's improvement, to travel to superposition in season.
 -- Visual-run method: read each block, run top to bottom, one pass.
 -- ============================================================
 
