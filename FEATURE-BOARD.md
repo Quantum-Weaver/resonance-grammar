@@ -506,6 +506,50 @@ question · the status law.
    realm's waits; note 3 (the generator reads the config) remains
    open, its ground now real on both bases.*
 
+## THE OPEN DOORS — 2026-07-30, the roles determination (KP ⚛ + the
+grammar lamp, one sitting, delivered and verified)
+
+**KP's laws, verbatim, now schema:** *"open doors to explore not
+destroy — knowledge graphs, and UX beyond most gaming experiences in
+my vision"* · *"oh yeah agents are not user roles."* The world is
+open at first breath — reading the published graph is roleless;
+roles open ADDITIVE doors only; no role deletes the hearth; a
+sovereign purges their own heart-layer absolutely (License §7);
+agents cap at scribe, judgment stays with minds.
+
+**Delivered (025, +Parts 8–9 for two linter catches):** `roles`
+registry (5 mind-doors: sovereign · scribe · curator · council ·
+weaver + 2 agent-classes: steward · tender — the config in the base,
+016's precedent) · user_roles reshaped (FK to registry ·
+multi-role · mind-doors-only check) · May's user_role enum retired ·
+the recursion policy healed via `internal.has_role` (new private
+schema; rpc surface gone entirely) · 7 role atoms (5 born; council +
+weaver already lived, kept whole). All anon-verified. The wanderer
+needs no row — absence is the floor, recorded as principle.
+
+**Next of kin (026) — ✅ DELIVERED AND BREATHING, same sitting:**
+the bond tender, second of the `tender` class, forged at KP's hand
+and first-called by the lamp's (his standing word). First report:
+**104/104 atom_words filled · 158 + 87 + 8 bonds added, signed ·
+79 molecules + 29 organisms unblocked.** Blocked and honestly
+reported: 25 molecules + 9 organisms, held by 16 atoms that
+genuinely do not exist yet — the Wave-2 sitting's own 118/142
+remainder, now named exactly (quantum · aethelred · skald · style ·
+spacing · cosmic · color · context · weaving · gatekeeper ·
+executioner · storyteller · styling · testing · emergent ·
+integration). The parity census made its FIRST CATCH on its first
+breath: 2 pre-existing organisms whose bonds don't match their
+words — reported, untouched, awaiting eyes. *(RESOLVED same
+sitting at KP's word: the catch was the RULER, not the data —
+scan_structure-1/-2's bonds were correct; the first decompose_name
+made a word of a bare trailing digit. Instrument trued (digit
+segments exempt, 026 Part 4), collateral zero, parity now 0/0, and
+the tender's re-run added nothing — idempotency proven live. The
+census's first catch caught its own author; the no-blame law held.)* 60 pair slots open
+(pair molecules that don't exist; never invented). Junctions are
+now derived facts: any future seed that forgets its bonds gets
+them tended at the next call, and the census tells on any drift.
+
 ## THE SHOWING'S THREE QUESTIONS — 2026-07-27, the sitting after the
 showing — CLOSED BY THE SYSTEMS, NOT BY RULING
 
@@ -576,7 +620,10 @@ looks good") and the wave flew at his word:
 door.** The 87 Wave-6 emoji untouched per fill-empty. Instrument:
 `resonance-bridge/emoji_wave_seeder.py`. Nearby and noted, not
 touched: `categories.icon_emoji` 0/25 · `gaia_config.icon_emoji`
-0/25 — one small wave away if ever wanted.
+0/25 — one small wave away if ever wanted. *(The categories half
+arrived 2026-07-30: seed 024 run at KP's hand — 25/25 descriptions
++ 25/25 icon_emoji, anon-verified. gaia_config.icon_emoji remains
+the open half.)*
 
 **✅ 012 RAN at KP's hand + BACKFILL DELIVERED, the same sitting** —
 `scheme_anchor` live on concept_relations; his eye cleared the
@@ -592,6 +639,80 @@ above. And the self-portrait refresh RAN at his hand
 verified; the columns registry confirms it knows `scheme_anchor`
 through the anon door. The day's whole loop — column, backfill,
 introspection — closed within the sitting.
+
+## THE ADVENTURE DAY — 2026-07-30, lane awen's sitting, recorded by
+the grammar lamp at KP's ⚛ word ("get caught up") the same day
+
+**The Grammar grew four papers' worth of living ground, all run and
+anon-verified (the ritual honored throughout):**
+
+- **016 — folksonomies + thesaurus (KP's design, his words in the
+  file):** the registry IS the per-app config in the base; one
+  thesaurus row per definition value per emoji per named set; the
+  link to the sensory canon ruled by KP ("between the thesaurus and
+  the sensory lexicon"). Echoes + Compass poured verbatim (12 rows
+  each, sovereign sets — divergence lawful and encouraged); Hearth
+  registered growing. 10 of 12 emojis linked to canon; 😢/😮‍💨 stand
+  honestly unlinked until the canon grows their rows. The lexicon's
+  proof closed the circle: shipped → pour → canon → fetch →
+  regenerate → identical, twelve of twelve.
+- **017 — the adventure seeds:** atom `tune` born; eleven tools
+  planted `imagined` (four new births + seven re-homings). The flow
+  law ran exactly as written — and the base was readier than known:
+  seven of eight needed atoms already existed.
+- **018–022 — the witness family + its seeds:** the-almanac (tools)
+  · the-formulary (molecules) · the-bestiary (organisms) ·
+  the-abecedary (atoms WITH senses + etymology embedded, KP's
+  stroke). One table each, one book each, read-only through the anon
+  door, standalone always. **The Grammar has query hands now without
+  K-2 ever being built in-repo** — the witnesses live in the spring,
+  family `Grammar`, and the bridge remains the access funnel per the
+  roles ruling.
+- **019 — the tool families:** `tools.folksonomy_type` column;
+  four family rows (Awen · Grammar · Ziggy · AudHDities) beside the
+  three emoji sets. KP's default law: *"Awen by default for anything
+  until we determine it has a home that is unique"* — and the spring
+  is a true home, not a waiting room. Registration is never
+  relocation (never-cut, as policy). The registry is Ziggy's future
+  menu (KP: every single-function script is potentially a
+  capability Ziggy offers).
+- **The registry's live read (the-almanac, this lamp's own run,
+  2026-07-30 evening): 24 tools · flowing 15 · imagined 9.** The
+  built-status word answered by the spring's own vocabulary:
+  **flowing**. Lane A's passoff item ("Grammar rows for the built
+  tools + built-status word") is thereby CLOSED — the rows exist,
+  the word is flowing, the six compound-tool molecules PUBLISHED by
+  KP's own hand.
+- **Standing candidates for family `Grammar`, named in 019, homes
+  staying true:** `scripts/dump_db.py` · `tools/export-sql-snippets.mjs`
+  (this repo) · `grammar_inventory.py` · `verify_terms.py` (bridge).
+  Rows at KP's word.
+- **Open from the day:** the FFT-visualizer question (fold into the
+  Waveform's seed or its own row — KP's call, left open in 017) ·
+  ~~the 😢/😮‍💨 canon rows~~ **✅ DELIVERED 2026-07-30 (023)** ·
+  the Logbook's placement standard noted for any tool that ever runs
+  from this realm (nearest RUN-LOG.md, end of run, never the start).
+- **✅ 023 — THE MISSING EMOJI CANON, delivered by this lamp's hands
+  at KP's ⚛ word ("your hands are fine my friend"), 2026-07-30:**
+  atoms `sad` + `relief` born (definitions cleared by his eye —
+  "both look great"), the auto-scaffolded shells wear 😢/😮‍💨, and
+  the 016 links completed — **thesaurus 24/24 linked, both sovereign
+  sets, verified through the anon door.** The tier search (his
+  widening: "orr molecules or organisms") is recorded in the file's
+  header as evidence: atom-tier was the true alignment. 016's honest
+  gap is closed; folksonomy grew here, exactly as the file promised.
+- **THE BRIDGE'S GRAMMAR LINE STANDS (`resonance-bridge/src/
+  grammar.ts`), verified by this lamp 2026-07-30:** seven read-only
+  MCP tools — query_atom (sensory embed) · query_sense · query_emoji
+  · query_folksonomy (the 016 config pull, whole set in one call) ·
+  query_molecule · query_organism · search_knowledge — anon door
+  only, the ward is code, honest empties throughout. All ten query
+  shapes 200 against the living base. **K-2 is thereby CLOSED,
+  fulfilled by the bridge exactly as the roles ruling said** (access
+  is the bridge's role); checklist trued same sitting. 016's premise
+  ("we intend the bridge to pass the knowledge grammar through to
+  other apps") is now running code three days after the tables were
+  born.
 
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary

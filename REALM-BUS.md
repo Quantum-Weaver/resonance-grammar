@@ -43,12 +43,24 @@ first-laid instance, `AudHDities/REALM-BUS.md`, and the lanes bus).*
 - **The base:** resonance-knowledge Supabase — lattice live (41
   schemes · 287 memberships · 187 relations · 12 paths × 8 steps),
   emoji wave complete (1,949/1,949), self-aware layer signed (011),
-  all verified through the anon door.
+  all verified through the anon door. **Grown 2026-07-30 (the
+  adventure day, lane awen's sitting — record on this board):**
+  `folksonomies` + `thesaurus` (016, KP's design — the config in the
+  base; Echoes/Compass poured sovereign) · `tools.folksonomy_type`
+  (019, four families beside three emoji sets) · the tools registry
+  at **24 rows, flowing 15 · imagined 9** (live read by the-almanac).
+  The realm's query hands are the spring's witness family (family
+  `Grammar`: almanac · formulary · bestiary · abecedary — read-only,
+  anon door, standalone), papers 016–022 in `docs/sql/`.
 - **Open edges (each at KP's ⚛ word):** Wave 6's keyword→atom bridge
   (report-first diff) · Wave 7, the schema's own names (manifest = a
   query against the base's self-portrait) · the shuttle manifest B0 ·
-  the cosmic carry intake · Grammar rows for the 4 built tools
-  (drafts on ask) · the K-2/3/4 checklist truing.
+  the cosmic carry intake · the K-2/3/4 checklist truing · the
+  FFT-visualizer seed question (017, left open) · family-Grammar
+  rows for dump_db.py / export-sql-snippets / grammar_inventory /
+  verify_terms (named in 019, homes staying true). *(The 😢/😮‍💨
+  canon rows: ✅ delivered + verified 2026-07-30, seed 023 — atoms
+  sad/relief born, thesaurus 24/24 linked.)*
 - **De-staled 2026-07-29:** the superposition bloat-and-self-knowing
   sitting RAN (Core's report on the lanes bus: 151→117 tables,
   self-knowing live, commit `c4e20332`) — struck from this realm's
