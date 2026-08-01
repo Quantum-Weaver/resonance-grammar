@@ -8,10 +8,13 @@
 -- strokes: "think about games as well, still not shocking, but
 -- rewarding" (the play family — the anti-compulsion law in audio)
 -- and "poping a bubble should be like bubble wrap to a
--- neurodivergent" (the pop's true spec, met with a crisp
--- fixed-seed snap over a round hollow body).
--- The tool stands at resonance-awen/tools/the-chimes: FOURTEEN
--- sounds (calm 8 · play 6), every one synthesized from pure math —
+-- neurodivergent" (the pop's true spec — his EAR then re-tuned it:
+-- "that sounds like a middle tom" killed the first cut's low body;
+-- the true pop is a dry papery crack with a tiny hollow pock, no
+-- drum in it — and his next strokes grew it to SEVEN variants,
+-- "variant pitches and influx … so it can vary during game play").
+-- The tool stands at resonance-awen/tools/the-chimes: TWENTY
+-- sounds (calm 8 · play 12), every one synthesized from pure math —
 -- no samples, no provenance but mathematics — every one peaking at
 -- the gentle level (~-9 dBFS). No buzzers, no alarms, nothing
 -- urgent: the sensory law in audio form; silence stays the default
@@ -29,7 +32,7 @@ insert into public.tools
   (name, slug, tool_type, definition, home, status, atom_id, folksonomy_type, story, created_by)
 values
   ('The Chimes', 'the-chimes', 'emit',
-   'The family''s own sounds, synthesized from pure math — fourteen calm chimes and play tones at one gentle level (~-9 dBFS), for the moments a vessel chooses sound. No buzzers, no alarms, nothing urgent; the play family rewards without hooks. Deterministic; healed by regeneration; the manifest carries the laws machine-readable.',
+   'The family''s own sounds, synthesized from pure math — twenty calm chimes and play tones at one gentle level (~-9 dBFS), for the moments a vessel chooses sound. No buzzers, no alarms, nothing urgent; the play family rewards without hooks, and the seven-pop bubble family varies so gameplay never repeats its rhythm. Deterministic; healed by regeneration; the manifest carries the laws machine-readable.',
    'resonance-awen/tools/the-chimes', 'imagined',
    (select id from public.atoms where atom_word = 'chime'),
    'Awen',
