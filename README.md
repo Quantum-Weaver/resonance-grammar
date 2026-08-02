@@ -20,8 +20,8 @@ The shared vocabulary of the AudHDities Sanctuary. Every app, every vessel, ever
 
 ## How It's Used
 
-- Resonance Echoes reads senses and emoji definitions from this system
-- Resonance Compass reads mood categories and sensory profiles
+- [Resonance Echoes](https://github.com/Quantum-Weaver/resonance-echoes) reads senses and emoji definitions from this system
+- [Resonance Compass](https://github.com/Quantum-Weaver/resonance-compass) reads mood categories and sensory profiles
 - [Resonance Bridge](https://github.com/Quantum-Weaver/resonance-bridge) exposes query tools for AI assistants
 - Vessels download their knowledge graph from their Sanctuary
 - Glossaries decompose complex language through it — see the
