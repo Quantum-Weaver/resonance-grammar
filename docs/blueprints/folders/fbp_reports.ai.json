@@ -1,0 +1,169 @@
+{
+  "folder_name": "reports",
+  "folder_path": "reports",
+  "description": "5 files, 0 subfolders",
+  "scan_timestamp": "2026-08-04T19:12:28.484115 | in sovereign time",
+  "files": [
+    {
+      "path": "reports/2026-06-30-assessment-2.md",
+      "description": "Resonance Knowledge"
+    },
+    {
+      "path": "reports/2026-06-30-assessment-aethelred.md",
+      "description": "Resonance Knowledge"
+    },
+    {
+      "path": "reports/2026-06-30-assessment.md",
+      "description": "Resonance Knowledge"
+    },
+    {
+      "path": "reports/analysis.json",
+      "description": "data, 1,132 bytes"
+    },
+    {
+      "path": "reports/inventory.json",
+      "description": "data, 3,501 bytes"
+    }
+  ],
+  "file_count": 5,
+  "subdirectories": [],
+  "code_analysis": {
+    "2026-06-30-assessment-2.md": {
+      "language": "markdown",
+      "lines": 32,
+      "words": 154,
+      "heading_count": 7,
+      "headings": [
+        "Resonance Knowledge \u2014 Assessment Report",
+        "Summary",
+        "Standards Compliance",
+        "Vulnerabilities",
+        "Gaps",
+        "Test Readiness",
+        "Recommendations"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 7,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "2026-06-30-assessment-aethelred.md": {
+      "language": "markdown",
+      "lines": 291,
+      "words": 461,
+      "heading_count": 32,
+      "headings": [
+        "Resonance Knowledge \u2014 Repository Assessment",
+        "1. WHAT EXISTS",
+        "Root",
+        "docs/",
+        "src/",
+        "Recovered from git history (exist in commits, deleted from HEAD)",
+        "2. WHAT'S MISSING",
+        "Files declared in CLAUDE.md that do not exist on disk",
+        "Standard Sanctuary / Rust project files absent",
+        "Missing from `Cargo.toml`",
+        "Missing `.gitignore` patterns",
+        "3. GAPS",
+        "Phase K-1 regression \u2014 working code deleted from HEAD",
+        "CLAUDE.md session protocol is broken",
+        "Schema vs Grammar spec mismatches",
+        "`generate_blueprint.py` is wrong-project code",
+        "`README.md` renders as raw text",
+        "`docs/BUILD-SEQUENCE.md` content described a different project",
+        "`query_atom` function queries wrong table",
+        "4. VULNERABILITIES",
+        "Binary and database artifacts in git history",
+        "`.gitignore` inheriting wrong project's rules",
+        "`.claude/settings.json` is tracked",
+        "`helper.md` gitignored but committed"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 5,
+      "table_rows": 68,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "2026-06-30-assessment.md": {
+      "language": "markdown",
+      "lines": 34,
+      "words": 179,
+      "heading_count": 7,
+      "headings": [
+        "Resonance Knowledge \u2014 Assessment Report",
+        "Summary",
+        "Standards Compliance",
+        "Vulnerabilities",
+        "Gaps",
+        "Test Readiness",
+        "Recommendations"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 7,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "analysis.json": {
+      "language": "json",
+      "lines": 43,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "analyzed_at",
+        "gaps",
+        "project",
+        "recommendations",
+        "standards_compliance",
+        "test_readiness",
+        "vulnerabilities"
+      ],
+      "key_count": 7
+    },
+    "inventory.json": {
+      "language": "json",
+      "lines": 150,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "by_language",
+        "by_type",
+        "files",
+        "large_files",
+        "project",
+        "scanned_at",
+        "secrets_flagged",
+        "total_files"
+      ],
+      "key_count": 8
+    }
+  },
+  "maintaining_agent": "FolderAgent",
+  "folders_not_walked": [],
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

@@ -1,0 +1,64 @@
+{
+  "folder_name": "supabase",
+  "folder_path": "supabase",
+  "description": "2 files, 1 subfolders",
+  "scan_timestamp": "2026-08-04T19:12:28.647998 | in sovereign time",
+  "files": [
+    {
+      "path": "supabase/.gitignore",
+      "description": "ignore rules, 72 bytes"
+    },
+    {
+      "path": "supabase/config.toml",
+      "description": "For detailed configuration reference documentation, visit:"
+    }
+  ],
+  "file_count": 2,
+  "subdirectories": [
+    "supabase/.temp"
+  ],
+  "code_analysis": {
+    "config.toml": {
+      "language": "toml",
+      "lines": 415,
+      "sections": [
+        "api",
+        "api.tls",
+        "db",
+        "db.pooler",
+        "db.migrations",
+        "db.seed",
+        "db.network_restrictions",
+        "realtime",
+        "studio",
+        "local_smtp",
+        "storage",
+        "storage.s3_protocol",
+        "storage.analytics",
+        "storage.vector",
+        "auth",
+        "auth.rate_limit",
+        "auth.email",
+        "auth.sms",
+        "auth.sms.twilio",
+        "auth.mfa",
+        "auth.mfa.totp",
+        "auth.mfa.phone",
+        "auth.external.apple",
+        "auth.web3.solana",
+        "auth.third_party.firebase",
+        "auth.third_party.auth0",
+        "auth.third_party.aws_cognito",
+        "auth.third_party.clerk",
+        "auth.oauth_server",
+        "edge_runtime",
+        "analytics",
+        "experimental",
+        "experimental.pgdelta"
+      ]
+    }
+  },
+  "maintaining_agent": "FolderAgent",
+  "folders_not_walked": [],
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

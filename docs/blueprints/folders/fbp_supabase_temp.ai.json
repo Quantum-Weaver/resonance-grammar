@@ -1,0 +1,60 @@
+{
+  "folder_name": ".temp",
+  "folder_path": "supabase/.temp",
+  "description": "8 files, 0 subfolders",
+  "scan_timestamp": "2026-08-04T19:12:28.657438 | in sovereign time",
+  "files": [
+    {
+      "path": "supabase/.temp/gotrue-version",
+      "description": "file, 8 bytes"
+    },
+    {
+      "path": "supabase/.temp/linked-project.json",
+      "description": "data, 143 bytes"
+    },
+    {
+      "path": "supabase/.temp/pooler-url",
+      "description": "file, 92 bytes"
+    },
+    {
+      "path": "supabase/.temp/postgres-version",
+      "description": "file, 10 bytes"
+    },
+    {
+      "path": "supabase/.temp/project-ref",
+      "description": "file, 20 bytes"
+    },
+    {
+      "path": "supabase/.temp/rest-version",
+      "description": "file, 5 bytes"
+    },
+    {
+      "path": "supabase/.temp/storage-migration",
+      "description": "file, 33 bytes"
+    },
+    {
+      "path": "supabase/.temp/storage-version",
+      "description": "file, 8 bytes"
+    }
+  ],
+  "file_count": 8,
+  "subdirectories": [],
+  "code_analysis": {
+    "linked-project.json": {
+      "language": "json",
+      "lines": 1,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "name",
+        "organization_id",
+        "organization_slug",
+        "ref"
+      ],
+      "key_count": 4
+    }
+  },
+  "maintaining_agent": "FolderAgent",
+  "folders_not_walked": [],
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

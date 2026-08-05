@@ -717,3 +717,15 @@ anon-verified (the ritual honored throughout):**
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary
   snapshots; the .bak-in-git oddity resolves with it).
+
+---
+
+*Appended 2026-08-04 — **the room this record calls `sources/` is now named
+`landfill/`.*** *Renamed at KP's ⚛ word, verbatim: "sources folder is a landfill
+that should never be inventoried" — "it can be renamed landfill to avoid
+confusion." The new name is the exclusion: `landfill` says "not content" in any
+realm, so no instrument inventories it by mistake.*
+
+*Nothing above this line was altered. A record is correct about its own day and
+is corrected beside itself, never inside itself — and every quotation above
+stands exactly as it was spoken.*

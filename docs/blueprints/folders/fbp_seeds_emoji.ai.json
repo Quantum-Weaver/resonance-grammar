@@ -1,0 +1,59 @@
+{
+  "folder_name": "emoji",
+  "folder_path": "seeds/emoji",
+  "description": "2 files, 0 subfolders",
+  "scan_timestamp": "2026-08-04T19:12:28.521351 | in sovereign time",
+  "files": [
+    {
+      "path": "seeds/emoji/emoji-wave-REVIEW.md",
+      "description": "THE EMOJI WAVE"
+    },
+    {
+      "path": "seeds/emoji/emoji-wave.json",
+      "description": "data, 306,327 bytes"
+    }
+  ],
+  "file_count": 2,
+  "subdirectories": [],
+  "code_analysis": {
+    "emoji-wave-REVIEW.md": {
+      "language": "markdown",
+      "lines": 1871,
+      "words": 5629,
+      "heading_count": 1,
+      "headings": [
+        "THE EMOJI WAVE \u2014 review sheet for KP's eye"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "emoji-wave.json": {
+      "language": "json",
+      "lines": 11182,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "born",
+        "convention",
+        "counts",
+        "rows",
+        "wave"
+      ],
+      "key_count": 5
+    }
+  },
+  "maintaining_agent": "FolderAgent",
+  "folders_not_walked": [],
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

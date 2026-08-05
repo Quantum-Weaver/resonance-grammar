@@ -53534,3 +53534,19 @@ Relation   → edges in the Ontology graph
 
 *Sections 8-11 (v2): 1757 vocabulary terms cataloged*
 *Council review: Cartographer (structure gaps), Indexer (design-only), Echo (conflicts)*
+
+---
+
+*Appended 2026-08-04 — **the `sources/` in every provenance address on this page
+is now named `landfill/`.*** *Renamed at KP's ⚛ word, verbatim: "sources folder
+is a landfill that should never be inventoried" — "it can be renamed landfill to
+avoid confusion." The new name is the exclusion: `landfill` says "not content" in
+any realm, so no instrument inventories it by mistake.*
+
+*Every `C:\_superposition\resonance-excavator\sources\...` citation above records
+where a schema was found on the day it was read, and is correct about that day.
+To resolve one against the disk today, read `sources` as `landfill`; the rest of
+each path is unchanged.*
+
+*Nothing above this line was altered. A record is corrected beside itself, never
+inside itself.*
