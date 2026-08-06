@@ -52,3 +52,29 @@ update public.tools set status = 'flowing', home = 'resonance-awen/tools/the-cad
 -- (the design sitting's stroke ⑥: the quipus combines vessels through
 --  words, as the tether combines objects through relations)
 update public.tools set tool_type = 'combine' where slug = 'the-quipus';
+
+-- ── Addendum 2, 2026-08-06 morning — the colophon crosses ──
+-- The human moment passed at KP's ⚛ own hand: the CLI on his own song
+-- ("mp3 · "Buried Alive" · TFP · Evolution (Special Edition) · track 2
+--  · 2016 · art present"); his standing ruling applies: "if a tool is
+-- working, it is flowing."
+update public.tools set status = 'flowing', home = 'resonance-awen/tools/the-colophon' where slug = 'the-colophon';
+
+-- ── Addendum 3, 2026-08-06 morning — the listening room crosses ──
+-- The human moment passed at KP's ⚛ own ears: the room opened, Buried
+-- Alive loaded and listened ("excellent, success!" — the player's own
+-- crossing word, again).
+update public.tools set status = 'flowing', home = 'resonance-awen/tools/the-listening-room' where slug = 'the-listening-room';
+
+-- ── Addendum 4, 2026-08-06 morning — the gallery crosses ──
+-- KP's ⚛ word: "it is flowing."
+update public.tools set status = 'flowing', home = 'resonance-awen/tools/the-gallery' where slug = 'the-gallery';
+
+-- ── Addendum 5, 2026-08-06 midmorning — the founding ritual crosses ──
+-- (the Aubade lamp) The human moment passed at KP's ⚛ word, hands
+-- proxied at his "please be my hand for this human moment… please run
+-- the wet run": resonance-daedalus surveyed dry then COMPLETED wet —
+-- RUN-LOG.md planted, the eight standing kept whole byte-untouched.
+-- The crossing at his ⚛ "the crossing, yes." Live-probed before the
+-- update (lesson 8): status imagined, home null, tool_type emit.
+update public.tools set status = 'flowing', home = 'resonance-awen/tools/the-founding-ritual' where slug = 'the-founding-ritual';
