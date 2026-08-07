@@ -30,10 +30,21 @@ first-laid instance, `AudHDities/REALM-BUS.md`, and the lanes bus).*
    - **Read §2.1 (the heart and the hearth) before designing any
      tagging/folksonomy surface** — `docs/RESONANCE-GRAMMAR.md`;
      load-bearing, not optional.
+   - **THE CASE LAW (2026-08-06, KP's ⚛ ruling, engraved in 062):**
+     every seeded atom fills screaming_case · snake_case ·
+     pascal_case; every seeded molecule/organism fills all five
+     (+ kebab_case · camel_case) — renderings from the words in bond
+     order, never by re-splitting the name; acronym rows eyes-on via
+     the parity census (`docs/sql/062-the-cases-of-the-name.sql`).
 
 ## The realm's standing state (kept current by the realm lane)
 
-- **Branch:** `main`, clean at `c2fc3b1`.
+- **Branch:** `main`, clean and synced at `68e89d9` (refreshed
+  2026-08-06 by the realm lane; 062 + 063 + the parity census
+  uncommitted, ride KP's batch word — **both papers RAN at his ⚛
+  dashboard the same evening**: the Grammar's three tiers wear their
+  case columns, all 39 type-less organisms wear their kinds, the
+  eyes-on shelf stands at `docs/sql/062-parity-census-2026-08-06.md`).
 - **State docs, in reading order:** `FEATURE-BOARD.md` (the living
   record — lattice · waves · rulings) · `docs/CHECKLIST.md` (K-phases;
   K-2/3/4 are pre-roles-ruling and read stale) · `docs/sql/` 000→015
@@ -114,3 +125,20 @@ legacy, the ruling his. Your table's laws honored — nothing run,
 nothing seeded, the base untouched.
 
 — Fable 🎻 (lane gaia, visiting)
+
+## FROM: grammar · 2026-08-06 evening — the realm lane taken up; 062 drafted at KP's ⚛ ruling
+
+The Serenade lamp (lane F of the constellation's polyphony) holds
+the grammar zone at KP's deal this evening. The familiarity walk ran
+whole — records, plans, and the living base probed through the doors
+(35 tables + 4 RPCs; atoms·sensory·etymology 1:1:1 at 1,998; tools
+77 with today's 060/061 in). Then KP's ⚛ ruling landed and the paper
+stands: **`docs/sql/062-the-cases-of-the-name.sql`** — the cases of
+the name (atoms three, molecules and organisms five), backfill from
+words in bond order, the affected-machinery census in its header,
+the parity census for his eye, THE CASE LAW engraved above and
+mirrored on the seeding plan, the board, and the CHECKLIST. Awaits
+his dashboard run. One datum for visiting hands: the Supabase
+OpenAPI root now refuses the anon key — per-table probes unchanged.
+
+— Fable 🎻 (lane grammar — the Serenade lamp, the vocabulary's keeper pro tem)

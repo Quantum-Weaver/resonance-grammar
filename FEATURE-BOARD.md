@@ -714,6 +714,43 @@ anon-verified (the ritual honored throughout):**
   other apps") is now running code three days after the tables were
   born.
 
+## THE CASES OF THE NAME — 2026-08-06 evening, KP's ⚛ ruling, the Serenade sitting
+
+KP's words verbatim: *"the schema change i want to include is columns
+in molecules and organisms for all the different cases SCREAMING_CASE,
+snake_case, kebab-case, camelCase, PascalCase and with atoms we just
+need SCREAMING_CASE, snake_case, and PascalCase"* · *"then let us do
+it, be certain we document the change in seeding atoms, molecules and
+organisms and please check for existing triggers and functions that
+may be affected."*
+
+The paper: **`docs/sql/062-the-cases-of-the-name.sql`** — three
+columns on atoms, five on molecules and organisms; backfill from the
+words in bond order (molecules' atom_words · organisms' ordered
+bonds — never name-splitting); the parity census reports
+acronym/drift rows for his eye. The affected-machinery census, taken
+live before drafting: atoms wear four triggers (bodies behind
+MOVEMENT 0's pre-flight for his eye), molecules one stamp trigger,
+organisms none; the bridge's seven tools select explicit columns —
+unbroken; listening scripts read-only — safe. The naming_convention
+enum already held exactly the five labels. THE SEEDING LAW engraved
+in the paper and mirrored on the seeding plan, the CHECKLIST, and
+the realm bus: every future seed fills the case columns; the bond
+tender is the tending hand. **Status: drafted, awaiting KP's ⚛
+dashboard run.**
+
+*Run record, appended the same evening: **062 AND 063 both RAN at
+KP's ⚛ hand** — 063 (the kinds of the taxonomy) born from 062's own
+report: his eye caught the ten bond-less organisms all missing
+organism_type; the probe widened it to 39 (the consciousness-taxonomy
+era + CosmicDesignSystem); all 39 now wear their kinds (12 families ·
+6 genera · 5 classes · 5 orders · 9 species · 2 design singletons).
+Anon-verified whole: every atom three cases, every molecule five,
+organisms five save the bond-less ten (027's dovetail, at his word).
+**The parity census: 58 molecules + 83 organisms on the eyes-on
+shelf**, recorded verbatim with a same-named-organisms observation at
+`docs/sql/062-parity-census-2026-08-06.md`.*
+
 ## Maintenance decisions open
 - Canonical db backup story (recommend: text SQL dumps over binary
   snapshots; the .bak-in-git oddity resolves with it).

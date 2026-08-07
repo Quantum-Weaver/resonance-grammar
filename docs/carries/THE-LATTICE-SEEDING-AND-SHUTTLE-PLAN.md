@@ -225,6 +225,21 @@ config"*)
 *Every wave closes the same way: anon verify → FEATURE-BOARD updated
 same sitting → next wave only at KP's word.*
 
+### THE CASE LAW — binds every wave from 062 forward (2026-08-06, KP's ⚛ ruling)
+
+*Engraved at KP's word ("be certain we document the change in seeding
+atoms, molecules and organisms"); the paper is
+`docs/sql/062-the-cases-of-the-name.sql`, drafted from the living
+base.* **Every seeded ATOM fills its three case columns**
+(screaming_case · snake_case · pascal_case); **every seeded MOLECULE
+or ORGANISM fills all five** (+ kebab_case · camel_case). Renderings
+derive from the constituent words IN BOND ORDER — molecules from
+atom_words, organisms from organism_atoms.position — never by
+re-splitting the written name. The acronym ruling (Wave 0 #4) stands
+whole: acronym-bearing rows keep their word-derived renderings and
+show in 062's parity census for KP's eye. The bond tender is the
+named tending hand for rows that arrive without them.
+
 ---
 
 ## PART B — THE SPECIAL-PARSE SHUTTLE (syntax by minds)
