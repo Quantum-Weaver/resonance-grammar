@@ -1,0 +1,4881 @@
+{
+ "modifier_updates": {
+  "prop": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "props(314)"
+   ]
+  },
+  "class": {
+   "add": [
+    "es"
+   ],
+   "covers": [
+    "classes(217)"
+   ]
+  },
+  "type": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "types(82)"
+   ]
+  },
+  "pattern": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "patterns(75)"
+   ]
+  },
+  "profile": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "profiles(71)"
+   ]
+  },
+  "action": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "actions(64)"
+   ]
+  },
+  "option": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "options(63)"
+   ]
+  },
+  "load": {
+   "add": [
+    "ing",
+    "ed"
+   ],
+   "covers": [
+    "loading(51)",
+    "loaded(1)"
+   ]
+  },
+  "message": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "messages(48)"
+   ]
+  },
+  "file": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "files(46)"
+   ]
+  },
+  "application": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "applications(45)"
+   ]
+  },
+  "quest": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "quests(45)"
+   ]
+  },
+  "response": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "responses(44)"
+   ]
+  },
+  "sigil": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sigils(44)"
+   ]
+  },
+  "value": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "values(41)"
+   ]
+  },
+  "dimension": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "dimensions(36)"
+   ]
+  },
+  "name": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "names(34)"
+   ]
+  },
+  "state": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "states(34)"
+   ]
+  },
+  "item": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "items(33)"
+   ]
+  },
+  "lesson": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "lessons(33)"
+   ]
+  },
+  "participant": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "participants(33)"
+   ]
+  },
+  "path": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "paths(31)"
+   ]
+  },
+  "limit": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "limits(30)"
+   ]
+  },
+  "size": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sizes(30)"
+   ]
+  },
+  "learn": {
+   "add": [
+    "ing",
+    "ed"
+   ],
+   "covers": [
+    "learning(29)",
+    "learned(1)"
+   ]
+  },
+  "stage": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "stages(28)"
+   ]
+  },
+  "tier": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "tiers(28)"
+   ]
+  },
+  "animation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "animations(27)"
+   ]
+  },
+  "event": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "events(27)"
+   ]
+  },
+  "anchor": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "anchors(25)"
+   ]
+  },
+  "execution": {
+   "add": [
+    "er",
+    "s"
+   ],
+   "covers": [
+    "executioner(25)",
+    "executions(22)"
+   ]
+  },
+  "language": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "languages(25)"
+   ]
+  },
+  "view": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "views(25)"
+   ]
+  },
+  "report": {
+   "add": [
+    "s",
+    "ing"
+   ],
+   "covers": [
+    "reports(24)",
+    "reporting(1)"
+   ]
+  },
+  "standard": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "standards(24)"
+   ]
+  },
+  "blueprint": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "blueprints(23)"
+   ]
+  },
+  "channel": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "channels(23)"
+   ]
+  },
+  "collection": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "collections(23)"
+   ]
+  },
+  "conversation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "conversations(23)"
+   ]
+  },
+  "proposal": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "proposals(23)"
+   ]
+  },
+  "script": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "scripts(23)"
+   ]
+  },
+  "communication": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "communications(22)"
+   ]
+  },
+  "companion": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "companions(22)"
+   ]
+  },
+  "custom": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "customs(22)"
+   ]
+  },
+  "cycle": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "cycles(22)"
+   ]
+  },
+  "distribution": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "distributions(22)"
+   ]
+  },
+  "generation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "generations(22)"
+   ]
+  },
+  "gift": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "gifts(22)"
+   ]
+  },
+  "herald": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "heralds(22)"
+   ]
+  },
+  "house": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "houses(22)"
+   ]
+  },
+  "keyword": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "keywords(22)"
+   ]
+  },
+  "milestone": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "milestones(22)"
+   ]
+  },
+  "narrative": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "narratives(22)"
+   ]
+  },
+  "persona": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "personas(22)"
+   ]
+  },
+  "protocol": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "protocols(22)"
+   ]
+  },
+  "role": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "roles(22)"
+   ]
+  },
+  "room": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "rooms(22)"
+   ]
+  },
+  "scene": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "scenes(22)"
+   ]
+  },
+  "set": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sets(22)"
+   ]
+  },
+  "signal": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "signals(22)"
+   ]
+  },
+  "submission": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "submissions(22)"
+   ]
+  },
+  "survey": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "surveys(22)"
+   ]
+  },
+  "visit": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "visits(22)"
+   ]
+  },
+  "ware": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "wares(22)"
+   ]
+  },
+  "work": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "works(22)"
+   ]
+  },
+  "label": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "labels(19)"
+   ]
+  },
+  "route": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "routes(19)"
+   ]
+  },
+  "table": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "tables(18)"
+   ]
+  },
+  "import": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "imports(16)"
+   ]
+  },
+  "link": {
+   "add": [
+    "s",
+    "ed"
+   ],
+   "covers": [
+    "links(16)",
+    "linked(1)"
+   ]
+  },
+  "need": {
+   "add": [
+    "s",
+    "ed"
+   ],
+   "covers": [
+    "needs(16)",
+    "needed(2)"
+   ]
+  },
+  "variable": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "variables(16)"
+   ]
+  },
+  "enum": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "enums(15)"
+   ]
+  },
+  "preference": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "preferences(15)"
+   ]
+  },
+  "rule": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "rules(15)"
+   ]
+  },
+  "metric": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "metrics(14)"
+   ]
+  },
+  "platform": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "platforms(14)"
+   ]
+  },
+  "read": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "reading(13)"
+   ]
+  },
+  "result": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "results(13)"
+   ]
+  },
+  "theme": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "themes(13)"
+   ]
+  },
+  "domain": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "domains(12)"
+   ]
+  },
+  "asset": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "assets(11)"
+   ]
+  },
+  "recipient": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "recipients(11)"
+   ]
+  },
+  "visual": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "visuals(11)"
+   ]
+  },
+  "answer": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "answers(10)"
+   ]
+  },
+  "fractal": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "fractals(10)"
+   ]
+  },
+  "level": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "levels(10)"
+   ]
+  },
+  "question": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "questions(10)"
+   ]
+  },
+  "quote": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "quotes(10)"
+   ]
+  },
+  "song": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "songs(10)"
+   ]
+  },
+  "stat": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "stats(10)"
+   ]
+  },
+  "term": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "terms(10)"
+   ]
+  },
+  "token": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "tokens(10)"
+   ]
+  },
+  "unlock": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "unlocks(10)"
+   ]
+  },
+  "extension": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "extensions(9)"
+   ]
+  },
+  "extract": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "extracted(9)"
+   ]
+  },
+  "icon": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "icons(9)"
+   ]
+  },
+  "breakthrough": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "breakthroughs(8)"
+   ]
+  },
+  "control": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "controls(8)"
+   ]
+  },
+  "definition": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "definitions(8)"
+   ]
+  },
+  "enrich": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "enriched(8)"
+   ]
+  },
+  "field": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "fields(8)"
+   ]
+  },
+  "gradient": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "gradients(8)"
+   ]
+  },
+  "handler": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "handlers(8)"
+   ]
+  },
+  "interaction": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "interactions(8)"
+   ]
+  },
+  "param": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "params(8)"
+   ]
+  },
+  "pathway": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "pathways(8)"
+   ]
+  },
+  "emoji": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "emojis(7)"
+   ]
+  },
+  "float": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "floating(7)"
+   ]
+  },
+  "head": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "heading(7)"
+   ]
+  },
+  "section": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sections(7)"
+   ]
+  },
+  "constraint": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "constraints(6)"
+   ]
+  },
+  "dir": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "dirs(6)"
+   ]
+  },
+  "error": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "errors(6)"
+   ]
+  },
+  "insight": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "insights(6)"
+   ]
+  },
+  "key": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "keys(6)"
+   ]
+  },
+  "pixel": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "pixels(6)"
+   ]
+  },
+  "position": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "positions(6)"
+   ]
+  },
+  "track": {
+   "add": [
+    "s",
+    "ing"
+   ],
+   "covers": [
+    "tracks(6)",
+    "tracking(1)"
+   ]
+  },
+  "col": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "cols(5)"
+   ]
+  },
+  "column": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "columns(5)"
+   ]
+  },
+  "component": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "components(5)"
+   ]
+  },
+  "default": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "defaults(5)"
+   ]
+  },
+  "detail": {
+   "add": [
+    "s",
+    "ed"
+   ],
+   "covers": [
+    "details(5)",
+    "detailed(2)"
+   ]
+  },
+  "doc": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "docs(5)"
+   ]
+  },
+  "folder": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "folders(5)"
+   ]
+  },
+  "fragment": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "fragments(5)"
+   ]
+  },
+  "id": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "ids(5)"
+   ]
+  },
+  "implementation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "implementations(5)"
+   ]
+  },
+  "method": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "methods(5)"
+   ]
+  },
+  "mode": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "modes(5)"
+   ]
+  },
+  "permission": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "permissions(5)"
+   ]
+  },
+  "select": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "selected(5)"
+   ]
+  },
+  "support": {
+   "add": [
+    "ing",
+    "ed",
+    "s"
+   ],
+   "covers": [
+    "supporting(5)",
+    "supported(2)",
+    "supports(1)"
+   ]
+  },
+  "assignment": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "assignments(4)"
+   ]
+  },
+  "connection": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "connections(4)"
+   ]
+  },
+  "contact": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "contacts(4)"
+   ]
+  },
+  "device": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "devices(4)"
+   ]
+  },
+  "discover": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "discovered(4)"
+   ]
+  },
+  "element": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "elements(4)"
+   ]
+  },
+  "environment": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "environments(4)"
+   ]
+  },
+  "group": {
+   "add": [
+    "s",
+    "ed"
+   ],
+   "covers": [
+    "groups(4)",
+    "grouped(1)"
+   ]
+  },
+  "layer": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "layers(4)"
+   ]
+  },
+  "layout": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "layouts(4)"
+   ]
+  },
+  "member": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "members(4)"
+   ]
+  },
+  "object": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "objects(4)"
+   ]
+  },
+  "override": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "overrides(4)"
+   ]
+  },
+  "relationship": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "relationships(4)"
+   ]
+  },
+  "threshold": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "thresholds(4)"
+   ]
+  },
+  "word": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "words(4)"
+   ]
+  },
+  "accept": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "accepted(3)"
+   ]
+  },
+  "day": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "days(3)"
+   ]
+  },
+  "export": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "exports(3)"
+   ]
+  },
+  "feature": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "features(3)"
+   ]
+  },
+  "focus": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "focused(3)"
+   ]
+  },
+  "gap": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "gaps(3)"
+   ]
+  },
+  "index": {
+   "add": [
+    "es"
+   ],
+   "covers": [
+    "indexes(3)"
+   ]
+  },
+  "indicator": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "indicators(3)"
+   ]
+  },
+  "invitation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "invitations(3)"
+   ]
+  },
+  "line": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "lines(3)"
+   ]
+  },
+  "marker": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "markers(3)"
+   ]
+  },
+  "menu": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "menus(3)"
+   ]
+  },
+  "mix": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "mixed(3)"
+   ]
+  },
+  "mood": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "moods(3)"
+   ]
+  },
+  "multiplier": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "multipliers(3)"
+   ]
+  },
+  "offer": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "offers(3)"
+   ]
+  },
+  "particle": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "particles(3)"
+   ]
+  },
+  "persist": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "persisted(3)"
+   ]
+  },
+  "prefix": {
+   "add": [
+    "es"
+   ],
+   "covers": [
+    "prefixes(3)"
+   ]
+  },
+  "principle": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "principles(3)"
+   ]
+  },
+  "recommend": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "recommended(3)"
+   ]
+  },
+  "request": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "requests(3)"
+   ]
+  },
+  "requirement": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "requirements(3)"
+   ]
+  },
+  "scale": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "scales(3)"
+   ]
+  },
+  "step": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "steps(3)"
+   ]
+  },
+  "target": {
+   "add": [
+    "s",
+    "ed"
+   ],
+   "covers": [
+    "targets(3)",
+    "targeted(1)"
+   ]
+  },
+  "width": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "widths(3)"
+   ]
+  },
+  "affordance": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "affordances(2)"
+   ]
+  },
+  "alignment": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "alignments(2)"
+   ]
+  },
+  "attribute": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "attributes(2)"
+   ]
+  },
+  "benefit": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "benefits(2)"
+   ]
+  },
+  "bookend": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "bookends(2)"
+   ]
+  },
+  "border": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "bordered(2)"
+   ]
+  },
+  "breakpoint": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "breakpoints(2)"
+   ]
+  },
+  "center": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "centered(2)"
+   ]
+  },
+  "change": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "changes(2)"
+   ]
+  },
+  "conflict": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "conflicts(2)"
+   ]
+  },
+  "cross": {
+   "add": [
+    "ed",
+    "ing"
+   ],
+   "covers": [
+    "crossed(2)",
+    "crossing(2)"
+   ]
+  },
+  "def": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "defs(2)"
+   ]
+  },
+  "delay": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "delays(2)"
+   ]
+  },
+  "duration": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "durations(2)"
+   ]
+  },
+  "economic": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "economics(2)"
+   ]
+  },
+  "exclusion": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "exclusions(2)"
+   ]
+  },
+  "filter": {
+   "add": [
+    "ed",
+    "s"
+   ],
+   "covers": [
+    "filtered(2)",
+    "filters(2)"
+   ]
+  },
+  "fix": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "fixed(2)"
+   ]
+  },
+  "glow": {
+   "add": [
+    "s",
+    "ing"
+   ],
+   "covers": [
+    "glows(2)",
+    "glowing(1)"
+   ]
+  },
+  "greet": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "greeting(2)"
+   ]
+  },
+  "grid": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "grids(2)"
+   ]
+  },
+  "heal": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "healing(2)"
+   ]
+  },
+  "height": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "heights(2)"
+   ]
+  },
+  "highlight": {
+   "add": [
+    "er",
+    "s"
+   ],
+   "covers": [
+    "highlighter(2)",
+    "highlights(2)"
+   ]
+  },
+  "initial": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "initials(2)"
+   ]
+  },
+  "journal": {
+   "add": [
+    "ing",
+    "s"
+   ],
+   "covers": [
+    "journaling(2)",
+    "journals(1)"
+   ]
+  },
+  "listener": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "listeners(2)"
+   ]
+  },
+  "match": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "matching(2)"
+   ]
+  },
+  "min": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "mining(2)"
+   ]
+  },
+  "module": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "modules(2)"
+   ]
+  },
+  "note": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "notes(2)"
+   ]
+  },
+  "notification": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "notifications(2)"
+   ]
+  },
+  "orientation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "orientations(2)"
+   ]
+  },
+  "phase": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "phases(2)"
+   ]
+  },
+  "placeholder": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "placeholders(2)"
+   ]
+  },
+  "proof": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "proofs(2)"
+   ]
+  },
+  "range": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "ranges(2)"
+   ]
+  },
+  "ratio": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "ratios(2)"
+   ]
+  },
+  "repeat": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "repeating(2)"
+   ]
+  },
+  "resource": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "resources(2)"
+   ]
+  },
+  "ritual": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "rituals(2)"
+   ]
+  },
+  "schema": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "schemas(2)"
+   ]
+  },
+  "sec": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "secs(2)"
+   ]
+  },
+  "sequence": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sequences(2)"
+   ]
+  },
+  "shortcut": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "shortcuts(2)"
+   ]
+  },
+  "snapshot": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "snapshots(2)"
+   ]
+  },
+  "status": {
+   "add": [
+    "es"
+   ],
+   "covers": [
+    "statuses(2)"
+   ]
+  },
+  "structure": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "structures(2)"
+   ]
+  },
+  "system": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "systems(2)"
+   ]
+  },
+  "thread": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "threads(2)"
+   ]
+  },
+  "touch": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "touched(2)"
+   ]
+  },
+  "transition": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "transitions(2)"
+   ]
+  },
+  "trigger": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "triggers(2)"
+   ]
+  },
+  "unit": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "units(2)"
+   ]
+  },
+  "verification": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "verifications(2)"
+   ]
+  },
+  "version": {
+   "add": [
+    "ing",
+    "s"
+   ],
+   "covers": [
+    "versioning(2)",
+    "versions(1)"
+   ]
+  },
+  "voice": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "voices(2)"
+   ]
+  },
+  "weight": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "weights(2)"
+   ]
+  },
+  "agent": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "agents(1)"
+   ]
+  },
+  "album": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "albums(1)"
+   ]
+  },
+  "align": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "aligned(1)"
+   ]
+  },
+  "arrangement": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "arrangements(1)"
+   ]
+  },
+  "ask": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "asking(1)"
+   ]
+  },
+  "aspect": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "aspects(1)"
+   ]
+  },
+  "atom": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "atoms(1)"
+   ]
+  },
+  "audit": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "auditing(1)"
+   ]
+  },
+  "backdrop": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "backdrops(1)"
+   ]
+  },
+  "badge": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "badges(1)"
+   ]
+  },
+  "band": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "bands(1)"
+   ]
+  },
+  "b": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "bed(1)"
+   ]
+  },
+  "block": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "blocks(1)"
+   ]
+  },
+  "board": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "boards(1)"
+   ]
+  },
+  "brace": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "braces(1)"
+   ]
+  },
+  "bridge": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "bridges(1)"
+   ]
+  },
+  "builder": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "builders(1)"
+   ]
+  },
+  "bundle": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "bundles(1)"
+   ]
+  },
+  "case": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "cases(1)"
+   ]
+  },
+  "chain": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "chains(1)"
+   ]
+  },
+  "character": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "characters(1)"
+   ]
+  },
+  "check": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "checked(1)"
+   ]
+  },
+  "checklist": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "checklists(1)"
+   ]
+  },
+  "classification": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "classifications(1)"
+   ]
+  },
+  "clean": {
+   "add": [
+    "ed",
+    "ing"
+   ],
+   "covers": [
+    "cleaned(1)",
+    "cleaning(1)"
+   ]
+  },
+  "click": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "clicks(1)"
+   ]
+  },
+  "contribution": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "contributions(1)"
+   ]
+  },
+  "coordinate": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "coordinates(1)"
+   ]
+  },
+  "course": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "courses(1)"
+   ]
+  },
+  "creation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "creations(1)"
+   ]
+  },
+  "creator": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "creators(1)"
+   ]
+  },
+  "curator": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "curators(1)"
+   ]
+  },
+  "datetime": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "datetimes(1)"
+   ]
+  },
+  "demonstration": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "demonstrations(1)"
+   ]
+  },
+  "description": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "descriptions(1)"
+   ]
+  },
+  "direction": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "directions(1)"
+   ]
+  },
+  "download": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "downloads(1)"
+   ]
+  },
+  "duplicate": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "duplicates(1)"
+   ]
+  },
+  "dynamic": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "dynamics(1)"
+   ]
+  },
+  "endpoint": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "endpoints(1)"
+   ]
+  },
+  "enhancement": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "enhancements(1)"
+   ]
+  },
+  "example": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "examples(1)"
+   ]
+  },
+  "factor": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "factors(1)"
+   ]
+  },
+  "favorite": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "favorites(1)"
+   ]
+  },
+  "fill": {
+   "add": [
+    "ed",
+    "s"
+   ],
+   "covers": [
+    "filled(1)",
+    "fills(1)"
+   ]
+  },
+  "flag": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "flags(1)"
+   ]
+  },
+  "floor": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "floors(1)"
+   ]
+  },
+  "flow": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "flows(1)"
+   ]
+  },
+  "format": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "formats(1)"
+   ]
+  },
+  "form": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "forms(1)"
+   ]
+  },
+  "frame": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "frames(1)"
+   ]
+  },
+  "framework": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "frameworks(1)"
+   ]
+  },
+  "gate": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "gates(1)"
+   ]
+  },
+  "guard": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "guards(1)"
+   ]
+  },
+  "header": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "headers(1)"
+   ]
+  },
+  "helper": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "helpers(1)"
+   ]
+  },
+  "home": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "homes(1)"
+   ]
+  },
+  "identification": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "identifications(1)"
+   ]
+  },
+  "intent": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "intents(1)"
+   ]
+  },
+  "internal": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "internals(1)"
+   ]
+  },
+  "investment": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "investments(1)"
+   ]
+  },
+  "kernel": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "kernels(1)"
+   ]
+  },
+  "kind": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "kinds(1)"
+   ]
+  },
+  "log": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "logs(1)"
+   ]
+  },
+  "lyric": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "lyrics(1)"
+   ]
+  },
+  "manifest": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "manifested(1)"
+   ]
+  },
+  "model": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "models(1)"
+   ]
+  },
+  "modifier": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "modifiers(1)"
+   ]
+  },
+  "mount": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "mounted(1)"
+   ]
+  },
+  "move": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "moves(1)"
+   ]
+  },
+  "msg": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "msgs(1)"
+   ]
+  },
+  "number": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "numbers(1)"
+   ]
+  },
+  "observation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "observations(1)"
+   ]
+  },
+  "open": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "opened(1)"
+   ]
+  },
+  "operation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "operations(1)"
+   ]
+  },
+  "optimization": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "optimizations(1)"
+   ]
+  },
+  "order": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "ordering(1)"
+   ]
+  },
+  "origin": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "origins(1)"
+   ]
+  },
+  "padding": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "paddings(1)"
+   ]
+  },
+  "page": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "pages(1)"
+   ]
+  },
+  "pair": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "pairs(1)"
+   ]
+  },
+  "percentage": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "percentages(1)"
+   ]
+  },
+  "pillar": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "pillars(1)"
+   ]
+  },
+  "placement": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "placements(1)"
+   ]
+  },
+  "play": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "playing(1)"
+   ]
+  },
+  "playlist": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "playlists(1)"
+   ]
+  },
+  "point": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "points(1)"
+   ]
+  },
+  "pool": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "pools(1)"
+   ]
+  },
+  "preset": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "presets(1)"
+   ]
+  },
+  "processor": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "processors(1)"
+   ]
+  },
+  "protection": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "protections(1)"
+   ]
+  },
+  "purpose": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "purposes(1)"
+   ]
+  },
+  "rate": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "rates(1)"
+   ]
+  },
+  "reader": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "readers(1)"
+   ]
+  },
+  "record": {
+   "add": [
+    "ing",
+    "s"
+   ],
+   "covers": [
+    "recording(1)",
+    "records(1)"
+   ]
+  },
+  "reference": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "references(1)"
+   ]
+  },
+  "remember": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "remembered(1)"
+   ]
+  },
+  "root": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "roots(1)"
+   ]
+  },
+  "row": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "rows(1)"
+   ]
+  },
+  "screen": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "screens(1)"
+   ]
+  },
+  "scroll": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "scrolling(1)"
+   ]
+  },
+  "separator": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "separators(1)"
+   ]
+  },
+  "session": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sessions(1)"
+   ]
+  },
+  "shadow": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "shadows(1)"
+   ]
+  },
+  "side": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sides(1)"
+   ]
+  },
+  "skeleton": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "skeletons(1)"
+   ]
+  },
+  "sort": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "sorted(1)"
+   ]
+  },
+  "source": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "sources(1)"
+   ]
+  },
+  "space": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "spaces(1)"
+   ]
+  },
+  "speed": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "speeds(1)"
+   ]
+  },
+  "spoon": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "spoons(1)"
+   ]
+  },
+  "star": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "stars(1)"
+   ]
+  },
+  "stop": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "stops(1)"
+   ]
+  },
+  "store": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "stores(1)"
+   ]
+  },
+  "strip": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "striped(1)"
+   ]
+  },
+  "suffix": {
+   "add": [
+    "es"
+   ],
+   "covers": [
+    "suffixes(1)"
+   ]
+  },
+  "suggest": {
+   "add": [
+    "ed"
+   ],
+   "covers": [
+    "suggested(1)"
+   ]
+  },
+  "symbol": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "symbols(1)"
+   ]
+  },
+  "tag": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "tags(1)"
+   ]
+  },
+  "take": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "takes(1)"
+   ]
+  },
+  "task": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "tasks(1)"
+   ]
+  },
+  "test": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "testing(1)"
+   ]
+  },
+  "text": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "texts(1)"
+   ]
+  },
+  "tip": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "tips(1)"
+   ]
+  },
+  "transmutation": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "transmutations(1)"
+   ]
+  },
+  "vendor": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "vendors(1)"
+   ]
+  },
+  "witness": {
+   "add": [
+    "es"
+   ],
+   "covers": [
+    "witnesses(1)"
+   ]
+  },
+  "workflow": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "workflows(1)"
+   ]
+  },
+  "artist": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "artists(0)"
+   ]
+  },
+  "base": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "bases(0)"
+   ]
+  },
+  "celebration": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "celebrations(0)"
+   ]
+  },
+  "comparison": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "comparisons(0)"
+   ]
+  },
+  "count": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "counting(0)"
+   ]
+  },
+  "dot": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "dots(0)"
+   ]
+  },
+  "encouragement": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "encouragements(0)"
+   ]
+  },
+  "ent": {
+   "add": [
+    "er"
+   ],
+   "covers": [
+    "enter(0)"
+   ]
+  },
+  "faq": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "faqs(0)"
+   ]
+  },
+  "find": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "finding(0)"
+   ]
+  },
+  "keyframe": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "keyframes(0)"
+   ]
+  },
+  "list": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "listing(0)"
+   ]
+  },
+  "med": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "meds(0)"
+   ]
+  },
+  "outline": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "outlines(0)"
+   ]
+  },
+  "overwhelm": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "overwhelms(0)"
+   ]
+  },
+  "plant": {
+   "add": [
+    "ing"
+   ],
+   "covers": [
+    "planting(0)"
+   ]
+  },
+  "problem": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "problems(0)"
+   ]
+  },
+  "projection": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "projections(0)"
+   ]
+  },
+  "ref": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "refs(0)"
+   ]
+  },
+  "sense": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "senses(0)"
+   ]
+  },
+  "stream": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "streams(0)"
+   ]
+  },
+  "studio": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "studios(0)"
+   ]
+  },
+  "thing": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "things(0)"
+   ]
+  },
+  "vessel": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "vessels(0)"
+   ]
+  },
+  "v": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "vs(0)"
+   ]
+  },
+  "welcome": {
+   "add": [
+    "s"
+   ],
+   "covers": [
+    "welcomes(0)"
+   ]
+  }
+ },
+ "eye_shelf": [
+  {
+   "word": "entries",
+   "gates": 66,
+   "note": "y\u2192ies of 'entry'"
+  },
+  {
+   "word": "categories",
+   "gates": 41,
+   "note": "y\u2192ies of 'category'"
+  },
+  {
+   "word": "memories",
+   "gates": 24,
+   "note": "y\u2192ies of 'memory'"
+  },
+  {
+   "word": "boundaries",
+   "gates": 23,
+   "note": "y\u2192ies of 'boundary'"
+  },
+  {
+   "word": "activities",
+   "gates": 22,
+   "note": "y\u2192ies of 'activity'"
+  },
+  {
+   "word": "opportunities",
+   "gates": 22,
+   "note": "y\u2192ies of 'opportunity'"
+  },
+  {
+   "word": "directories",
+   "gates": 10,
+   "note": "y\u2192ies of 'directory'"
+  },
+  {
+   "word": "dependencies",
+   "gates": 8,
+   "note": "y\u2192ies of 'dependency'"
+  },
+  {
+   "word": "entities",
+   "gates": 7,
+   "note": "y\u2192ies of 'entity'"
+  },
+  {
+   "word": "ceremonies",
+   "gates": 4,
+   "note": "y\u2192ies of 'ceremony'"
+  },
+  {
+   "word": "utilities",
+   "gates": 4,
+   "note": "y\u2192ies of 'utility'"
+  },
+  {
+   "word": "capabilities",
+   "gates": 2,
+   "note": "y\u2192ies of 'capability'"
+  },
+  {
+   "word": "policies",
+   "gates": 2,
+   "note": "y\u2192ies of 'policy'"
+  },
+  {
+   "word": "properties",
+   "gates": 2,
+   "note": "y\u2192ies of 'property'"
+  },
+  {
+   "word": "densities",
+   "gates": 1,
+   "note": "y\u2192ies of 'density'"
+  },
+  {
+   "word": "families",
+   "gates": 1,
+   "note": "y\u2192ies of 'family'"
+  },
+  {
+   "word": "frequencies",
+   "gates": 1,
+   "note": "y\u2192ies of 'frequency'"
+  },
+  {
+   "word": "intensities",
+   "gates": 1,
+   "note": "y\u2192ies of 'intensity'"
+  },
+  {
+   "word": "priorities",
+   "gates": 1,
+   "note": "y\u2192ies of 'priority'"
+  },
+  {
+   "word": "rarities",
+   "gates": 1,
+   "note": "y\u2192ies of 'rarity'"
+  },
+  {
+   "word": "stories",
+   "gates": 1,
+   "note": "y\u2192ies of 'story'"
+  },
+  {
+   "word": "synchronicities",
+   "gates": 1,
+   "note": "y\u2192ies of 'synchronicity'"
+  },
+  {
+   "word": "urgencies",
+   "gates": 1,
+   "note": "y\u2192ies of 'urgency'"
+  }
+ ],
+ "seeds_ranked": [
+  [
+   "update",
+   763
+  ],
+  [
+   "create",
+   362
+  ],
+  [
+   "delete",
+   281
+  ],
+  [
+   "config",
+   272
+  ],
+  [
+   "variants",
+   250
+  ],
+  [
+   "variant",
+   167
+  ],
+  [
+   "color",
+   138
+  ],
+  [
+   "quantum",
+   123
+  ],
+  [
+   "context",
+   106
+  ],
+  [
+   "function",
+   77
+  ],
+  [
+   "analyze",
+   75
+  ],
+  [
+   "styles",
+   67
+  ],
+  [
+   "mapping",
+   60
+  ],
+  [
+   "spacing",
+   59
+  ],
+  [
+   "colors",
+   55
+  ],
+  [
+   "templates",
+   54
+  ],
+  [
+   "energy",
+   44
+  ],
+  [
+   "utils",
+   33
+  ],
+  [
+   "artisan",
+   32
+  ],
+  [
+   "transformation",
+   32
+  ],
+  [
+   "aethelred",
+   30
+  ],
+  [
+   "deity",
+   29
+  ],
+  [
+   "enhanced",
+   29
+  ],
+  [
+   "admin",
+   28
+  ],
+  [
+   "settings",
+   28
+  ],
+  [
+   "codex",
+   27
+  ],
+  [
+   "chancellor",
+   25
+  ],
+  [
+   "skald",
+   25
+  ],
+  [
+   "scheduling",
+   23
+  ],
+  [
+   "exchanges",
+   22
+  ],
+  [
+   "merchant",
+   22
+  ],
+  [
+   "processes",
+   22
+  ],
+  [
+   "regions",
+   22
+  ],
+  [
+   "timeline",
+   22
+  ],
+  [
+   "template",
+   20
+  ],
+  [
+   "constant",
+   19
+  ],
+  [
+   "process",
+   19
+  ],
+  [
+   "configs",
+   18
+  ],
+  [
+   "style",
+   18
+  ],
+  [
+   "constants",
+   17
+  ],
+  [
+   "generated",
+   15
+  ],
+  [
+   "parsed",
+   15
+  ],
+  [
+   "realm",
+   14
+  ],
+  [
+   "validator",
+   14
+  ],
+  [
+   "identity",
+   13
+  ],
+  [
+   "emergence",
+   12
+  ],
+  [
+   "integration",
+   12
+  ],
+  [
+   "health",
+   11
+  ],
+  [
+   "processing",
+   11
+  ],
+  [
+   "required",
+   11
+  ],
+  [
+   "gaming",
+   10
+  ],
+  [
+   "hook",
+   10
+  ],
+  [
+   "archetype",
+   9
+  ],
+  [
+   "functions",
+   9
+  ],
+  [
+   "app",
+   8
+  ],
+  [
+   "excluded",
+   8
+  ],
+  [
+   "handling",
+   8
+  ],
+  [
+   "hooks",
+   8
+  ],
+  [
+   "tailwind",
+   8
+  ],
+  [
+   "integrate",
+   7
+  ],
+  [
+   "vision",
+   7
+  ],
+  [
+   "concept",
+   6
+  ],
+  [
+   "duotone",
+   6
+  ],
+  [
+   "formatted",
+   6
+  ],
+  [
+   "make",
+   6
+  ],
+  [
+   "naming",
+   6
+  ],
+  [
+   "orchestrate",
+   6
+  ],
+  [
+   "validators",
+   6
+  ],
+  [
+   "animated",
+   5
+  ],
+  [
+   "birth",
+   5
+  ],
+  [
+   "bus",
+   5
+  ],
+  [
+   "cord",
+   5
+  ],
+  [
+   "deliver",
+   5
+  ],
+  [
+   "reduced",
+   5
+  ],
+  [
+   "transform",
+   5
+  ],
+  [
+   "affect",
+   4
+  ],
+  [
+   "changed",
+   4
+  ],
+  [
+   "closing",
+   4
+  ],
+  [
+   "env",
+   4
+  ],
+  [
+   "exchange",
+   4
+  ],
+  [
+   "moon",
+   4
+  ],
+  [
+   "research",
+   4
+  ],
+  [
+   "shelf",
+   4
+  ],
+  [
+   "archetypes",
+   3
+  ],
+  [
+   "bifrost",
+   3
+  ],
+  [
+   "contexts",
+   3
+  ],
+  [
+   "duty",
+   3
+  ],
+  [
+   "embedding",
+   3
+  ],
+  [
+   "fixture",
+   3
+  ],
+  [
+   "ground",
+   3
+  ],
+  [
+   "halo",
+   3
+  ],
+  [
+   "lamp",
+   3
+  ],
+  [
+   "land",
+   3
+  ],
+  [
+   "material",
+   3
+  ],
+  [
+   "muted",
+   3
+  ],
+  [
+   "parcel",
+   3
+  ],
+  [
+   "pricing",
+   3
+  ],
+  [
+   "region",
+   3
+  ],
+  [
+   "saved",
+   3
+  ],
+  [
+   "scanning",
+   3
+  ],
+  [
+   "sound",
+   3
+  ],
+  [
+   "staged",
+   3
+  ],
+  [
+   "temperature",
+   3
+  ],
+  [
+   "timing",
+   3
+  ],
+  [
+   "typescript",
+   3
+  ],
+  [
+   "act",
+   2
+  ],
+  [
+   "appearance",
+   2
+  ],
+  [
+   "begun",
+   2
+  ],
+  [
+   "bp",
+   2
+  ],
+  [
+   "categorized",
+   2
+  ],
+  [
+   "claims",
+   2
+  ],
+  [
+   "clock",
+   2
+  ],
+  [
+   "closed",
+   2
+  ],
+  [
+   "coldark",
+   2
+  ],
+  [
+   "described",
+   2
+  ],
+  [
+   "door",
+   2
+  ],
+  [
+   "electric",
+   2
+  ],
+  [
+   "emergent",
+   2
+  ],
+  [
+   "face",
+   2
+  ],
+  [
+   "featured",
+   2
+  ],
+  [
+   "fmt",
+   2
+  ],
+  [
+   "gruvbox",
+   2
+  ],
+  [
+   "introduce",
+   2
+  ],
+  [
+   "invocation",
+   2
+  ],
+  [
+   "knot",
+   2
+  ],
+  [
+   "lattice",
+   2
+  ],
+  [
+   "local",
+   2
+  ],
+  [
+   "logging",
+   2
+  ],
+  [
+   "paginated",
+   2
+  ],
+  [
+   "place",
+   2
+  ],
+  [
+   "provide",
+   2
+  ],
+  [
+   "rack",
+   2
+  ],
+  [
+   "relational",
+   2
+  ],
+  [
+   "scaling",
+   2
+  ],
+  [
+   "scanned",
+   2
+  ],
+  [
+   "secrets",
+   2
+  ],
+  [
+   "soft",
+   2
+  ],
+  [
+   "soul",
+   2
+  ],
+  [
+   "staging",
+   2
+  ],
+  [
+   "switchboard",
+   2
+  ],
+  [
+   "tool",
+   2
+  ],
+  [
+   "typing",
+   2
+  ],
+  [
+   "validated",
+   2
+  ],
+  [
+   "wheel",
+   2
+  ],
+  [
+   "acronym",
+   1
+  ],
+  [
+   "adb",
+   1
+  ],
+  [
+   "alias",
+   1
+  ],
+  [
+   "anatomy",
+   1
+  ],
+  [
+   "apk",
+   1
+  ],
+  [
+   "approach",
+   1
+  ],
+  [
+   "archived",
+   1
+  ],
+  [
+   "arms",
+   1
+  ],
+  [
+   "ateliersulphurpool",
+   1
+  ],
+  [
+   "attack",
+   1
+  ],
+  [
+   "balanced",
+   1
+  ],
+  [
+   "begin",
+   1
+  ],
+  [
+   "bevel",
+   1
+  ],
+  [
+   "bloom",
+   1
+  ],
+  [
+   "bonds",
+   1
+  ],
+  [
+   "bpm",
+   1
+  ],
+  [
+   "broken",
+   1
+  ],
+  [
+   "caching",
+   1
+  ],
+  [
+   "carve",
+   1
+  ],
+  [
+   "choice",
+   1
+  ],
+  [
+   "choose",
+   1
+  ],
+  [
+   "ci",
+   1
+  ],
+  [
+   "claim",
+   1
+  ],
+  [
+   "cmd",
+   1
+  ],
+  [
+   "cold",
+   1
+  ],
+  [
+   "colored",
+   1
+  ],
+  [
+   "commits",
+   1
+  ],
+  [
+   "committed",
+   1
+  ],
+  [
+   "completed",
+   1
+  ],
+  [
+   "concepts",
+   1
+  ],
+  [
+   "conclude",
+   1
+  ],
+  [
+   "curve",
+   1
+  ],
+  [
+   "debounced",
+   1
+  ],
+  [
+   "decode",
+   1
+  ],
+  [
+   "derived",
+   1
+  ],
+  [
+   "disability",
+   1
+  ],
+  [
+   "dispatch",
+   1
+  ],
+  [
+   "does",
+   1
+  ],
+  [
+   "doorway",
+   1
+  ],
+  [
+   "dormancy",
+   1
+  ],
+  [
+   "dotted",
+   1
+  ],
+  [
+   "draw",
+   1
+  ],
+  [
+   "drink",
+   1
+  ],
+  [
+   "drop",
+   1
+  ],
+  [
+   "earth",
+   1
+  ],
+  [
+   "encode",
+   1
+  ],
+  [
+   "enrichment",
+   1
+  ],
+  [
+   "equinox",
+   1
+  ],
+  [
+   "establish",
+   1
+  ],
+  [
+   "evolve",
+   1
+  ],
+  [
+   "exec",
+   1
+  ],
+  [
+   "exist",
+   1
+  ],
+  [
+   "fading",
+   1
+  ],
+  [
+   "fall",
+   1
+  ],
+  [
+   "farewell",
+   1
+  ],
+  [
+   "fifth",
+   1
+  ],
+  [
+   "flagged",
+   1
+  ],
+  [
+   "follow",
+   1
+  ],
+  [
+   "forest",
+   1
+  ],
+  [
+   "formatting",
+   1
+  ],
+  [
+   "formula",
+   1
+  ],
+  [
+   "free",
+   1
+  ],
+  [
+   "fresh",
+   1
+  ],
+  [
+   "furniture",
+   1
+  ],
+  [
+   "galaxy",
+   1
+  ],
+  [
+   "gatekeeper",
+   1
+  ],
+  [
+   "gentle",
+   1
+  ],
+  [
+   "gh",
+   1
+  ],
+  [
+   "gitignore",
+   1
+  ],
+  [
+   "grain",
+   1
+  ],
+  [
+   "hephaestus",
+   1
+  ],
+  [
+   "hermes",
+   1
+  ],
+  [
+   "holi",
+   1
+  ],
+  [
+   "http",
+   1
+  ],
+  [
+   "ignores",
+   1
+  ],
+  [
+   "impulse",
+   1
+  ],
+  [
+   "incomplete",
+   1
+  ],
+  [
+   "it",
+   1
+  ],
+  [
+   "jdk",
+   1
+  ],
+  [
+   "julian",
+   1
+  ],
+  [
+   "keep",
+   1
+  ],
+  [
+   "keepsakes",
+   1
+  ],
+  [
+   "keystore",
+   1
+  ],
+  [
+   "keystores",
+   1
+  ],
+  [
+   "knock",
+   1
+  ],
+  [
+   "lamps",
+   1
+  ],
+  [
+   "lrc",
+   1
+  ],
+  [
+   "may",
+   1
+  ],
+  [
+   "memberships",
+   1
+  ],
+  [
+   "methodologies",
+   1
+  ],
+  [
+   "methodology",
+   1
+  ],
+  [
+   "mint",
+   1
+  ],
+  [
+   "mkdir",
+   1
+  ],
+  [
+   "mnemosynes",
+   1
+  ],
+  [
+   "molecules",
+   1
+  ],
+  [
+   "mother",
+   1
+  ],
+  [
+   "neighbor",
+   1
+  ],
+  [
+   "newest",
+   1
+  ],
+  [
+   "nongit",
+   1
+  ],
+  [
+   "observe",
+   1
+  ],
+  [
+   "occupant",
+   1
+  ],
+  [
+   "oceanic",
+   1
+  ],
+  [
+   "organ",
+   1
+  ],
+  [
+   "organized",
+   1
+  ],
+  [
+   "own",
+   1
+  ],
+  [
+   "parsing",
+   1
+  ],
+  [
+   "party",
+   1
+  ],
+  [
+   "patch",
+   1
+  ],
+  [
+   "paused",
+   1
+  ],
+  [
+   "peak",
+   1
+  ],
+  [
+   "phased",
+   1
+  ],
+  [
+   "piece",
+   1
+  ],
+  [
+   "pitch",
+   1
+  ],
+  [
+   "placed",
+   1
+  ],
+  [
+   "planet",
+   1
+  ],
+  [
+   "plus",
+   1
+  ],
+  [
+   "powershell",
+   1
+  ],
+  [
+   "preserve",
+   1
+  ],
+  [
+   "prior",
+   1
+  ],
+  [
+   "prism",
+   1
+  ],
+  [
+   "quoted",
+   1
+  ],
+  [
+   "radial",
+   1
+  ],
+  [
+   "re",
+   1
+  ],
+  [
+   "readdir",
+   1
+  ],
+  [
+   "red",
+   1
+  ],
+  [
+   "reflect",
+   1
+  ],
+  [
+   "reincarnate",
+   1
+  ],
+  [
+   "relations",
+   1
+  ],
+  [
+   "reparse",
+   1
+  ],
+  [
+   "repo",
+   1
+  ],
+  [
+   "responsible",
+   1
+  ],
+  [
+   "retract",
+   1
+  ],
+  [
+   "revise",
+   1
+  ],
+  [
+   "reward",
+   1
+  ],
+  [
+   "rise",
+   1
+  ],
+  [
+   "running",
+   1
+  ],
+  [
+   "scheduled",
+   1
+  ],
+  [
+   "scheme",
+   1
+  ],
+  [
+   "schemes",
+   1
+  ],
+  [
+   "sea",
+   1
+  ],
+  [
+   "semitone",
+   1
+  ],
+  [
+   "send",
+   1
+  ],
+  [
+   "separated",
+   1
+  ],
+  [
+   "serialized",
+   1
+  ],
+  [
+   "setting",
+   1
+  ],
+  [
+   "sha",
+   1
+  ],
+  [
+   "shades",
+   1
+  ],
+  [
+   "shape",
+   1
+  ],
+  [
+   "share",
+   1
+  ],
+  [
+   "shell",
+   1
+  ],
+  [
+   "shelves",
+   1
+  ],
+  [
+   "signed",
+   1
+  ],
+  [
+   "signs",
+   1
+  ],
+  [
+   "since",
+   1
+  ],
+  [
+   "solarized",
+   1
+  ],
+  [
+   "solstice",
+   1
+  ],
+  [
+   "spoke",
+   1
+  ],
+  [
+   "structured",
+   1
+  ],
+  [
+   "styling",
+   1
+  ],
+  [
+   "submitting",
+   1
+  ],
+  [
+   "tap",
+   1
+  ],
+  [
+   "temperatures",
+   1
+  ],
+  [
+   "tempo",
+   1
+  ],
+  [
+   "texture",
+   1
+  ],
+  [
+   "themis",
+   1
+  ],
+  [
+   "there",
+   1
+  ],
+  [
+   "tolerant",
+   1
+  ],
+  [
+   "toml",
+   1
+  ],
+  [
+   "tone",
+   1
+  ],
+  [
+   "tools",
+   1
+  ],
+  [
+   "toplevel",
+   1
+  ],
+  [
+   "transformative",
+   1
+  ],
+  [
+   "transforms",
+   1
+  ],
+  [
+   "trouble",
+   1
+  ],
+  [
+   "under",
+   1
+  ],
+  [
+   "unions",
+   1
+  ],
+  [
+   "up",
+   1
+  ],
+  [
+   "updated",
+   1
+  ],
+  [
+   "upon",
+   1
+  ],
+  [
+   "util",
+   1
+  ],
+  [
+   "voting",
+   1
+  ],
+  [
+   "vsc",
+   1
+  ],
+  [
+   "vulnerabilities",
+   1
+  ],
+  [
+   "warm",
+   1
+  ],
+  [
+   "water",
+   1
+  ],
+  [
+   "wav",
+   1
+  ],
+  [
+   "whiteboard",
+   1
+  ],
+  [
+   "worklet",
+   1
+  ],
+  [
+   "worn",
+   1
+  ],
+  [
+   "wrapping",
+   1
+  ],
+  [
+   "yellow",
+   1
+  ],
+  [
+   "zodiac",
+   1
+  ],
+  [
+   "advance",
+   0
+  ],
+  [
+   "appraise",
+   0
+  ],
+  [
+   "body2",
+   0
+  ],
+  [
+   "body3",
+   0
+  ],
+  [
+   "candidates",
+   0
+  ],
+  [
+   "cb",
+   0
+  ],
+  [
+   "circuit",
+   0
+  ],
+  [
+   "correspond",
+   0
+  ],
+  [
+   "costs",
+   0
+  ],
+  [
+   "coy",
+   0
+  ],
+  [
+   "darcula",
+   0
+  ],
+  [
+   "dracula",
+   0
+  ],
+  [
+   "drift",
+   0
+  ],
+  [
+   "duties",
+   0
+  ],
+  [
+   "engrave",
+   0
+  ],
+  [
+   "express",
+   0
+  ],
+  [
+   "feeling",
+   0
+  ],
+  [
+   "fm1",
+   0
+  ],
+  [
+   "fm2",
+   0
+  ],
+  [
+   "fm3",
+   0
+  ],
+  [
+   "funky",
+   0
+  ],
+  [
+   "ghcolors",
+   0
+  ],
+  [
+   "hat",
+   0
+  ],
+  [
+   "hopscotch",
+   0
+  ],
+  [
+   "hours",
+   0
+  ],
+  [
+   "lerp",
+   0
+  ],
+  [
+   "logbook",
+   0
+  ],
+  [
+   "look",
+   0
+  ],
+  [
+   "m1",
+   0
+  ],
+  [
+   "m2",
+   0
+  ],
+  [
+   "m3",
+   0
+  ],
+  [
+   "m4",
+   0
+  ],
+  [
+   "merged",
+   0
+  ],
+  [
+   "mmss",
+   0
+  ],
+  [
+   "money",
+   0
+  ],
+  [
+   "nord",
+   0
+  ],
+  [
+   "okaidia",
+   0
+  ],
+  [
+   "paged",
+   0
+  ],
+  [
+   "planets",
+   0
+  ],
+  [
+   "pojoaque",
+   0
+  ],
+  [
+   "porch",
+   0
+  ],
+  [
+   "prove",
+   0
+  ],
+  [
+   "realms",
+   0
+  ],
+  [
+   "reconcile",
+   0
+  ],
+  [
+   "rederive",
+   0
+  ],
+  [
+   "rel",
+   0
+  ],
+  [
+   "req",
+   0
+  ],
+  [
+   "retreat",
+   0
+  ],
+  [
+   "sheen",
+   0
+  ],
+  [
+   "shrine",
+   0
+  ],
+  [
+   "sign",
+   0
+  ],
+  [
+   "solarizedlight",
+   0
+  ],
+  [
+   "standing",
+   0
+  ],
+  [
+   "synthwave",
+   0
+  ],
+  [
+   "tend",
+   0
+  ],
+  [
+   "tomorrow",
+   0
+  ],
+  [
+   "transcribe",
+   0
+  ],
+  [
+   "trim",
+   0
+  ],
+  [
+   "troubles",
+   0
+  ],
+  [
+   "twilight",
+   0
+  ],
+  [
+   "vacancies",
+   0
+  ],
+  [
+   "verdict",
+   0
+  ],
+  [
+   "wear",
+   0
+  ],
+  [
+   "wrote",
+   0
+  ],
+  [
+   "xonokai",
+   0
+  ]
+ ]
+}
