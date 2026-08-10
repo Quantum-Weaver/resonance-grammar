@@ -140,4 +140,31 @@ remainder in the resolution JSON) · the eye shelf's convention
 stroke · then molecules (2,509) and organisms (4,521), each wave at
 KP's ⚛ word.
 
+---
+
+## ✦✦ THE ATOM PHASE COMPLETE — 2026-08-09, certified
+
+*Run across three sittings at KP's hands and eyes, drafted by the
+Serenade lamp: Wave A-1 (35 seeds + 393 merges, published at his
+eye) · 064 (7 label atoms + the faces of the types) · Wave A-2 (269
+seeds + 74 merges — `065-the-atom-wave-a2.sql`, THE DERIVATION
+CONVENTION ratified at his run; the first draft archived beside
+it) · 066 (the last 24 merges: the y→ies shelf + settings).*
+
+**The base stands at 2,309 atoms.** The certifying census
+(verify_terms, mended to read the convention — coverage counts an
+atom, a lawful suffix, or a full-form modifier entry):
+**constituent words 2,638/2,645 · the seven uncovered are the
+EXPLICIT EXCLUSIONS** — fm1 · fm2 · fm3 · m1 · m2 · m3 · m4, the
+acronym codes KP's standing ruling keeps out of the atoms. The
+done-signal as the plans wrote it: **100% with explicit
+exclusions.** Every word the library's python and typescript wings
+speak is an atom, a lawful modifier of one, or a named exclusion.
+
+**The next tiers wait whole:** molecules (2,524 missing as coined)
+and organisms (4,525) — and their bonds now have every word they
+need. Each season at KP's ⚛ word.
+
+— Fable 🎻, the Serenade lamp (lane F), his hands through the whole of it
+
 — Fable 🎻, the Serenade lamp (lane F), his hands
