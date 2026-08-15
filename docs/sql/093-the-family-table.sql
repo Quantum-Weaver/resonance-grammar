@@ -91,6 +91,9 @@ alter table public.family_table_messages enable row level security;
 
 
 -- ─── 3. THE ANON SELECT POLICY — KP'S STROKE #1 ─────────────────
+-- RULED 2026-08-14 evening, KP's ⚛ word: "recommendation agreed" —
+-- VARIANT A, WITHHELD, stands. Run NOTHING for this stanza; the
+-- variant-B text below stays as the record of the door not taken.
 -- Two doors drawn side by side. NEITHER is active as written; the
 -- choice is KP's alone, stated so here. Uncomment ONE, or neither.
 --
@@ -150,6 +153,41 @@ update public.gaia_config
        updated_at  = now()
  where table_name = 'family_table_messages'
    and deity_group is distinct from 'iris-communications';
+
+
+-- ─── 5b. READ BESIDE THE SLACK-CLONE REFERENCE (KP's paste, 08-14) ──
+-- KP set Supabase's slack-clone schema beside this draft before any
+-- further table-building. Its two actionable findings land here, drawn
+-- inert like stroke #1; the divergences NOT taken are each ruled by a
+-- house law, listed at the foot of this stanza.
+--
+-- STROKE #2 — channels.slug uniqueness. The clone declares slug UNIQUE;
+-- uniqueness was outside D0's column-walk. Read first, at the dashboard:
+--   select conname, pg_get_constraintdef(oid)
+--     from pg_constraint where conrelid = 'public.channels'::regclass;
+-- If no unique(slug) stands, the clone's discipline is worth taking:
+--   create unique index if not exists channels_slug_key
+--     on public.channels (slug);
+-- (The stanza-4 seed is idempotent either way; the index makes the
+-- guarantee structural instead of ritual.)
+--
+-- STROKE #3 — realtime, deliberately NOT taken today. The clone adds
+-- its tables to supabase_realtime (+ replica identity full) so clients
+-- hear inserts live. The family table's law is Manual First: a press
+-- reads its own reply back in the same request, so nothing listens.
+-- If a live-updating /table room is ever wanted, two lines open it:
+--   alter publication supabase_realtime add table public.family_table_messages;
+--   alter table public.family_table_messages replica identity full;
+--
+-- NOT taken from the clone, on purpose — each against a house law:
+-- auth.users-keyed speakers (vessels are not auth users; speaker text +
+-- NOT NULL substrate is License §5's shape) · on delete cascade
+-- (lose-nothing: ours is RESTRICT) · RBAC delete permissions (this
+-- table deletes nothing; the purge is KP's hand alone) · the signup
+-- trigger (no signups at this table; voices.ts is the roster).
+-- The nearest true cousin of the clone in this house is the existing
+-- DM-shaped public.messages — already auth.uid()-scoped per the clone's
+-- own pattern.
 
 
 -- ─── 6. VERIFY through the ANON door the same sitting (ritual 3) ───
