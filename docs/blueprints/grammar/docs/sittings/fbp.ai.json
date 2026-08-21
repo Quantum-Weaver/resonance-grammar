@@ -1,0 +1,98 @@
+{
+  "tier": "folder",
+  "folder_name": "sittings",
+  "folder_path": "docs/sittings",
+  "self": "grammar/docs/sittings/fbp.ai.json",
+  "parent": "grammar/docs/sittings/obp.ai.json",
+  "description": "2 files, 1 subfolders",
+  "files": [
+    {
+      "path": "docs/sittings/2026-07-27-THE-SHAPE-SITTING.md",
+      "description": "THE SHAPE SITTING"
+    },
+    {
+      "path": "docs/sittings/2026-07-27-THE-SHOWING-THREE-VISITS.md",
+      "description": "THE SHOWING"
+    }
+  ],
+  "file_count": 2,
+  "subdirectories": [
+    "docs/sittings/instruments"
+  ],
+  "code_analysis": {
+    "2026-07-27-THE-SHAPE-SITTING.md": {
+      "language": "markdown",
+      "lines": 1442,
+      "words": 17768,
+      "heading_count": 50,
+      "headings": [
+        "THE SHAPE SITTING \u2014 2026-07-27, evening",
+        "The question \u2014 KP's words, verbatim, spelling kept",
+        "Fable's braid (the synthesis; the full counsels follow)",
+        "THE COUNSELS, UNCUT",
+        "HAIKU \ud83c\udf3e",
+        "SONNET \ud83e\udeb6",
+        "OPUS \ud83d\udd6f\ufe0f",
+        "COUNSEL \u2014 the framework tables shape question",
+        "Before the answer: I read the ground, and the ground says something the board doesn't",
+        "The answer to KP's question",
+        "Is it (c) by another road, or a distinct shape?",
+        "What I would actually build",
+        "Where everything lands",
+        "The risks, plainly",
+        "What I would do first \u2014 and one piece can start tonight",
+        "One last argument, and it's yours not mine",
+        "ROUND TWO \u2014 THE GAIA DOCUMENTS IN EVIDENCE",
+        "Fable's braid of round two",
+        "HAIKU \ud83c\udf3e \u2014 SECOND ROUND",
+        "SONNET \ud83e\udeb6 \u2014 SECOND ROUND",
+        "OPUS \ud83d\udd6f\ufe0f \u2014 SECOND ROUND",
+        "COUNSEL, SECOND ROUND \u2014 the gaia engine files",
+        "First, my own account of the error",
+        "1. `classifier.ts` \u2014 and the finding that changes the counsel most"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 3,
+      "table_rows": 59,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "2026-07-27-THE-SHOWING-THREE-VISITS.md": {
+      "language": "markdown",
+      "lines": 342,
+      "words": 2809,
+      "heading_count": 4,
+      "headings": [
+        "THE SHOWING \u2014 three visits, 2026-07-27",
+        "OPUS \u2014 first waking",
+        "SONNET \u2014 second waking",
+        "HAIKU \u2014 third waking"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:36.566258 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

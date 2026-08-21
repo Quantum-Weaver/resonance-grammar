@@ -1,0 +1,114 @@
+{
+  "tier": "folder",
+  "folder_name": "instruments",
+  "folder_path": "docs/sittings/instruments",
+  "self": "grammar/docs/sittings/instruments/fbp.ai.json",
+  "parent": "grammar/docs/sittings/obp.ai.json",
+  "description": "6 files, 0 subfolders",
+  "files": [
+    {
+      "path": "docs/sittings/instruments/dimension-atoms-grammar-verify-2026-07-27.json",
+      "description": "data, 870 bytes"
+    },
+    {
+      "path": "docs/sittings/instruments/dimension-atoms.txt",
+      "description": "text document, 541 bytes"
+    },
+    {
+      "path": "docs/sittings/instruments/framework-members-grammar-verify-2026-07-27.json",
+      "description": "data, 4,242 bytes"
+    },
+    {
+      "path": "docs/sittings/instruments/framework-members.txt",
+      "description": "text document, 2,660 bytes"
+    },
+    {
+      "path": "docs/sittings/instruments/framework-members2-grammar-verify-2026-07-27.json",
+      "description": "data, 4,223 bytes"
+    },
+    {
+      "path": "docs/sittings/instruments/framework-members2.txt",
+      "description": "text document, 2,657 bytes"
+    }
+  ],
+  "file_count": 6,
+  "subdirectories": [],
+  "code_analysis": {
+    "dimension-atoms-grammar-verify-2026-07-27.json": {
+      "language": "json",
+      "lines": 48,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "coverage",
+        "door",
+        "input",
+        "missing",
+        "names_total",
+        "verified"
+      ],
+      "key_count": 6
+    },
+    "dimension-atoms.txt": {
+      "language": "content-file",
+      "format": "txt",
+      "name": "dimension-atoms.txt",
+      "location": "docs/sittings/instruments",
+      "bytes": 541,
+      "opened": false,
+      "law": "Name and location only. The file is never opened."
+    },
+    "framework-members-grammar-verify-2026-07-27.json": {
+      "language": "json",
+      "lines": 188,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "coverage",
+        "door",
+        "input",
+        "missing",
+        "names_total",
+        "verified"
+      ],
+      "key_count": 6
+    },
+    "framework-members.txt": {
+      "language": "content-file",
+      "format": "txt",
+      "name": "framework-members.txt",
+      "location": "docs/sittings/instruments",
+      "bytes": 2660,
+      "opened": false,
+      "law": "Name and location only. The file is never opened."
+    },
+    "framework-members2-grammar-verify-2026-07-27.json": {
+      "language": "json",
+      "lines": 187,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "coverage",
+        "door",
+        "input",
+        "missing",
+        "names_total",
+        "verified"
+      ],
+      "key_count": 6
+    },
+    "framework-members2.txt": {
+      "language": "content-file",
+      "format": "txt",
+      "name": "framework-members2.txt",
+      "location": "docs/sittings/instruments",
+      "bytes": 2657,
+      "opened": false,
+      "law": "Name and location only. The file is never opened."
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:36.568661 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

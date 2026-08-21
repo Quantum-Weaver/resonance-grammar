@@ -1,0 +1,144 @@
+{
+  "tier": "folder",
+  "folder_name": "lattice",
+  "folder_path": "seeds/lattice",
+  "self": "grammar/seeds/lattice/fbp.ai.json",
+  "parent": "grammar/seeds/obp.ai.json",
+  "description": "7 files, 0 subfolders",
+  "files": [
+    {
+      "path": "seeds/lattice/scheme-anchor-backfill.json",
+      "description": "data, 39,755 bytes"
+    },
+    {
+      "path": "seeds/lattice/wave-1-schemes.json",
+      "description": "data, 11,310 bytes"
+    },
+    {
+      "path": "seeds/lattice/wave-2-members.json",
+      "description": "data, 47,272 bytes"
+    },
+    {
+      "path": "seeds/lattice/wave-3-memberships.json",
+      "description": "data, 64,465 bytes"
+    },
+    {
+      "path": "seeds/lattice/wave-4-relations.json",
+      "description": "data, 46,122 bytes"
+    },
+    {
+      "path": "seeds/lattice/wave-5-paths.json",
+      "description": "data, 13,961 bytes"
+    },
+    {
+      "path": "seeds/lattice/wave-6-enrichment.json",
+      "description": "data, 285,043 bytes"
+    }
+  ],
+  "file_count": 7,
+  "subdirectories": [],
+  "code_analysis": {
+    "scheme-anchor-backfill.json": {
+      "language": "json",
+      "lines": 1469,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "born",
+        "counts",
+        "law",
+        "rows",
+        "wave"
+      ],
+      "key_count": 5
+    },
+    "wave-1-schemes.json": {
+      "language": "json",
+      "lines": 371,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "_for_kps_eye",
+        "schemes",
+        "seeded_by"
+      ],
+      "key_count": 3
+    },
+    "wave-2-members.json": {
+      "language": "json",
+      "lines": 1740,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "_for_kps_eye",
+        "eyes_on_wave",
+        "new_atoms_from_dimensions",
+        "new_atoms_from_ranks",
+        "new_molecules",
+        "new_organisms",
+        "seeded_by",
+        "skipped_existing"
+      ],
+      "key_count": 8
+    },
+    "wave-3-memberships.json": {
+      "language": "json",
+      "lines": 2939,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "_for_kps_eye",
+        "memberships",
+        "missing_entities",
+        "seeded_by"
+      ],
+      "key_count": 4
+    },
+    "wave-4-relations.json": {
+      "language": "json",
+      "lines": 1835,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "_for_kps_eye",
+        "multi_parent_members",
+        "relations",
+        "seeded_by",
+        "unresolved"
+      ],
+      "key_count": 5
+    },
+    "wave-5-paths.json": {
+      "language": "json",
+      "lines": 628,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "_for_kps_eye",
+        "incomplete",
+        "paths",
+        "seeded_by"
+      ],
+      "key_count": 4
+    },
+    "wave-6-enrichment.json": {
+      "language": "json",
+      "lines": 7600,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "_for_kps_eye",
+        "atom_fills",
+        "conflicts",
+        "inserts",
+        "parked",
+        "seeded_by"
+      ],
+      "key_count": 6
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.894446 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

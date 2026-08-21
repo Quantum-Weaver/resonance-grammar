@@ -1,0 +1,22 @@
+{
+  "tier": "object",
+  "object_name": "taxonomy-design",
+  "object_path": "docs/taxonomy-design",
+  "self": "grammar/docs/taxonomy-design/obp.ai.json",
+  "parent": "grammar/docs/dbp.ai.json",
+  "description": "4 files, 0 subfolders",
+  "folders": [
+    {
+      "blueprint": "grammar/docs/taxonomy-design/fbp.ai.json",
+      "folder_path": "docs/taxonomy-design",
+      "description": "4 files, 0 subfolders",
+      "file_count": 4,
+      "subdirectory_count": 0
+    }
+  ],
+  "folder_count": 1,
+  "total_files": 4,
+  "integration_timestamp": "2026-08-21T15:19:38.931182 | in sovereign time",
+  "maintaining_agent": "ObjectAgent",
+  "note": "Links only. Every folder's details live at its own address."
+}

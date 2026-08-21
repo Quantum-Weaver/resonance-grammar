@@ -1,0 +1,82 @@
+{
+  "tier": "folder",
+  "folder_name": "exports",
+  "folder_path": "exports",
+  "self": "grammar/exports/fbp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "4 files, 0 subfolders",
+  "files": [
+    {
+      "path": "exports/grammar-export-2026-07-23.json",
+      "description": "data, 100,977,670 bytes"
+    },
+    {
+      "path": "exports/grammar-export-2026-07-26.json",
+      "description": "data, 15,559,850 bytes"
+    },
+    {
+      "path": "exports/grammar-export-2026-07-27.json",
+      "description": "data, 20,266,851 bytes"
+    },
+    {
+      "path": "exports/grammar-export-2026-07-28.json",
+      "description": "data, 20,290,332 bytes"
+    }
+  ],
+  "file_count": 4,
+  "subdirectories": [],
+  "code_analysis": {
+    "grammar-export-2026-07-23.json": {
+      "language": "json",
+      "lines": 2480021,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "source",
+        "tables"
+      ],
+      "key_count": 3
+    },
+    "grammar-export-2026-07-26.json": {
+      "language": "json",
+      "lines": 420506,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "source",
+        "tables"
+      ],
+      "key_count": 3
+    },
+    "grammar-export-2026-07-27.json": {
+      "language": "json",
+      "lines": 588236,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "source",
+        "tables"
+      ],
+      "key_count": 3
+    },
+    "grammar-export-2026-07-28.json": {
+      "language": "json",
+      "lines": 588858,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "source",
+        "tables"
+      ],
+      "key_count": 3
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.863690 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

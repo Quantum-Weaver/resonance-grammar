@@ -1,0 +1,361 @@
+{
+  "tier": "folder",
+  "folder_name": "docs",
+  "folder_path": "docs",
+  "self": "grammar/docs/fbp.ai.json",
+  "parent": "grammar/docs/dbp.ai.json",
+  "description": "9 files, 4 subfolders",
+  "files": [
+    {
+      "path": "docs/BUILD-SEQUENCE.md",
+      "description": "BUILD SEQUENCE"
+    },
+    {
+      "path": "docs/CHECKLIST.md",
+      "description": "RESONANCE KNOWLEDGE"
+    },
+    {
+      "path": "docs/CLAUDE-CONTEXT.md",
+      "description": "CLAUDE CONTEXT"
+    },
+    {
+      "path": "docs/CONTRIBUTING.md",
+      "description": "CONTRIBUTING"
+    },
+    {
+      "path": "docs/ETYMOLOGY-FILLING-PLAN.md",
+      "description": "The etymology filling"
+    },
+    {
+      "path": "docs/RESONANCE-GRAMMAR.md",
+      "description": "THE RESONANCE GRAMMAR"
+    },
+    {
+      "path": "docs/SCREEN-INVENTORY.md",
+      "description": "SCREEN INVENTORY"
+    },
+    {
+      "path": "docs/STORY-BLOCK.md",
+      "description": "STORY BLOCK"
+    },
+    {
+      "path": "docs/THE-STANDALONE-WATERS.md",
+      "description": "THE STANDALONE WATERS"
+    }
+  ],
+  "file_count": 9,
+  "subdirectories": [
+    "docs/carries",
+    "docs/sittings",
+    "docs/sql",
+    "docs/taxonomy-design"
+  ],
+  "code_analysis": {
+    "BUILD-SEQUENCE.md": {
+      "language": "markdown",
+      "lines": 51,
+      "words": 255,
+      "heading_count": 6,
+      "headings": [
+        "BUILD SEQUENCE \u2014 Resonance Knowledge",
+        "Phase K-0: Schema & Seed",
+        "Phase K-1: Query CLI",
+        "Phase K-2: MCP Server",
+        "Phase K-3: Echoes Integration",
+        "Phase K-4: Compass Integration"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "CHECKLIST.md": {
+      "language": "markdown",
+      "lines": 123,
+      "words": 2898,
+      "heading_count": 10,
+      "headings": [
+        "RESONANCE KNOWLEDGE \u2014 MASTER CHECKLIST",
+        "LEGEND",
+        "PHASE STATUS",
+        "Phase K-0: Schema & Seed \u2705",
+        "Phase K-1: Query CLI \u2705",
+        "Phase K-2: MCP Server \u2705 \u2014 fulfilled BY THE BRIDGE (2026-07-30)",
+        "Phase K-3: Echoes Integration \u2b1c",
+        "Phase K-4: Compass Integration \u2b1c",
+        "KNOWN BUGS",
+        "SESSION LOG"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [
+        {
+          "target": "docs/STORY-BLOCK.md",
+          "resolves": false,
+          "outside_checkout": false
+        }
+      ],
+      "links_internal_unresolved": [
+        "docs/STORY-BLOCK.md"
+      ],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 26,
+      "checkboxes": {
+        "open": 7,
+        "done": 24
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "CLAUDE-CONTEXT.md": {
+      "language": "markdown",
+      "lines": 34,
+      "words": 163,
+      "heading_count": 6,
+      "headings": [
+        "CLAUDE CONTEXT \u2014 Resonance Echoes",
+        "Naming",
+        "The Senses",
+        "The ComfortBar",
+        "Key Patterns",
+        "Differences from Compass"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "CONTRIBUTING.md": {
+      "language": "markdown",
+      "lines": 21,
+      "words": 100,
+      "heading_count": 5,
+      "headings": [
+        "CONTRIBUTING \u2014 Resonance Echoes",
+        "Methodology",
+        "Branch Strategy",
+        "Build Protocol",
+        "Philosophy"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "ETYMOLOGY-FILLING-PLAN.md": {
+      "language": "markdown",
+      "lines": 230,
+      "words": 1584,
+      "heading_count": 10,
+      "headings": [
+        "The etymology filling \u2014 a plan, and one ruling needed first",
+        "The ground truth",
+        "\u26a0 THE RULING NEEDED BEFORE ANY ROW IS WRITTEN",
+        "The lesson that governs this whole phase",
+        "\u26a0 Corrected within the sitting, before it cost anything",
+        "`completion_progress` becomes the honest ledger",
+        "The sequence",
+        "How the writing actually happens",
+        "What I would not do",
+        "THE ONE OPEN RULING, and it is the expensive one"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [
+        {
+          "target": "sql/040-the-etymology-ledger.sql",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "sql/040-the-etymology-ledger.sql",
+          "resolves": true,
+          "outside_checkout": false
+        }
+      ],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 2,
+      "table_rows": 18,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "RESONANCE-GRAMMAR.md": {
+      "language": "markdown",
+      "lines": 229,
+      "words": 0,
+      "heading_count": 19,
+      "headings": [
+        "THE RESONANCE GRAMMAR",
+        "1. WHAT THIS IS",
+        "2. CORE PRINCIPLES",
+        "2.1 The Heart and the Hearth (personal meaning, opt-in)",
+        "3. THE VOCABULARY: ATOMS",
+        "3.1 Atom Structure",
+        "3.2 Example Atom: \"Resonance\"",
+        "3.3 Atom Categories",
+        "4. THE SYNTAX: MOLECULES",
+        "4.1 Molecule Structure",
+        "4.2 Example Molecule: \"MoodEvent\"",
+        "5. THE ORGANIZATION: CATEGORIES",
+        "6. THE FOLKSONOMY",
+        "6.1 Emoji Definition Structure",
+        "6.2 The Folksonomy Principle",
+        "7. THE SOVEREIGNTY GUARANTEES",
+        "8. IMPLEMENTATIONS",
+        "9. VERSIONING",
+        "10. GOVERNANCE"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 1,
+      "table_rows": 47,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "SCREEN-INVENTORY.md": {
+      "language": "markdown",
+      "lines": 24,
+      "words": 159,
+      "heading_count": 4,
+      "headings": [
+        "SCREEN INVENTORY \u2014 inherited from the Resonance Echoes template",
+        "Built (0)",
+        "Planned (4 screens)",
+        "Components"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 13,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "STORY-BLOCK.md": {
+      "language": "markdown",
+      "lines": 308,
+      "words": 2588,
+      "heading_count": 12,
+      "headings": [
+        "STORY BLOCK \u2014 Resonance Grammar",
+        "WHAT",
+        "HOW",
+        "WHERE",
+        "WHEN",
+        "WHY",
+        "INSPIRATION",
+        "REMEMBERINGS",
+        "COUNCIL THREAD",
+        "WEAVER THREAD",
+        "PROVENANCE",
+        "ETYMOLOGY"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [
+        {
+          "target": "../HANDS.md",
+          "resolves": true,
+          "outside_checkout": false
+        }
+      ],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 28,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "THE-STANDALONE-WATERS.md": {
+      "language": "markdown",
+      "lines": 205,
+      "words": 1760,
+      "heading_count": 9,
+      "headings": [
+        "THE STANDALONE WATERS \u2014 the Grammar decomposed for its experience",
+        "The finding, said once",
+        "THE CENTER \u2014 KP's \u269b word, this sitting",
+        "The standing rulings this page builds under",
+        "Tier 0 \u2014 already flowing, reused never rebuilt",
+        "Tier 1 \u2014 the substrate (named needs, KP's gate)",
+        "Tier 2 \u2014 the passages",
+        "Tier 3 \u2014 the surface",
+        "Open strokes \u2014 KP's, held at the gate"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    }
+  },
+  "folders_not_walked": [
+    {
+      "name": "blueprints",
+      "address": "docs/blueprints",
+      "walked": false,
+      "reason": "a blueprint output tree \u2014 the forge does not blueprint blueprints"
+    }
+  ],
+  "scan_timestamp": "2026-08-21T15:19:36.540725 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

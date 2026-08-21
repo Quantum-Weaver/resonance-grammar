@@ -1,0 +1,53 @@
+{
+  "tier": "domain",
+  "domain_name": "docs",
+  "domain_path": "docs",
+  "self": "grammar/docs/dbp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "9 files, 4 subfolders",
+  "objects": [
+    {
+      "blueprint": "grammar/docs/carries/obp.ai.json",
+      "object_path": "docs/carries",
+      "description": "12 files, 0 subfolders",
+      "folder_count": 1,
+      "total_files": 12
+    },
+    {
+      "blueprint": "grammar/docs/sittings/obp.ai.json",
+      "object_path": "docs/sittings",
+      "description": "2 files, 1 subfolders",
+      "folder_count": 2,
+      "total_files": 8
+    },
+    {
+      "blueprint": "grammar/docs/sql/obp.ai.json",
+      "object_path": "docs/sql",
+      "description": "113 files, 0 subfolders",
+      "folder_count": 1,
+      "total_files": 113
+    },
+    {
+      "blueprint": "grammar/docs/taxonomy-design/obp.ai.json",
+      "object_path": "docs/taxonomy-design",
+      "description": "4 files, 0 subfolders",
+      "folder_count": 1,
+      "total_files": 4
+    }
+  ],
+  "object_count": 4,
+  "folders_reporting_directly": [
+    {
+      "blueprint": "grammar/docs/fbp.ai.json",
+      "folder_path": "docs",
+      "description": "9 files, 4 subfolders",
+      "file_count": 9,
+      "subdirectory_count": 4
+    }
+  ],
+  "total_folders": 6,
+  "total_files": 146,
+  "integration_timestamp": "2026-08-21T15:19:38.935020 | in sovereign time",
+  "maintaining_agent": "DomainAgent",
+  "note": "Links only. Every object's details live at its own address."
+}

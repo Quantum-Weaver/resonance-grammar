@@ -1,0 +1,41 @@
+{
+  "tier": "folder",
+  "folder_name": "scripts",
+  "folder_path": "scripts",
+  "self": "grammar/scripts/fbp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "scripts/dump_db.py",
+      "description": "!/usr/bin/env python3"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "dump_db.py": {
+      "language": "python",
+      "lines": 40,
+      "classes": [],
+      "functions": [
+        "main"
+      ],
+      "imports": [
+        "datetime",
+        "pathlib",
+        "sqlite3"
+      ],
+      "constants": [
+        "OUT_DIR",
+        "ROOT"
+      ],
+      "env_names_read": [],
+      "has_main_guard": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.871100 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

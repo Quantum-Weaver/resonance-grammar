@@ -1,0 +1,1904 @@
+{
+  "tier": "folder",
+  "folder_name": "sql",
+  "folder_path": "docs/sql",
+  "self": "grammar/docs/sql/fbp.ai.json",
+  "parent": "grammar/docs/sql/obp.ai.json",
+  "description": "113 files, 0 subfolders",
+  "files": [
+    {
+      "path": "docs/sql/000-NEW-TABLE-RITUAL.md",
+      "description": "000"
+    },
+    {
+      "path": "docs/sql/001-organisms.sql",
+      "description": "sql, 3,950 bytes"
+    },
+    {
+      "path": "docs/sql/002-organisms-echoes.sql",
+      "description": "sql, 3,075 bytes"
+    },
+    {
+      "path": "docs/sql/003-the-triad.sql",
+      "description": "sql, 4,705 bytes"
+    },
+    {
+      "path": "docs/sql/004-first-definitions.sql",
+      "description": "sql, 21,846 bytes"
+    },
+    {
+      "path": "docs/sql/004-rls-policies-organisms.sql",
+      "description": "sql, 2,340 bytes"
+    },
+    {
+      "path": "docs/sql/005-rls-heal-grammar-reads.sql",
+      "description": "sql, 2,589 bytes"
+    },
+    {
+      "path": "docs/sql/006-the-lattice.sql",
+      "description": "sql, 17,615 bytes"
+    },
+    {
+      "path": "docs/sql/007-gaia-config.sql",
+      "description": "sql, 4,954 bytes"
+    },
+    {
+      "path": "docs/sql/008-editorial-triad.sql",
+      "description": "sql, 8,853 bytes"
+    },
+    {
+      "path": "docs/sql/009-the-self-aware-layer.sql",
+      "description": "sql, 11,591 bytes"
+    },
+    {
+      "path": "docs/sql/010-gaia-config-may-mirror.sql",
+      "description": "sql, 5,963 bytes"
+    },
+    {
+      "path": "docs/sql/011-gaia-sync.sql",
+      "description": "sql, 16,927 bytes"
+    },
+    {
+      "path": "docs/sql/012-scheme-anchor.sql",
+      "description": "sql, 2,129 bytes"
+    },
+    {
+      "path": "docs/sql/013-deity-grouping.sql",
+      "description": "sql, 1,064 bytes"
+    },
+    {
+      "path": "docs/sql/014-the-tools.sql",
+      "description": "sql, 3,952 bytes"
+    },
+    {
+      "path": "docs/sql/015-the-first-seeds.sql",
+      "description": "sql, 5,701 bytes"
+    },
+    {
+      "path": "docs/sql/016-the-thesaurus-and-folksonomies.sql",
+      "description": "sql, 12,377 bytes"
+    },
+    {
+      "path": "docs/sql/017-the-adventure-seeds.sql",
+      "description": "sql, 8,448 bytes"
+    },
+    {
+      "path": "docs/sql/018-the-almanac-seed.sql",
+      "description": "sql, 2,513 bytes"
+    },
+    {
+      "path": "docs/sql/019-the-tool-families.sql",
+      "description": "sql, 6,873 bytes"
+    },
+    {
+      "path": "docs/sql/020-the-formulary-seed.sql",
+      "description": "sql, 3,198 bytes"
+    },
+    {
+      "path": "docs/sql/021-the-bestiary-seed.sql",
+      "description": "sql, 3,278 bytes"
+    },
+    {
+      "path": "docs/sql/022-the-abecedary-seed.sql",
+      "description": "sql, 3,491 bytes"
+    },
+    {
+      "path": "docs/sql/023-the-missing-emoji-canon.sql",
+      "description": "sql, 3,989 bytes"
+    },
+    {
+      "path": "docs/sql/024-the-category-faces.sql",
+      "description": "sql, 6,765 bytes"
+    },
+    {
+      "path": "docs/sql/025-the-open-doors.sql",
+      "description": "sql, 16,045 bytes"
+    },
+    {
+      "path": "docs/sql/026-the-bond-tender.sql",
+      "description": "sql, 15,383 bytes"
+    },
+    {
+      "path": "docs/sql/027-the-atlas-seed.sql",
+      "description": "sql, 3,643 bytes"
+    },
+    {
+      "path": "docs/sql/028-the-gaia-sync-seed.sql",
+      "description": "sql, 4,298 bytes"
+    },
+    {
+      "path": "docs/sql/029-the-bridge-lines.sql",
+      "description": "sql, 14,406 bytes"
+    },
+    {
+      "path": "docs/sql/030-the-hearth-waters.sql",
+      "description": "sql, 7,866 bytes"
+    },
+    {
+      "path": "docs/sql/030-the-tended-library.sql",
+      "description": "sql, 30,369 bytes"
+    },
+    {
+      "path": "docs/sql/031-the-note-taker-seed.sql",
+      "description": "sql, 4,822 bytes"
+    },
+    {
+      "path": "docs/sql/031-the-three-facts.sql",
+      "description": "sql, 36,683 bytes"
+    },
+    {
+      "path": "docs/sql/032-the-chimes-seed.sql",
+      "description": "sql, 3,201 bytes"
+    },
+    {
+      "path": "docs/sql/033-the-participants-consent.sql",
+      "description": "sql, 3,309 bytes"
+    },
+    {
+      "path": "docs/sql/034-the-first-wares.sql",
+      "description": "sql, 3,354 bytes"
+    },
+    {
+      "path": "docs/sql/035-the-weavers-first-profiles.sql",
+      "description": "sql, 2,252 bytes"
+    },
+    {
+      "path": "docs/sql/036-the-bazaar-doors.sql",
+      "description": "sql, 2,014 bytes"
+    },
+    {
+      "path": "docs/sql/037-the-stalls-and-their-makers.sql",
+      "description": "sql, 3,471 bytes"
+    },
+    {
+      "path": "docs/sql/038-the-counters-lock.sql",
+      "description": "sql, 1,242 bytes"
+    },
+    {
+      "path": "docs/sql/039-the-modulator-seed.sql",
+      "description": "sql, 3,615 bytes"
+    },
+    {
+      "path": "docs/sql/040-the-etymology-ledger.sql",
+      "description": "sql, 4,188 bytes"
+    },
+    {
+      "path": "docs/sql/041-the-fourteen.sql",
+      "description": "sql, 11,318 bytes"
+    },
+    {
+      "path": "docs/sql/042-the-fifteen-emoji.sql",
+      "description": "sql, 5,714 bytes"
+    },
+    {
+      "path": "docs/sql/043-the-beacons.sql",
+      "description": "sql, 9,835 bytes"
+    },
+    {
+      "path": "docs/sql/044-the-first-beacons.sql",
+      "description": "sql, 6,311 bytes"
+    },
+    {
+      "path": "docs/sql/045-the-tier-gate.sql",
+      "description": "sql, 3,257 bytes"
+    },
+    {
+      "path": "docs/sql/046-the-available-on.sql",
+      "description": "sql, 3,698 bytes"
+    },
+    {
+      "path": "docs/sql/047-the-imagined-builds.sql",
+      "description": "sql, 5,252 bytes"
+    },
+    {
+      "path": "docs/sql/048-the-meeting-atom.sql",
+      "description": "sql, 2,613 bytes"
+    },
+    {
+      "path": "docs/sql/049-daedalus-and-khoros.sql",
+      "description": "sql, 1,027 bytes"
+    },
+    {
+      "path": "docs/sql/050-the-beacon-molecules.sql",
+      "description": "sql, 4,656 bytes"
+    },
+    {
+      "path": "docs/sql/051-the-beacon-descriptions.sql",
+      "description": "sql, 1,628 bytes"
+    },
+    {
+      "path": "docs/sql/052-the-beacon-stories.sql",
+      "description": "sql, 5,083 bytes"
+    },
+    {
+      "path": "docs/sql/053-the-light-list-seed.sql",
+      "description": "sql, 4,042 bytes"
+    },
+    {
+      "path": "docs/sql/054-the-family-truing-and-the-ziggy-shelf.sql",
+      "description": "sql, 11,992 bytes"
+    },
+    {
+      "path": "docs/sql/055-the-twenty-waters.sql",
+      "description": "sql, 21,828 bytes"
+    },
+    {
+      "path": "docs/sql/056-the-organism-and-the-music-hall.sql",
+      "description": "sql, 4,899 bytes"
+    },
+    {
+      "path": "docs/sql/057-the-streaming-season-named.sql",
+      "description": "sql, 7,166 bytes"
+    },
+    {
+      "path": "docs/sql/058-the-light-tier-crossing.sql",
+      "description": "sql, 2,491 bytes"
+    },
+    {
+      "path": "docs/sql/059-the-quipus-and-the-four-crossings.sql",
+      "description": "sql, 5,729 bytes"
+    },
+    {
+      "path": "docs/sql/060-the-epagoge.sql",
+      "description": "sql, 3,809 bytes"
+    },
+    {
+      "path": "docs/sql/061-the-cumdach.sql",
+      "description": "sql, 3,836 bytes"
+    },
+    {
+      "path": "docs/sql/062-parity-census-2026-08-06.md",
+      "description": "062 PARITY CENSUS"
+    },
+    {
+      "path": "docs/sql/062-the-cases-of-the-name.sql",
+      "description": "sql, 10,797 bytes"
+    },
+    {
+      "path": "docs/sql/063-the-kinds-of-the-taxonomy.sql",
+      "description": "sql, 6,453 bytes"
+    },
+    {
+      "path": "docs/sql/064-the-faces-of-the-types.sql",
+      "description": "sql, 19,382 bytes"
+    },
+    {
+      "path": "docs/sql/065-the-atom-wave-a2.sql",
+      "description": "sql, 134,158 bytes"
+    },
+    {
+      "path": "docs/sql/065-the-atom-wave-a2.superseded-opus-draft.sql",
+      "description": "sql, 10,563 bytes"
+    },
+    {
+      "path": "docs/sql/066-the-last-modifiers.sql",
+      "description": "sql, 7,991 bytes"
+    },
+    {
+      "path": "docs/sql/067-the-acronym-column.sql",
+      "description": "sql, 2,722 bytes"
+    },
+    {
+      "path": "docs/sql/068-the-three-drawers.sql",
+      "description": "sql, 983 bytes"
+    },
+    {
+      "path": "docs/sql/069-the-tenders-teaching.sql",
+      "description": "sql, 10,989 bytes"
+    },
+    {
+      "path": "docs/sql/070-the-deity-atoms.sql",
+      "description": "sql, 5,783 bytes"
+    },
+    {
+      "path": "docs/sql/071-the-deity-definitions.sql",
+      "description": "sql, 5,575 bytes"
+    },
+    {
+      "path": "docs/sql/072-the-deity-etymology.sql",
+      "description": "sql, 9,620 bytes"
+    },
+    {
+      "path": "docs/sql/073-the-deity-senses.sql",
+      "description": "sql, 11,760 bytes"
+    },
+    {
+      "path": "docs/sql/074-the-palette-atoms.sql",
+      "description": "sql, 9,867 bytes"
+    },
+    {
+      "path": "docs/sql/075-the-beacon-icon.sql",
+      "description": "sql, 3,835 bytes"
+    },
+    {
+      "path": "docs/sql/076-the-tool-icon.sql",
+      "description": "sql, 4,048 bytes"
+    },
+    {
+      "path": "docs/sql/077-the-promenade-atom.sql",
+      "description": "sql, 2,610 bytes"
+    },
+    {
+      "path": "docs/sql/078-the-tool-faces.sql",
+      "description": "sql, 14,879 bytes"
+    },
+    {
+      "path": "docs/sql/079-the-coast-widened.sql",
+      "description": "sql, 8,129 bytes"
+    },
+    {
+      "path": "docs/sql/080-the-coast-atoms.sql",
+      "description": "sql, 6,343 bytes"
+    },
+    {
+      "path": "docs/sql/081-the-coast-molecules.sql",
+      "description": "sql, 12,292 bytes"
+    },
+    {
+      "path": "docs/sql/082-the-beacon-etymologies.sql",
+      "description": "sql, 28,046 bytes"
+    },
+    {
+      "path": "docs/sql/083-the-beacon-senses.sql",
+      "description": "sql, 8,970 bytes"
+    },
+    {
+      "path": "docs/sql/084-the-type-senses.sql",
+      "description": "sql, 12,021 bytes"
+    },
+    {
+      "path": "docs/sql/085-the-atom-whole-view.sql",
+      "description": "sql, 12,287 bytes"
+    },
+    {
+      "path": "docs/sql/086-the-views-mended.sql",
+      "description": "sql, 8,432 bytes"
+    },
+    {
+      "path": "docs/sql/087-the-coast-dressed.sql",
+      "description": "sql, 10,390 bytes"
+    },
+    {
+      "path": "docs/sql/088-the-category-face.sql",
+      "description": "sql, 13,721 bytes"
+    },
+    {
+      "path": "docs/sql/089-the-wave-and-two-roots.sql",
+      "description": "sql, 10,238 bytes"
+    },
+    {
+      "path": "docs/sql/090-the-coast-priced-and-visible.sql",
+      "description": "sql, 9,281 bytes"
+    },
+    {
+      "path": "docs/sql/091-the-learscail-seeded.sql",
+      "description": "sql, 4,509 bytes"
+    },
+    {
+      "path": "docs/sql/092-the-two-new-lights.sql",
+      "description": "sql, 3,192 bytes"
+    },
+    {
+      "path": "docs/sql/093-the-family-table.sql",
+      "description": "sql, 11,409 bytes"
+    },
+    {
+      "path": "docs/sql/094-the-lines-rehomed.sql",
+      "description": "sql, 2,405 bytes"
+    },
+    {
+      "path": "docs/sql/095-the-family-table-moved-to-nemeton.sql",
+      "description": "sql, 4,733 bytes"
+    },
+    {
+      "path": "docs/sql/096-the-true-names.sql",
+      "description": "sql, 7,475 bytes"
+    },
+    {
+      "path": "docs/sql/097-the-shims-drop.sql",
+      "description": "sql, 4,424 bytes"
+    },
+    {
+      "path": "docs/sql/098-the-coast-reckoned.sql",
+      "description": "sql, 10,104 bytes"
+    },
+    {
+      "path": "docs/sql/099-the-pantheon.sql",
+      "description": "sql, 10,484 bytes"
+    },
+    {
+      "path": "docs/sql/100-the-words-the-house-outgrew.sql",
+      "description": "sql, 17,091 bytes"
+    },
+    {
+      "path": "docs/sql/101-two-realms-that-were-never-worded.sql",
+      "description": "sql, 6,484 bytes"
+    },
+    {
+      "path": "docs/sql/102-the-molecules.sql",
+      "description": "sql, 7,536 bytes"
+    },
+    {
+      "path": "docs/sql/103-the-missing-rows.sql",
+      "description": "sql, 8,204 bytes"
+    },
+    {
+      "path": "docs/sql/104-the-two-that-missed-the-fill.sql",
+      "description": "sql, 7,519 bytes"
+    },
+    {
+      "path": "docs/sql/105-the-lodestone-seeded.sql",
+      "description": "sql, 4,671 bytes"
+    },
+    {
+      "path": "docs/sql/106-the-ffynnon-seeded.sql",
+      "description": "sql, 5,334 bytes"
+    },
+    {
+      "path": "docs/sql/DRAFT-2026-08-18-the-beacons-reckoning.sql",
+      "description": "sql, 8,972 bytes"
+    }
+  ],
+  "file_count": 113,
+  "subdirectories": [],
+  "code_analysis": {
+    "000-NEW-TABLE-RITUAL.md": {
+      "language": "markdown",
+      "lines": 61,
+      "words": 325,
+      "heading_count": 4,
+      "headings": [
+        "000 \u2014 THE NEW-TABLE RITUAL (read before any CREATE TABLE)",
+        "The ritual, whole",
+        "The lessons this ritual carries (all learned 2026-07-26, one night)",
+        "Precedents"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 1,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "001-organisms.sql": {
+      "language": "sql",
+      "lines": 75,
+      "statements": 10,
+      "tables_created": [
+        "public.organisms",
+        "public.organism_molecules"
+      ],
+      "rls_enabled_on": [
+        "public.organisms",
+        "public.organism_molecules"
+      ],
+      "policies_created": [
+        "organisms are readable",
+        "organism composition is readable"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "002-organisms-echoes.sql": {
+      "language": "sql",
+      "lines": 60,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "003-the-triad.sql": {
+      "language": "sql",
+      "lines": 92,
+      "statements": 16,
+      "tables_created": [
+        "public.organisms",
+        "public.organism_molecules"
+      ],
+      "rls_enabled_on": [
+        "public.organisms",
+        "public.organism_molecules"
+      ],
+      "policies_created": [
+        "Public read organisms",
+        "Public read organism_molecules"
+      ],
+      "functions_created": [],
+      "indexes_created": 2,
+      "uses_do_block": false
+    },
+    "004-first-definitions.sql": {
+      "language": "sql",
+      "lines": 249,
+      "statements": 27,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "004-rls-policies-organisms.sql": {
+      "language": "sql",
+      "lines": 50,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [
+        "Public read organisms",
+        "Public read organism_molecules"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "005-rls-heal-grammar-reads.sql": {
+      "language": "sql",
+      "lines": 59,
+      "statements": 13,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": true
+    },
+    "006-the-lattice.sql": {
+      "language": "sql",
+      "lines": 301,
+      "statements": 47,
+      "tables_created": [
+        "public.schemes",
+        "public.scheme_memberships",
+        "public.concept_relations",
+        "public.classification_paths",
+        "public.classification_path_steps"
+      ],
+      "rls_enabled_on": [
+        "public.schemes",
+        "public.scheme_memberships",
+        "public.concept_relations",
+        "public.classification_paths",
+        "public.classification_path_steps"
+      ],
+      "policies_created": [
+        "Public read published schemes",
+        "Public read published scheme_memberships",
+        "Public read published concept_relations",
+        "Public read published classification_paths",
+        "Public read steps of published paths"
+      ],
+      "functions_created": [],
+      "indexes_created": 18,
+      "uses_do_block": false
+    },
+    "007-gaia-config.sql": {
+      "language": "sql",
+      "lines": 79,
+      "statements": 12,
+      "tables_created": [
+        "public.gaia_config"
+      ],
+      "rls_enabled_on": [
+        "public.gaia_config"
+      ],
+      "policies_created": [
+        "Public read gaia_config"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "008-editorial-triad.sql": {
+      "language": "sql",
+      "lines": 143,
+      "statements": 58,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [
+        "Public read published atoms",
+        "Public read published molecules",
+        "Public read published organisms",
+        "Public read published molecule_atoms",
+        "Public read published organism_molecules",
+        "Public read published organism_atoms"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "009-the-self-aware-layer.sql": {
+      "language": "sql",
+      "lines": 230,
+      "statements": 41,
+      "tables_created": [
+        "public.templates",
+        "public.policies",
+        "public.functions",
+        "public.triggers",
+        "public.indexes",
+        "public.enums",
+        "public.composite_types"
+      ],
+      "rls_enabled_on": [
+        "public.indexes",
+        "public.enums",
+        "public.composite_types",
+        "public.templates",
+        "public.policies",
+        "public.functions",
+        "public.triggers"
+      ],
+      "policies_created": [
+        "Public read indexes",
+        "Public read enums",
+        "Public read composite_types",
+        "Public read templates",
+        "Public read policies",
+        "Public read functions",
+        "Public read triggers"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "010-gaia-config-may-mirror.sql": {
+      "language": "sql",
+      "lines": 102,
+      "statements": 35,
+      "tables_created": [
+        "public.scripts"
+      ],
+      "rls_enabled_on": [
+        "public.scripts"
+      ],
+      "policies_created": [
+        "Public read scripts"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "011-gaia-sync.sql": {
+      "language": "sql",
+      "lines": 358,
+      "statements": 62,
+      "tables_created": [
+        "public.columns"
+      ],
+      "rls_enabled_on": [
+        "public.columns"
+      ],
+      "policies_created": [
+        "Public read columns"
+      ],
+      "functions_created": [
+        "public.gaia_sync"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "012-scheme-anchor.sql": {
+      "language": "sql",
+      "lines": 34,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "013-deity-grouping.sql": {
+      "language": "sql",
+      "lines": 23,
+      "statements": 2,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "014-the-tools.sql": {
+      "language": "sql",
+      "lines": 74,
+      "statements": 6,
+      "tables_created": [
+        "public.tools"
+      ],
+      "rls_enabled_on": [
+        "public.tools"
+      ],
+      "policies_created": [
+        "Public read tools"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "015-the-first-seeds.sql": {
+      "language": "sql",
+      "lines": 92,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "016-the-thesaurus-and-folksonomies.sql": {
+      "language": "sql",
+      "lines": 171,
+      "statements": 25,
+      "tables_created": [
+        "public.folksonomies",
+        "public.thesaurus"
+      ],
+      "rls_enabled_on": [
+        "public.folksonomies",
+        "public.thesaurus"
+      ],
+      "policies_created": [
+        "Public read folksonomies",
+        "Public read thesaurus"
+      ],
+      "functions_created": [],
+      "indexes_created": 2,
+      "uses_do_block": false
+    },
+    "017-the-adventure-seeds.sql": {
+      "language": "sql",
+      "lines": 117,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "018-the-almanac-seed.sql": {
+      "language": "sql",
+      "lines": 41,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "019-the-tool-families.sql": {
+      "language": "sql",
+      "lines": 108,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "020-the-formulary-seed.sql": {
+      "language": "sql",
+      "lines": 53,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "021-the-bestiary-seed.sql": {
+      "language": "sql",
+      "lines": 55,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "022-the-abecedary-seed.sql": {
+      "language": "sql",
+      "lines": 57,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "023-the-missing-emoji-canon.sql": {
+      "language": "sql",
+      "lines": 65,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "024-the-category-faces.sql": {
+      "language": "sql",
+      "lines": 127,
+      "statements": 26,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "025-the-open-doors.sql": {
+      "language": "sql",
+      "lines": 299,
+      "statements": 56,
+      "tables_created": [
+        "public.roles"
+      ],
+      "rls_enabled_on": [
+        "public.roles"
+      ],
+      "policies_created": [
+        "Public read roles",
+        "Read own roles",
+        "Council opens doors",
+        "Read own roles",
+        "Council opens doors",
+        "Council opens doors"
+      ],
+      "functions_created": [
+        "public.has_role",
+        "internal.has_role"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "026-the-bond-tender.sql": {
+      "language": "sql",
+      "lines": 375,
+      "statements": 39,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [
+        "internal.decompose_name",
+        "internal.norm_words",
+        "public.bond_tender",
+        "internal.decompose_name"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "027-the-atlas-seed.sql": {
+      "language": "sql",
+      "lines": 59,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "028-the-gaia-sync-seed.sql": {
+      "language": "sql",
+      "lines": 74,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "029-the-bridge-lines.sql": {
+      "language": "sql",
+      "lines": 191,
+      "statements": 11,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "030-the-hearth-waters.sql": {
+      "language": "sql",
+      "lines": 120,
+      "statements": 11,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "030-the-tended-library.sql": {
+      "language": "sql",
+      "lines": 658,
+      "statements": 130,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [
+        "public.gaia_sync"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "031-the-note-taker-seed.sql": {
+      "language": "sql",
+      "lines": 79,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "031-the-three-facts.sql": {
+      "language": "sql",
+      "lines": 818,
+      "statements": 142,
+      "tables_created": [
+        "public.relationships",
+        "public.views"
+      ],
+      "rls_enabled_on": [
+        "public.relationships",
+        "public.views"
+      ],
+      "policies_created": [
+        "Public read relationships",
+        "Public read views"
+      ],
+      "functions_created": [
+        "public.gaia_sync"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "032-the-chimes-seed.sql": {
+      "language": "sql",
+      "lines": 47,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "033-the-participants-consent.sql": {
+      "language": "sql",
+      "lines": 78,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [
+        "Participant can update own credit visibility",
+        "Participant can update own credit visibility"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "034-the-first-wares.sql": {
+      "language": "sql",
+      "lines": 64,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "035-the-weavers-first-profiles.sql": {
+      "language": "sql",
+      "lines": 41,
+      "statements": 2,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "036-the-bazaar-doors.sql": {
+      "language": "sql",
+      "lines": 38,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "037-the-stalls-and-their-makers.sql": {
+      "language": "sql",
+      "lines": 82,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [
+        "public.true_the_stall_counters"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "038-the-counters-lock.sql": {
+      "language": "sql",
+      "lines": 24,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "039-the-modulator-seed.sql": {
+      "language": "sql",
+      "lines": 58,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "040-the-etymology-ledger.sql": {
+      "language": "sql",
+      "lines": 74,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "041-the-fourteen.sql": {
+      "language": "sql",
+      "lines": 163,
+      "statements": 36,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "042-the-fifteen-emoji.sql": {
+      "language": "sql",
+      "lines": 104,
+      "statements": 16,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "043-the-beacons.sql": {
+      "language": "sql",
+      "lines": 193,
+      "statements": 13,
+      "tables_created": [
+        "public.resonance_beacons"
+      ],
+      "rls_enabled_on": [
+        "public.resonance_beacons"
+      ],
+      "policies_created": [
+        "Public read resonance_beacons"
+      ],
+      "functions_created": [],
+      "indexes_created": 2,
+      "uses_do_block": false
+    },
+    "044-the-first-beacons.sql": {
+      "language": "sql",
+      "lines": 113,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "045-the-tier-gate.sql": {
+      "language": "sql",
+      "lines": 68,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "046-the-available-on.sql": {
+      "language": "sql",
+      "lines": 76,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "047-the-imagined-builds.sql": {
+      "language": "sql",
+      "lines": 107,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "048-the-meeting-atom.sql": {
+      "language": "sql",
+      "lines": 57,
+      "statements": 2,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "049-daedalus-and-khoros.sql": {
+      "language": "sql",
+      "lines": 23,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "050-the-beacon-molecules.sql": {
+      "language": "sql",
+      "lines": 69,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "051-the-beacon-descriptions.sql": {
+      "language": "sql",
+      "lines": 32,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "052-the-beacon-stories.sql": {
+      "language": "sql",
+      "lines": 65,
+      "statements": 11,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "053-the-light-list-seed.sql": {
+      "language": "sql",
+      "lines": 67,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "054-the-family-truing-and-the-ziggy-shelf.sql": {
+      "language": "sql",
+      "lines": 183,
+      "statements": 11,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "055-the-twenty-waters.sql": {
+      "language": "sql",
+      "lines": 345,
+      "statements": 42,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "056-the-organism-and-the-music-hall.sql": {
+      "language": "sql",
+      "lines": 82,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "057-the-streaming-season-named.sql": {
+      "language": "sql",
+      "lines": 121,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "058-the-light-tier-crossing.sql": {
+      "language": "sql",
+      "lines": 48,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "059-the-quipus-and-the-four-crossings.sql": {
+      "language": "sql",
+      "lines": 81,
+      "statements": 14,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "060-the-epagoge.sql": {
+      "language": "sql",
+      "lines": 52,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "061-the-cumdach.sql": {
+      "language": "sql",
+      "lines": 50,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "062-parity-census-2026-08-06.md": {
+      "language": "markdown",
+      "lines": 135,
+      "words": 798,
+      "heading_count": 6,
+      "headings": [
+        "062 PARITY CENSUS \u2014 the run record, 2026-08-06 evening",
+        "Coverage (movement 5a, anon-verified)",
+        "The parity census (movement 5c) \u2014 names matching NONE of their renderings",
+        "One observation beyond the census's question, for KP's eye",
+        "The molecule 58, verbatim",
+        "The organism 83, verbatim (repeats kept \u2014 they are the observation)"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 6,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "062-the-cases-of-the-name.sql": {
+      "language": "sql",
+      "lines": 246,
+      "statements": 11,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "063-the-kinds-of-the-taxonomy.sql": {
+      "language": "sql",
+      "lines": 156,
+      "statements": 11,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "064-the-faces-of-the-types.sql": {
+      "language": "sql",
+      "lines": 236,
+      "statements": 59,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "065-the-atom-wave-a2.sql": {
+      "language": "sql",
+      "lines": 1184,
+      "statements": 453,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "065-the-atom-wave-a2.superseded-opus-draft.sql": {
+      "language": "sql",
+      "lines": 195,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "066-the-last-modifiers.sql": {
+      "language": "sql",
+      "lines": 77,
+      "statements": 26,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "067-the-acronym-column.sql": {
+      "language": "sql",
+      "lines": 59,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "068-the-three-drawers.sql": {
+      "language": "sql",
+      "lines": 21,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "069-the-tenders-teaching.sql": {
+      "language": "sql",
+      "lines": 283,
+      "statements": 31,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [
+        "internal.covering_atom",
+        "public.bond_tender"
+      ],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "070-the-deity-atoms.sql": {
+      "language": "sql",
+      "lines": 75,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "071-the-deity-definitions.sql": {
+      "language": "sql",
+      "lines": 100,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "072-the-deity-etymology.sql": {
+      "language": "sql",
+      "lines": 122,
+      "statements": 20,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "073-the-deity-senses.sql": {
+      "language": "sql",
+      "lines": 186,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "074-the-palette-atoms.sql": {
+      "language": "sql",
+      "lines": 130,
+      "statements": 20,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "075-the-beacon-icon.sql": {
+      "language": "sql",
+      "lines": 66,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "076-the-tool-icon.sql": {
+      "language": "sql",
+      "lines": 70,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "077-the-promenade-atom.sql": {
+      "language": "sql",
+      "lines": 68,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "078-the-tool-faces.sql": {
+      "language": "sql",
+      "lines": 211,
+      "statements": 84,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "079-the-coast-widened.sql": {
+      "language": "sql",
+      "lines": 163,
+      "statements": 15,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "080-the-coast-atoms.sql": {
+      "language": "sql",
+      "lines": 126,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "081-the-coast-molecules.sql": {
+      "language": "sql",
+      "lines": 203,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "082-the-beacon-etymologies.sql": {
+      "language": "sql",
+      "lines": 336,
+      "statements": 37,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "083-the-beacon-senses.sql": {
+      "language": "sql",
+      "lines": 175,
+      "statements": 27,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "084-the-type-senses.sql": {
+      "language": "sql",
+      "lines": 205,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "085-the-atom-whole-view.sql": {
+      "language": "sql",
+      "lines": 236,
+      "statements": 10,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "086-the-views-mended.sql": {
+      "language": "sql",
+      "lines": 193,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "087-the-coast-dressed.sql": {
+      "language": "sql",
+      "lines": 222,
+      "statements": 14,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "088-the-category-face.sql": {
+      "language": "sql",
+      "lines": 285,
+      "statements": 18,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "089-the-wave-and-two-roots.sql": {
+      "language": "sql",
+      "lines": 155,
+      "statements": 32,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "090-the-coast-priced-and-visible.sql": {
+      "language": "sql",
+      "lines": 156,
+      "statements": 19,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "091-the-learscail-seeded.sql": {
+      "language": "sql",
+      "lines": 94,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "092-the-two-new-lights.sql": {
+      "language": "sql",
+      "lines": 53,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "093-the-family-table.sql": {
+      "language": "sql",
+      "lines": 209,
+      "statements": 10,
+      "tables_created": [
+        "public.family_table_messages"
+      ],
+      "rls_enabled_on": [
+        "public.family_table_messages"
+      ],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 1,
+      "uses_do_block": false
+    },
+    "094-the-lines-rehomed.sql": {
+      "language": "sql",
+      "lines": 54,
+      "statements": 2,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "095-the-family-table-moved-to-nemeton.sql": {
+      "language": "sql",
+      "lines": 92,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "096-the-true-names.sql": {
+      "language": "sql",
+      "lines": 150,
+      "statements": 25,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "097-the-shims-drop.sql": {
+      "language": "sql",
+      "lines": 87,
+      "statements": 0,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "098-the-coast-reckoned.sql": {
+      "language": "sql",
+      "lines": 173,
+      "statements": 51,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "099-the-pantheon.sql": {
+      "language": "sql",
+      "lines": 182,
+      "statements": 6,
+      "tables_created": [
+        "public.pantheon"
+      ],
+      "rls_enabled_on": [
+        "public.pantheon"
+      ],
+      "policies_created": [
+        "Public read pantheon"
+      ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "100-the-words-the-house-outgrew.sql": {
+      "language": "sql",
+      "lines": 295,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "101-two-realms-that-were-never-worded.sql": {
+      "language": "sql",
+      "lines": 128,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "102-the-molecules.sql": {
+      "language": "sql",
+      "lines": 124,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "103-the-missing-rows.sql": {
+      "language": "sql",
+      "lines": 167,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "104-the-two-that-missed-the-fill.sql": {
+      "language": "sql",
+      "lines": 144,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "105-the-lodestone-seeded.sql": {
+      "language": "sql",
+      "lines": 69,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "106-the-ffynnon-seeded.sql": {
+      "language": "sql",
+      "lines": 69,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "DRAFT-2026-08-18-the-beacons-reckoning.sql": {
+      "language": "sql",
+      "lines": 149,
+      "statements": 39,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:36.641797 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

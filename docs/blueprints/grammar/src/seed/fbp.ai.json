@@ -1,0 +1,33 @@
+{
+  "tier": "folder",
+  "folder_name": "seed",
+  "folder_path": "src/seed",
+  "self": "grammar/src/seed/fbp.ai.json",
+  "parent": "grammar/src/obp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/seed/seed.sql",
+      "description": "sql, 6,646 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "seed.sql": {
+      "language": "sql",
+      "lines": 53,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.917273 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

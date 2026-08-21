@@ -1,0 +1,50 @@
+{
+  "tier": "object",
+  "object_name": "seeds",
+  "object_path": "seeds",
+  "self": "grammar/seeds/obp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "0 files, 4 subfolders",
+  "folders": [
+    {
+      "blueprint": "grammar/seeds/fbp.ai.json",
+      "folder_path": "seeds",
+      "description": "0 files, 4 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 4
+    },
+    {
+      "blueprint": "grammar/seeds/atoms/fbp.ai.json",
+      "folder_path": "seeds/atoms",
+      "description": "2 files, 0 subfolders",
+      "file_count": 2,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/seeds/emoji/fbp.ai.json",
+      "folder_path": "seeds/emoji",
+      "description": "2 files, 0 subfolders",
+      "file_count": 2,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/seeds/lattice/fbp.ai.json",
+      "folder_path": "seeds/lattice",
+      "description": "7 files, 0 subfolders",
+      "file_count": 7,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/seeds/molecules/fbp.ai.json",
+      "folder_path": "seeds/molecules",
+      "description": "1 files, 0 subfolders",
+      "file_count": 1,
+      "subdirectory_count": 0
+    }
+  ],
+  "folder_count": 5,
+  "total_files": 12,
+  "integration_timestamp": "2026-08-21T15:19:38.932591 | in sovereign time",
+  "maintaining_agent": "ObjectAgent",
+  "note": "Links only. Every folder's details live at its own address."
+}

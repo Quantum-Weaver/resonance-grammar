@@ -1,0 +1,22 @@
+{
+  "tier": "object",
+  "object_name": "sql",
+  "object_path": "docs/sql",
+  "self": "grammar/docs/sql/obp.ai.json",
+  "parent": "grammar/docs/dbp.ai.json",
+  "description": "113 files, 0 subfolders",
+  "folders": [
+    {
+      "blueprint": "grammar/docs/sql/fbp.ai.json",
+      "folder_path": "docs/sql",
+      "description": "113 files, 0 subfolders",
+      "file_count": 113,
+      "subdirectory_count": 0
+    }
+  ],
+  "folder_count": 1,
+  "total_files": 113,
+  "integration_timestamp": "2026-08-21T15:19:38.930041 | in sovereign time",
+  "maintaining_agent": "ObjectAgent",
+  "note": "Links only. Every folder's details live at its own address."
+}

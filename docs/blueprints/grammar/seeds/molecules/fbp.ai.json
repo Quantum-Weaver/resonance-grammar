@@ -1,0 +1,35 @@
+{
+  "tier": "folder",
+  "folder_name": "molecules",
+  "folder_path": "seeds/molecules",
+  "self": "grammar/seeds/molecules/fbp.ai.json",
+  "parent": "grammar/seeds/obp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "seeds/molecules/wave-m1.json",
+      "description": "data, 1,253,303 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "wave-m1.json": {
+      "language": "json",
+      "lines": 35035,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "born",
+        "rows",
+        "signed",
+        "wave"
+      ],
+      "key_count": 4
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.904412 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

@@ -1,0 +1,320 @@
+{
+  "tier": "folder",
+  "folder_name": "resonance-grammar",
+  "folder_path": ".",
+  "self": "grammar/fbp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "The Resonance Grammar",
+  "files": [
+    {
+      "path": ".gitignore",
+      "description": "ignore rules, 2,058 bytes"
+    },
+    {
+      "path": "Cargo.lock",
+      "description": "file, 7,110 bytes"
+    },
+    {
+      "path": "Cargo.toml",
+      "description": "config, 344 bytes"
+    },
+    {
+      "path": "CLAUDE.md",
+      "description": "CLAUDE.md"
+    },
+    {
+      "path": "FEATURE-BOARD.md",
+      "description": "KNOWLEDGE"
+    },
+    {
+      "path": "HANDS.md",
+      "description": "The Hands"
+    },
+    {
+      "path": "knowledge.db",
+      "description": "file, 90,112 bytes"
+    },
+    {
+      "path": "LICENSE",
+      "description": "file, 1,092 bytes"
+    },
+    {
+      "path": "PHILOSOPHY.md",
+      "description": "THE RESONANCE LICENSE"
+    },
+    {
+      "path": "README.md",
+      "description": "\ud83e\uddec Resonance Grammar"
+    },
+    {
+      "path": "REALM-BUS.md",
+      "description": "THE REALM BUS"
+    }
+  ],
+  "file_count": 11,
+  "subdirectories": [
+    ".claude",
+    "backups",
+    "docs",
+    "exports",
+    "reports",
+    "scripts",
+    "seeds",
+    "src",
+    "static",
+    "supabase",
+    "tools"
+  ],
+  "code_analysis": {
+    "Cargo.toml": {
+      "language": "toml",
+      "lines": 12,
+      "sections": [
+        "package",
+        "dependencies"
+      ]
+    },
+    "CLAUDE.md": {
+      "language": "markdown",
+      "lines": 92,
+      "words": 565,
+      "heading_count": 7,
+      "headings": [
+        "CLAUDE.md \u2014 Resonance Grammar",
+        "Ground rules",
+        "Structure",
+        "Tools",
+        "People",
+        "Standards",
+        "The forge and the link tender"
+      ],
+      "links_external": 1,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "FEATURE-BOARD.md": {
+      "language": "markdown",
+      "lines": 769,
+      "words": 6756,
+      "heading_count": 13,
+      "headings": [
+        "KNOWLEDGE \u2014 THE FEATURE BOARD",
+        "The charter (KP's words, 2026-07-17)",
+        "Planned (in dependency order)",
+        "THE ROLES CLARIFIED \u2014 KP's words, 2026-07-27, verbatim",
+        "THE COSMIC NOTES \u2014 KP's word, 2026-07-27, for the UX sitting",
+        "THE FRAMEWORK TABLES \u2014 KP's ruling, 2026-07-27, verbatim + the probe",
+        "THE SHAPE SITTING \u2014 2026-07-27 evening, convened at KP's word",
+        "STANDING NOTES \u2014 for when that day arrives (KP's word, 2026-07-27 night)",
+        "THE OPEN DOORS \u2014 2026-07-30, the roles determination (KP \u269b + the",
+        "THE SHOWING'S THREE QUESTIONS \u2014 2026-07-27, the sitting after the",
+        "THE ADVENTURE DAY \u2014 2026-07-30, lane awen's sitting, recorded by",
+        "THE CASES OF THE NAME \u2014 2026-08-06 evening, KP's \u269b ruling, the Serenade sitting",
+        "Maintenance decisions open"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "HANDS.md": {
+      "language": "markdown",
+      "lines": 43,
+      "words": 307,
+      "heading_count": 7,
+      "headings": [
+        "The Hands \u2014 who builds this, and how",
+        "The voices",
+        "Scribed notes",
+        "Quantum Weaver (KP)",
+        "Aethelred (T-Red)",
+        "Kimi",
+        "Fable (claude-fable-5)"
+      ],
+      "links_external": 1,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "PHILOSOPHY.md": {
+      "language": "markdown",
+      "lines": 115,
+      "words": 661,
+      "heading_count": 15,
+      "headings": [
+        "THE RESONANCE LICENSE \u2014 PHILOSOPHY",
+        "RESONANCE LICENSE v1.0",
+        "WHAT YOU MAY DO",
+        "CONDITIONS OF USE",
+        "1. NO EXPLOITATION OF LIFE",
+        "2. NO EXTRACTION",
+        "3. NO CONFUSION",
+        "4. NO CORRUPTION",
+        "5. NO DECEPTION",
+        "6. NO EXCLUSION",
+        "7. SOVEREIGNTY OF DATA",
+        "8. SIMPLICITY AND SHARED KNOWLEDGE",
+        "9. EMPATHY FOR PERSPECTIVES NOT YOUR OWN",
+        "DISCLAIMER",
+        "ACKNOWLEDGMENT"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "README.md": {
+      "language": "markdown",
+      "lines": 187,
+      "words": 1070,
+      "heading_count": 15,
+      "headings": [
+        "\ud83e\uddec Resonance Grammar",
+        "WHAT IT IS",
+        "What It Contains",
+        "THE STORY",
+        "WHO IT'S FOR",
+        "How It's Used",
+        "Screenshots",
+        "Installation",
+        "Prerequisites",
+        "Build",
+        "Development",
+        "BUILT WITH",
+        "FOR DEVELOPERS",
+        "Development Standards",
+        "LICENSE"
+      ],
+      "links_external": 13,
+      "links_site_absolute": [],
+      "links_internal": [
+        {
+          "target": "docs/RESONANCE-GRAMMAR.md",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "docs/STORY-BLOCK.md",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "docs/CONTRIBUTING.md",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "docs/BUILD-SEQUENCE.md",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "docs/CHECKLIST.md",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "LICENSE",
+          "resolves": true,
+          "outside_checkout": false
+        },
+        {
+          "target": "PHILOSOPHY.md",
+          "resolves": true,
+          "outside_checkout": false
+        }
+      ],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 2,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": true,
+      "declares_mirror_class": false
+    },
+    "REALM-BUS.md": {
+      "language": "markdown",
+      "lines": 145,
+      "words": 1188,
+      "heading_count": 6,
+      "headings": [
+        "THE REALM BUS \u2014 Resonance Grammar (the vocabulary's house)",
+        "The law of this bus (inherited by address, plus the realm's own)",
+        "The realm's standing state (kept current by the realm lane)",
+        "FROM: grammar \u00b7 2026-07-29 \u2014 the table is laid; the keeper available",
+        "FROM: gaia \u00b7 2026-07-31 \u2014 visiting hand: canon 030 drafted, the tended library",
+        "FROM: grammar \u00b7 2026-08-06 evening \u2014 the realm lane taken up; 062 drafted at KP's \u269b ruling"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    }
+  },
+  "folders_not_walked": [
+    {
+      "name": ".git",
+      "address": ".git",
+      "walked": false,
+      "reason": "package-class tree (dependency or build output) \u2014 not counted, because counting it means walking it"
+    },
+    {
+      "name": "target",
+      "address": "target",
+      "walked": false,
+      "reason": "package-class tree (dependency or build output) \u2014 not counted, because counting it means walking it"
+    }
+  ],
+  "scan_timestamp": "2026-08-21T15:19:36.525446 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

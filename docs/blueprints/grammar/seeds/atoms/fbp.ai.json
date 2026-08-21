@@ -1,0 +1,56 @@
+{
+  "tier": "folder",
+  "folder_name": "atoms",
+  "folder_path": "seeds/atoms",
+  "self": "grammar/seeds/atoms/fbp.ai.json",
+  "parent": "grammar/seeds/obp.ai.json",
+  "description": "2 files, 0 subfolders",
+  "files": [
+    {
+      "path": "seeds/atoms/wave-a1.json",
+      "description": "data, 10,149 bytes"
+    },
+    {
+      "path": "seeds/atoms/wave-a2.json",
+      "description": "data, 49,044 bytes"
+    }
+  ],
+  "file_count": 2,
+  "subdirectories": [],
+  "code_analysis": {
+    "wave-a1.json": {
+      "language": "json",
+      "lines": 55,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "born",
+        "convention",
+        "eye_shelf_this_wave",
+        "manual_modifier_adds",
+        "seeds",
+        "signed",
+        "wave"
+      ],
+      "key_count": 7
+    },
+    "wave-a2.json": {
+      "language": "json",
+      "lines": 278,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "born",
+        "convention",
+        "seeds",
+        "signed",
+        "wave"
+      ],
+      "key_count": 5
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.876540 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

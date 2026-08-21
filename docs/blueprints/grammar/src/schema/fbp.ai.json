@@ -1,0 +1,40 @@
+{
+  "tier": "folder",
+  "folder_name": "schema",
+  "folder_path": "src/schema",
+  "self": "grammar/src/schema/fbp.ai.json",
+  "parent": "grammar/src/obp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/schema/001_initial.sql",
+      "description": "sql, 2,197 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "001_initial.sql": {
+      "language": "sql",
+      "lines": 66,
+      "statements": 9,
+      "tables_created": [
+        "atoms",
+        "molecules",
+        "categories",
+        "senses",
+        "subcategories",
+        "emoji_definitions"
+      ],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 3,
+      "uses_do_block": false
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.915016 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

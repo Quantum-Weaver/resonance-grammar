@@ -1,0 +1,22 @@
+{
+  "tier": "object",
+  "object_name": "carries",
+  "object_path": "docs/carries",
+  "self": "grammar/docs/carries/obp.ai.json",
+  "parent": "grammar/docs/dbp.ai.json",
+  "description": "12 files, 0 subfolders",
+  "folders": [
+    {
+      "blueprint": "grammar/docs/carries/fbp.ai.json",
+      "folder_path": "docs/carries",
+      "description": "12 files, 0 subfolders",
+      "file_count": 12,
+      "subdirectory_count": 0
+    }
+  ],
+  "folder_count": 1,
+  "total_files": 12,
+  "integration_timestamp": "2026-08-21T15:19:38.927843 | in sovereign time",
+  "maintaining_agent": "ObjectAgent",
+  "note": "Links only. Every folder's details live at its own address."
+}

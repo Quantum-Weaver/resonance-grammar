@@ -1,0 +1,21 @@
+{
+  "tier": "folder",
+  "folder_name": "seeds",
+  "folder_path": "seeds",
+  "self": "grammar/seeds/fbp.ai.json",
+  "parent": "grammar/seeds/obp.ai.json",
+  "description": "0 files, 4 subfolders",
+  "files": [],
+  "file_count": 0,
+  "subdirectories": [
+    "seeds/atoms",
+    "seeds/emoji",
+    "seeds/lattice",
+    "seeds/molecules"
+  ],
+  "code_analysis": {},
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.873733 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

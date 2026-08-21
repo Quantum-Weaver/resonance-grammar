@@ -1,0 +1,30 @@
+{
+  "tier": "folder",
+  "folder_name": "tools",
+  "folder_path": "tools",
+  "self": "grammar/tools/fbp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "tools/export-sql-snippets.mjs",
+      "description": "!/usr/bin/env node"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "export-sql-snippets.mjs": {
+      "language": "node",
+      "lines": 83,
+      "functions": [
+        "get"
+      ],
+      "commands": []
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:38.926145 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

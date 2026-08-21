@@ -1,0 +1,40 @@
+{
+  "tier": "folder",
+  "folder_name": "backups",
+  "folder_path": "backups",
+  "self": "grammar/backups/fbp.ai.json",
+  "parent": "grammar/pbp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "backups/knowledge-2026-07-26.sql",
+      "description": "sql, 8,398 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "knowledge-2026-07-26.sql": {
+      "language": "sql",
+      "lines": 102,
+      "statements": 50,
+      "tables_created": [
+        "atoms",
+        "categories",
+        "emoji_definitions",
+        "molecules",
+        "senses",
+        "subcategories"
+      ],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 3,
+      "uses_do_block": false
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:36.529962 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

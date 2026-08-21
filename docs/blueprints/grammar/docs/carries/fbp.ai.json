@@ -1,0 +1,269 @@
+{
+  "tier": "folder",
+  "folder_name": "carries",
+  "folder_path": "docs/carries",
+  "self": "grammar/docs/carries/fbp.ai.json",
+  "parent": "grammar/docs/carries/obp.ai.json",
+  "description": "12 files, 0 subfolders",
+  "files": [
+    {
+      "path": "docs/carries/atom-wave-resolution-2026-08-07.json",
+      "description": "data, 51,100 bytes"
+    },
+    {
+      "path": "docs/carries/cosmic-pullin-cards-2026-07-27.json",
+      "description": "data, 50,654 bytes"
+    },
+    {
+      "path": "docs/carries/cosmic-pullin-grammar-verify-2026-07-27.json",
+      "description": "data, 5,053 bytes"
+    },
+    {
+      "path": "docs/carries/library-carry-v2-crosscheck-manifest.json",
+      "description": "data, 219,689 bytes"
+    },
+    {
+      "path": "docs/carries/library-names-2026-08-07-v2.txt",
+      "description": "text document, 239,604 bytes"
+    },
+    {
+      "path": "docs/carries/library-names-2026-08-07.txt",
+      "description": "text document, 239,651 bytes"
+    },
+    {
+      "path": "docs/carries/library-names-crosscheck-2026-08-07.json",
+      "description": "data, 186,186 bytes"
+    },
+    {
+      "path": "docs/carries/library-names-grammar-verify-2026-08-07.json",
+      "description": "data, 202,234 bytes"
+    },
+    {
+      "path": "docs/carries/library-names-v2-grammar-verify-2026-08-07.json",
+      "description": "data, 201,634 bytes"
+    },
+    {
+      "path": "docs/carries/THE-COSMIC-CARRY-INTAKE.md",
+      "description": "THE COSMIC CARRY INTAKE"
+    },
+    {
+      "path": "docs/carries/THE-LATTICE-SEEDING-AND-SHUTTLE-PLAN.md",
+      "description": "THE LATTICE SEEDING & THE SPECIAL-PARSE SHUTTLE"
+    },
+    {
+      "path": "docs/carries/THE-LIBRARY-CARRY-2026-08-07.md",
+      "description": "THE LIBRARY CARRY"
+    }
+  ],
+  "file_count": 12,
+  "subdirectories": [],
+  "code_analysis": {
+    "atom-wave-resolution-2026-08-07.json": {
+      "language": "json",
+      "lines": 4881,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "eye_shelf",
+        "modifier_updates",
+        "seeds_ranked"
+      ],
+      "key_count": 3
+    },
+    "cosmic-pullin-cards-2026-07-27.json": {
+      "language": "json",
+      "lines": 2944,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "cards"
+      ],
+      "key_count": 1
+    },
+    "cosmic-pullin-grammar-verify-2026-07-27.json": {
+      "language": "json",
+      "lines": 236,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "coverage",
+        "door",
+        "input",
+        "missing",
+        "names_total",
+        "verified"
+      ],
+      "key_count": 6
+    },
+    "library-carry-v2-crosscheck-manifest.json": {
+      "language": "json",
+      "lines": 10652,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "atom_manifest",
+        "molecules",
+        "organisms"
+      ],
+      "key_count": 3
+    },
+    "library-names-2026-08-07-v2.txt": {
+      "language": "content-file",
+      "format": "txt",
+      "name": "library-names-2026-08-07-v2.txt",
+      "location": "docs/carries",
+      "bytes": 239604,
+      "opened": false,
+      "law": "Name and location only. The file is never opened."
+    },
+    "library-names-2026-08-07.txt": {
+      "language": "content-file",
+      "format": "txt",
+      "name": "library-names-2026-08-07.txt",
+      "location": "docs/carries",
+      "bytes": 239651,
+      "opened": false,
+      "law": "Name and location only. The file is never opened."
+    },
+    "library-names-crosscheck-2026-08-07.json": {
+      "language": "json",
+      "lines": 7079,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "molecules",
+        "organisms"
+      ],
+      "key_count": 2
+    },
+    "library-names-grammar-verify-2026-08-07.json": {
+      "language": "json",
+      "lines": 8154,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "coverage",
+        "door",
+        "input",
+        "missing",
+        "names_total",
+        "verified"
+      ],
+      "key_count": 6
+    },
+    "library-names-v2-grammar-verify-2026-08-07.json": {
+      "language": "json",
+      "lines": 8105,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "coverage",
+        "door",
+        "input",
+        "missing",
+        "names_total",
+        "verified"
+      ],
+      "key_count": 6
+    },
+    "THE-COSMIC-CARRY-INTAKE.md": {
+      "language": "markdown",
+      "lines": 79,
+      "words": 604,
+      "heading_count": 4,
+      "headings": [
+        "THE COSMIC CARRY INTAKE \u2014 the plot, waiting on the ziggy move",
+        "What was verified (2026-07-27, anon key, live)",
+        "The intake, in order (after the ziggy move)",
+        "Provenance"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 6,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "THE-LATTICE-SEEDING-AND-SHUTTLE-PLAN.md": {
+      "language": "markdown",
+      "lines": 297,
+      "words": 2446,
+      "heading_count": 20,
+      "headings": [
+        "THE LATTICE SEEDING & THE SPECIAL-PARSE SHUTTLE \u2014 the plan",
+        "PART A \u2014 SEEDING THE LATTICE",
+        "Wave 0 \u2014 KP's sentences (RULED 2026-07-27 night, his words kept)",
+        "Wave 1 \u2014 SCHEMES (~41 rows) \u2014 \u2705 DELIVERED 2026-07-27 night",
+        "Wave 2 \u2014 THE MEMBERS enter the Grammar \u2014 \u2705 DELIVERED 2026-07-27 night",
+        "Wave 3 \u2014 SCHEME_MEMBERSHIPS \u2014 \u2705 DELIVERED 2026-07-27 night",
+        "Wave 4 \u2014 CONCEPT_RELATIONS \u2014 \u2705 DELIVERED 2026-07-27 night",
+        "Wave 5 \u2014 CLASSIFICATION_PATHS \u2014 \u2705 DELIVERED 2026-07-27 night",
+        "Wave 6 \u2014 rulings landed (2026-07-27 night, KP's words kept)",
+        "Wave 6 \u2014 \u2705 DELIVERED (atom scope) 2026-07-27 night, + THE",
+        "Wave 6 \u2014 THE KEYWORD\u2192ATOM BRIDGE (the Enricher's first ground)",
+        "Wave 7 \u2014 THE SCHEMA'S OWN NAMES (KP's syntax law, mid-sitting,",
+        "THE CASE LAW \u2014 binds every wave from 062 forward (2026-08-06, KP's \u269b ruling)",
+        "PART B \u2014 THE SPECIAL-PARSE SHUTTLE (syntax by minds)",
+        "B0 \u2014 THE MANIFEST (gather what is actually marked)",
+        "B1 \u2014 The gates: Wave 0's plural + acronym sentences bind every",
+        "B2 \u2014 THE SHUTTLE RUNS (the Run-10 pattern, turned to syntax)",
+        "B3 \u2014 Delivery as DRAFTS",
+        "B4 \u2014 KP's eye",
+        "B5 \u2014 The done-signal"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 0,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    },
+    "THE-LIBRARY-CARRY-2026-08-07.md": {
+      "language": "markdown",
+      "lines": 171,
+      "words": 1363,
+      "heading_count": 8,
+      "headings": [
+        "THE LIBRARY CARRY \u2014 the pre-seeding coverage of the library's names",
+        "The method (the house's own, reused not rebuilt)",
+        "The census",
+        "The coverage (anon door, 2026-08-07 \u2014 v2, THE CORRECTED RUN)",
+        "The reading, one breath",
+        "Gates, all KP's \u269b",
+        "\u2726 WAVE A-1 DELIVERED \u2014 2026-08-07/08 night, KP's hands proxied",
+        "\u2726\u2726 THE ATOM PHASE COMPLETE \u2014 2026-08-09, certified"
+      ],
+      "links_external": 0,
+      "links_site_absolute": [],
+      "links_internal": [],
+      "links_internal_unresolved": [],
+      "links_internal_outside_checkout": [],
+      "code_fences": 0,
+      "table_rows": 6,
+      "checkboxes": {
+        "open": 0,
+        "done": 0
+      },
+      "has_story_block": false,
+      "declares_mirror_class": false
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-08-21T15:19:36.555326 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}
