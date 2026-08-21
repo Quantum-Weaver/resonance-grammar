@@ -37,7 +37,7 @@ sitting as the work it records.
 
 ## Structure
 
-The forge's map: `docs/blueprints/pbp.ai.json` — regenerate, never hand-draw a
+The forge's map: `docs/blueprints/grammar/pbp.ai.json` — regenerate, never hand-draw a
 tree here. Schema truth lives in the SQL itself (`src/schema/` + `docs/sql/`);
 there is no SCHEMA.md.
 

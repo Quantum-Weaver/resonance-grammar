@@ -141,7 +141,7 @@ are **not** run from here — KP runs them at his own dashboard, one at a time.
 ## FOR DEVELOPERS
 
 Structure here is **discovered, never declared** — the generated map lives at
-`docs/blueprints/pbp.ai.json`; regenerate it with the blueprint forge rather than
+`docs/blueprints/grammar/pbp.ai.json`; regenerate it with the blueprint forge rather than
 drawing a tree by hand (`CLAUDE.md` §The forge and the link tender). Schema truth
 lives in the SQL itself — `src/schema/001_initial.sql` for the local six tables,
 `docs/sql/` for the living base. There is no SCHEMA.md, by design.
