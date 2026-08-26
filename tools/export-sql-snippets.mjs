@@ -5,10 +5,6 @@
  * excavator's export ground, so the dashboard's only copy stops
  * being the only copy.
  *
- * Commissioned 2026-07-25 at KP's ask: "locate and export the private
- * sql query segments from supabase" — searched the workspace whole;
- * no prior export exists, so this tool makes the first one.
- *
  * TOKEN LAW: needs a personal access token (created by KP's own hand
  * at supabase.com/dashboard/account/tokens) in the environment as
  * SUPABASE_ACCESS_TOKEN. The token is read at run time and NEVER
@@ -18,10 +14,7 @@
  *   SUPABASE_ACCESS_TOKEN=... node export-sql-snippets.mjs [project_ref]
  *   (no ref → exports snippets across all reachable projects)
  *
- * Output: C:\_superposition\resonance-excavator\sources is a junction
- * street — the real ground is C:\_superposition\export-supabase? No:
- * exports land beside their kin at
- * C:\_superposition\export-supabase\sql-snippets\<project>\<name>.sql
+ * Output: C:\_superposition\export-supabase\sql-snippets\<project>\<name>.sql
  * with a small index.json carrying id · name · visibility · updated_at.
  */
 
