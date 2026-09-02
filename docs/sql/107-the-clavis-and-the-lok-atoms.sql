@@ -129,3 +129,8 @@ from public.etymology where atom_word in ('clavis', 'lok')
 union all
 select 'sensory_lexicon', atom_word, coalesce(emoji, '(empty)')
 from public.sensory_lexicon where atom_word in ('clavis', 'lok');
+
+-- lok's etymology, KP's own, 2026-09-02, verbatim: "Lok (or Loka) is an ancient Sanskrit and Indo-Aryan
+-- word meaning 'world,' 'realm of existence,' or 'space,' derived from the root lok, which means
+-- 'to see, view, or perceive.'" The spelling is as intended.
+update public.atoms set definition = definition || ' Lok, Sanskrit loka: world, realm of existence, space — from the root lok, to see, view, perceive (KP, 2026-09-02).' where id = '0941ce5b-14ba-4548-bb12-0fe440777dd7';
