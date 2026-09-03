@@ -7,6 +7,11 @@
 -- **  This file runs ONLY by his hand, in his dashboard.          **
 -- **  Nothing here has touched the base.                          **
 -- ******************************************************************
+-- **  2026-09-02: §B's version fills are STALE — 8 of 16 would    **
+-- **  now write a wrong version. Re-drafted whole, with §A, in    **
+-- **  DRAFT-2026-09-02-the-beacons-reckoned.sql, which RAN the    **
+-- **  same night at KP's word. Do not run this file's §A or §B.   **
+-- ******************************************************************
 --
 -- Dealt 2026-08-15 at KP's word "light list should match our repo
 -- list" — the reckoner's first commission, conducted by Segue 🎻,

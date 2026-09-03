@@ -1,4 +1,9 @@
 -- ============================================================================
+-- SUPERSEDED 2026-09-02 — do not run. §B's version fills are stale (8 of 16
+-- now wrong; 7 repos gained code since). Re-drafted whole, with §A, in
+-- DRAFT-2026-09-02-the-beacons-reckoned.sql, WHICH RAN the same night at
+-- KP's word (15 public · 17 unversioned · 40 rows). Kept as the record of 08-18.
+-- ============================================================================
 -- DRAFT ONLY — the beacons reckoning, 2026-08-18
 --
 -- Reconciled by the reckoner (read-only) against: 34 local project directories,
