@@ -14,14 +14,16 @@
  *   SUPABASE_ACCESS_TOKEN=... node export-sql-snippets.mjs [project_ref]
  *   (no ref → exports snippets across all reachable projects)
  *
- * Output: C:\_superposition\export-supabase\sql-snippets\<project>\<name>.sql
+ * Output: ../export-supabase/sql-snippets/<project>/<name>.sql
  * with a small index.json carrying id · name · visibility · updated_at.
  */
 
 import { writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
+import { fileURLToPath } from 'node:url';
 
-const OUT_ROOT = 'C:/_superposition/export-supabase/sql-snippets';
+const HOUSE = fileURLToPath(new URL('../../', import.meta.url));
+const OUT_ROOT = join(HOUSE, 'export-supabase', 'sql-snippets');
 const API = 'https://api.supabase.com/v1';
 
 const token = process.env.SUPABASE_ACCESS_TOKEN;

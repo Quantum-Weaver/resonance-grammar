@@ -4,16 +4,17 @@ never printed, logged, or written. Born 2026-09-02 at KP's word: "please utilize
 the keys on the bridge to seed the knowledge base for today, i would rather not
 get back in the dashboard today for supabase."
 
-Usage (from anywhere):
-  python C:/_superposition/resonance-grammar/scripts/seed-runner.py query "<sql>"      (ad hoc; read or write — the door is write-capable, so this is his word)
-  python C:/_superposition/resonance-grammar/scripts/seed-runner.py run <file.sql> ...  (whole files, in the order given)
+Usage (from the repo root):
+  python scripts/seed-runner.py query "<sql>"      (ad hoc; read or write — the door is write-capable, so this is his word)
+  python scripts/seed-runner.py run <file.sql> ...  (whole files, in the order given)
 
 It runs exactly what it is handed. The seed files carry the crossings commented out;
 this runner does not uncomment them. Verify at the anon door after.
 """
 import sys, re, json, urllib.request, pathlib
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-ENV = pathlib.Path("C:/_superposition/resonance-bridge/.env")
+HOUSE = pathlib.Path(__file__).resolve().parents[2]
+ENV = HOUSE / "resonance-bridge" / ".env"
 env = {}
 for line in ENV.read_text(encoding="utf-8").splitlines():
     m = re.match(r'\s*([A-Z_]+)\s*=\s*"?([^"\n]*)"?\s*$', line)
