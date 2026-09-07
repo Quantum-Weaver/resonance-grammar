@@ -1,0 +1,148 @@
+{
+  "tier": "object",
+  "object_name": "lib",
+  "object_path": "src/lib",
+  "self": "grammar/src/lib/obp.ai.json",
+  "parent": "grammar/src/dbp.ai.json",
+  "description": "0 files, 3 subfolders",
+  "folders": [
+    {
+      "blueprint": "grammar/src/lib/fbp.ai.json",
+      "folder_path": "src/lib",
+      "description": "0 files, 3 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 3
+    },
+    {
+      "blueprint": "grammar/src/lib/cosmic/fbp.ai.json",
+      "folder_path": "src/lib/cosmic",
+      "description": "11 files, 0 subfolders",
+      "file_count": 11,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/fbp.ai.json",
+      "folder_path": "src/lib/generated",
+      "description": "0 files, 1 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 1
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui",
+      "description": "2 files, 2 subfolders",
+      "file_count": 2,
+      "subdirectory_count": 2
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/rooms/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/rooms",
+      "description": "0 files, 3 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 3
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/rooms/athena-gamification/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/rooms/athena-gamification",
+      "description": "1 files, 0 subfolders",
+      "file_count": 1,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/rooms/hermes-social/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/rooms/hermes-social",
+      "description": "1 files, 0 subfolders",
+      "file_count": 1,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/rooms/mnemosyne-assessment/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/rooms/mnemosyne-assessment",
+      "description": "3 files, 0 subfolders",
+      "file_count": 3,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces",
+      "description": "0 files, 3 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 3
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/athena-gamification/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/athena-gamification",
+      "description": "0 files, 1 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 1
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/athena-gamification/access/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/athena-gamification/access",
+      "description": "1 files, 0 subfolders",
+      "file_count": 1,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/hermes-social/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/hermes-social",
+      "description": "0 files, 1 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 1
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/hermes-social/workshop/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/hermes-social/workshop",
+      "description": "2 files, 0 subfolders",
+      "file_count": 2,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment",
+      "description": "0 files, 3 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 3
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/classification/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/classification",
+      "description": "3 files, 0 subfolders",
+      "file_count": 3,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice",
+      "description": "3 files, 0 subfolders",
+      "file_count": 3,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning/fbp.ai.json",
+      "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning",
+      "description": "4 files, 0 subfolders",
+      "file_count": 4,
+      "subdirectory_count": 0
+    },
+    {
+      "blueprint": "grammar/src/lib/styles/fbp.ai.json",
+      "folder_path": "src/lib/styles",
+      "description": "0 files, 1 subfolders",
+      "file_count": 0,
+      "subdirectory_count": 1
+    },
+    {
+      "blueprint": "grammar/src/lib/styles/generated/fbp.ai.json",
+      "folder_path": "src/lib/styles/generated",
+      "description": "21 files, 0 subfolders",
+      "file_count": 21,
+      "subdirectory_count": 0
+    }
+  ],
+  "folder_count": 19,
+  "total_files": 52,
+  "integration_timestamp": "2026-09-07T14:03:52.049094 | in sovereign time",
+  "maintaining_agent": "ObjectAgent",
+  "note": "Links only. Every folder's details live at its own address."
+}

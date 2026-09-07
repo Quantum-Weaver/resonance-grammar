@@ -4,7 +4,7 @@
   "folder_path": "exports",
   "self": "grammar/exports/fbp.ai.json",
   "parent": "grammar/pbp.ai.json",
-  "description": "4 files, 0 subfolders",
+  "description": "7 files, 0 subfolders",
   "files": [
     {
       "path": "exports/grammar-export-2026-07-23.json",
@@ -21,9 +21,21 @@
     {
       "path": "exports/grammar-export-2026-07-28.json",
       "description": "data, 20,290,332 bytes"
+    },
+    {
+      "path": "exports/grammar-export-2026-08-24.json",
+      "description": "data, 28,771,809 bytes"
+    },
+    {
+      "path": "exports/grammar-export-2026-08-27-beacons.json",
+      "description": "data, 82,415 bytes"
+    },
+    {
+      "path": "exports/grammar-export-2026-08-28-beacons.json",
+      "description": "data, 82,628 bytes"
     }
   ],
-  "file_count": 4,
+  "file_count": 7,
   "subdirectories": [],
   "code_analysis": {
     "grammar-export-2026-07-23.json": {
@@ -73,10 +85,48 @@
         "tables"
       ],
       "key_count": 3
+    },
+    "grammar-export-2026-08-24.json": {
+      "language": "json",
+      "lines": 833840,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "source",
+        "tables"
+      ],
+      "key_count": 3
+    },
+    "grammar-export-2026-08-27-beacons.json": {
+      "language": "json",
+      "lines": 2175,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "note",
+        "source",
+        "tables"
+      ],
+      "key_count": 4
+    },
+    "grammar-export-2026-08-28-beacons.json": {
+      "language": "json",
+      "lines": 2175,
+      "valid": true,
+      "root": "object",
+      "top_level_keys": [
+        "exported",
+        "note",
+        "source",
+        "tables"
+      ],
+      "key_count": 4
     }
   },
   "folders_not_walked": [],
-  "scan_timestamp": "2026-08-21T15:19:38.863690 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:51.937201 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

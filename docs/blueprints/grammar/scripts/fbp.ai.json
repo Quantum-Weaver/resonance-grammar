@@ -4,14 +4,18 @@
   "folder_path": "scripts",
   "self": "grammar/scripts/fbp.ai.json",
   "parent": "grammar/pbp.ai.json",
-  "description": "1 files, 0 subfolders",
+  "description": "2 files, 0 subfolders",
   "files": [
     {
       "path": "scripts/dump_db.py",
       "description": "!/usr/bin/env python3"
+    },
+    {
+      "path": "scripts/seed-runner.py",
+      "description": "seed-runner"
     }
   ],
-  "file_count": 1,
+  "file_count": 2,
   "subdirectories": [],
   "code_analysis": {
     "dump_db.py": {
@@ -32,10 +36,27 @@
       ],
       "env_names_read": [],
       "has_main_guard": true
+    },
+    "seed-runner.py": {
+      "language": "python",
+      "lines": 62,
+      "classes": [],
+      "functions": [
+        "q"
+      ],
+      "imports": [
+        "sys"
+      ],
+      "constants": [
+        "ENV",
+        "HOUSE"
+      ],
+      "env_names_read": [],
+      "has_main_guard": false
     }
   },
   "folders_not_walked": [],
-  "scan_timestamp": "2026-08-21T15:19:38.871100 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:51.943864 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

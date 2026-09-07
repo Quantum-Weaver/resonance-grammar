@@ -1,0 +1,20 @@
+{
+  "tier": "folder",
+  "folder_name": "mnemosyne-assessment",
+  "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment",
+  "self": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "0 files, 3 subfolders",
+  "files": [],
+  "file_count": 0,
+  "subdirectories": [
+    "src/lib/generated/ui/surfaces/mnemosyne-assessment/classification",
+    "src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice",
+    "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning"
+  ],
+  "code_analysis": {},
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:52.013312 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

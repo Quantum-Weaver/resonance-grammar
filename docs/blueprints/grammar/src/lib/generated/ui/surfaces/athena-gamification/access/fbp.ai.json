@@ -1,0 +1,29 @@
+{
+  "tier": "folder",
+  "folder_name": "access",
+  "folder_path": "src/lib/generated/ui/surfaces/athena-gamification/access",
+  "self": "grammar/src/lib/generated/ui/surfaces/athena-gamification/access/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/surfaces/athena-gamification/access/roles.svelte",
+      "description": "surface, 6,120 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "roles.svelte": {
+      "language": "svelte",
+      "lines": 247,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:52.008226 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

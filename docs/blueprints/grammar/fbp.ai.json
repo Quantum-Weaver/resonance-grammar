@@ -19,20 +19,12 @@
       "description": "config, 344 bytes"
     },
     {
-      "path": "CLAUDE.md",
-      "description": "CLAUDE.md"
-    },
-    {
       "path": "FEATURE-BOARD.md",
       "description": "KNOWLEDGE"
     },
     {
       "path": "HANDS.md",
       "description": "The Hands"
-    },
-    {
-      "path": "knowledge.db",
-      "description": "file, 90,112 bytes"
     },
     {
       "path": "LICENSE",
@@ -51,9 +43,10 @@
       "description": "THE REALM BUS"
     }
   ],
-  "file_count": 11,
+  "file_count": 9,
   "subdirectories": [
     ".claude",
+    ".journals",
     "backups",
     "docs",
     "exports",
@@ -73,34 +66,6 @@
         "package",
         "dependencies"
       ]
-    },
-    "CLAUDE.md": {
-      "language": "markdown",
-      "lines": 92,
-      "words": 565,
-      "heading_count": 7,
-      "headings": [
-        "CLAUDE.md \u2014 Resonance Grammar",
-        "Ground rules",
-        "Structure",
-        "Tools",
-        "People",
-        "Standards",
-        "The forge and the link tender"
-      ],
-      "links_external": 1,
-      "links_site_absolute": [],
-      "links_internal": [],
-      "links_internal_unresolved": [],
-      "links_internal_outside_checkout": [],
-      "code_fences": 0,
-      "table_rows": 0,
-      "checkboxes": {
-        "open": 0,
-        "done": 0
-      },
-      "has_story_block": false,
-      "declares_mirror_class": false
     },
     "FEATURE-BOARD.md": {
       "language": "markdown",
@@ -247,7 +212,7 @@
         },
         {
           "target": "docs/CHECKLIST.md",
-          "resolves": true,
+          "resolves": false,
           "outside_checkout": false
         },
         {
@@ -261,7 +226,9 @@
           "outside_checkout": false
         }
       ],
-      "links_internal_unresolved": [],
+      "links_internal_unresolved": [
+        "docs/CHECKLIST.md"
+      ],
       "links_internal_outside_checkout": [],
       "code_fences": 2,
       "table_rows": 0,
@@ -314,7 +281,7 @@
       "reason": "package-class tree (dependency or build output) \u2014 not counted, because counting it means walking it"
     }
   ],
-  "scan_timestamp": "2026-08-21T15:19:36.525446 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:49.021858 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

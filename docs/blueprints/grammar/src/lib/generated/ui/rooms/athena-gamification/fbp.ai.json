@@ -1,0 +1,33 @@
+{
+  "tier": "folder",
+  "folder_name": "athena-gamification",
+  "folder_path": "src/lib/generated/ui/rooms/athena-gamification",
+  "self": "grammar/src/lib/generated/ui/rooms/athena-gamification/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/rooms/athena-gamification/access.svelte",
+      "description": "surface, 5,112 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "access.svelte": {
+      "language": "svelte",
+      "lines": 221,
+      "uses_runes": [
+        "$derived",
+        "$props",
+        "$state"
+      ],
+      "fetch_calls": [],
+      "has_style_block": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:51.999611 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

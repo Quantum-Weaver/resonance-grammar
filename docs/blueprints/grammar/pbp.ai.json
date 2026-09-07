@@ -14,27 +14,35 @@
     {
       "blueprint": "grammar/docs/dbp.ai.json",
       "domain_path": "docs",
-      "description": "9 files, 4 subfolders",
+      "description": "8 files, 4 subfolders",
       "object_count": 4,
       "total_folders": 6,
-      "total_files": 146
+      "total_files": 192
+    },
+    {
+      "blueprint": "grammar/src/dbp.ai.json",
+      "domain_path": "src",
+      "description": "3 files, 3 subfolders",
+      "object_count": 3,
+      "total_folders": 22,
+      "total_files": 57
     }
   ],
-  "domain_count": 1,
+  "domain_count": 2,
   "objects_reporting_directly": [
+    {
+      "blueprint": "grammar/.journals/obp.ai.json",
+      "object_path": ".journals",
+      "description": "0 files, 3 subfolders",
+      "folder_count": 4,
+      "total_files": 3
+    },
     {
       "blueprint": "grammar/seeds/obp.ai.json",
       "object_path": "seeds",
       "description": "0 files, 4 subfolders",
       "folder_count": 5,
       "total_files": 12
-    },
-    {
-      "blueprint": "grammar/src/obp.ai.json",
-      "object_path": "src",
-      "description": "3 files, 2 subfolders",
-      "folder_count": 3,
-      "total_files": 5
     }
   ],
   "folders_reporting_directly": [
@@ -42,14 +50,14 @@
       "blueprint": "grammar/fbp.ai.json",
       "folder_path": ".",
       "description": "The Resonance Grammar",
-      "file_count": 11,
-      "subdirectory_count": 11
+      "file_count": 9,
+      "subdirectory_count": 12
     },
     {
       "blueprint": "grammar/.claude/fbp.ai.json",
       "folder_path": ".claude",
-      "description": "2 files, 0 subfolders",
-      "file_count": 2,
+      "description": "1 files, 0 subfolders",
+      "file_count": 1,
       "subdirectory_count": 0
     },
     {
@@ -62,8 +70,8 @@
     {
       "blueprint": "grammar/exports/fbp.ai.json",
       "folder_path": "exports",
-      "description": "4 files, 0 subfolders",
-      "file_count": 4,
+      "description": "7 files, 0 subfolders",
+      "file_count": 7,
       "subdirectory_count": 0
     },
     {
@@ -76,8 +84,8 @@
     {
       "blueprint": "grammar/scripts/fbp.ai.json",
       "folder_path": "scripts",
-      "description": "1 files, 0 subfolders",
-      "file_count": 1,
+      "description": "2 files, 0 subfolders",
+      "file_count": 2,
       "subdirectory_count": 0
     },
     {
@@ -113,8 +121,8 @@
     }
   ],
   "totals": {
-    "folders_blueprinted": 23,
-    "files_described": 201
+    "folders_blueprinted": 46,
+    "files_described": 303
   },
   "not_walked": {
     "reason": "package-class trees, this repo's own gitignored trees at every depth, reparse points, and this tool's own output",
@@ -158,6 +166,6 @@
     "reparse_note": "Junctions and symlinks are named, never entered. Following one would pull an external ground into this repo's count, or loop on a self-junction.",
     "own_output": "docs/blueprints"
   },
-  "generated": "2026-08-21T15:19:38.962559 | in sovereign time",
+  "generated": "2026-09-07T14:03:52.095932 | in sovereign time",
   "maintaining_agent": "ProjectAgent"
 }

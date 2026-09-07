@@ -3,8 +3,8 @@
   "folder_name": "src",
   "folder_path": "src",
   "self": "grammar/src/fbp.ai.json",
-  "parent": "grammar/src/obp.ai.json",
-  "description": "3 files, 2 subfolders",
+  "parent": "grammar/src/dbp.ai.json",
+  "description": "3 files, 3 subfolders",
   "files": [
     {
       "path": "src/db.rs",
@@ -21,6 +21,7 @@
   ],
   "file_count": 3,
   "subdirectories": [
+    "src/lib",
     "src/schema",
     "src/seed"
   ],
@@ -60,7 +61,7 @@
     }
   },
   "folders_not_walked": [],
-  "scan_timestamp": "2026-08-21T15:19:38.913320 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:51.975977 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

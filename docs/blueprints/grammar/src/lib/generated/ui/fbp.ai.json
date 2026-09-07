@@ -1,0 +1,68 @@
+{
+  "tier": "folder",
+  "folder_name": "ui",
+  "folder_path": "src/lib/generated/ui",
+  "self": "grammar/src/lib/generated/ui/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "2 files, 2 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/doors.ts",
+      "description": "GENERATED NAVIGATION DOORS - DO NOT EDIT MANUALLY"
+    },
+    {
+      "path": "src/lib/generated/ui/graph-feed.ts",
+      "description": "GENERATED GRAPH FEED - DO NOT EDIT MANUALLY"
+    }
+  ],
+  "file_count": 2,
+  "subdirectories": [
+    "src/lib/generated/ui/rooms",
+    "src/lib/generated/ui/surfaces"
+  ],
+  "code_analysis": {
+    "doors.ts": {
+      "language": "typescript",
+      "lines": 24,
+      "exported_functions": [],
+      "exported_consts": [
+        "doors"
+      ],
+      "interfaces": [],
+      "types": [
+        "EchoesDoor"
+      ],
+      "imports_node": [],
+      "spawns_process": false,
+      "writes_files": false,
+      "env_names_read": []
+    },
+    "graph-feed.ts": {
+      "language": "typescript",
+      "lines": 338,
+      "exported_functions": [],
+      "exported_consts": [
+        "NODE_KINDS",
+        "EDGE_KINDS",
+        "GRAPH_FEED"
+      ],
+      "interfaces": [
+        "GraphNodeKind",
+        "GraphEdgeEndpoint",
+        "GraphEdgeKind",
+        "GraphFeed"
+      ],
+      "types": [
+        "GraphFeedBase"
+      ],
+      "imports_node": [],
+      "spawns_process": false,
+      "writes_files": false,
+      "env_names_read": []
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:51.996158 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

@@ -3,7 +3,7 @@
   "folder_name": "schema",
   "folder_path": "src/schema",
   "self": "grammar/src/schema/fbp.ai.json",
-  "parent": "grammar/src/obp.ai.json",
+  "parent": "grammar/src/schema/obp.ai.json",
   "description": "1 files, 0 subfolders",
   "files": [
     {
@@ -34,7 +34,7 @@
     }
   },
   "folders_not_walked": [],
-  "scan_timestamp": "2026-08-21T15:19:38.915016 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:52.034701 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

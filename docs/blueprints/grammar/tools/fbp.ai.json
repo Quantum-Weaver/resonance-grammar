@@ -16,7 +16,7 @@
   "code_analysis": {
     "export-sql-snippets.mjs": {
       "language": "node",
-      "lines": 83,
+      "lines": 78,
       "functions": [
         "get"
       ],
@@ -24,7 +24,7 @@
     }
   },
   "folders_not_walked": [],
-  "scan_timestamp": "2026-08-21T15:19:38.926145 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:52.041107 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

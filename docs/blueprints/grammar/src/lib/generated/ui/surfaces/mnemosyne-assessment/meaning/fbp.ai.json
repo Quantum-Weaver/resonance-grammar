@@ -1,0 +1,62 @@
+{
+  "tier": "folder",
+  "folder_name": "meaning",
+  "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning",
+  "self": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "4 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning/etymology.svelte",
+      "description": "surface, 6,361 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning/folksonomies.svelte",
+      "description": "surface, 5,984 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning/sensory_lexicon.svelte",
+      "description": "surface, 7,186 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/meaning/thesaurus.svelte",
+      "description": "surface, 6,814 bytes"
+    }
+  ],
+  "file_count": 4,
+  "subdirectories": [],
+  "code_analysis": {
+    "etymology.svelte": {
+      "language": "svelte",
+      "lines": 250,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "folksonomies.svelte": {
+      "language": "svelte",
+      "lines": 241,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "sensory_lexicon.svelte": {
+      "language": "svelte",
+      "lines": 277,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "thesaurus.svelte": {
+      "language": "svelte",
+      "lines": 265,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:52.020622 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

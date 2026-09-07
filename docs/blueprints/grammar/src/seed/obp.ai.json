@@ -1,0 +1,22 @@
+{
+  "tier": "object",
+  "object_name": "seed",
+  "object_path": "src/seed",
+  "self": "grammar/src/seed/obp.ai.json",
+  "parent": "grammar/src/dbp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "folders": [
+    {
+      "blueprint": "grammar/src/seed/fbp.ai.json",
+      "folder_path": "src/seed",
+      "description": "1 files, 0 subfolders",
+      "file_count": 1,
+      "subdirectory_count": 0
+    }
+  ],
+  "folder_count": 1,
+  "total_files": 1,
+  "integration_timestamp": "2026-09-07T14:03:52.052051 | in sovereign time",
+  "maintaining_agent": "ObjectAgent",
+  "note": "Links only. Every folder's details live at its own address."
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "folder",
+  "folder_name": "lattice",
+  "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice",
+  "self": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "3 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice/atoms.svelte",
+      "description": "surface, 8,361 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice/molecules.svelte",
+      "description": "surface, 8,051 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/lattice/organisms.svelte",
+      "description": "surface, 7,685 bytes"
+    }
+  ],
+  "file_count": 3,
+  "subdirectories": [],
+  "code_analysis": {
+    "atoms.svelte": {
+      "language": "svelte",
+      "lines": 304,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "molecules.svelte": {
+      "language": "svelte",
+      "lines": 301,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "organisms.svelte": {
+      "language": "svelte",
+      "lines": 292,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:52.017833 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

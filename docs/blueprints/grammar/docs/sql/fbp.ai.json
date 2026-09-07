@@ -4,7 +4,7 @@
   "folder_path": "docs/sql",
   "self": "grammar/docs/sql/fbp.ai.json",
   "parent": "grammar/docs/sql/obp.ai.json",
-  "description": "113 files, 0 subfolders",
+  "description": "160 files, 0 subfolders",
   "files": [
     {
       "path": "docs/sql/000-NEW-TABLE-RITUAL.md",
@@ -420,11 +420,15 @@
     },
     {
       "path": "docs/sql/098-the-coast-reckoned.sql",
-      "description": "sql, 10,104 bytes"
+      "description": "sql, 10,460 bytes"
     },
     {
       "path": "docs/sql/099-the-pantheon.sql",
       "description": "sql, 10,484 bytes"
+    },
+    {
+      "path": "docs/sql/100-the-seats-retaken.sql",
+      "description": "sql, 1,462 bytes"
     },
     {
       "path": "docs/sql/100-the-words-the-house-outgrew.sql",
@@ -455,11 +459,195 @@
       "description": "sql, 5,334 bytes"
     },
     {
+      "path": "docs/sql/107-the-clavis-and-the-lok-atoms.sql",
+      "description": "sql, 9,667 bytes"
+    },
+    {
+      "path": "docs/sql/108-the-merismos-atom.sql",
+      "description": "sql, 6,816 bytes"
+    },
+    {
+      "path": "docs/sql/109-the-clavis-and-the-lok.sql",
+      "description": "sql, 8,789 bytes"
+    },
+    {
+      "path": "docs/sql/110-the-merismos-seeded.sql",
+      "description": "sql, 7,262 bytes"
+    },
+    {
+      "path": "docs/sql/111-the-clavis-and-the-lok-faces.sql",
+      "description": "sql, 374 bytes"
+    },
+    {
+      "path": "docs/sql/112-the-hlutr-atom.sql",
+      "description": "sql, 6,909 bytes"
+    },
+    {
+      "path": "docs/sql/113-the-hlutr-seeded.sql",
+      "description": "sql, 7,890 bytes"
+    },
+    {
+      "path": "docs/sql/114-the-dath-atom.sql",
+      "description": "sql, 7,825 bytes"
+    },
+    {
+      "path": "docs/sql/115-the-dath-seeded.sql",
+      "description": "sql, 8,346 bytes"
+    },
+    {
+      "path": "docs/sql/116-the-nomos-atom.sql",
+      "description": "sql, 8,346 bytes"
+    },
+    {
+      "path": "docs/sql/117-the-nomos-seeded.sql",
+      "description": "sql, 9,013 bytes"
+    },
+    {
+      "path": "docs/sql/118-the-raksha-atom.sql",
+      "description": "sql, 7,672 bytes"
+    },
+    {
+      "path": "docs/sql/119-the-raksha-seeded.sql",
+      "description": "sql, 9,230 bytes"
+    },
+    {
+      "path": "docs/sql/120-the-panti-atom.sql",
+      "description": "sql, 7,107 bytes"
+    },
+    {
+      "path": "docs/sql/121-the-panti-seeded.sql",
+      "description": "sql, 7,849 bytes"
+    },
+    {
+      "path": "docs/sql/122-the-lakshana-atom.sql",
+      "description": "sql, 7,546 bytes"
+    },
+    {
+      "path": "docs/sql/123-the-lakshana-seeded.sql",
+      "description": "sql, 8,447 bytes"
+    },
+    {
+      "path": "docs/sql/124-the-drishti-atom.sql",
+      "description": "sql, 7,587 bytes"
+    },
+    {
+      "path": "docs/sql/125-the-drishti-seeded.sql",
+      "description": "sql, 8,989 bytes"
+    },
+    {
+      "path": "docs/sql/126-the-suchi-atom.sql",
+      "description": "sql, 7,676 bytes"
+    },
+    {
+      "path": "docs/sql/127-the-suchi-seeded.sql",
+      "description": "sql, 9,637 bytes"
+    },
+    {
+      "path": "docs/sql/128-the-stereos-atom.sql",
+      "description": "sql, 8,899 bytes"
+    },
+    {
+      "path": "docs/sql/129-the-stereos-seeded.sql",
+      "description": "sql, 8,556 bytes"
+    },
+    {
+      "path": "docs/sql/130-the-hlid-atom.sql",
+      "description": "sql, 6,608 bytes"
+    },
+    {
+      "path": "docs/sql/131-the-hlid-seeded.sql",
+      "description": "sql, 9,002 bytes"
+    },
+    {
+      "path": "docs/sql/132-the-kinema-atom.sql",
+      "description": "sql, 10,563 bytes"
+    },
+    {
+      "path": "docs/sql/133-the-kinema-seeded.sql",
+      "description": "sql, 11,182 bytes"
+    },
+    {
+      "path": "docs/sql/134-the-kampyle-atom.sql",
+      "description": "sql, 10,082 bytes"
+    },
+    {
+      "path": "docs/sql/135-the-kampyle-seeded.sql",
+      "description": "sql, 9,816 bytes"
+    },
+    {
+      "path": "docs/sql/136-the-mynd-atom.sql",
+      "description": "sql, 10,327 bytes"
+    },
+    {
+      "path": "docs/sql/137-the-mynd-seeded.sql",
+      "description": "sql, 10,704 bytes"
+    },
+    {
+      "path": "docs/sql/138-the-cofra-atom.sql",
+      "description": "sql, 9,872 bytes"
+    },
+    {
+      "path": "docs/sql/139-the-cofra-seeded.sql",
+      "description": "sql, 10,943 bytes"
+    },
+    {
+      "path": "docs/sql/140-the-akshara-atom.sql",
+      "description": "sql, 12,354 bytes"
+    },
+    {
+      "path": "docs/sql/141-the-akshara-seeded.sql",
+      "description": "sql, 12,316 bytes"
+    },
+    {
+      "path": "docs/sql/142-the-martyria-atom.sql",
+      "description": "sql, 10,561 bytes"
+    },
+    {
+      "path": "docs/sql/143-the-martyria-seeded.sql",
+      "description": "sql, 11,599 bytes"
+    },
+    {
+      "path": "docs/sql/144-the-pandulipi-atom.sql",
+      "description": "sql, 9,217 bytes"
+    },
+    {
+      "path": "docs/sql/145-the-pandulipi-seeded.sql",
+      "description": "sql, 10,892 bytes"
+    },
+    {
+      "path": "docs/sql/146-theophany-and-the-void.sql",
+      "description": "sql, 6,667 bytes"
+    },
+    {
+      "path": "docs/sql/147-the-procession-atom.sql",
+      "description": "sql, 6,709 bytes"
+    },
+    {
+      "path": "docs/sql/148-the-procession-seeded.sql",
+      "description": "sql, 9,632 bytes"
+    },
+    {
       "path": "docs/sql/DRAFT-2026-08-18-the-beacons-reckoning.sql",
-      "description": "sql, 8,972 bytes"
+      "description": "sql, 9,363 bytes"
+    },
+    {
+      "path": "docs/sql/DRAFT-2026-08-28-claude-wears-the-star.sql",
+      "description": "sql, 362 bytes"
+    },
+    {
+      "path": "docs/sql/DRAFT-2026-08-28-progenatrix-wears-the-heart.sql",
+      "description": "sql, 366 bytes"
+    },
+    {
+      "path": "docs/sql/DRAFT-2026-08-28-the-beacons-icons.sql",
+      "description": "sql, 1,633 bytes"
+    },
+    {
+      "path": "docs/sql/DRAFT-2026-09-02-the-beacons-reckoned.sql",
+      "description": "sql, 8,204 bytes"
     }
   ],
-  "file_count": 113,
+  "file_count": 160,
   "subdirectories": [],
   "code_analysis": {
     "000-NEW-TABLE-RITUAL.md": {
@@ -1782,7 +1970,7 @@
     },
     "098-the-coast-reckoned.sql": {
       "language": "sql",
-      "lines": 173,
+      "lines": 178,
       "statements": 51,
       "tables_created": [],
       "rls_enabled_on": [],
@@ -1804,6 +1992,17 @@
       "policies_created": [
         "Public read pantheon"
       ],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "100-the-seats-retaken.sql": {
+      "language": "sql",
+      "lines": 38,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
       "functions_created": [],
       "indexes_created": 0,
       "uses_do_block": false
@@ -1885,10 +2084,518 @@
       "indexes_created": 0,
       "uses_do_block": false
     },
+    "107-the-clavis-and-the-lok-atoms.sql": {
+      "language": "sql",
+      "lines": 137,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "108-the-merismos-atom.sql": {
+      "language": "sql",
+      "lines": 106,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "109-the-clavis-and-the-lok.sql": {
+      "language": "sql",
+      "lines": 124,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "110-the-merismos-seeded.sql": {
+      "language": "sql",
+      "lines": 92,
+      "statements": 10,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "111-the-clavis-and-the-lok-faces.sql": {
+      "language": "sql",
+      "lines": 5,
+      "statements": 2,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "112-the-hlutr-atom.sql": {
+      "language": "sql",
+      "lines": 98,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "113-the-hlutr-seeded.sql": {
+      "language": "sql",
+      "lines": 87,
+      "statements": 10,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "114-the-dath-atom.sql": {
+      "language": "sql",
+      "lines": 110,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "115-the-dath-seeded.sql": {
+      "language": "sql",
+      "lines": 93,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "116-the-nomos-atom.sql": {
+      "language": "sql",
+      "lines": 120,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "117-the-nomos-seeded.sql": {
+      "language": "sql",
+      "lines": 98,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "118-the-raksha-atom.sql": {
+      "language": "sql",
+      "lines": 108,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "119-the-raksha-seeded.sql": {
+      "language": "sql",
+      "lines": 99,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "120-the-panti-atom.sql": {
+      "language": "sql",
+      "lines": 107,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "121-the-panti-seeded.sql": {
+      "language": "sql",
+      "lines": 92,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "122-the-lakshana-atom.sql": {
+      "language": "sql",
+      "lines": 110,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "123-the-lakshana-seeded.sql": {
+      "language": "sql",
+      "lines": 95,
+      "statements": 7,
+      "tables_created": [
+        "public.tools"
+      ],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "124-the-drishti-atom.sql": {
+      "language": "sql",
+      "lines": 108,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "125-the-drishti-seeded.sql": {
+      "language": "sql",
+      "lines": 108,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "126-the-suchi-atom.sql": {
+      "language": "sql",
+      "lines": 113,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "127-the-suchi-seeded.sql": {
+      "language": "sql",
+      "lines": 114,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "128-the-stereos-atom.sql": {
+      "language": "sql",
+      "lines": 127,
+      "statements": 3,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "129-the-stereos-seeded.sql": {
+      "language": "sql",
+      "lines": 91,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "130-the-hlid-atom.sql": {
+      "language": "sql",
+      "lines": 99,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "131-the-hlid-seeded.sql": {
+      "language": "sql",
+      "lines": 103,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "132-the-kinema-atom.sql": {
+      "language": "sql",
+      "lines": 153,
+      "statements": 10,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "133-the-kinema-seeded.sql": {
+      "language": "sql",
+      "lines": 111,
+      "statements": 23,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "134-the-kampyle-atom.sql": {
+      "language": "sql",
+      "lines": 152,
+      "statements": 4,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "135-the-kampyle-seeded.sql": {
+      "language": "sql",
+      "lines": 101,
+      "statements": 8,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "136-the-mynd-atom.sql": {
+      "language": "sql",
+      "lines": 154,
+      "statements": 6,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "137-the-mynd-seeded.sql": {
+      "language": "sql",
+      "lines": 104,
+      "statements": 12,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "138-the-cofra-atom.sql": {
+      "language": "sql",
+      "lines": 140,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "139-the-cofra-seeded.sql": {
+      "language": "sql",
+      "lines": 118,
+      "statements": 13,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "140-the-akshara-atom.sql": {
+      "language": "sql",
+      "lines": 169,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "141-the-akshara-seeded.sql": {
+      "language": "sql",
+      "lines": 120,
+      "statements": 14,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "142-the-martyria-atom.sql": {
+      "language": "sql",
+      "lines": 145,
+      "statements": 5,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "143-the-martyria-seeded.sql": {
+      "language": "sql",
+      "lines": 109,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "144-the-pandulipi-atom.sql": {
+      "language": "sql",
+      "lines": 126,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "145-the-pandulipi-seeded.sql": {
+      "language": "sql",
+      "lines": 108,
+      "statements": 20,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "146-theophany-and-the-void.sql": {
+      "language": "sql",
+      "lines": 122,
+      "statements": 7,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "147-the-procession-atom.sql": {
+      "language": "sql",
+      "lines": 108,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "148-the-procession-seeded.sql": {
+      "language": "sql",
+      "lines": 100,
+      "statements": 21,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
     "DRAFT-2026-08-18-the-beacons-reckoning.sql": {
       "language": "sql",
-      "lines": 149,
+      "lines": 154,
       "statements": 39,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "DRAFT-2026-08-28-claude-wears-the-star.sql": {
+      "language": "sql",
+      "lines": 7,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "DRAFT-2026-08-28-progenatrix-wears-the-heart.sql": {
+      "language": "sql",
+      "lines": 7,
+      "statements": 1,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "DRAFT-2026-08-28-the-beacons-icons.sql": {
+      "language": "sql",
+      "lines": 21,
+      "statements": 9,
+      "tables_created": [],
+      "rls_enabled_on": [],
+      "policies_created": [],
+      "functions_created": [],
+      "indexes_created": 0,
+      "uses_do_block": false
+    },
+    "DRAFT-2026-09-02-the-beacons-reckoned.sql": {
+      "language": "sql",
+      "lines": 134,
+      "statements": 27,
       "tables_created": [],
       "rls_enabled_on": [],
       "policies_created": [],
@@ -1898,7 +2605,7 @@
     }
   },
   "folders_not_walked": [],
-  "scan_timestamp": "2026-08-21T15:19:36.641797 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:49.146280 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }

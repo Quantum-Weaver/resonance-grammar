@@ -1,0 +1,51 @@
+{
+  "tier": "folder",
+  "folder_name": "classification",
+  "folder_path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/classification",
+  "self": "grammar/src/lib/generated/ui/surfaces/mnemosyne-assessment/classification/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "3 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/classification/categories.svelte",
+      "description": "surface, 6,104 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/classification/classification_paths.svelte",
+      "description": "surface, 7,277 bytes"
+    },
+    {
+      "path": "src/lib/generated/ui/surfaces/mnemosyne-assessment/classification/schemes.svelte",
+      "description": "surface, 7,707 bytes"
+    }
+  ],
+  "file_count": 3,
+  "subdirectories": [],
+  "code_analysis": {
+    "categories.svelte": {
+      "language": "svelte",
+      "lines": 244,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "classification_paths.svelte": {
+      "language": "svelte",
+      "lines": 274,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    },
+    "schemes.svelte": {
+      "language": "svelte",
+      "lines": 289,
+      "uses_runes": [],
+      "fetch_calls": [],
+      "has_style_block": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:52.015544 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

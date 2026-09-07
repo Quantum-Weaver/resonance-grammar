@@ -1,0 +1,33 @@
+{
+  "tier": "folder",
+  "folder_name": "hermes-social",
+  "folder_path": "src/lib/generated/ui/rooms/hermes-social",
+  "self": "grammar/src/lib/generated/ui/rooms/hermes-social/fbp.ai.json",
+  "parent": "grammar/src/lib/obp.ai.json",
+  "description": "1 files, 0 subfolders",
+  "files": [
+    {
+      "path": "src/lib/generated/ui/rooms/hermes-social/workshop.svelte",
+      "description": "surface, 5,128 bytes"
+    }
+  ],
+  "file_count": 1,
+  "subdirectories": [],
+  "code_analysis": {
+    "workshop.svelte": {
+      "language": "svelte",
+      "lines": 222,
+      "uses_runes": [
+        "$derived",
+        "$props",
+        "$state"
+      ],
+      "fetch_calls": [],
+      "has_style_block": true
+    }
+  },
+  "folders_not_walked": [],
+  "scan_timestamp": "2026-09-07T14:03:52.000859 | in sovereign time",
+  "maintaining_agent": "FolderAgent",
+  "note": "The details live here. Upper tiers link to this address; they do not copy this body."
+}

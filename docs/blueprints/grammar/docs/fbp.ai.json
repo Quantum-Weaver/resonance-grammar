@@ -4,15 +4,11 @@
   "folder_path": "docs",
   "self": "grammar/docs/fbp.ai.json",
   "parent": "grammar/docs/dbp.ai.json",
-  "description": "9 files, 4 subfolders",
+  "description": "8 files, 4 subfolders",
   "files": [
     {
       "path": "docs/BUILD-SEQUENCE.md",
       "description": "BUILD SEQUENCE"
-    },
-    {
-      "path": "docs/CHECKLIST.md",
-      "description": "RESONANCE KNOWLEDGE"
     },
     {
       "path": "docs/CLAUDE-CONTEXT.md",
@@ -43,7 +39,7 @@
       "description": "THE STANDALONE WATERS"
     }
   ],
-  "file_count": 9,
+  "file_count": 8,
   "subdirectories": [
     "docs/carries",
     "docs/sittings",
@@ -74,45 +70,6 @@
       "checkboxes": {
         "open": 0,
         "done": 0
-      },
-      "has_story_block": false,
-      "declares_mirror_class": false
-    },
-    "CHECKLIST.md": {
-      "language": "markdown",
-      "lines": 123,
-      "words": 2898,
-      "heading_count": 10,
-      "headings": [
-        "RESONANCE KNOWLEDGE \u2014 MASTER CHECKLIST",
-        "LEGEND",
-        "PHASE STATUS",
-        "Phase K-0: Schema & Seed \u2705",
-        "Phase K-1: Query CLI \u2705",
-        "Phase K-2: MCP Server \u2705 \u2014 fulfilled BY THE BRIDGE (2026-07-30)",
-        "Phase K-3: Echoes Integration \u2b1c",
-        "Phase K-4: Compass Integration \u2b1c",
-        "KNOWN BUGS",
-        "SESSION LOG"
-      ],
-      "links_external": 0,
-      "links_site_absolute": [],
-      "links_internal": [
-        {
-          "target": "docs/STORY-BLOCK.md",
-          "resolves": false,
-          "outside_checkout": false
-        }
-      ],
-      "links_internal_unresolved": [
-        "docs/STORY-BLOCK.md"
-      ],
-      "links_internal_outside_checkout": [],
-      "code_fences": 0,
-      "table_rows": 26,
-      "checkboxes": {
-        "open": 7,
-        "done": 24
       },
       "has_story_block": false,
       "declares_mirror_class": false
@@ -355,7 +312,7 @@
       "reason": "a blueprint output tree \u2014 the forge does not blueprint blueprints"
     }
   ],
-  "scan_timestamp": "2026-08-21T15:19:36.540725 | in sovereign time",
+  "scan_timestamp": "2026-09-07T14:03:49.037415 | in sovereign time",
   "maintaining_agent": "FolderAgent",
   "note": "The details live here. Upper tiers link to this address; they do not copy this body."
 }
