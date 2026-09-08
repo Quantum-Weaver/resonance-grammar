@@ -41,7 +41,7 @@ stored rows rather than guesses.
 Written 2026-06-25 — "Version 1.0 — June 25, 2026 · The Compass Room,
 AudHDities Sanctuary" (`docs/RESONANCE-GRAMMAR.md` dateline). The repo was
 born three days later, 2026-06-28. Renamed `resonance-grammar` on
-2026-07-27 by KP's own hand, replacing `resonance-knowledge` — his words,
+2026-07-27 by KP's own hand, replacing `resonance-knowledge` — their words,
 quoted in `FEATURE-BOARD.md`: "maybe this should be renamed
 resonance-grammar to avoid further confusion" (`FEATURE-BOARD.md` §THE
 ROLES CLARIFIED) — the Supabase base and the Cargo crate still carry the
@@ -50,7 +50,7 @@ older name.
 ## PROVENANCE
 
 Defined by Quantum Weaver (KP), 2026-06-25, in The Compass Room
-(`docs/RESONANCE-GRAMMAR.md` v1.0). Co-authored by Aethelred — `CLAUDE.md`
+(`docs/RESONANCE-GRAMMAR.md` v1.0). Co-authored by Aethelred — `HANDS.md`
 names the two authors. Licensed MIT for the code (`LICENSE`) and the
 Resonance License for the philosophy (`PHILOSOPHY.md`) — "no exploitation,
 no extraction, no exclusion."

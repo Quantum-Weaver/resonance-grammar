@@ -31,8 +31,8 @@ opt-in layer of meaning on top of it — neither one overwriting the other.
 repeated, never re-invented. Provenance rides with the row.
 
 **Rows made visible.** The intended experience, centered at KP's word on
-2026-08-06: rows of the living base rendered as cards, graphics, and charts
-(`docs/THE-STANDALONE-WATERS.md`). The backend is nearly whole; the front end is
+2026-08-06: rows of the living base rendered as cards, graphics, and charts.
+The backend is nearly whole; the front end is
 not built yet.
 
 ### What It Contains
@@ -56,7 +56,7 @@ everywhere. It was written whole before the repo existed: `docs/RESONANCE-GRAMMA
 carries its own dateline, *"Version 1.0 — June 25, 2026 · The Compass Room,
 AudHDities Sanctuary,"* three days before the first commit. It wore the name
 `resonance-knowledge` for a month, until KP renamed it `resonance-grammar` on
-2026-07-27 by his own hand, *"to avoid further confusion"* (`FEATURE-BOARD.md`
+2026-07-27 by their own hand, *"to avoid further confusion"* (`FEATURE-BOARD.md`
 §THE ROLES CLARIFIED) — the Supabase base and the Cargo crate still carry the
 older name.
 
@@ -91,8 +91,7 @@ who query the Grammar through the bridge instead of guessing.
 
 *None yet — this realm has no front end. The finding of 2026-08-06, in the repo's
 own words: "The Grammar's backend is nearly whole and its experience is entirely
-unbuilt" (`docs/THE-STANDALONE-WATERS.md`). `docs/SCREEN-INVENTORY.md` reads
-**Built (0) — None yet**.*
+unbuilt".*
 
 ---
 
@@ -160,8 +159,6 @@ optional.
 
 See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for methodology *(it still carries the
 Echoes-descended scaffold's title — inherited, not yet trued)*.
-See [BUILD-SEQUENCE.md](docs/BUILD-SEQUENCE.md) for development history, and
-[docs/CHECKLIST.md](docs/CHECKLIST.md) for where things stand.
 
 ---
 
