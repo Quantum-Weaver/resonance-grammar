@@ -50,17 +50,15 @@ not built yet.
 
 *This section required by the [Story Block Standard](https://github.com/Quantum-Weaver/resonance-standards).*
 
-The Grammar was written before it was a repo. `docs/RESONANCE-GRAMMAR.md` carries
-its own date line — *"Version 1.0 — June 25, 2026 · The Compass Room, AudHDities
-Sanctuary"* — and three days later the repo was born to hold it: first commit
-2026-06-28, *"Bootstrap Resonance Knowledge — schema, seed, and Rust scaffold."*
-For a month it wore the name `resonance-knowledge`, and the name kept being
-mistaken for the base it talked to. On 2026-07-27 KP ruled the confusion out and
-renamed the GitHub repo `resonance-grammar` with his own hand — the same sitting
-that settled what this realm is and is not: the immersive knowledge system on its
-own, with access living behind the bridge (`FEATURE-BOARD.md` §THE ROLES
-CLARIFIED). The Supabase base keeps the `resonance-knowledge` name to this day,
-and so does this crate.
+The Grammar is the shared vocabulary of the AudHDities Sanctuary — a relational
+grammar of atoms, molecules, and organisms, defined once and referenced
+everywhere. It was written whole before the repo existed: `docs/RESONANCE-GRAMMAR.md`
+carries its own dateline, *"Version 1.0 — June 25, 2026 · The Compass Room,
+AudHDities Sanctuary,"* three days before the first commit. It wore the name
+`resonance-knowledge` for a month, until KP renamed it `resonance-grammar` on
+2026-07-27 by his own hand, *"to avoid further confusion"* (`FEATURE-BOARD.md`
+§THE ROLES CLARIFIED) — the Supabase base and the Cargo crate still carry the
+older name.
 
 📖 [Full Story Block](docs/STORY-BLOCK.md)
 
