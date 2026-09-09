@@ -1,24 +1,24 @@
--- DRAFT ONLY. Nothing here has been run. Runs at KP's hand alone.
+-- 149 — the store standings. Ran 2026-09-09 through resonance-nectere/chains/the-seed-chain/seed_chain.py; the VERIFY answered on_closed_track 5 · with_platforms 14.
 -- Register read: public.beacons (table, not the view), 40 rows, anon door, 2026-09-09.
 -- Every statement carries WHERE slug =. No DELETE. status, beacon_type, app_id,
 -- testing_url, published_* and store_notes untouched.
 -- Vocabulary: 043-the-beacons.sql lines 93-106.
 
--- (A) available_on -- release/ holds MSI + NSIS + APK + AAB; src-tauri/gen/android present
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-echoes';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-compass';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-hearth';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-lantern';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-sirens';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-sistrum';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-bubbles';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-skapa';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-khoros';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-tarocchi';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-cruthu';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-sceal';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-ardan';
-update public.beacons set available_on = '{android,windows}' where slug = 'resonance-scribe';
+-- (A) available_on -- release/ holds MSI + NSIS + APK + AAB; src-tauri/gen/android present; the column's vocabulary is mobile, web, pc
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-echoes';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-compass';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-hearth';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-lantern';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-sirens';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-sistrum';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-bubbles';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-skapa';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-khoros';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-tarocchi';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-cruthu';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-sceal';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-ardan';
+update public.beacons set available_on = '{mobile,pc}' where slug = 'resonance-scribe';
 
 -- (B) Google Play -- closed tracks
 -- resonance-echoes/docs/listings/PLAY-TRACK.md lines 14, 175; docs/RELEASE.md line 7
