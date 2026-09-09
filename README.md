@@ -1,4 +1,4 @@
-# 🧬 Resonance Grammar
+# 📗 Resonance Grammar
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-0.1.0-brightgreen.svg)]()
