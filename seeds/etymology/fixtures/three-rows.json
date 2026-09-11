@@ -1,0 +1,51 @@
+{
+ "header": {
+  "wave": "etymology",
+  "born": "2026-09-11",
+  "source": "three rows of batch-01.json — one full, one meaning only, one empty",
+  "rows": 3,
+  "batch": "fixture",
+  "of": 1
+ },
+ "rows": [
+  {
+   "etymology_id": "138bfe06-d9ef-4f22-92bf-f44e66c3a228",
+   "atom_id": "8e904e50-506a-49f2-8563-aa1d2507ab87",
+   "atom_word": "abecedary",
+   "definition": "A primer of the alphabet — the letters gathered first, so everything spelled later can be read. An abecedary holds no sentences; it holds what sentences are made of.",
+   "category_name": "collections",
+   "atom_type": "root",
+   "sanctuary_meaning": "The collection that holds the elements before anything is built from them. An abecedary here is the ordered primer of a vocabulary — the pieces gathered and kept in order, so that whatever is spelled from them can be read.",
+   "root_word": "abecedarium",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin abecedarium, a table of the alphabet named by sounding its first four letters — a, be, ce, de — where an abecedarius was one still learning them; the sense travelled from the alphabet table itself to any primer setting out the elements of a subject in order.",
+   "completion_progress": 0
+  },
+  {
+   "etymology_id": "282699aa-7c00-4183-ba66-06901b44bdff",
+   "atom_id": "35660d57-a345-4123-8fdf-64e4eec949bf",
+   "atom_word": "adb",
+   "definition": "The Android debug bridge's command name — the wire between a dev machine and a device, spoken lowercase in the shell.",
+   "category_name": null,
+   "atom_type": "root",
+   "sanctuary_meaning": "The wire to a real device. It is how a build leaves the workbench and is installed, driven and read back on hardware rather than on an emulator.",
+   "root_word": null,
+   "root_language": null,
+   "historical_meaning": null,
+   "completion_progress": 0
+  },
+  {
+   "etymology_id": "9056dc96-20d4-466a-98c6-9f9586823d41",
+   "atom_id": "80d57ec1-36f5-4353-bc1d-b3b4a459d5fb",
+   "atom_word": "atomscategory",
+   "definition": "A compound fragment from this library's own naming, not an English word. Flagged for the mis-cut band rather than defined.",
+   "category_name": "data",
+   "atom_type": "root",
+   "sanctuary_meaning": null,
+   "root_word": null,
+   "root_language": null,
+   "historical_meaning": null,
+   "completion_progress": 0
+  }
+ ]
+}

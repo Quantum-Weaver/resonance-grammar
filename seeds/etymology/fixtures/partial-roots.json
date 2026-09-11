@@ -1,0 +1,38 @@
+{
+ "header": {
+  "wave": "etymology",
+  "born": "2026-09-11",
+  "source": "two rows of batch-01.json — each carrying a meaning and an incomplete root set",
+  "rows": 2,
+  "batch": "fixture",
+  "of": 1
+ },
+ "rows": [
+  {
+   "etymology_id": "014a8fa3-c12c-41e8-8c3e-8e58c8ac5aa4",
+   "atom_id": "e1cbcfa8-7723-4319-9673-09015b9b674f",
+   "atom_word": "accent",
+   "definition": "A stress laid on one part so it stands out. Also the particular sound a speaker's origin gives their speech.",
+   "category_name": "sensory",
+   "atom_type": "root",
+   "sanctuary_meaning": "The emphasis laid on one part of a thing so it reaches the eye or the ear before the rest — one stress against an even ground, never many. It also names the particular sound a voice carries from where it began, which is a mark of origin rather than a fault.",
+   "root_word": "accentus",
+   "root_language": "Latin",
+   "historical_meaning": null,
+   "completion_progress": 0
+  },
+  {
+   "etymology_id": "b9026eb7-b8bf-421a-9cc9-3250c09b91d2",
+   "atom_id": "36242216-dea3-440b-92c3-37342421621f",
+   "atom_word": "acronym",
+   "definition": "A name built from initials — letters standing for words; in this Grammar, an extension of organisms, never an atom itself.",
+   "category_name": null,
+   "atom_type": "root",
+   "sanctuary_meaning": "A name folded out of the first letters of the words it stands for. In this vocabulary it extends an organism and is never an atom of its own, because an atom is one lowercase word and an acronym is several words worn as one.",
+   "root_word": null,
+   "root_language": "Greek",
+   "historical_meaning": null,
+   "completion_progress": 0
+  }
+ ]
+}
