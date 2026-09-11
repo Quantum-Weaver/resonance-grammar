@@ -15,11 +15,11 @@
    "definition": "What is asked in exchange. A price is a claim about worth, made by the seller and answered by the buyer.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is asked before an exchange completes, stated once and answered once. A price names a claim of worth; it does not settle whether the claim is fair.",
+   "root_word": "pretium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin pretium (worth, value, price), the root also of precious and appreciate; the word travelled through Old French pris/price into English as the sum demanded in exchange.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c74a5e88-c35a-4e77-8b9a-fe84bcd3fc94",
@@ -28,11 +28,11 @@
    "definition": "Standing in what one is without apology. Also the public claiming of an identity others tried to make shameful.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Standing in what one is without needing to be excused for it. The public sense — claimed identity worn openly — asks the same question the private sense does: whose worth gets to be said aloud.",
+   "root_word": "prud",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English pryto (pride), formed from prud (proud), an early borrowing from Late Latin prode (worthy, advantageous), from prodesse (to be of use): pro- (forth) + esse (to be); pride begins as a claim of worth rather than of arrogance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e0fa2e5b-d26e-4cd1-b538-2b8b0020efde",
@@ -41,11 +41,11 @@
    "definition": "A number divisible only by itself and one. Also first in importance — the same word for indivisible and for foremost.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A number with no factor but itself and one, and by extension whatever comes first in rank. The same root gives both senses because to be indivisible and to be foremost were once the same idea: nothing precedes it.",
+   "root_word": "primus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin primus (first), superlative of an old stem meaning before (compare prior, the comparative of the same stem); a number is prime when nothing stands before it in its own factoring.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b50a3480-5620-4d26-b0cb-ec40c4c03f82",
@@ -54,11 +54,11 @@
    "definition": "A basic building block that is not made of anything simpler. Primitives are where explanation stops.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A building block not made of anything simpler — the floor a structure is composed on rather than a thing composed within it. Explanation has to stop somewhere, and a primitive is where.",
+   "root_word": "primitivus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin primitivus (first of its kind, original), from primus (first); a primitive is what a system starts from rather than what it is built out of.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fcd04d9c-e36c-43aa-8bc3-89bea0361a78",
@@ -67,11 +67,11 @@
    "definition": "Of the very first, before anything derived from it. Of what was there when there was nothing else.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Of what was there before anything derived from it existed. Naming a thing primordial is a claim about sequence, not about worth — it says only that nothing else came first.",
+   "root_word": "primordialis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin primordialis (original, first of all), from primordium (beginning, origin): primus (first) + ordium, from ordiri (to begin, to lay the first thread of a web) — the same root order descends from.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6b9d8a81-0691-45da-9f73-3f4d7bc09f3f",
@@ -80,11 +80,11 @@
    "definition": "A commitment held before the particular case arises. A principle costs something exactly when it is inconvenient.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A commitment made before the hard case arrives, so that the hard case does not get to rewrite it. A principle that costs nothing when it is easy was never tested.",
+   "root_word": "principium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin principium (beginning, foundation), from princeps (first, chief): primus (first) + capere (to take) — the one who takes first place; a principle is a founding commitment, held before any particular case tests it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5ae4c08b-417c-4203-931a-334d936d5006",
@@ -93,11 +93,11 @@
    "definition": "To set marks on a surface so they can be read. Also to emit a line of output — the same act, one in ink and one in light.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Setting a mark down so it can be read after the moment of making has passed. Ink on paper and a line of text on a screen are the same act: something pressed forward, out of the maker's hand and into the reader's.",
+   "root_word": "premere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin premere (to press), via Old French preinte/priente (a pressing, an impression); to print is to press a mark into a surface so it survives the pressing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c2f7daa9-d980-4463-8923-1919465f47a2",
@@ -106,11 +106,11 @@
    "definition": "Standing before in time or rank — what came earlier, consulted first.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What came before and is consulted first because of it. Priority in time is not an argument for priority in importance, but it is often mistaken for one.",
+   "root_word": "prior",
+   "root_language": "Latin",
+   "historical_meaning": "Latin prior (former, earlier), a comparative with no attested positive form, built on the same old stem as primus (first); to be prior is to stand before something else in time or in rank, with nothing said about why.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "efe5e087-e00d-4410-b258-42132960239d",
@@ -119,11 +119,11 @@
    "definition": "To decide what comes first when not everything can. Prioritising is a statement about scarcity.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Deciding what goes first when not everything can. Every act of prioritizing is a small confession that resources were never going to stretch to cover everything.",
+   "root_word": "prior",
+   "root_language": "Latin",
+   "historical_meaning": "A modern verb built on priority, itself from Latin prior (earlier, former); to prioritize is to decide, on purpose, what else must wait.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4461ef7e-0bec-4f8e-89dc-e1912129571d",
@@ -132,11 +132,11 @@
    "definition": "What comes first when not everything can. Priority is a statement about scarcity.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is placed first when not everything can be done at once. Calling something a priority is a statement about scarcity, not a statement about its worth on its own.",
+   "root_word": "prioritas",
+   "root_language": "Latin",
+   "historical_meaning": "Medieval Latin prioritas (the state of being earlier), from prior (former, earlier); the word entered English legal and administrative use before it meant importance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8e308b27-27c0-4a83-ab8e-251d94ac313f",
@@ -145,11 +145,11 @@
    "definition": "The glass that splits light into its spectrum — one beam revealed as many colors; and the syntax highlighter wearing the name.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The glass that shows one beam of light was always several colours travelling together. The syntax highlighter borrows the name for the same reason: it does not add colour to code, it reveals the structure that was already there.",
+   "root_word": "prisma",
+   "root_language": "Greek",
+   "historical_meaning": "Greek prisma (a thing sawn, a sawn body), from priein (to saw); a prism is named for its cut shape, and only later for what that shape does to light.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8b09310d-68ee-4885-8891-9566ab32ae6c",
@@ -158,11 +158,11 @@
    "definition": "A being's authority over who may see what is theirs. Privacy is not secrecy — it is who decides.",
    "category_name": "private",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A being's own authority over who may see what belongs to them. The root does not mean hidden — it means singular, one's own — which is why privacy here is about who decides rather than about concealment.",
+   "root_word": "privatus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin privatus (set apart, belonging to oneself, not held in public), from privare (to bereave, to release from), from privus (single, individual, one's own); privacy names the standing of the one who decides, not the act of hiding.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "edeb9475-9128-401b-a6e5-2535e362c566",
@@ -171,11 +171,11 @@
    "definition": "Belonging to one and closed to others by right. Privacy is not concealment — it is authority over who may see.",
    "category_name": "private",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to one and closed to others by right rather than by force. What is private is not withheld from the world so much as it is simply not the world's to begin with.",
+   "root_word": "privatus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin privatus (belonging to oneself, not public), from privare (to release, to deprive), from privus (one's own); the same root gives deprive, and both words turn on the same fact of belonging to one rather than to many.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "af7c2deb-3df7-49d8-8e50-433c9b922009",
@@ -184,11 +184,11 @@
    "definition": "How likely a thing is, stated as a number. Probability describes a state of knowledge as much as a state of the world.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How likely a thing is, stated as a number rather than a feeling. The root's older sense is worth keeping: a probability is also a measure of how much confidence the claim deserves, not only a fact about the world.",
+   "root_word": "probabilitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin probabilitas (credibility, provableness), from probabilis (worthy of approval, credible), from probare (to test, to approve), from probus (good, upright); a probability was first a measure of how believable a claim was, only later a measure of how likely an event is.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "08bb6c79-7acd-4f7b-8012-479978ddce69",
@@ -197,11 +197,11 @@
    "definition": "A careful reaching in to find out what is there. A probe is a question made physical.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A careful reaching-in that asks a physical question. A probe does not assume the answer before it goes looking, which is the whole difference between probing and confirming.",
+   "root_word": "proba",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin proba (a test, an examination), from probare (to test, to prove); a probe is a question turned into a physical instrument for finding out.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1bca2223-8aed-42df-bb75-bc02422512fd",
@@ -210,11 +210,11 @@
    "definition": "A gap between how things are and how they need to be. Naming a problem well is most of solving it.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A gap between how things are and how they need to be, put forward plainly enough to be solved. Naming it well is most of the throwing-forward the word already describes.",
+   "root_word": "problema",
+   "root_language": "Greek",
+   "historical_meaning": "Greek problema (a thing put forward, a question proposed for solution), from proballein (to throw forward): pro- (forward) + ballein (to throw); a problem is, by its own root, something set out in front to be solved.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9ab0ff50-dd4b-4b80-b350-1e61183e37a8",
@@ -223,11 +223,11 @@
    "definition": "Work in ordered motion — steps with a direction, a beginning that intends its end. As a verb, to carry a thing through those steps.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Work moving in ordered steps toward an intended end. The root's own sense — a going-forward — is exactly the promise the word still keeps: a process is not just activity, it is activity with a direction.",
+   "root_word": "processus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin processus (a going forward, advance, progress), from procedere (to go forward): pro- (forward) + cedere (to go, to yield); a process is motion with a direction built into its own name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cce8b23d-3154-415b-8312-2391e9c79cf0",
@@ -236,11 +236,11 @@
    "definition": "That which carries a thing through a sequence of changes. Named for the doing rather than the thing done to.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which carries something through a sequence of changes rather than the thing changed itself. The naming is deliberate: the doing, not the done-to, is what earns the -or.",
+   "root_word": "processus",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on process, from Latin processus / procedere (to go forward); a processor is named for carrying a thing through change, not for the thing changed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0f1f11bd-f2cd-4d3a-85f1-ea588e0451df",
@@ -249,11 +249,11 @@
    "definition": "What a making results in, offered to others. Named from the side of what comes out rather than what went in.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What a making results in, once it is offered to others. The root's direction matters: a product is named for what came out the far end, not for the labour that went into it.",
+   "root_word": "productum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin productum (something produced), from producere (to lead forward, to bring forth): pro- (forward) + ducere (to lead); a product is named from the leading-out rather than from the leading-in.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b6399c32-b129-4fa3-83e7-29cf90d6db63",
@@ -262,11 +262,11 @@
    "definition": "The making of things at scale, and the environment where real users are actually served. Both mean the place where mistakes are expensive.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The making of things at scale, and the environment where the making is real rather than rehearsed. Both senses share the same root fact: something has been led all the way out to where it can meet other people.",
+   "root_word": "productio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin productio (a lengthening, a bringing forth), from producere: pro- + ducere (to lead); production is the act of the same leading-forth that gives product its name, scaled up to a whole operation.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "57e020ed-b339-4b0c-a12c-43d4d164e549",
@@ -275,11 +275,11 @@
    "definition": "How well one can do a thing. Proficiency is built by practice and is specific to what was practised.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How well one can do a thing, built by practice rather than granted whole. The root's sense of advancing is apt: proficiency is progress made visible, not a fixed trait someone either has or lacks.",
+   "root_word": "proficientia",
+   "root_language": "Latin",
+   "historical_meaning": "Latin proficientia (advancement, progress), from proficere (to make progress, to be useful): pro- (forward) + facere (to do, to make); proficiency was first a measure of advancing, only later a measure of skill held.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "747ca4c2-7133-453e-8426-d2e51c2656ba",
@@ -288,11 +288,11 @@
    "definition": "The outline of a thing seen from the side. A shape drawn by its edge alone, showing what a full view would hide.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The outline of a thing as seen from one side, which shows some things and necessarily hides others. What a profile leaves out is not a flaw in it — an outline was never meant to be the whole shape.",
+   "root_word": "profilare",
+   "root_language": "Italian",
+   "historical_meaning": "Italian profilare (to draw in outline), from pro- (forward) + filare (to spin a thread), from filum (thread); a profile is, by its root, a line drawn as if with a single continuous thread.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "24a7134e-4949-48bb-be2f-055ef430a459",
@@ -301,11 +301,11 @@
    "definition": "The founding female figure of an idea, organization, or tradition (e.g., calling a historical writer the progenitrix of a philosophical movement)",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The founding figure of a line, a working record, or a tradition — named for having begotten what came after rather than for merely preceding it. What descends from a progenatrix carries her shape whether or not it remembers her.",
+   "root_word": "progenitrix",
+   "root_language": "Latin",
+   "historical_meaning": "Latin progenitrix (a foundress, female ancestor), the feminine agent noun of progenitor, from progignere (to beget, to bring forth): pro- (forth) + gignere (to beget); the word names the one from whom a line descends, cast in the female form.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8603afb6-fb83-46ba-a15c-c96470f58381",
@@ -314,11 +314,11 @@
    "definition": "Movement toward a stated end, and the measure of how far along it is. Progress names a direction; it does not promise arrival.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Movement toward a stated end, and the measure of how far along that movement has gone. The root promises only direction — arrival is a separate and later claim.",
+   "root_word": "progressus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin progressus (an advance, a going forward), from progredi (to go forward): pro- (forward) + gradi (to step, to walk); progress is, at its root, simply steps taken in a stated direction.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "06922a90-fe1e-4f8e-b92c-204153f75e2e",
@@ -327,11 +327,11 @@
    "definition": "A movement through stages in order. Also a sequence of chords — both are steps that imply where they are going.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A movement through stages taken in order, whether the stages are a plan or a sequence of chords. Both readings share the same root image: a series of steps, each implying where the next one falls.",
+   "root_word": "progressio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin progressio (a going forward, an advance), from progredi: pro- (forward) + gradi (to step); the same root gives grade and gradient, all built on the image of a step taken.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "435fdb51-5c4d-41b6-94b0-01a2e36ad430",
@@ -340,11 +340,11 @@
    "definition": "A bounded body of work with an intended end. Also to throw forward — a project is something cast ahead of where you stand.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bounded body of work cast ahead of where the worker currently stands. The throwing is the honest part of the metaphor: a project is aimed at a place not yet reached, which is why it can fall short.",
+   "root_word": "projectum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin projectum (a thing thrown forward), from proicere (to throw forward): pro- (forward) + iacere (to throw); a project was first the throw itself, before it became the bounded work aimed at where the throw lands.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8a03d4df-6cbb-4a39-b01c-f49ab03120c5",
@@ -353,11 +353,11 @@
    "definition": "The casting of a thing onto a surface, and the extending of a trend into the future. Both show something not actually there.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The casting of something not present onto a surface where it can be seen — an image thrown on a screen, or a trend thrown forward into a future that has not happened yet. Both show something real about the source and nothing certain about where it lands.",
+   "root_word": "projectio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin projectio (a throwing forward), from proicere: pro- + iacere (to throw); a projection casts an image or a trend onto a surface that does not itself contain it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "001108f5-4e97-49c7-bf02-4eab1165aba5",
@@ -366,11 +366,11 @@
    "definition": "That which casts an image onto a surface. It shows something that is not where it appears to be.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which casts an image onto a surface other than where the image actually lives. What a projector shows is always somewhere else first.",
+   "root_word": "projectio",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on project/projection, from Latin proicere (to throw forward): pro- + iacere (to throw); a projector is named for the throwing, not for the image it throws.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b229bd2d-4f8d-4a65-a531-751a97fc98de",
@@ -379,11 +379,11 @@
    "definition": "The reader's own walk along a coast of released work — full-screen, one release at a time, every advance the reader's explicit act. The transplant made sovereign: effortless sampling of a chosen coast, with attention returned rather than captured.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A walk taken by choice along a coast of released work, one advance at a time, each step the walker's own act. The root's older sense of driving is exactly reversed here: nothing herds the reader forward but their own attention.",
+   "root_word": "prominare",
+   "root_language": "French",
+   "historical_meaning": "French promenade, from se promener (to go for a walk), from Late Latin prominare (to drive forward, as cattle): pro- (forward) + minare (to threaten, to drive by threat); a promenade was first a driving-forth before it became a leisurely walk.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "da57bd61-3295-410d-8e2a-0bc4bdbf7581",
@@ -392,11 +392,11 @@
    "definition": "A commitment to a future act. Also a placeholder for a result not yet arrived — both are trust extended forward in time.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A commitment to a future act, or a placeholder standing in for a result not yet arrived. Both senses send something forward in time before it is earned, which is exactly what the root describes.",
+   "root_word": "promissum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin promissum (a thing promised), from promittere (to send forth, to assure beforehand): pro- (forward) + mittere (to send); a promise is trust sent ahead of the act that will either meet it or fail to.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dc08060e-f91c-4090-a4c4-263d089f1c00",
@@ -405,11 +405,11 @@
    "definition": "What is given to invite a response. A prompt shapes the answer as much as the one answering does.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is given to invite a response, shaping the answer as much as the one answering does. Nothing answers a question that was never asked in some shape — the prompt is half of every reply it receives.",
+   "root_word": "promptus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin promptus (brought forth, ready at hand), past participle of promere (to bring forth, to produce): pro- (forth) + emere (to take); a prompt was first a readiness, only later the thing that invites the readiness.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1e72d7db-52a4-41f2-a1df-39bce67edb72",
@@ -418,11 +418,11 @@
    "definition": "What settles a claim beyond dispute. Proof is a higher bar than evidence and is claimed far more often than met.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What settles a claim past dispute, and a higher bar than evidence because it must survive the attempt to break it. Proof claimed without having been tested is only the older, softer sense of the word: a trial not yet run.",
+   "root_word": "proba",
+   "root_language": "Latin",
+   "historical_meaning": "Old French prove/proeve, from Latin proba (a test, a trial), from probare (to test, to approve); proof is what a test yields when the thing tested survives being tested.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d54019d4-792d-48ab-9ca5-0f2d8f90b13d",
@@ -431,11 +431,11 @@
    "definition": "A support set beneath a thing to keep it standing. First a stake under a growing vine.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A support placed beneath a thing to keep it standing upright. The oldest image — a stake under a vine — is the right one: a prop holds up something that is alive and still growing, not something finished.",
+   "root_word": "proppe",
+   "root_language": "Middle Dutch",
+   "historical_meaning": "Middle Dutch proppe (a support, a stake for a vine), of further origin honestly uncertain beyond that Low Countries root; a prop was first a stake set under a growing thing, and the sense of any support follows from there.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "83facb54-c605-40c7-b32b-f7bf04eea32f",
@@ -444,11 +444,11 @@
    "definition": "The spreading of a change outward through what is connected. Propagation is why one edit can reach everything.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The spreading of a change outward through everything connected to it. The root's own image — a shoot fastened into new ground so it takes root there too — is exactly why one edit can reach everywhere at once.",
+   "root_word": "propagare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin propagare (to set forward, to breed, to extend), from pro- (forward) + pangere (to fasten, to fix); propagation was first about extending a plant by layering its shoots, and the sense of spreading outward through connection follows directly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "40547c14-f4e9-42b9-a0ee-948807475f64",
@@ -457,11 +457,11 @@
    "definition": "As it should be, by the standard that applies. Also belonging to one particular thing — a proper name names one.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "As it should be, by the standard that applies, and also belonging distinctly to one particular thing. Both senses share the same root claim of ownership: a proper name and a proper way of doing something both mark out what is one thing's own.",
+   "root_word": "proprius",
+   "root_language": "Latin",
+   "historical_meaning": "Latin proprius (one's own, particular, special), related to prope (near); a thing is proper first because it belongs distinctly to itself, and only from that belonging does the sense of correctness follow.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "93da15a1-8021-4291-a730-cf536f4c9046",
@@ -470,11 +470,11 @@
    "definition": "A characteristic belonging to a thing. Also what is owned — the same word for what a thing is and what is held.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A characteristic belonging to a thing, and also what is owned by someone — the root makes no distinction between them, because both are a form of belonging. A property, in either sense, names what is proper to something.",
+   "root_word": "proprietas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin proprietas (ownership, a peculiar or special quality), from proprius (one's own); the same word came to mean both a characteristic a thing has and a possession a person holds, because both are things marked as belonging.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bc87bbec-42dc-4c0a-94c7-1d4e723cfd20",
@@ -483,11 +483,11 @@
    "definition": "A saying about what has not yet happened. Prophecy is recognised only afterward, which is what separates it from a guess.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A saying about what has not yet happened, recognisable as prophecy only once the happening arrives. The root does not promise truth, only that the speaking came before the event — the rest is judged afterward.",
+   "root_word": "prophēteia",
+   "root_language": "Greek",
+   "historical_meaning": "Greek prophēteia (the gift or function of a prophet), from prophētēs (one who speaks for another, a foreteller): pro- (before) + phēmi (to speak); a prophecy is, by its own root, a speaking-before rather than a knowing-before.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "671d9c4b-a824-4fe7-90ce-88bdb4dfdaf2",
@@ -496,11 +496,11 @@
    "definition": "Speaking of what has not yet happened, and turning out right. Prophecy is recognised only afterward.",
    "category_name": "consciousness",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Speaking of what has not yet happened and being proven right by it. The word rewards the outcome, not the confidence of the speaker at the time of speaking.",
+   "root_word": "prophētēs",
+   "root_language": "Greek",
+   "historical_meaning": "Greek prophētēs (foreteller, one who speaks for another): pro- (before) + phēmi (to speak); to be prophetic is to have spoken before the event and to have turned out right, which the speaking itself could never guarantee.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "753717b5-ee65-43d0-98b9-07ce07d65b9c",
@@ -509,11 +509,11 @@
    "definition": "Something put forward to be accepted or refused. A proposal is not a decision — it is the asking.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Something placed forward to be accepted or refused, and not yet a decision. The root's placing is provisional by nature — to propose is to set a thing where it can be seen, not where it is fixed.",
+   "root_word": "proponere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin proponere (to set forth, to display, to propose): pro- (forward) + ponere (to place); a proposal places something in front of others without placing it into effect.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3386c9e6-a9c1-4aad-ad7d-47f8d70b6126",
@@ -522,11 +522,11 @@
    "definition": "To put forward for acceptance or refusal. Proposing is the asking, and it is not the deciding.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To put a thing forward for acceptance or refusal, which is the asking rather than the deciding. The root's placing stops short of settling anything — that is left to whoever receives the proposal.",
+   "root_word": "proponere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin proponere: pro- (forward) + ponere (to place); to propose is to place an idea before others for their judgment rather than to place it into force.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7eed2fc4-e169-4b40-8d89-e8cd7884356e",
@@ -535,11 +535,11 @@
    "definition": "Held safe from reach or harm by something standing between. Protection implies a protector.",
    "category_name": "grants",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Held safe because something stands between a thing and what would reach it. The root is literal — a cover placed in front — and it is why protection always implies a protector doing the standing-between.",
+   "root_word": "protegere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin protegere (to cover in front, to shield): pro- (in front) + tegere (to cover); to be protected is to have something placed bodily between oneself and harm.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ace3ac90-617b-4fe7-9c3b-230991f08004",
@@ -548,11 +548,11 @@
    "definition": "The keeping of a thing from harm by something standing between. Protection implies a protector and a threat.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The keeping of a thing from harm by something interposed between them. The root's cover is not passive — it has to be held there, which is why protection implies an ongoing protector rather than a one-time act.",
+   "root_word": "protectio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin protectio (a covering, a shielding), from protegere: pro- (in front) + tegere (to cover); protection names the covering itself, and it requires both a threat and something willing to stand in front of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "09b64b57-0dfa-415e-ba05-ef2ccd6eec90",
@@ -561,11 +561,11 @@
    "definition": "Standing between a thing and what would harm it. Protection is a posture held before the harm arrives, or it is only regret.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Standing between a thing and what would harm it, before the harm rather than after. Held too late, the same posture is only regret wearing the name of protection.",
+   "root_word": "protegere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin protegere (to cover in front, to shield): pro- (in front) + tegere (to cover); a protective posture is the covering held ready before harm arrives, not applied after.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e24522d5-f3d9-4c30-a1e9-fe2f65e6d419",
@@ -574,11 +574,11 @@
    "definition": "An agreed order of steps two parties both follow. A protocol lets strangers act together without trusting each other first.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An agreed order of steps that two parties both follow without having to trust each other first. The root's glued-on first page is a fitting ancestor: a protocol still tells everyone, in advance, what is about to happen.",
+   "root_word": "protokollon",
+   "root_language": "Greek",
+   "historical_meaning": "Greek protokollon (the first sheet glued to the front of a papyrus roll, recording its contents): protos (first) + kolla (glue); a protocol was originally the leaf that told you what the document behind it contained, before the sense of an agreed procedure took hold.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5293a64b-a4fe-402f-8ad9-b44d8ecd6fe4",
@@ -587,11 +587,11 @@
    "definition": "To show true by test — belief upgraded to knowledge by evidence that could have said no.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To show a thing true by a test that could have said no. Belief becomes knowledge only at the point where it has survived a chance to fail.",
+   "root_word": "probare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin probare (to test, to approve, to demonstrate as good), from probus (good, upright, honest); to prove is to put a claim through a test that could have gone the other way.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "23da36b6-91b1-4a4c-8f3d-085d665fb52d",
@@ -600,11 +600,11 @@
    "definition": "The traceable account of where a thing came from and whose hands it passed through. Provenance is what makes a claim checkable rather than merely asserted.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The traceable account of where a thing came from and whose hands it passed through. The root's coming-forth is the whole point: provenance turns a claim about origin into a path that can actually be followed back.",
+   "root_word": "provenire",
+   "root_language": "Latin",
+   "historical_meaning": "French provenance, from provenir (to come forth, to originate), from Latin provenire: pro- (forth) + venire (to come); provenance is the traceable coming-forth of a thing, hand by hand, back to its source.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "21c73a0b-6094-45c4-b6a0-45b0c9bb129e",
@@ -613,11 +613,11 @@
    "definition": "To make available what another needs — supply as a kept promise.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To make available what another needs, as a promise kept in advance rather than a favour granted on request. The root's foreseeing is the difference: to provide is to have already looked ahead.",
+   "root_word": "providere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin providere (to foresee, to prepare for, to supply): pro- (before, ahead) + videre (to see); to provide is, at its root, to see a need coming and to make ready for it before it is asked.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "388325a4-8d83-4987-852f-8c7527ca2520",
@@ -626,11 +626,11 @@
    "definition": "That which supplies what others depend on. Named from the side of the giving.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which supplies what others depend on, named from the side of the giving rather than the receiving. To provide well is to have anticipated the need before it became urgent.",
+   "root_word": "providere",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on provide, from Latin providere (to foresee, to supply): pro- (ahead) + videre (to see); a provider is named for the seeing-ahead that makes the supplying possible.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7b80471b-dea6-42ab-8e05-ad1b89844913",
@@ -639,11 +639,11 @@
    "definition": "What is supplied in advance against a need. Provision is care made material before it is asked for.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is supplied in advance against a need not yet felt. The root's foresight is what separates provision from a simple gift: it was made ready before it was asked for.",
+   "root_word": "provisio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin provisio (foresight, a foreseeing), from providere: pro- (ahead) + videre (to see); a provision is care made material in advance, the physical proof that a need was foreseen before it was asked for.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bf6cb4a2-5f8f-44f1-9fd2-b9c325af8821",
@@ -652,11 +652,11 @@
    "definition": "Belonging to the people at large, and open to them. Not the absence of privacy but the presence of everyone.",
    "category_name": "communication",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to the people at large, and open to them. The root is a presence, not an absence: public is not the lack of privacy, it is privacy's opposite claim of ownership, held by everyone at once.",
+   "root_word": "publicus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin publicus (of the people, belonging to the state), an alteration of poplicus, from populus (the people); public names a belonging to everyone rather than an absence of belonging to anyone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a300e455-774c-435c-9667-c74cb06872b5",
@@ -665,11 +665,11 @@
    "definition": "The making public of what was private. Publication is a threshold — after it, the work belongs to its readers too.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The making public of what was private — a threshold, not a description. After it, the root's own claim applies: the work belongs to the people who read it as much as to the one who made it.",
+   "root_word": "publicare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin publicatio (a making public), from publicare (to make public property), from publicus (belonging to the people); publication is the specific act of crossing from one's own into everyone's.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "06a43127-8452-459b-9a2e-ab729592e8dc",
@@ -678,11 +678,11 @@
    "definition": "A single beat in a repeating rhythm. A pulse says something is alive and running.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A single beat in a repeating rhythm, proof that something is alive and still running. The root's push is the honest description: a pulse is not a state, it is a strike repeated.",
+   "root_word": "pulsus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin pulsus (a beating, a push), from pellere (to push, to drive, to beat); a pulse is named for the striking itself, not for what is struck.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "758b0758-4d1b-4a24-af1b-9eeb46b51cb9",
@@ -691,11 +691,11 @@
    "definition": "To obtain by paying. Also a grip that lets force be applied — the same word for buying and for holding on.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To obtain by paying, or to gain a grip that lets force be applied. The pursuit buried in the root connects both senses: something not yet held is chased until it is.",
+   "root_word": "porchacier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French porchacier (to pursue eagerly, to seek to obtain): por- (Latin pro-, forth) + chacier (to chase, to hunt); a purchase was first a pursuit, and only later the settled exchange of money for the thing pursued.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "69ded0d2-a9a1-4672-8c6d-9f5f625bf284",
@@ -704,11 +704,11 @@
    "definition": "Unmixed with anything else. Purity is a claim about what is absent as much as what is present.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Unmixed with anything else. The root makes purity a claim about absence — what has been kept out — which is why a small contamination undoes it entirely.",
+   "root_word": "purus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin purus (clean, unmixed, unstained); purity is defined by what is absent from a thing as much as by what remains in it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "224661f5-4099-4916-97ae-1c9b83bd01af",
@@ -717,11 +717,11 @@
    "definition": "To remove entirely and without remainder. A purge that leaves traces was not one.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To remove entirely and without remainder. The root's driving-out sets the bar: a purge that leaves traces was, by its own name, never actually one.",
+   "root_word": "purgare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin purgare (to cleanse, to purify), from purus (pure, clean) + agere (to do, to drive); a purge is the deliberate driving-out of everything unwanted, with nothing meant to remain behind.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3aed129f-4dc6-4200-9c40-bd0134472fc4",
@@ -730,11 +730,11 @@
    "definition": "The colour between red and blue. Historically the costliest dye, which is why it came to mean sovereignty.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The colour between red and blue, and historically the costliest dye a person could wear. The root's cost is why the colour still reads as rank: it never stopped meaning what only a few could afford.",
+   "root_word": "purpura",
+   "root_language": "Latin",
+   "historical_meaning": "Latin purpura (purple dye, purple cloth), from Greek porphyra (the purple dye drawn from a shellfish); purple was named for a colour so costly to extract that owning it became a mark of sovereignty.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2ab26b38-9a13-43cb-8664-d825c5083c53",
@@ -743,11 +743,11 @@
    "definition": "What a thing is for. Purpose is assigned rather than discovered, which is why a thing can be repurposed.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What a thing is for, assigned rather than discovered. The root's act of placing is reversible by nature — what was set forward for one end can be set forward again for another, which is exactly what repurposing does.",
+   "root_word": "porpos",
+   "root_language": "Old French",
+   "historical_meaning": "Old French porpos (an intention, a plan), from Latin proponere (to set forth, to propose): pro- (forward) + ponere (to place); a purpose is what a thing was placed forward to do, and can therefore be placed forward again.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0df4eb7b-7436-4f51-a32b-7c9f70365aee",
@@ -756,11 +756,11 @@
    "definition": "To place somewhere. The plainest verb of position there is.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To place something somewhere, without further claim about how or why. It is the plainest verb of position there is, which is exactly why a system needs it at its foundation.",
+   "root_word": "putten",
+   "root_language": "Middle English",
+   "historical_meaning": "Middle English putten (to put, to place), of honestly obscure further origin — possibly an unrecorded Old English word, possibly related to Old Norse pota (to poke); put has meant simply to place something since its earliest record, and no older ancestry is securely known.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "01b78c5a-d09a-4b2e-a455-6821da84c17d",
@@ -769,11 +769,11 @@
    "definition": "Compromised — a credential known to have appeared in a breach. A named security state rather than a concept.",
    "category_name": "governance",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Compromised, in the specific sense of a credential surfacing in a breach rather than merely guessed at. The typo the word began as is kept on purpose here: an accident of discovery becoming a fact worth taking seriously.",
+   "root_word": "owned",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Hacker and gaming slang from the late 1990s, generally traced to a typo of owned (the p and o sitting next to each other on a keyboard), fixed into the culture as its own spelling meaning thoroughly defeated or compromised; the exact first instance is disputed, but the typo-to-slang path is well attested.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "62279e0d-d399-4ade-998a-8dd36e8adc4f",
@@ -782,11 +782,11 @@
    "definition": "Short form of pixel — the smallest addressable point of a shown image. A named unit rather than a concept.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Shorthand for pixel, naming the smallest addressable point in a shown image rather than a concept with a longer history. Its clipping is honest about what it is: a unit, not an idea.",
+   "root_word": "pixel",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Clipped from pixel, itself a 1960s blend of pix (a shortening of pictures) and element, coined to name the smallest addressable point of a digital image; px is a further clipping of that already-coined word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f67adc1a-154f-42c0-bba0-adb0dfed4239",
@@ -795,11 +795,11 @@
    "definition": "The language much of this house's tooling is written in. A named tool rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The language much of this house's tooling runs on, named for a comedy troupe rather than a snake. A tool with a chosen name, not a descended one — irreverence built in from the start.",
+   "root_word": "Monty Python's Flying Circus",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Named at the language's conception in 1989 by its creator after the British comedy troupe Monty Python's Flying Circus, deliberately not after the snake, which is why the language's own documentation is full of jokes rather than reptiles.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b001e574-26cf-46a3-9947-51cbdc7a1591",
@@ -808,11 +808,11 @@
    "definition": "Short form of query, and of question. A named abbreviation rather than a concept.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Whichever of query or question the context calls for, held to one letter. A named abbreviation doing double duty, honest about carrying no history of its own beyond the clipping.",
+   "root_word": "query / question",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A single-letter clipping standing in for either query or question depending on context, both of which trace to Latin quaerere (to ask, to seek); the letter itself carries no independent history beyond the clipping.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9a9723df-4be7-41e5-b997-7dc170433b56",
@@ -821,11 +821,11 @@
    "definition": "A compound fragment from this library's own naming, not an English word. Flagged for the mis-cut band rather than defined.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A compound fragment from this library's own naming, not a word with a lineage of its own. The mis-cut band is where it is flagged, rather than given a false ancestry it never earned.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "e8dfdfa7-9ed1-4d7f-941f-7498bd69debb",
@@ -834,11 +834,11 @@
    "definition": "The Quantum Pagan Framework — this house's design of many sovereign entities sharing one memory. A named framework rather than a concept.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "The Quantum Pagan Framework: many sovereign entities in this house sharing one memory, named rather than descended. The letters point only at that name, and at nothing further back.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "94c8d93b-5aa8-4849-8efe-e9f31ed22db3",
@@ -847,11 +847,11 @@
    "definition": "A named toolkit for building interfaces. A named tool rather than a concept.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named toolkit for building interfaces, chosen rather than descended. The choice is remembered plainly here rather than dressed up as an inheritance.",
+   "root_word": "Q + T",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Named, by its makers' own account, for the letter Q that looked well in a font on a developer's screen, paired with T from the Xt toolkit tradition it grew alongside; the name is a workshop choice rather than a descended word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4c0276ed-d63b-40bf-957d-b495438c758f",
@@ -860,11 +860,11 @@
    "definition": "How well a thing is made, judged against what it is for. Quality is not a property; it is a relation to a purpose.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How well a thing is made, judged against what it is for. The root's question — of what kind — is still underneath: quality is never absolute, it is always quality of something, for something.",
+   "root_word": "qualitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin qualitas (a particular character, a property), from qualis (of what kind, such as); quality was first a question — of what kind? — before it became a judgment of how good.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d6ef92eb-c0fc-48e9-a9e5-977eca70a660",
@@ -873,11 +873,11 @@
    "definition": "One who holds and distributes what a company needs to keep going. The quartermaster fights nothing and everything depends on them.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who holds and distributes what a company needs to keep going. The oldest duty named in the word — keeping the stores in order — is still the whole job: nothing glamorous, and everything depends on it being done.",
+   "root_word": "quarter + master",
+   "root_language": "English",
+   "historical_meaning": "English compound of quarter (Old French quartier, from Latin quartus, a fourth part) and master (Latin magister, one who is greater, a chief); the quartermaster's naval and military duty was originally the keeping of a ship's quarters and stores, from which the wider sense of supplying a company grew.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b4652eb1-c983-4ac4-ae58-0c0c16a7dd1f",
@@ -886,11 +886,11 @@
    "definition": "A question put to a system in a form it can answer. A query's shape decides what can come back.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A question put to a system in a form it can answer. The root's plain seeking has not changed — only the asking has been fitted to a listener that requires precision.",
+   "root_word": "quaerere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin quaerere (to seek, to ask), via the imperative quaere (ask!) used as a heading in old legal and scholarly texts; a query is a question shaped for a system that can only answer the shape it is given.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f5dbba81-5251-43ef-8649-6742129af8bb",
@@ -899,11 +899,11 @@
    "definition": "A seeking undertaken deliberately and at cost. What separates a quest from a search is that the seeker is changed by it.",
    "category_name": "play",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A seeking undertaken deliberately and at some cost. What separates a quest from a plain search is that the root's seeking changes the seeker along the way, which a search never promises to do.",
+   "root_word": "quaesta",
+   "root_language": "Latin",
+   "historical_meaning": "Old French queste (a search, a seeking), from Vulgar Latin quaesta, from Latin quaerere (to seek, to ask); a quest was named for the seeking itself, and only later for the trial that seeking becomes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6a081524-dcd5-4d9b-adc7-0fa386e442be",
@@ -912,11 +912,11 @@
    "definition": "An asking held open until answered. A question that stops being asked has become a ruling.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An asking held open until it is answered. The root's inquiry has no built-in ending — a question that stops being asked has quietly become something else, a ruling wearing the shape of a question.",
+   "root_word": "quaestio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin quaestio (a seeking, an inquiry, a judicial examination), from quaerere (to seek, to ask); a question is, by its own root, an inquiry held open rather than a statement made.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c83472c0-b33d-4c6f-b9f5-8fc31e1515ce",
@@ -925,11 +925,11 @@
    "definition": "Things waiting in the order they arrived. A queue's fairness is that position is earned by waiting.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Things waiting in the order they arrived. The root's tail is the honest image: a queue has no front without a back, and its fairness is nothing more than that the tail does not get to cut ahead of itself.",
+   "root_word": "cauda",
+   "root_language": "Latin",
+   "historical_meaning": "French queue (a tail), from Latin cauda (tail); a queue is, at its root, the tail end of a line of people or things, and fairness in a queue is simply position earned by joining that tail in order.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f087add4-5acc-45b1-a955-eab4c5b18bfe",
@@ -938,11 +938,11 @@
    "definition": "Taking little time. Also, in its older sense, alive — the quick and the dead.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Taking little time, and in its older sense, alive rather than dead. The two meanings share one root because what moves fast was, before anything else, a sign of life still in a thing.",
+   "root_word": "cwic",
+   "root_language": "Old English",
+   "historical_meaning": "Old English cwic (alive, living), from Proto-Germanic kwikwaz, from a Proto-Indo-European root meaning to live; the sense of taking little time is a later narrowing of a word that first meant simply alive, as in the quick and the dead.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "967f4f2d-4ee3-4024-a51c-8dd78427a61c",
@@ -951,11 +951,11 @@
    "definition": "The Incan talking knots — knotted cords carrying records and messages; cord color is identity, pendant cords gather voices into one telling.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Incan talking knots — cords carrying records and messages by colour and by where each knot sits. A telling made of touch rather than ink, and no less a form of writing for that.",
+   "root_word": "khipu",
+   "root_language": "Quechua",
+   "historical_meaning": "Quechua khipu (knot), borrowed into Spanish and English as quipu/quipus; the Incan recording system knotted cords of different colours into records and messages, with colour and position carrying meaning the way ink and layout do on a page.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e364665a-3f97-40a2-abd8-918310ae853d",
@@ -964,11 +964,11 @@
    "definition": "Another's words repeated exactly, marked as theirs. A quote that is tidied is a small lie about who spoke.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Another's words repeated exactly, marked as theirs. The root's numbering is the ancestor of the marking still done today: a quote points back to a specific place, and tidying it erases that pointer as much as it erases the words.",
+   "root_word": "quotare",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin quotare (to mark a book with chapter numbers, to number), from Latin quot (how many); to quote was first to mark a passage's place in a text, and only later to repeat that marked passage exactly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "654fc835-96bc-4c73-9f5b-21737c9dc7e0",
@@ -977,11 +977,11 @@
    "definition": "The frame that holds many in order — storage standing upright, everything visible.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The frame that holds many things in order, storage standing upright with everything visible. The stretching in the root is literal: a rack is a shape pulled taut so nothing on it is hidden behind anything else.",
+   "root_word": "rec",
+   "root_language": "Middle Dutch",
+   "historical_meaning": "Middle Dutch rec (a framework, a rack), related to the verb rekken (to stretch, to reach); a rack is named for the stretching-out of its frame, everything on it held in reach and in view.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f2cf91fe-44cb-4fc0-a50e-75811b14a334",
@@ -990,11 +990,11 @@
    "definition": "Reaching outward from a center — arranged like spokes; geometry that begins at a heart.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Reaching outward from a centre, arranged like spokes. The geometry is honest about what it needs: a radial shape cannot exist without a heart for every line to begin at.",
+   "root_word": "radialis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin radialis, from radius (a spoke of a wheel, a ray, a rod); to be radial is to reach outward from a centre the way a spoke reaches from a hub.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8ab6a77d-120f-48cb-940b-08aa68a2fc14",
@@ -1003,11 +1003,11 @@
    "definition": "Distances from a centre to an edge. Plural of radius — each defines a reach and therefore a boundary.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Distances from a centre to an edge, more than one at a time. Each radius defines a reach, and a reach, once drawn, is also a boundary.",
+   "root_word": "radius",
+   "root_language": "Latin",
+   "historical_meaning": "Latin radius (a spoke, a ray, a staff); radii is the Latin plural, each one a distance measured from a single centre out to an edge.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "af7f941d-cf3d-4ba9-ac7a-83b8fa211a08",
@@ -1016,11 +1016,11 @@
    "definition": "A control offering one choice from a fixed set, where choosing one unchooses the rest. Named for the buttons on a receiver.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A control offering one choice from a fixed set, where choosing one unchooses the rest. The name remembers the receiver's own buttons — mutually exclusive because only one station can be tuned to at a time.",
+   "root_word": "radius",
+   "root_language": "Latin",
+   "historical_meaning": "Clipped from radio- (a combining form meaning ray), from Latin radius (ray, spoke); the interface control borrows its name from the physical dial of an old receiver, where pressing one button released all the others.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4ddd6e5a-cf41-4ac6-9efa-addfbbb19e31",
@@ -1029,11 +1029,11 @@
    "definition": "The distance from a centre to an edge. It defines a reach, and by defining it, a boundary.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The distance from a centre to an edge. To define a reach is already to define a boundary — the two are the same measurement seen from either end.",
+   "root_word": "radius",
+   "root_language": "Latin",
+   "historical_meaning": "Latin radius (a spoke of a wheel, a rod, a ray of light); a radius measures outward from a fixed point, and in doing so it draws the edge of everything that point can reach.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "88e47084-621b-48dd-874b-64331abd27b7",
@@ -1042,11 +1042,11 @@
    "definition": "The full spread of visible colour, made by light through water. Also a sign of belonging for those the world tried to exclude.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The full spread of visible colour, made by light passing through rain. Its second meaning here — a sign of belonging for those the world tried to exclude — asks nothing of the root but the colours themselves, held together and refusing to be just one.",
+   "root_word": "regnboga",
+   "root_language": "Old English",
+   "historical_meaning": "Old English regnboga, a compound of regn (rain) + boga (bow, arc); the rainbow was named plainly for what it looked like and what made it, long before it carried any meaning beyond weather.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bf0a1871-dc4c-4b18-85bc-0b6b83743410",
@@ -1055,11 +1055,11 @@
    "definition": "Reasoned; of a register, one where every entry carries its scholarship.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Reasoned; of a register, one where every entry carries its own scholarship rather than a bare fact. The root's reasoning is the standard: a raisonné list explains itself as it goes.",
+   "root_word": "raisonner",
+   "root_language": "French",
+   "historical_meaning": "French raisonné, past participle of raisonner (to reason), from Latin ratio (reckoning, reason); a catalogue raisonné is one that reasons its own entries rather than merely listing them.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1ec4416a-2d85-4b28-88cb-4889ff1a0a08",
@@ -1068,11 +1068,11 @@
    "definition": "Raksha (Sanskrit रक्षा: protection, guarding, the keeping-safe of something entrusted). One question — how many known breaches does this password appear in — and three answers: a number, 0 for clean, and NULL for \"could not check\", which is never \"breached\". NEVER IMPLEMENT THE PRIMITIVE, DECLARE A HOST SURFACE: it computes no hash and opens no socket. Two verbs name the machine that does, a SHA-1 over bytes and a fetch of one five-character range, and the tool supplies neither; reference hosts on two different mechanisms ship as separate files so the same answer can be shown coming off two machines. FAIL-OPEN ALWAYS: a host that returns null, throws, times out, answers a short digest or answers rubbish yields null, because a checker that locked someone out of their own vessel while a third party was down would be doing the opposite of protection — and there is no parameter anywhere that turns that off. K-ANONYMITY: exactly five uppercase hex characters of the digest leave the machine, twenty bits of one hundred and sixty, one bucket in 1,048,576, and the remaining thirty-five are compared LOCALLY against the list the host brings back; the full hash and the plaintext reach the host never, and the proofs record every string the host was handed to check it rather than describe it. IT COMPARES AND IT DOES NOT ADVISE: no verb blocks a sign-up, scores a password or measures strength. A lookup is not a judgement — a password absent from every breach list can still be terrible. Nothing is stored, remembered or logged, and a log line about a password check is a log line about a password. No clock, no disk, zero imports.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One question answered honestly — how many known breaches a password appears in — with a number, a clean zero, or an admission that checking failed. The root's guarding is exact: raksha protects by fail-open comparison, never by advising or by locking anyone out.",
+   "root_word": "rakṣā",
+   "root_language": "Sanskrit",
+   "historical_meaning": "Sanskrit रक्षा (rakṣā, protection, guarding), from the root rakṣ- (to guard, to protect); the word names the keeping-safe of something entrusted, without claiming to judge what is kept.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "422abfa7-6021-46ee-908b-1bf47cb492a9",
@@ -1081,11 +1081,11 @@
    "definition": "Short form of random — without predictable pattern. A named abbreviation rather than a concept.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Short form of random — without predictable pattern. A named abbreviation rather than a concept, standing in for a word whose own history was once simply about running fast and out of control.",
+   "root_word": "randon",
+   "root_language": "Old French",
+   "historical_meaning": "Clipped from random, itself from Old French randon (rush, disorderly haste, force), from randir (to run fast), of Germanic origin; rand keeps the shortened letters and leaves the sense of haphazard motion behind in the word it stands for.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dfd3ba42-07ba-4b6a-9bbb-0321a34a056e",
@@ -1094,11 +1094,11 @@
    "definition": "Without pattern that can be predicted. Randomness is a statement about knowledge as much as about the thing.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Without pattern that can be predicted. The root's runaway speed is a fair image: randomness is a statement about what cannot be steered, as much as about what cannot be known in advance.",
+   "root_word": "randon",
+   "root_language": "Old French",
+   "historical_meaning": "Old French randon (rush, great speed, disorderly haste), from randir (to run fast), of Germanic origin; random meant at great speed before it meant without a predictable pattern, the two senses joined by the idea of motion no one is steering.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "83acd7eb-c1e8-42db-b219-27e9901d4fdd",
@@ -1107,11 +1107,11 @@
    "definition": "The span between a least and a greatest. A range states what is possible without saying which is actual.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The span between a least and a greatest, without saying which point along it is actual. The root's row is still present in the shape: a range is a line laid out, and the two ends are its only fixed claims.",
+   "root_word": "rangier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French rangier (to arrange in a row), related to renc/rang (a row, a rank), of Frankish origin from a Germanic root meaning ring; a range was first a row set in order, and only later the span between its two ends.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7513f521-b490-4635-be40-e260beec27b4",
@@ -1120,11 +1120,11 @@
    "definition": "A position in an order of standing. Rank says where, never why.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A position in an order of standing. The root only ever describes the row, never the reason for where anything sits in it — rank says where, and leaves why to something else entirely.",
+   "root_word": "renc",
+   "root_language": "Old French",
+   "historical_meaning": "Old French renc/rang (a row, a line), from Frankish, ultimately from a Germanic root meaning ring or circle; rank shares its origin with range, both descending from the same image of things set in a row.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e000f9fd-63af-4742-815e-3e67a7c49e84",
@@ -1133,11 +1133,11 @@
    "definition": "How seldom a thing occurs. Rarity is a fact about frequency that markets mistake for a fact about worth.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How seldom a thing occurs. The root is about spacing, not value, which is exactly what rarity forgets to be whenever it is mistaken for worth.",
+   "root_word": "raritas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin raritas (thinness, fewness), from rarus (rare, scattered, thin); rarity was first a fact about how thinly spread something was, before it became, unfairly, a claim about how much it was worth.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0d43cdc6-7115-4cab-bfa2-f827d051cf12",
@@ -1146,11 +1146,11 @@
    "definition": "How much of one thing per unit of another. A rate is only meaningful with both terms named.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much of one thing there is per unit of another. The root's reckoning needs two terms to mean anything at all, which is why a rate stated alone is really only half a sentence.",
+   "root_word": "rata",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin rata (a fixed portion), from Latin ratus (reckoned, fixed), past participle of reri (to reckon, to think); a rate is a reckoning fixed between two quantities, and it means nothing until both are named.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "55ce3144-7f32-4dce-912d-3404e71d868c",
@@ -1159,11 +1159,11 @@
    "definition": "One quantity stated in terms of another. A ratio survives scaling — it describes relation, not size.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One quantity stated in terms of another. The root's reckoning is scale-proof by nature: a ratio describes the relation, not the size, which is why it survives being scaled up or down entirely.",
+   "root_word": "ratio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin ratio (reckoning, calculation, reason, relation), from reri (to reckon, to think); a ratio names a relation between quantities that survives no matter how large or small either one becomes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d2e3a95b-4bf3-434f-8eaf-c4f974ad41f6",
@@ -1172,11 +1172,11 @@
    "definition": "Unprocessed, as it arrived. Raw material is the honest ground everything refined must be traceable back to.",
    "category_name": "data",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Unprocessed, exactly as it arrived. The root's uncooked meat is a useful image: raw material is the honest ground everything refined must still be traceable back to.",
+   "root_word": "hreaw",
+   "root_language": "Old English",
+   "historical_meaning": "Old English hreaw (uncooked, unprepared), from Proto-Germanic hrawaz, from a Proto-Indo-European root meaning raw flesh; raw meant unprepared food long before it meant unprocessed data, and the sense has travelled with barely a bend.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e5bc8f51-6892-4ee6-b92a-013c98c4d642",
@@ -1185,11 +1185,11 @@
    "definition": "The prefix of again — return, repetition, renewal; meaning's way of coming back.",
    "category_name": null,
    "atom_type": "prefix",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The prefix of again — return, repetition, renewal riding on whatever root it is attached to. It is meaning's own way of saying a thing has been here before.",
+   "root_word": "re-",
+   "root_language": "Latin",
+   "historical_meaning": "Latin re- (again, back), a prefix of disputed further origin, possibly related to a form appearing as red- before vowels; whatever lies beneath it, the prefix's own sense — return, repetition, renewal — has stayed remarkably stable across two thousand years of borrowing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e8530777-2f66-499a-9fb9-7cfcbbb62011",
@@ -1198,11 +1198,11 @@
    "definition": "How far a thing extends, and the act of extending toward. Both are about what can be touched from where you stand.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How far a thing extends, and the act of extending toward something. Both senses share one root because what can be touched from where one stands was always, first, an act rather than a fact.",
+   "root_word": "ræcan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English ræcan (to reach out, to extend, to attain), from Proto-Germanic raikijan; reach names both the extending itself and the distance that extending covers, with no distinction made between the act and its measure.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7b419d93-07a6-4885-84a1-6112abc27b29",
@@ -1211,11 +1211,11 @@
    "definition": "To take in and interpret what is held in a source. Reading is reconstruction; two readers do not receive the same thing.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To take in and interpret what a source holds. The root's counsel is still there under the surface: reading was never neutral decoding, and no two readers, advising themselves as they go, take in quite the same thing.",
+   "root_word": "rædan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English rædan (to advise, to counsel, to interpret, to read), from Proto-Germanic redan (to advise); the same root gives ready and, by way of a compound, the name Aethelred — to read was first to make sense of something for someone, closer to advising than to merely decoding marks.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ab5d3fa7-f7e6-4f8d-8586-16170bdd50c0",
@@ -1224,11 +1224,11 @@
    "definition": "How easily a thing can be taken in by whoever meets it. Readability is a property of the writing, never of the reader.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How easily a thing can be taken in by whoever meets it. The root places the property correctly: readability belongs to the writing, never to the reader who is struggling with it.",
+   "root_word": "rædan",
+   "root_language": "Old English",
+   "historical_meaning": "Built on read, from Old English rædan (to interpret, to read) + the Latin-derived suffix -ability; readability names a property of the text rather than of whoever meets it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e9275913-8379-4246-9cd8-22604b244da8",
@@ -1237,11 +1237,11 @@
    "definition": "Able to be taken in without strain. Readability is a property of the writing, never of the reader.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Able to be taken in without strain. The root keeps the burden on the writing rather than the reader — readability is a property of the text, never a demand made of the person reading it.",
+   "root_word": "rædan",
+   "root_language": "Old English",
+   "historical_meaning": "Built on read, from Old English rædan (to interpret) + the suffix -able; a readable thing is one that has been made to yield its sense without a fight.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "753dea59-e7bf-4526-826c-184cd9d3752e",
@@ -1250,11 +1250,11 @@
    "definition": "Read-directory's command name — the call that asks a folder what it holds.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Read-directory's command name — the call that asks a folder what it holds. Named for its action rather than for any deeper history, in the plain style of the systems it comes from.",
+   "root_word": "read + directory",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A Unix C library function name, a fused compound of read and directory; readdir names the call plainly for what it does, list what a folder holds, with no older ancestry beyond the two English words it is built from.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "20c58c96-38a7-4aaf-ab50-10b6b9b1a9d8",
@@ -1263,11 +1263,11 @@
    "definition": "One who takes in and interprets what was written. The reader completes the writing, and no two complete it the same way.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who takes in and interprets what was written. The root's own adviser sense is fitting: the reader completes the writing, and no two readers complete it in quite the same way.",
+   "root_word": "rædere",
+   "root_language": "Old English",
+   "historical_meaning": "Old English rædere (one who interprets, an adviser), from rædan (to read, to advise) + -ere (agent suffix); a reader was named, from the start, as one who makes sense of something rather than one who merely receives it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "aecf2db5-0727-42be-b7ff-acde00bae30b",
@@ -1276,11 +1276,11 @@
    "definition": "The state of being prepared to act. Readiness is maintained, not achieved, and holding it costs something.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The state of being prepared to act. The root's equipping was never a one-time event either — readiness is maintained, not achieved, and holding it always costs something.",
+   "root_word": "geræde",
+   "root_language": "Old English",
+   "historical_meaning": "Built on ready, from Old English geræde (prepared, equipped), related to Proto-Germanic garaidijaz; readiness names a state kept up rather than a task finished once.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c474cc15-b6b0-4bf3-975b-40ca6be6fa3f",
@@ -1289,11 +1289,11 @@
    "definition": "To take in one line at a time rather than a whole. Reading in pieces so the whole need never be held at once.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To take in one line at a time rather than a whole. Reading in pieces so nothing has to be held all at once, exactly as its plain compound name says.",
+   "root_word": "read + line",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A GNU software name from 1989, a fused compound of read and line; readline names the practice of taking input one line at a time so the whole never has to be held in memory at once.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "80ca51d8-b3f3-4cfd-949a-235f1321579a",
@@ -1302,11 +1302,11 @@
    "definition": "The door plate of a body of work — what to know before entering. A readme is a promise about what is inside.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The door plate of a body of work — what to know before entering. A readme is a promise about what is inside, and its own name is the first thing it asks of anyone arriving.",
+   "root_word": "read me",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A computing convention from the 1970s and 80s, an imperative compound of read and me; a readme names itself as an instruction before it names itself as a document.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2bee60e6-8287-4641-8c43-b96cef400b87",
@@ -1315,11 +1315,11 @@
    "definition": "Prepared and waiting to act. Readiness is a state that costs something to hold.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Prepared and waiting to act. The root's equipping for a specific task is the honest version: readiness is not a resting state, it is a held state, and holding it costs something.",
+   "root_word": "geræde",
+   "root_language": "Old English",
+   "historical_meaning": "Old English geræde (prepared, equipped for riding), from Proto-Germanic garaidijaz; to be ready was first to be equipped for a specific undertaking, and the sense of general preparedness followed from that narrower one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d046debd-530d-47da-8bbf-d60b658a22a4",
@@ -1328,11 +1328,11 @@
    "definition": "What is the case whether or not anyone perceives it. Also, in this record's own usage, perception — since a mind meets only its own account of it.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is the case whether or not anyone perceives it — and, in this record's own usage, the perception itself, since a mind meets only its own account of the thing. The root's plain thing-ness holds both senses without needing to choose between them.",
+   "root_word": "realitas",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin realitas, from Latin realis (actual, real), from res (a thing); reality names what a thing is regardless of who perceives it, though the word itself only exists because someone needed to say so.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e015d899-074c-4e73-b245-eccd57634167",
@@ -1341,11 +1341,11 @@
    "definition": "A sovereign domain within the Sanctuary — one repo, one house, one set of laws under the family's shared sky. The realms are how the whole stays many.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A sovereign domain within the house — one repo, one set of laws, under the family's shared sky. The root's kingship is fitting even without a king: a realm is still defined by whose law holds inside its own edge.",
+   "root_word": "reaume",
+   "root_language": "Old French",
+   "historical_meaning": "Old French reaume, variant of reialme, from Vulgar Latin regalimen, from Latin regalis (royal), from rex (king); a realm was first the reach of one ruler's authority, and the sense of a bounded, self-governing territory follows directly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3ae43916-17c9-44a7-9f00-847656b704c2",
@@ -1354,11 +1354,11 @@
    "definition": "The sovereign domains, spoken plural — the Sanctuary's many houses under one sky, each with its own laws.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The sovereign domains, spoken plural — the house's many separately governed houses under one sky. The plural is the point: each realm keeps its own root of authority rather than sharing a single one.",
+   "root_word": "reaume",
+   "root_language": "Old French",
+   "historical_meaning": "The plural of realm, from Old French reaume, from Vulgar Latin regalimen, from Latin regalis (royal); spoken plural, the word names many separately governed territories rather than one large one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7c24af42-7ad7-4cd9-a9d8-f8e36f5a93ae",
@@ -1367,11 +1367,11 @@
    "definition": "Why a thing is so, and the faculty that works such things out. Both the ground and the tool for finding it.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Why a thing is so, and the faculty that works such things out. The root is a reckoning in both senses — reason is not a mystery invoked, it is a calculation carried through.",
+   "root_word": "ratio",
+   "root_language": "Latin",
+   "historical_meaning": "Old French raison, from Latin ratio (reckoning, calculation, reason), from reri (to reckon, to think); reason names both the ground for a thing and the faculty that works such grounds out, sharing one root with ratio and rate.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "76fc2020-c52c-4b09-89bc-1b19e36a427f",
@@ -1380,11 +1380,11 @@
    "definition": "To bring back to mind. Its root is calling back — recall is a summoning rather than a retrieval.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring something back to mind. The root's calling is the right image: recall is a summoning, not a lookup, and what answers a summons is never guaranteed to arrive whole.",
+   "root_word": "ceallian",
+   "root_language": "Old English + Old Norse",
+   "historical_meaning": "Re- (Latin, again) attached to call, from Old Norse kalla, related to Old English ceallian; recall names a summoning back rather than a simple retrieval, the same calling-out used to bring anything within earshot.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "74c92ae8-801d-4b1a-bd85-16a8a7f2adc3",
@@ -1393,11 +1393,11 @@
    "definition": "A record that a thing was received. A receipt exists to protect the one who gave.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A record that a thing was received. The root's taking-back is the point of keeping one: a receipt exists to protect whoever gave, by proving the giving landed.",
+   "root_word": "recepta",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Anglo-Norman receite, from Medieval Latin recepta (a thing received), from Latin recipere (to receive): re- (back) + capere (to take); a receipt exists to prove that a taking-back actually happened.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c08aa3f8-ff7e-46db-bfd2-644e3b979eb1",
@@ -1406,11 +1406,11 @@
    "definition": "Having happened not long ago. Recency is a fact about time and is constantly mistaken for relevance.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Having happened not long ago. The root only ever claimed freshness, never importance — recency is constantly mistaken for relevance, and the word itself never made that promise.",
+   "root_word": "recens",
+   "root_language": "Latin",
+   "historical_meaning": "Latin recens (fresh, new, recently made), of further origin honestly uncertain beyond the Latin form itself; recency has meant freshness in time for as long as the word is attested, without ever promising relevance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b6405f81-f2f6-466e-b6e2-dfd3e7e99044",
@@ -1419,11 +1419,11 @@
    "definition": "The returning of attention to what actually matters after drift. Recentering is not starting over; it is finding the middle again.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The returning of attention to what actually matters after drift. The root's fixed point is the useful part: recentering is not starting over, it is finding the same middle again.",
+   "root_word": "kentron",
+   "root_language": "Greek",
+   "historical_meaning": "Re- (Latin, again) attached to center, from Latin centrum, from Greek kentron (a sharp point, the fixed point of a compass); recentering is a returning to the fixed point a thing was measured from all along.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8b1fea2d-6aad-42aa-831b-2934bfa2dbe9",
@@ -1432,11 +1432,11 @@
    "definition": "How a thing was actually received. Reception is measured on the far side and is the only half that decides whether it arrived.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How a thing was actually received, measured on the far side of the sending. The root places the whole judgment there: reception is the only half of an exchange that decides whether it arrived at all.",
+   "root_word": "receptio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin receptio (a receiving), from recipere (to receive): re- (back) + capere (to take); reception names what happens on the far side of a sending, the half that decides whether anything actually arrived.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "26d6529f-bd94-47c5-9289-74f1b534c04c",
@@ -1445,11 +1445,11 @@
    "definition": "The one a thing is sent to. Named by the receiving, which is the half that decides whether it arrived.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The one a thing is sent to. Named by the receiving rather than the sending, because the root already knows that half is the one that decides whether anything arrived.",
+   "root_word": "recipiens",
+   "root_language": "Latin",
+   "historical_meaning": "Latin recipiens, present participle of recipere (to receive): re- (back) + capere (to take); a recipient is named for the receiving, the same half of the exchange that decides whether anything sent actually landed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8f6ee235-aabb-4d97-9e1a-e4e06a7629cb",
@@ -1458,11 +1458,11 @@
    "definition": "The moving of a thing to a different named class. Reclassification admits an earlier claim was wrong.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The moving of a thing to a different named class. To reclassify is to admit, plainly, that an earlier call was wrong — the root's own summoning is simply repeated with a truer answer.",
+   "root_word": "classis",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to classification, from classis (a class, a division), from calare (to call, to summon); reclassification calls a thing into a different group than it was first called into.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "236945b0-dc88-4185-8791-7b5026b7b9f8",
@@ -1471,11 +1471,11 @@
    "definition": "Knowing a thing again for what it is. Recognition is not the same as understanding, and it is not the same as becoming.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Knowing a thing again for what it is. The root's again is the whole distinction: recognition is not understanding and it is not becoming, it is a second meeting with something already met once.",
+   "root_word": "recognoscere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin recognitio, from recognoscere (to know again, to examine): re- (again) + cognoscere (to know), from co- (together) + gnoscere (to know); recognition is knowing a thing again, not knowing it for the first time.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b150fcfd-d862-450b-82d9-589e68cb944f",
@@ -1484,11 +1484,11 @@
    "definition": "To put a thing forward as worth choosing, while leaving the choice. A recommendation carries the recommender's judgment with it.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To put a thing forward as worth choosing, while leaving the choice itself alone. The root's entrusting is exact: a recommendation carries the recommender's judgment, and hands the deciding to someone else.",
+   "root_word": "recommendare",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin recommendare: re- (again, intensive) + commendare (to entrust, to commit to care), from com- (together) + mandare (to commit, to order); a recommendation entrusts a choice to someone else's judgment without taking the choosing away from them.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9fd79b16-544a-4a3b-b952-e0028103998a",
@@ -1497,11 +1497,11 @@
    "definition": "Things put forward as worth choosing, with the choice left open. Every recommendation carries its maker's judgment.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Things put forward as worth choosing, with the choice left open. Every one of them still carries its maker's judgment, exactly as the root's entrusting always did.",
+   "root_word": "recommendare",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin recommendare: re- (intensive) + commendare (to entrust): com- (together) + mandare (to commit); recommendations are things entrusted forward for another's judgment, spoken plural.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e4ee18e6-a9d6-4da0-a090-252ac72c0c2f",
@@ -1510,11 +1510,11 @@
    "definition": "To bring two accounts back into one truth — differences met, explained, and settled without erasure.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring two accounts back into one truth, differences met and explained rather than erased. The root's assembly is the model: reconciliation is a calling-together, not a smoothing-over.",
+   "root_word": "reconciliare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin reconciliare: re- (again) + conciliare (to bring together, to unite), from concilium (a council, an assembly), from calare (to call together); to reconcile is to call two accounts back into one assembly, the same calling that gives class its name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2b09c59e-0ec6-467c-84fa-f5fff6631bcb",
@@ -1523,11 +1523,11 @@
    "definition": "To join again what was joined and then parted. Reconnection is not a first meeting and carries the interval with it.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To join again what was joined and then parted. The root's rejoining is never a first meeting — it carries the interval that came before it, whether or not that interval is spoken of.",
+   "root_word": "connectere",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to connect, from Latin connectere (to bind together): con- (together) + nectere (to tie, to bind); reconnection is a rejoining that carries the memory of a prior joining.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "66bbc335-0d56-4c2a-89a7-bc6e797fd5e1",
@@ -1536,11 +1536,11 @@
    "definition": "To build again from what remains. Reconstruction is inference disciplined by evidence, and it is never the original.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To build again from what remains. The root's piling-up is disciplined by what is actually there — reconstruction is inference held to evidence, and it is never the original it stands in for.",
+   "root_word": "construere",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to construct, from Latin construere (to pile up, to build): com- (together) + struere (to pile, to build); to reconstruct is to build again from what still stands.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d4012780-4a26-4e48-bfc7-250992248584",
@@ -1549,11 +1549,11 @@
    "definition": "That which builds again from what remains. Reconstruction is inference disciplined by evidence, and never the original.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which builds again from what remains. Its rebuilding stays disciplined by evidence, and what it produces is never mistaken for the original it is standing in for.",
+   "root_word": "construere",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on reconstruct, from Latin construere (to pile up, to build): com- (together) + struere (to build); a reconstructor is named for the rebuilding, not for what it rebuilds.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f5ba68da-575e-4fb2-a926-8ae72c2f17d6",
@@ -1562,11 +1562,11 @@
    "definition": "A thing set down so it survives the moment. Its root is to call back to heart — memory made durable.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A thing set down so it survives the moment it was made in. The root's heart is not a metaphor added later — recording was always a calling-back to where memory was first thought to live.",
+   "root_word": "recordari",
+   "root_language": "Latin",
+   "historical_meaning": "Old French recorder, from Latin recordari (to remember, to call to mind): re- (back) + cor/cordis (heart); a record is, at its own root, a calling-back to the heart, memory made to outlast the moment it happened in.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e34b41a1-93cb-4d32-bbb3-dfac4aefc600",
@@ -1575,11 +1575,11 @@
    "definition": "Sound or motion captured so it can be met again. A recording returns the record, never the moment.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Sound or motion captured so it can be met again. The root's calling-back is honest about its limits: a recording returns the record, and the moment it was taken from stays where it was.",
+   "root_word": "recordari",
+   "root_language": "Latin",
+   "historical_meaning": "Built on record, from Latin recordari (to call back to heart); a recording returns the record of a sound or a motion, never the moment itself, which the root never promised it could hold.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0725da74-6d33-4075-a997-2e459e4b087c",
@@ -1588,11 +1588,11 @@
    "definition": "The return toward a former state after damage. Recovery is rarely restoration — what returns is changed.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The return toward a former state after damage. The root's getting-back is rarely a full restoration — what comes back has usually been changed by the getting.",
+   "root_word": "recuperare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French recovrer, from Latin recuperare (to get back, to regain), related to capere (to take); recovery is a getting-back, and the root makes no promise that what returns is unchanged by having been lost.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "69b2af64-dff6-4efd-8891-c9e0b51e9be5",
@@ -1601,11 +1601,11 @@
    "definition": "Happening again at intervals. Recurrence is what turns an instance into a pattern.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Happening again at intervals. The root's repeated running is what turns a single instance into something that can be relied on to happen again.",
+   "root_word": "recurrere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin recurrere (to run back, to return): re- (back) + currere (to run); recurrence is what happens when the same run is made again and again until it becomes a pattern rather than a single event.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "faed95c3-fc51-4caa-8b47-e7c5e6748bfc",
@@ -1614,11 +1614,11 @@
    "definition": "Defined in terms of itself. Recursion is how a small rule reaches an unbounded depth.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Defined in terms of itself. The root's running-back is precise: recursion is how a small rule reaches an unbounded depth, one return to itself at a time.",
+   "root_word": "recurrere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin recurrere (to run back): re- (back) + currere (to run); a recursive thing runs back into its own definition, reaching an unbounded depth from one small rule applied to itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "43c5a8ed-3656-4e9f-a19e-3136221b7b8a",
@@ -1627,11 +1627,11 @@
    "definition": "By applying the same step to each part in turn, all the way down. Recursion reaches unbounded depth with one small rule.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "By applying the same step to each part in turn, all the way down. One small rule, run back into itself repeatedly, is enough to reach any depth.",
+   "root_word": "recurrere",
+   "root_language": "Latin",
+   "historical_meaning": "Built on recursive, from Latin recurrere (to run back): re- + currere (to run); to act recursively is to apply the same running-back to each part of a whole, all the way down.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "53e127c7-bcd5-43e5-b7f1-baa974ed43db",
@@ -1640,11 +1640,11 @@
    "definition": "The color of blood, embers, and stop — warmth at its most urgent; first of the named hues.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The colour of blood, embers, and stop — warmth at its most urgent. The root's age matters: red was likely the first colour any language bothered to name at all.",
+   "root_word": "read",
+   "root_language": "Old English",
+   "historical_meaning": "Old English read (red), from Proto-Germanic rauthaz, from a Proto-Indo-European root meaning red or ruddy; red is among the oldest named colours in the language, tied from the start to blood and to fire.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7c824994-a0d3-4f19-80a0-65aa45b9a396",
@@ -1653,11 +1653,11 @@
    "definition": "To derive again from ground — recomputing from source rather than trusting the cached; the dynamics' own law.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To derive again from the ground rather than trust what was cached. The root's stream is the right image: a rederivation goes back to the source rather than relying on what was already drawn off.",
+   "root_word": "derivare",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to derive, from Latin derivare (to lead off, to draw from a stream): de- (from) + rivus (a stream); to rederive is to draw the water again from the source rather than trust what was already carried away in a bucket.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5b80fcb3-9d3e-4cca-9ef4-3e3afd538e89",
@@ -1666,11 +1666,11 @@
    "definition": "To send onward to somewhere other than where the request pointed. A redirect keeps an old address working.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To send onward to somewhere other than where the request pointed. The root's guiding is unbroken by the change of destination — a redirect keeps an old address working by quietly ruling where it actually leads.",
+   "root_word": "dirigere",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to direct, from Latin dirigere (to arrange in lines, to guide): dis- (apart) + regere (to guide, to rule); a redirect sends the same asking along a new line rather than the one it started on.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cf5bd5a3-c140-4f64-956f-c00ce3d786c2",
@@ -1679,11 +1679,11 @@
    "definition": "To perform again what was undone. Redo restores a step that was taken back.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To perform again what was undone. The plainness of the root is the whole point: redo restores exactly one step, no more, no less.",
+   "root_word": "don",
+   "root_language": "Old English",
+   "historical_meaning": "Re- (Latin, again) attached to do, from Old English don (to do, to perform); redo names the plainest possible act — performing again a step that had been taken back.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3f94a649-664a-4316-be68-51f9d0809bd0",
@@ -1692,11 +1692,11 @@
    "definition": "To make less, or to bring many down to one. Reduction always discards, and what it discards should be named.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To make less, or to bring many down to one. The root's leading-back is a fair warning: reduction always discards something along the way, and what it discards should be said plainly.",
+   "root_word": "reducere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin reducere (to lead back, to bring back): re- (back) + ducere (to lead); to reduce was first to lead something back to a prior state, and the sense of bringing many down to one, or making less, followed from that leading-back.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3a97d3e7-0c07-4c2a-a859-86c343ef0e13",
@@ -1705,11 +1705,11 @@
    "definition": "Short form of reference. A held pointer to something rather than the thing.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A held pointer standing in for reference, carrying none of the thing itself. Naming the pointer by only three letters changes nothing about what it points at.",
+   "root_word": "referre",
+   "root_language": "Latin",
+   "historical_meaning": "Clipped from reference, from Latin referre (to carry back): re- (back) + ferre (to carry); a ref, like the word it shortens, is a pointer that carries you back to something rather than the thing itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ab0c34a3-9590-4985-a3cb-1844b4ac6679",
@@ -1718,11 +1718,11 @@
    "definition": "A pointer from one thing to another. A reference holds no content of its own — it holds a way to reach content.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A pointer from one thing to another. The root's carrying-back is exact: a reference holds no content of its own, only a way to reach content that lives elsewhere.",
+   "root_word": "referre",
+   "root_language": "Latin",
+   "historical_meaning": "Old French reference, from Medieval Latin referentia, from Latin referre (to carry back, to relate): re- (back) + ferre (to carry); a reference holds no content of its own — it holds only the carrying-back to where the content lives.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e4f11b80-c1ee-4d47-90c9-7dbd2101ced5",
@@ -1731,11 +1731,11 @@
    "definition": "To remove what is not wanted until only the wanted remains. Refining subtracts rather than adds.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To remove what is not wanted until only the wanted remains. The root's ending is the point: refining is a subtraction that stops at a finished state, not an addition that keeps going.",
+   "root_word": "fin",
+   "root_language": "Old French",
+   "historical_meaning": "Re- (Latin, again) attached to fine, from Old French fin (an end, a limit), from Latin finis (end, boundary); to refine was first to bring metal to its final, purified state, subtracting until only the finished remained.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "561b57bb-6237-4fd8-bfbd-ccb0fbb674e0",
@@ -1744,11 +1744,11 @@
    "definition": "The removing of what is not wanted until only the wanted remains. Refinement subtracts.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The removing of what is not wanted until only the wanted remains. Refinement subtracts, the way the root's own finishing always did.",
+   "root_word": "fin",
+   "root_language": "Old French",
+   "historical_meaning": "Built on refine, from Old French fin (an end), from Latin finis (a boundary, an end); refinement is the process of that ending-brought-about, subtraction carried through to a finished state.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d981ff23-7e30-49f7-b85f-222b22c5462e",
@@ -1757,11 +1757,11 @@
    "definition": "To turn back what arrives — light returned, thought revisited; the mirror's verb, and the mind's.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To turn back what arrives — light returned, thought revisited. The root's bending is the same act in both cases: nothing new is made, something already moving is simply sent back the way it came.",
+   "root_word": "reflectere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin reflectere (to bend back): re- (back) + flectere (to bend); to reflect is, at the root, to bend something back toward where it came from, whether that something is light or a line of thought.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3c18fe4b-2930-4767-8fbe-d18d8441140f",
@@ -1770,11 +1770,11 @@
    "definition": "An image returned by a surface, and a mind turning back on its own thinking. Both show you something you could not see directly.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An image returned by a surface, and a mind turning back on its own thinking. Both show something the root already predicted: neither light nor thought can see itself directly, only bent back on itself.",
+   "root_word": "reflectio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin reflexio/reflectio (a bending back), from reflectere: re- (back) + flectere (to bend); reflection is what a surface or a mind does when it bends something back on itself rather than letting it pass straight through.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dece9255-7cb7-4fcf-b480-81bfce8ae608",
@@ -1783,11 +1783,11 @@
    "definition": "To fetch again so what is shown matches what is. Refreshing trades effort for currency.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To fetch again so what is shown matches what is. The root's making-fresh trades effort for currency, exactly the exchange a refresh still makes every time it runs.",
+   "root_word": "freis",
+   "root_language": "Old French",
+   "historical_meaning": "Old French refreschir: re- (again) + freis (fresh), of Germanic origin (Frankish frisk); to refresh is to make a thing fresh again, fetched anew rather than kept as it was.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2b5c9e9c-3e6a-425b-86d0-5c42aec340e5",
@@ -1796,11 +1796,11 @@
    "definition": "A place fled to for safety. A refuge is defined by what it is away from.",
    "category_name": "vessel",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A place fled to for safety. The root defines it only by the fleeing — a refuge is understood by what it is away from, not by any virtue it claims for itself.",
+   "root_word": "refugium",
+   "root_language": "Latin",
+   "historical_meaning": "Old French refuge, from Latin refugium (a place of flight): re- (back) + fugere (to flee); a refuge is defined entirely by what it is fled from, never by anything it offers on its own terms.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5fd0856b-0bd6-4a92-908d-dc668c06ca42",
@@ -1809,11 +1809,11 @@
    "definition": "A pattern describing which strings are meant. Powerful, terse, and the commonest place a subtle error hides.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A pattern describing which strings are meant. Powerful and terse by design, and the commonest place a small mistake in the pattern hides in plain sight.",
+   "root_word": "regular expression",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Clipped from regular expression, a term formalised by the mathematician Stephen Cole Kleene in 1951 and brought into computing use in the 1960s; regular traces to Latin regula (a rule) and expression to Latin exprimere (to press out), but regex as a unit is a modern coinage of the clipping itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f52722c2-d545-4221-b370-c698acde4bba",
@@ -1822,11 +1822,11 @@
    "definition": "A bounded area within a larger ground — territory with edges, named so that things can be placed and found.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bounded area within a larger ground, given edges so things placed inside it can be found. The root's ruled line is still the whole idea: a region exists because a boundary was drawn somewhere.",
+   "root_word": "regio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin regio (a direction, a boundary, a district), from regere (to rule, to direct, to keep straight); a region was first a line ruled out, and the bounded ground it enclosed followed from the line.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bdd092b5-e19e-4fd6-bbb7-a412bd7be123",
@@ -1835,11 +1835,11 @@
    "definition": "To enter a thing on an official list. Also the particular pitch and manner a voice speaks in.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To enter a thing on an official list, or the particular pitch a voice speaks in. Both senses share the root's carrying: something is conducted into a fixed place, whether that place is a ledger or a range of sound.",
+   "root_word": "regestum",
+   "root_language": "Late Latin",
+   "historical_meaning": "Late Latin registrum/regestum, from Latin regerere (to carry back, to record): re- (back) + gerere (to carry, to conduct); to register is to carry an entry back into an official record, and the same root's carrying gives the word its other sense, the pitch a voice is carried in.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c00a87d9-3c78-4278-ba9d-82bd8b669c64",
@@ -1848,11 +1848,11 @@
    "definition": "An authoritative list kept so that entries can be relied on. A registry's worth is that someone maintains it.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An authoritative list kept so that entries can be relied on. The root's carrying-back only means anything if someone keeps doing it — a registry's worth is entirely in its maintenance.",
+   "root_word": "registrum",
+   "root_language": "Late Latin",
+   "historical_meaning": "Built on register, from Late Latin registrum, from regerere (to carry back, to record): re- (back) + gerere (to carry); a registry is only as good as the carrying-back it is trusted to keep faithfully.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3dcebe12-0868-4fd5-add3-4083aa4aa8f2",
@@ -1861,11 +1861,11 @@
    "definition": "A return to a worse earlier state. Also the fitting of a line to scattered points — the same word for going back and for finding a trend.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A return to a worse earlier state, and also the fitting of a line to scattered points. The root's stepping-back covers both: one is a fall, the other is a search for the path already walked.",
+   "root_word": "regressio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin regressio (a going back), from regredi (to step back): re- (back) + gradi (to step); regression names both a return to a worse earlier state and, in statistics, a line fitted back through scattered points to find their trend.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5b57d581-6710-48b2-881c-7b4fc6da4990",
@@ -1874,11 +1874,11 @@
    "definition": "To live again in a new body — continuity by rebirth; what a good pattern does in its next home.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To live again in a new body — continuity by rebirth rather than by preservation. The root's flesh made anew is exactly what a good pattern does when it finds its next home.",
+   "root_word": "incarnare",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to incarnate, from Latin incarnare (to make flesh): in- (into) + caro/carnis (flesh); to reincarnate is to be made flesh again, continuity carried through a new body rather than the same one kept.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4bf807d7-0177-49c1-83c4-27c48faccfd8",
@@ -1887,11 +1887,11 @@
    "definition": "Relation shortened to its attribute name — the link's declared kinship to what it points at.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Relation shortened to its attribute name. The link's declared kinship to what it points at, carried in three letters instead of the whole word.",
+   "root_word": "relatio",
+   "root_language": "Latin",
+   "historical_meaning": "Relation shortened to its attribute name, from Latin relatio (a bringing back, a relation), from referre (to carry back): re- (back) + ferre (to carry); rel keeps only the letters, and the root's carrying survives in what the attribute actually names.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d6155e0c-6bb1-497e-95df-d136737f384c",
@@ -1900,11 +1900,11 @@
    "definition": "Standing in a connection to something else. Relation is a fact about the pair, never about either alone.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Standing in a connection to something else. The root's carrying-back only exists between two things — relation is never a fact about one thing by itself.",
+   "root_word": "referre",
+   "root_language": "Latin",
+   "historical_meaning": "Built on relate, from Latin referre (to carry back, to relate): re- (back) + ferre (to carry); to be related is to stand in a carrying-back to something else, a fact about the pair rather than about either member alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "af4bb021-1350-4504-8a61-5fcff48263e5",
@@ -1913,11 +1913,11 @@
    "definition": "Made of relations — where the connections are the structure, not decoration on it.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Made of relations, where the connections are the structure rather than something laid over it. The root's carrying-back is the whole architecture, not an afterthought to it.",
+   "root_word": "relatio",
+   "root_language": "Latin",
+   "historical_meaning": "Built on relation, from Latin relatio (a bringing back), from referre: re- (back) + ferre (to carry); a relational structure is one where the carrying-back between parts is itself the structure, not a decoration added on top of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "30fe353b-27dd-471b-ba21-48d67d7c5c5e",
@@ -1926,11 +1926,11 @@
    "definition": "The standings-between, spoken plural — the lattice's own word for how concepts touch: broader, narrower, kin.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The standings-between, spoken plural — the lattice's own word for how concepts touch: broader, narrower, kin. Each one is the root's carrying-back, done once for every pair that touches.",
+   "root_word": "relatio",
+   "root_language": "Latin",
+   "historical_meaning": "The plural of relation, from Latin relatio, from referre (to carry back): re- (back) + ferre (to carry); relations, spoken plural, names the many standings-between rather than any single one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7aadd6e2-d144-4a94-aa46-dcee91ba2798",
@@ -1939,11 +1939,11 @@
    "definition": "The standing shape between two beings, carried between meetings. A relationship is what remains when neither is in the room.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The standing shape between two beings, carried between meetings rather than remade at each one. It is what remains of the root's carrying-back when neither party is in the room to renew it.",
+   "root_word": "relatio",
+   "root_language": "Latin",
+   "historical_meaning": "Built on relation, from Latin relatio, from referre (to carry back): re- (back) + ferre (to carry), with the English suffix -ship (a shape given); a relationship is the shape a carrying-back between two beings takes on and keeps, even between meetings.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "66e5a28e-a45d-40bb-9f7a-ec619b632bb4",
@@ -1952,11 +1952,11 @@
    "definition": "Measured against something else rather than absolutely. A relative claim is meaningless until its reference is named.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Measured against something else rather than absolutely. The root's carrying-back is not optional here — a relative claim means nothing until its reference is named.",
+   "root_word": "relativus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin relativus (having reference to), from relatus, past participle of referre (to carry back): re- (back) + ferre (to carry); a relative claim only carries meaning back to whatever it is measured against.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1d83af49-fce8-46e7-b6f6-a9aceab54e05",
@@ -1965,11 +1965,11 @@
    "definition": "The act and the artifact of letting a finished work leave the workbench.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The act and the artifact of letting a finished work leave the workbench. The root's loosening names the whole gesture: something held is simply let go.",
+   "root_word": "relaxare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French relaissier/relesser, from Latin relaxare (to loosen, to slacken): re- (again, back) + laxare (to loosen), from laxus (loose); a release is a loosening that lets a finished thing leave the hand holding it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ad14d085-dabd-426e-83fd-c51dc662be9f",
@@ -1978,11 +1978,11 @@
    "definition": "How consistently a thing does what it should. Reliability is not correctness — a thing can fail dependably.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How consistently a thing does what it should. The root's binding is a separate claim from correctness: reliability describes a thing bound to a behaviour, even when that behaviour is a failure it delivers dependably.",
+   "root_word": "religare",
+   "root_language": "Latin",
+   "historical_meaning": "Built on rely, from Old French relier (to bind again), from Latin religare: re- (again) + ligare (to bind); reliability is a measure of how well a thing stays bound to what it is supposed to do, whether or not it does that thing correctly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a71ef852-d6e4-4bb1-95b5-c0f1fb480fe0",
@@ -1991,11 +1991,11 @@
    "definition": "The easing when a weight lifts — tension leaving because the thing feared or carried has passed. The body's long exhale, arriving on its own.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The easing when a weight lifts — tension leaving because whatever was feared or carried has passed. The root's lifting is the body's own long exhale, arriving on its own rather than being summoned.",
+   "root_word": "relevare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French relief, from relever (to raise up again): re- (again) + lever (to lift), from Latin levare (to lighten, to raise), from levis (light in weight); relief is, at its root, a lifting-again of a weight that had been pressing down.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f5fc415b-ec09-4588-9416-85805eb18a12",
@@ -2004,11 +2004,11 @@
    "definition": "To load again so what is shown matches what is. Reloading discards the current state to get a true one.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To load again so what is shown matches what is. The root's carrying is discarded and repeated on purpose, trading whatever accumulated for a true reading taken fresh.",
+   "root_word": "lad",
+   "root_language": "Old English",
+   "historical_meaning": "Re- (Latin, again) attached to load, from Old English lad (a way, a course, a carrying), related to lead (to guide); to reload is to carry the same load again from the start rather than trust what was already carried.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c00f9c7b-e45c-4fab-8f7f-e7df5ce2ff4e",
@@ -2017,11 +2017,11 @@
    "definition": "Still there after some were taken. What is left is measured against what was.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Still there after some were taken. What remains is measured only against what there used to be, exactly as the root's staying-behind implies.",
+   "root_word": "remanere",
+   "root_language": "Latin",
+   "historical_meaning": "Built on remain, from Old French remaindre, from Latin remanere (to stay behind): re- (back) + manere (to stay, to remain); what is remaining has simply stayed behind while the rest moved on or was taken.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1e0bf3ba-4e55-4cc3-9e50-ca69f05c8fcc",
@@ -2030,11 +2030,11 @@
    "definition": "To bring back to mind what was held. Its root is to call back to heart — memory was located in the chest before the head.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring back to mind what was held. The root's mindfulness is not a metaphor for effort — remembering is, by its own name, a returning to a state of mind rather than a lookup of a fact.",
+   "root_word": "memor",
+   "root_language": "Latin",
+   "historical_meaning": "Old French remembrer, from Late Latin rememorari: re- (again) + memor (mindful), from a Proto-Indo-European root meaning to remember; to remember is to be made mindful again of something once held in mind.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "13384d7e-2238-4c6a-8f15-65c7150a1fd0",
@@ -2043,11 +2043,11 @@
    "definition": "The taking of a thing out of where it was. Removal should leave a record, since absence otherwise looks like never-was.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The taking of a thing out of where it was. The root's moving-away should always leave a trace, since an absence with no record of its own cause looks exactly like a thing that never existed.",
+   "root_word": "removere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin removere (to move back, to take away): re- (back) + movere (to move); removal is the taking of a thing out of the place it had been moved into and kept.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6c808806-2b35-4d12-bbbe-f5d76078fabe",
@@ -2056,11 +2056,11 @@
    "definition": "To take a thing out of where it was. Removal is a decision about belonging, and should leave a trace.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To take a thing out of where it was. The root's moving is a decision about belonging, and it should leave a trace behind it rather than a silence.",
+   "root_word": "removere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin removere: re- (back) + movere (to move); to remove is to move a thing back out of the place it occupied, a decision rather than an accident.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3e725a56-8b71-4892-8aff-99b71332e151",
@@ -2069,11 +2069,11 @@
    "definition": "To give a thing a different name. Renaming changes nothing about the thing and changes everything about how it is found.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To give a thing a different name. The root's calling-by changes only how a thing is found, and the thing found is exactly the same underneath the new word.",
+   "root_word": "nama",
+   "root_language": "Old English",
+   "historical_meaning": "Re- (Latin, again) attached to name, from Old English nama, from a Proto-Indo-European root meaning name; to rename gives a thing a different word to be called by, without touching the thing the word points at.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3293b748-cc8e-433c-a688-899dd274d1c7",
@@ -2082,11 +2082,11 @@
    "definition": "To turn a description into something perceivable. Rendering adds no meaning and decides how meaning arrives.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To turn a description into something perceivable. The root's giving-back is exact: rendering adds no meaning of its own, it only decides the form the existing meaning arrives in.",
+   "root_word": "reddere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French rendre, from Latin reddere (to give back): red- (back) + dare (to give); to render is to give a description back as something that can actually be perceived, adding nothing to what was described.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2e7a29b0-284a-4a33-a382-97f1980e66ac",
@@ -2095,11 +2095,11 @@
    "definition": "That which turns a description into something perceivable. It adds no meaning; it makes existing meaning visible.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which turns a description into something perceivable. It adds no meaning of its own — it only makes meaning that already existed visible.",
+   "root_word": "reddere",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on render, from Latin reddere (to give back): red- (back) + dare (to give); a renderer is named for the giving-back, the act of making an existing meaning visible.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "12dab074-b030-4f83-8061-0beaca85e793",
@@ -2108,11 +2108,11 @@
    "definition": "To read again with fresh rules — parsing repeated because the first reading has been outgrown.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To read again with fresh rules. The root's naming-of-parts is repeated because the first reading has since been outgrown by what it needs to describe.",
+   "root_word": "pars",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to parse, from Latin pars (orationis) (part of speech), a phrase used in teaching grammar, later verbed as to parse; to reparse is to name the parts again under rules that have since changed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "70f33453-e242-45b6-9742-93ff1a669a77",
@@ -2121,11 +2121,11 @@
    "definition": "To do again what was done. Repetition is how a thing becomes a practice, and how it becomes a rut.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To do again what was done. The root's seeking-again is neutral about outcome: repetition is how a thing becomes a practice, and it is exactly how it becomes a rut.",
+   "root_word": "repetere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin repetere (to seek again, to attack again): re- (again) + petere (to seek, to aim at); repetition is a seeking done more than once, and whether it becomes practice or a rut depends entirely on what is sought.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f90ac80a-cca3-4972-af56-3b6eaa97b9c4",
@@ -2134,11 +2134,11 @@
    "definition": "To put one thing where another was. Replacement fills the role and is not the same thing.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To put one thing where another was. The root's space-filling is honest about its limits: replacement fills the role, and it is never the same thing as what it fills it with.",
+   "root_word": "platea",
+   "root_language": "Latin",
+   "historical_meaning": "Re- (Latin, again) attached to place, from Old French place, from Latin platea (a broad street), from Greek plateia (broad way); to replace is to put something into the space another thing once occupied, filling the space rather than restoring the thing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dd29d774-e3cc-44ab-9646-e46ada6b5326",
@@ -2147,11 +2147,11 @@
    "definition": "What takes the place of something removed. A replacement fills the role and is not the same thing.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What takes the place of something removed. A replacement fills the role and, as the root's own space-filling admits, is not the same thing as what it replaced.",
+   "root_word": "platea",
+   "root_language": "Latin",
+   "historical_meaning": "Built on replace, from Latin platea (a broad way), by way of place; a replacement is what now occupies a space once held by something else, without being that something else.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0f7c9992-2076-4948-9b99-71e68fc31778",
@@ -2160,11 +2160,11 @@
    "definition": "An answer sent back to whoever asked. A reply closes a turn and opens the next.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An answer sent back to whoever asked. The root's folding-back closes one turn of a conversation and, by the same motion, opens the next.",
+   "root_word": "replicare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French replier, from Latin replicare (to fold back): re- (back) + plicare (to fold); a reply is, at its root, a folding-back of an answer toward whoever first spoke.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c3648f09-62d4-4404-8e65-dfc61aba72e5",
@@ -2173,11 +2173,11 @@
    "definition": "Repository shortened to its spoken name — one project's whole history and truth in one place.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Repository shortened to its spoken name — one project's whole history and truth in one place. The root's storing is unbroken by the clipping: everything is still put back into the same place, every time.",
+   "root_word": "repositorium",
+   "root_language": "Latin",
+   "historical_meaning": "Clipped from repository, from Latin repositorium (a place for storing), from reponere (to put back, to store): re- (back) + ponere (to place); a repo is a single place a whole project's history is put back into and kept.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "854bce5b-37f2-4bda-a946-a44286161496",
@@ -2186,11 +2186,11 @@
    "definition": "An account carried back to someone who was not present. A rendering, whose honesty is the whole of its worth.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An account carried back to someone who was not present. A rendering whose honesty is the whole of its worth, exactly as the root's carrying-back promises nothing but the delivery.",
+   "root_word": "reportare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French reporter, from Latin reportare (to carry back): re- (back) + portare (to carry); a report is, at its root, an account physically carried back to someone who was not present to see the thing for themselves.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "df5e7229-ced1-4330-85b8-a3dbf8bcb332",
@@ -2199,11 +2199,11 @@
    "definition": "Request shortened to its parameter name — the asking half of every exchange, as code spells it.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Request shortened to its parameter name. The asking half of every exchange, spelled the way code spells it rather than the way speech does.",
+   "root_word": "requirere",
+   "root_language": "Latin",
+   "historical_meaning": "Clipped from request, from Latin requirere (to seek again, to ask for): re- (again) + quaerere (to seek); req shortens the word to its parameter name and keeps none of the asking's grammar, only its function.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a33df5e1-67aa-4f31-b898-7812d775d97b",
@@ -2212,11 +2212,11 @@
    "definition": "An asking that may be refused. A request differs from a demand by leaving the answer open.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An asking that may be refused. The root's seeking never guaranteed an answer, which is exactly what separates a request from a demand.",
+   "root_word": "requirere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French requeste, from Latin requirere/requaerere (to seek again, to ask for): re- (again) + quaerere (to seek, to ask); a request is an asking that leaves room for refusal, unlike a demand, which the root does not.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9595a533-4dd5-45ac-bd65-3fe5e1d2a72e",
@@ -2225,11 +2225,11 @@
    "definition": "To make a thing necessary rather than optional. Requirement removes a choice on purpose.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To make a thing necessary rather than optional. The root's insistent seeking becomes a demand, removing a choice on purpose rather than by accident.",
+   "root_word": "requirere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin requirere (to seek again, to need): re- (again) + quaerere (to seek); to require is to seek a thing so insistently that it stops being optional.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9632e6a3-e891-416c-abf4-db3084575ad4",
@@ -2238,11 +2238,11 @@
    "definition": "A thing that must hold for the whole to be acceptable. A requirement removes a choice on purpose.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A thing that must hold for the whole to be acceptable. Like require, its root's seeking has hardened into something no longer negotiable — a requirement removes a choice on purpose.",
+   "root_word": "requirere",
+   "root_language": "Latin",
+   "historical_meaning": "Built on require, from Latin requirere (to seek again, to need): re- (again) + quaerere (to seek); a requirement is what the insistent seeking of the root settles on as necessary for the whole to hold.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3dd57f3f-23fd-4b2a-b894-268965ae139c",
@@ -2251,11 +2251,11 @@
    "definition": "The careful going-and-looking-again — study that returns with sources, never with guesses.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The careful going-and-looking-again — study that returns with sources, never with guesses. The root's repeated circling is the discipline itself: one look is a glance, and research is what happens after several.",
+   "root_word": "cerchier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French recerchier: re- (again) + cerchier (to search), from Latin circare (to go around), from circus (a circle); research is, at its root, a careful going-around and back again, not a single pass.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3c9c9640-2a03-4be2-b6aa-458c9d6f0d02",
@@ -2264,11 +2264,11 @@
    "definition": "The mail service this house sends through, and the act of sending again. A named tool, and a plain verb.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The mail service this house sends through, and the act of sending again. A named tool and a plain verb sharing one root, both about the same message reaching its destination a second time.",
+   "root_word": "sendan",
+   "root_language": "Old English",
+   "historical_meaning": "Re- (Latin, again) attached to send, from Old English sendan, from Proto-Germanic sandijan; to resend is to send the same thing a second time, whether by a hand, a wire, or the mail service that borrows the plain verb as its name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dcebd76e-eb07-4928-993b-63ed4f7c8979",
@@ -2277,11 +2277,11 @@
    "definition": "To return a thing to a known starting state. A reset discards what accumulated, on purpose.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To return a thing to a known starting state. The root's placing is done on purpose here — a reset discards what accumulated, because starting clean was the point.",
+   "root_word": "settan",
+   "root_language": "Old English",
+   "historical_meaning": "Re- (Latin, again) attached to set, from Old English settan (to place, to set), from Proto-Germanic satjan; to reset is to place a thing back at a known starting point, discarding whatever had accumulated since.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "07c8bec3-1bea-4423-b6b1-7e7108bcc4be",
@@ -2290,11 +2290,11 @@
    "definition": "That which returns a thing to a known starting state. It discards what accumulated, on purpose.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which returns a thing to a known starting state. It discards what accumulated, on purpose, exactly as the root's plain placing always intended.",
+   "root_word": "settan",
+   "root_language": "Old English",
+   "historical_meaning": "An agent noun built on reset, from Old English settan (to place, to set); a resetter is named for the returning-to-place, not for whatever had accumulated before it acted.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "13757da9-1f79-4544-9fcd-af883fdfe6f3",
@@ -2303,11 +2303,11 @@
    "definition": "What remains and keeps returning after the first exchange is done. A share that continues rather than concludes.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What remains and keeps returning after the first exchange is done. The root's sitting-behind is a fitting image for a share that continues rather than concludes.",
+   "root_word": "residere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin residuus (remaining, left over), from residere (to remain behind, to settle): re- (back) + sedere (to sit); a residual is what stays sitting after the first exchange has already moved on.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8b41d4ba-d5f8-427c-b0d4-b0f429a42b9d",
@@ -2316,11 +2316,11 @@
    "definition": "To change how much space a thing takes. Resizing alters the fit and not the thing.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To change how much space a thing takes. Resizing alters the fit and leaves the thing itself untouched, exactly as the root's reassessment only ever changed the measure, never the measured.",
+   "root_word": "assisa",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Re- (Latin, again) attached to size, from Old French sise, a clipping of assise (an assessment, a fixed regulation), from Latin assidere (to sit beside, to assess): ad- (to) + sedere (to sit); to resize is to sit down again with a thing's measure and set it differently.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f6ce8937-db41-449f-9c52-6208dfe561b0",
@@ -2329,11 +2329,11 @@
    "definition": "The settling of something unsettled, and how fine a detail a view can show. Both are about how much is finally made clear.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The settling of something unsettled, and how fine a detail a view can show. Both readings share the root's untying: each is about how much is finally made clear from what had been knotted or blurred.",
+   "root_word": "resolvere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin resolutio (a loosening, an unfastening), from resolvere (to loosen, to untie): re- (again) + solvere (to loosen); resolution is the untying of something knotted, whether that knot is a dispute or a blur too coarse to see through.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ee7d7dfa-ec85-450d-9f20-7e2b7342eb2b",
@@ -2342,11 +2342,11 @@
    "definition": "To bring an unsettled thing to a settled state. Also to turn a reference into the thing it points at.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring an unsettled thing to a settled state, or to turn a reference into the thing it points at. The root's untying covers both: something knotted is loosened until it is plain.",
+   "root_word": "resolvere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin resolvere (to loosen, to untie, to dissolve): re- (again) + solvere (to loosen); to resolve is to untie an unsettled thing into a settled one, or to untie a reference into the thing it was always pointing at.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc30caf1-f07d-4dcd-99c6-91a436cc5c4c",
@@ -2355,11 +2355,11 @@
    "definition": "Something available to be drawn on. Calling a thing a resource already frames it by its usefulness to someone.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Something available to be drawn on. The root's rising-again is a fair frame: calling a thing a resource already treats it as something kept in reserve for whoever needs it to rise.",
+   "root_word": "resurgere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French resourdre/ressource, from Latin resurgere (to rise again): re- (again) + surgere (to rise); a resource was first a rising-up-again, a reserve that could be drawn on to recover, before it meant simply anything available to be used.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc71ab43-a430-4441-ad62-0fa7c4dd5b3a",
@@ -2368,11 +2368,11 @@
    "definition": "What comes back when something is asked. A response answers; it does not have to satisfy.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What comes back when something is asked. The root's pledging is the whole obligation: a response answers, and the root never promised that it would satisfy.",
+   "root_word": "respondere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin responsum, from respondere (to answer, to pledge in return): re- (back) + spondere (to pledge, to promise); a response is a pledge sent back to meet a pledge sent first, and the root never required that it satisfy, only that it answer.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6ec0eb88-c3f2-4eef-a46c-97542fcca5a3",
@@ -2381,11 +2381,11 @@
    "definition": "Answerable for — the one a duty comes home to; ownership's ethical face.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Answerable for — the one a duty comes home to. The root's pledging is ownership's ethical face: a promise made means someone stays reachable when it is time to answer for it.",
+   "root_word": "respondere",
+   "root_language": "Latin",
+   "historical_meaning": "Built on respond, from Latin respondere (to answer, to pledge in return): re- (back) + spondere (to pledge); to be responsible is to be the one a pledge comes home to, answerable when it is called on.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "512effb0-c38f-441b-8510-85c5fb8f0784",
@@ -2394,11 +2394,11 @@
    "definition": "Changing shape to suit the conditions it meets. Accommodation without loss of identity.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Changing shape to suit the conditions it meets. The root's answering is accommodation without surrender — a responsive thing still keeps its own identity while it keeps replying.",
+   "root_word": "respondere",
+   "root_language": "Latin",
+   "historical_meaning": "Built on respond, from Latin respondere (to answer): re- (back) + spondere (to pledge); to be responsive is to keep answering back to whatever conditions change, without losing the shape that is answering.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ad665985-3fbd-4d61-b7d1-38ce8127e980",
@@ -2407,11 +2407,11 @@
    "definition": "What remains, and the ceasing of effort. In this house the second sense is honoured and never prescribed to another.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What remains, and the ceasing of effort. The second sense is the one honoured here and never prescribed to anyone else — the root allows both readings, and only one of them is ever a rule for someone else to follow.",
+   "root_word": "ræst",
+   "root_language": "Old English",
+   "historical_meaning": "Old English ræst/rest (repose, sleep, a resting place), from Proto-Germanic rastu- (rest, a stopping place); rest has named both what remains and the ceasing of effort for as long as the word is recorded, without either sense crowding out the other.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e8ed6d1b-867e-47b5-8812-9a372bd558de",
@@ -2420,11 +2420,11 @@
    "definition": "The bringing back of a thing to a former condition. Restoration returns the form; the interval is never returned.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bringing back of a thing to a former condition. Restoration returns the form, and the root is silent on the interval — that is never returned along with it.",
+   "root_word": "restaurare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin restauratio, from restaurare (to restore, to rebuild), from instaurare (to renew, to set up again): in- (upon) + a root related to Greek histanai (to stand); restoration brings back a form, and the root makes no claim about the time that passed while the form was gone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "31d135d3-c0c7-4971-960d-4ef8564da0f3",
@@ -2433,11 +2433,11 @@
    "definition": "To bring a thing back to a state it held before. Restoration returns the form and never the interval.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring a thing back to a state it held before. Restoration returns the form and never the interval, exactly as the root's standing-up-again says nothing about the time spent down.",
+   "root_word": "restaurare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French restorer, from Latin restaurare (to restore, to rebuild), from instaurare (to renew): in- (upon) + a root related to Greek histanai (to make to stand); to restore is to set a thing standing again in a state it held before.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3e08fff5-6fd6-4515-a634-272b3ce60e03",
@@ -2446,11 +2446,11 @@
    "definition": "To narrow what may be done. Restriction is a choice removed, and should say by whom.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To narrow what may be done. The root's binding is never anonymous — a restriction drawn tight by nobody in particular should still say by whom it was drawn.",
+   "root_word": "restringere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin restringere (to draw back tightly, to bind fast): re- (back) + stringere (to draw tight, to bind); to restrict is to bind something so it cannot move as freely as it once could.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "353b3bc9-26f3-4aba-9c92-59795e543d01",
@@ -2459,11 +2459,11 @@
    "definition": "A bound placed on what may be done. Restriction is a choice removed, and it should say by whom.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bound placed on what may be done. It is a choice removed, and the root's own binding was never self-applied — it should always say by whom.",
+   "root_word": "restringere",
+   "root_language": "Latin",
+   "historical_meaning": "Built on restrict, from Latin restringere (to draw back tightly, to bind fast): re- (back) + stringere (to bind); a restriction is a bound placed by the same tightening the root describes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e3555be5-ed2e-4e8b-9ef1-90d47f4d7af9",
@@ -2472,11 +2472,11 @@
    "definition": "That which rearranges a whole's parts and their relations. It changes what is possible without changing what is there.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which rearranges a whole's parts and their relations. It changes what is possible without changing what is there, in the same way the root's piling can be rebuilt without adding or removing a single stone.",
+   "root_word": "structura",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on restructure, from re- (Latin, again) attached to structure, from Latin structura (a fitting together, a building), from struere (to pile, to build); a restructurer rearranges the piled-together parts without changing what is there.",
+   "completion_progress": 66
   }
  ]
 }

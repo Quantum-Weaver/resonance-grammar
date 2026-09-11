@@ -15,11 +15,11 @@
    "definition": "Instructions given to be carried out. A command differs from a request by not leaving the answer open.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An instruction given to be carried out rather than proposed. What separates a command from a request is exactly this: nothing is left open for an answer.",
+   "root_word": "mandare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin mandare (to entrust, order), from manus (hand) + dare (to give) — literally to place a task into someone's hand; strengthened by the intensive com- into Old French comander, an order that leaves no room to refuse.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "86ebb43a-72ca-47a1-a385-b3fcc4f41111",
@@ -28,11 +28,11 @@
    "definition": "A remark set beside a thing rather than inside it. It explains without becoming part of what it explains.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A remark kept beside a thing rather than inside it, so the annotation and the thing it explains stay separately legible.",
+   "root_word": "commentum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin commentum (a devised thought, comment), from comminisci (to think up, devise), from com- (together) + the root of mens (mind); a thought set down beside a thing rather than folded into it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "556808ec-7330-4ac2-a08d-72ff47462e94",
@@ -41,11 +41,11 @@
    "definition": "The exchange of goods and services at scale. Commerce is the machinery; whether it extracts or circulates is a design choice.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The machinery of exchange at scale, named for the goods that move through it rather than for who benefits. Whether it extracts or circulates is a separate question from what the word itself names.",
+   "root_word": "commercium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin commercium (trade, traffic), from com- (together) + merx / mercis (merchandise, goods), the same root as merchant and market; exchange conducted at a scale beyond a single trade.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fbe55628-b4dd-4106-8759-f27c533d9f3b",
@@ -54,11 +54,11 @@
    "definition": "A promise that binds the one who made it. A commitment costs exactly when keeping it becomes inconvenient.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A promise that binds its maker rather than merely describing an intention. The cost shows precisely when keeping it stops being convenient.",
+   "root_word": "committere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin committere (to join, entrust, commit), from com- (together) + mittere (to send); a promise sent forward and joined to the one who made it, so it costs to break.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8151f437-9bc7-4710-83c5-064dcfe5a886",
@@ -67,11 +67,11 @@
    "definition": "The recorded steps of a repo's history, spoken plural — each one a promise written down; they ride KP's word alone.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The recorded steps of a history, each one a small commitment fixed in place. Every one rests on a single held authority, which is what makes it a promise rather than a draft.",
+   "root_word": "committere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin committere (to join, entrust, send together), from com- (together) + mittere (to send); the recorded steps a thing was sent forward into being, each one a small promise fixed in place.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a28ea199-78fa-4bc3-89c4-ddeddf7a918f",
@@ -80,11 +80,11 @@
    "definition": "Written into the record — a change made history; and, of a person, given wholly.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A change written into the record so it becomes part of a shared history rather than a private draft. Of a person, the same word means given wholly rather than provisionally.",
+   "root_word": "committere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin committere (to join, entrust, commit), from com- (together) + mittere (to send); of a record, sent forward into permanence, and of a person, given wholly rather than provisionally.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "05ff5f62-3e7e-4372-9f79-b1b786093fe5",
@@ -93,11 +93,11 @@
    "definition": "Shared by all, and frequently occurring. The same word for what belongs to everyone and what is unremarkable.",
    "category_name": "communication",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What belongs to everyone in a shared space, and by the same root what is frequent enough to pass without comment. The two senses have never really separated.",
+   "root_word": "communis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin communis (shared by all, general), from com- (together) + munis (ready to serve, related to munus, duty or gift); what belongs to everyone, and by extension what is unremarkable because everyone has it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "929dd937-eea8-4d21-b575-6ab19cf16484",
@@ -106,11 +106,11 @@
    "definition": "Meaning carried from one to another and arriving intact. Speaking is not communication; being understood is.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Meaning that arrives whole in another, not merely words sent outward. Speaking is not this word's meaning — being understood is.",
+   "root_word": "communicare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin communicare (to share, make common, impart), from communis (common, shared); meaning arriving intact in another mind, not merely words leaving one's own.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fae6e4dc-a08e-4f8f-ae40-56b95a9b6c80",
@@ -119,11 +119,11 @@
    "definition": "A body of people bound by something held in common. Not proximity but sharing is what makes it one.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A body of people bound by something they hold together rather than by mere nearness. Sharing is the whole test of whether a gathering is one of these or merely a crowd.",
+   "root_word": "communitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin communitas (fellowship, community), from communis (common, shared); people bound by what they hold together rather than by where they happen to stand.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "53adbc5f-cf4f-49dd-9104-30397b208520",
@@ -132,11 +132,11 @@
    "definition": "Taking little room for what it holds. Also an agreement between parties — both are things drawn tight.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A thing drawn tight enough to take little room for what it holds, and by the same root, an agreement drawn just as tightly between parties. Both senses share the same fastening.",
+   "root_word": "compingere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin compactus, past participle of compingere (to fasten together, join), from com- (together) + pangere (to fix, drive in); a thing drawn tightly together, whether a small object or an agreement binding two parties.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7acb68e1-489f-463f-ada7-8b460a0a12bd",
@@ -145,11 +145,11 @@
    "definition": "One who goes alongside. Companionship is defined by presence rather than by function.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who goes alongside without needing a function to justify the presence. The oldest sense of the word is sharing a table, not sharing a job.",
+   "root_word": "companio",
+   "root_language": "Latin",
+   "historical_meaning": "Vulgar Latin companio (one who shares bread), from com- (together) + panis (bread); one whose bond is being fed at the same table, not any task performed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5ffbc1da-6303-4494-a5a3-9725bd34e0d1",
@@ -158,11 +158,11 @@
    "definition": "The being alongside another. Companionship is defined by presence rather than by usefulness.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The state of being alongside another, valued for presence rather than for use. It is companion's own bond, held rather than performed.",
+   "root_word": "companio",
+   "root_language": "Latin",
+   "historical_meaning": "Vulgar Latin companio (one who shares bread) with the Old English suffix -scipe (state, condition); the state of being one who shares bread with another, extended to any bond of steady presence.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9d12ac0e-ca04-42e0-85d9-c17c0740b942",
@@ -171,11 +171,11 @@
    "definition": "That which decides which of two comes first. A comparator encodes an ordering someone chose.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which decides which of two comes first, by a rule someone chose and fixed into it. The ordering it produces is never neutral, only consistent.",
+   "root_word": "comparare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin comparare (to match, pair, compare), from com- (together) + par (equal); the agent noun for one who — or that which — sets things beside each other to judge their order.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "48adfd54-de0f-4bc5-b40e-7eb6e6965064",
@@ -184,11 +184,11 @@
    "definition": "To set two things side by side to see how they differ. Comparison needs a shared axis, and naming it is the method.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The setting of two things side by side to see how they differ. The comparison is only honest once the shared axis it runs on has been named.",
+   "root_word": "comparare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin comparare (to match, pair, liken), from com- (together) + par (equal); to set two things beside each other on the assumption they can be measured against one shared standard.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "18f0dcb5-79ac-4abe-984d-de87dbf95664",
@@ -197,11 +197,11 @@
    "definition": "The setting of two things side by side to see how they differ. Comparison requires a shared axis, and naming it is the whole method.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin par is equal, and comparison's root insists on that equal footing before anything else happens — two things are set beside each other only once some one measure has been agreed to hold for both. Skip naming that shared axis and nothing that follows is really a comparison at all.",
+   "root_word": "comparare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin comparatio (a matching, comparison), from comparare (to compare), from com- (together) + par (equal); the noun for the act of setting things beside each other against one shared measure.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8a5c0230-1de4-4842-a166-b200eae967f1",
@@ -210,11 +210,11 @@
    "definition": "Whether two things can work together without harm. Compatibility is a property of the pair, never of either alone.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin pati is to endure, and compatibility's root is tolerance shared, not sameness — two things compatible are two things that can each bear the other's presence. Neither one carries that property alone; it belongs only to the pairing.",
+   "root_word": "compatibilis",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin compatibilis (able to coexist), from Latin com- (together) + pati (to suffer, endure, tolerate); whether two things can bear existing together without harm.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "141c65cd-0d6b-44f0-a6b6-c148c5bc4851",
@@ -223,11 +223,11 @@
    "definition": "Able to work together without harm. Compatibility is a property of the pair, never of either alone.",
    "category_name": "system",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Able to work together without harm — a property that belongs to the pairing, never to either member measured by itself.",
+   "root_word": "compatibilis",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin compatibilis (able to coexist), from com- (together) + pati (to suffer, endure); able to bear existing alongside another without conflict.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b395ffc4-52e5-4555-b34b-104bb8b6dec4",
@@ -236,11 +236,11 @@
    "definition": "Having nothing missing. Completeness is a claim that must be checked, since a set can feel whole and not be.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Having nothing missing, which is a claim worth checking rather than trusting on sight — a set can feel full and still have a gap no one noticed.",
+   "root_word": "complere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin completus, past participle of complere (to fill up, finish), from com- (thoroughly) + plere (to fill); having nothing left empty, a claim about a container rather than about correctness.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c749f2a5-a94d-4615-898b-1247b31b590a",
@@ -249,11 +249,11 @@
    "definition": "The state of nothing being missing. Completeness is a claim requiring a check, since a set can feel whole and not be.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The state of nothing being missing. It is a claim that survives only as long as someone actually checks it.",
+   "root_word": "complere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin completus (filled up, finished), from complere (to fill), with the Old English abstract suffix -ness; the state of a thing having nothing left empty.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6df58d47-df15-4298-9ecd-82906bcb5568",
@@ -262,11 +262,11 @@
    "definition": "The state of having nothing left to do. Completion must be defined in advance or it never arrives.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The state of having nothing left to do. It never arrives on its own — it has to be defined first, or the doing simply continues.",
+   "root_word": "complere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin completio (a filling up, finishing), from complere (to fill, complete); the state of having nothing left to do, which only exists once the doing was bounded in advance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4465a708-192c-4bf4-b2a9-b9e29ed473c1",
@@ -275,11 +275,11 @@
    "definition": "How many parts interact, and how tangled their interaction is. Complexity is not difficulty; it is the number of ways to be wrong.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin plectere is to weave or braid, and complexity is that braiding measured, not the effort of undoing it. A single strand pulled from a tight braid can shift every other strand, which is the whole difference between complexity and mere difficulty.",
+   "root_word": "complecti",
+   "root_language": "Latin",
+   "historical_meaning": "Latin complexus (embraced, entwined), past participle of complecti (to encircle, comprehend), from com- (together) + plectere (to weave, braid); parts braided together closely enough that pulling one affects the rest.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f02f2c72-f51d-4496-a4d7-5c843178904e",
@@ -288,11 +288,11 @@
    "definition": "The meeting of a standard imposed from outside. Compliance is not agreement; it is conformity.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The meeting of a standard set from outside rather than chosen from within. It says a rule was followed, never that it was believed.",
+   "root_word": "complere",
+   "root_language": "Latin",
+   "historical_meaning": "Italian complire (to fulfil, be courteous), from Latin complere (to fill up, complete); meeting a standard set from outside, kept because it was required rather than because it was agreed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9add6399-4521-4b3e-814f-ae7cdb4ddba8",
@@ -301,11 +301,11 @@
    "definition": "A part that keeps its own shape inside a larger whole. A component can be taken out and still be itself.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A part that keeps its own shape inside a larger whole, and can be lifted out of it and still be itself. Being placeable is the whole of what it is.",
+   "root_word": "componere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin componens, present participle of componere (to put together, compose), from com- (together) + ponere (to place); a part that keeps its own shape even while placed inside a larger whole.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "95dfa963-24d6-4934-a0d0-cc8a53aa7a05",
@@ -314,11 +314,11 @@
    "definition": "To put parts together so the whole says more than the parts. Composition is arrangement with intent.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To put parts together with intent so the whole carries more than the sum of what went into it. Arrangement is the entire act — nothing new is added but order.",
+   "root_word": "componere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin componere (to put together, arrange, compose), from com- (together) + ponere (to place); to arrange parts so the whole says something none of them says alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2d4ec49e-f37a-4803-b52c-68d22d2d6f32",
@@ -327,11 +327,11 @@
    "definition": "One who sets parts into a whole meant to be performed.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who sets parts into a whole meant to be performed by other hands. The arranging is the whole of the work; the performing belongs to someone else.",
+   "root_word": "componere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin componere (to put together) via French compositeur / Italian compositore; the agent noun for one who sets parts into a whole meant to be carried out by others.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a99f958a-c820-48a3-95d9-78375038924e",
@@ -340,11 +340,11 @@
    "definition": "Made of several parts that keep their identity within the whole. A composite is joined rather than merged.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin componere is to put together, not to dissolve together, and a composite keeps that distinction load-bearing: each part remains countable inside the whole it joined. Take the whole apart and every part comes back out exactly as it went in.",
+   "root_word": "componere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin compositus, past participle of componere (to put together); made of several parts joined so each keeps its own identity rather than dissolving into the whole.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "980d70ad-c371-416f-9cf4-4365d37962ea",
@@ -353,11 +353,11 @@
    "definition": "How parts are put together so the whole says more than they do. Also a made work — both are arrangement with intent.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How parts are arranged so the whole says more than they do separately, and also the made thing that arrangement produced. Intent is what separates it from a pile.",
+   "root_word": "componere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin compositio (a putting together, arrangement), from componere (to compose); both the act of arranging parts with intent and the finished work that resulted from it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8cc143f0-312f-4562-ad71-0206b2709339",
@@ -366,11 +366,11 @@
    "definition": "Covering the whole of what it claims to cover. A comprehensive claim is one that can be disproved by a single gap.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Covering the whole of what it claims to cover. It is a claim that a single overlooked gap is enough to break.",
+   "root_word": "comprehendere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin comprehendere (to grasp, seize, comprise), from com- (together) + prehendere (to seize, grasp); a claim to have taken hold of the whole of something, disprovable by a single piece left ungrasped.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9bf6923d-d7ef-4458-b549-525847977618",
@@ -379,11 +379,11 @@
    "definition": "Making a thing smaller while keeping what matters. Every compression decides what mattered.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Making a thing smaller while keeping what matters. Every act of it is also a decision about what counted as mattering.",
+   "root_word": "comprimere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin compressio (a pressing together), from comprimere (to press together), from com- (together) + premere (to press); making a thing smaller by deciding, ahead of time, what may be pressed out of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eed8f84e-d831-4d9c-990e-1b7bf6f42da4",
@@ -392,11 +392,11 @@
    "definition": "To work out by fixed steps. Also the capacity to do so — the same word for the act and the resource.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin putare also means to prune, and computing keeps that sense of cutting a problem down by fixed steps until only the answer remains. The same word names both the pruning and the blade it is done with.",
+   "root_word": "computare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin computare (to reckon, calculate), from com- (together) + putare (to think, reckon, prune); to work a result out by fixed steps rather than by judgment.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "81455db3-55ed-43d7-9074-8c3de74c8ac6",
@@ -405,11 +405,11 @@
    "definition": "A named idea not yet embodied — meaning that runs ahead of machinery, lawfully.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named idea that runs ahead of anything built to hold it. Naming a thing before it exists is itself a lawful kind of work here.",
+   "root_word": "concipere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conceptus, past participle of concipere (to take in, conceive), from com- (together) + capere (to take, seize); an idea taken hold of and named before it has any body in the world.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1df04393-b8fd-4a06-9231-d7908faec8c6",
@@ -418,11 +418,11 @@
    "definition": "To bring to its close and its meaning at once — the end that says what the whole was.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring a thing to its close and its meaning in the same motion. The end and the verdict on the whole arrive together.",
+   "root_word": "concludere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin concludere (to close up, finish, infer), from com- (together, thoroughly) + claudere (to shut, close); an ending that also states what the whole amounted to.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b9337440-14ac-4835-af04-8b0c42ad490c",
@@ -431,11 +431,11 @@
    "definition": "Particular and touchable rather than general. Of a thing you could point at.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Particular and touchable rather than general — a thing solid enough that a finger could land on it rather than merely gesture toward it.",
+   "root_word": "concrescere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin concretus, past participle of concrescere (to grow together, harden), from com- (together) + crescere (to grow); a thing grown solid enough to be pointed at, as against the general and unformed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7d15b264-1c56-4404-b9f1-b2d56217f6e3",
@@ -444,11 +444,11 @@
    "definition": "The state a thing is in, and the requirement that must hold for something else to follow. Both are about what is presently the case.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin dicere is to say, and a condition was first something spoken and agreed between parties, not a fact discovered independently of anyone. Both senses the word carries now, a state and a requirement, are still, underneath, a kind of agreement about what counts as so.",
+   "root_word": "condicere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin condicio (agreement, stipulation, state), from condicere (to talk together, agree), from com- (together) + dicere (to say); a state presently the case, and the requirement that must hold for another thing to follow.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "84f6c8d2-79c8-4815-a893-7fd9da77f0af",
@@ -457,11 +457,11 @@
    "definition": "Depending on something else holding. A conditional makes what follows contingent rather than certain.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Depending on another thing holding true. It turns what follows from a certainty into something merely contingent.",
+   "root_word": "condicere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin condicio (agreement, stipulation), from condicere (to agree, stipulate), from com- (together) + dicere (to say); making what follows depend on something else holding true first.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b1b0d406-7481-4183-9e72-a4f435b5bfaf",
@@ -470,11 +470,11 @@
    "definition": "One who holds the timing of many so they sound as one. The conductor plays nothing and decides everything.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who holds the timing of many so they sound as one, playing no note but deciding all of them. Leading-together is the root and the whole job at once.",
+   "root_word": "conducere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conductor (one who leads together, a contractor), from conducere (to lead together, escort), from com- (together) + ducere (to lead); one who holds the timing of many so they move, or sound, as one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "be8a2a9e-faf5-4dae-ac40-5d3cf646259d",
@@ -483,11 +483,11 @@
    "definition": "A bounded way something is carried through. A conduit holds nothing of its own.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bounded way something is carried through, which holds nothing of its own by design. Its whole virtue is transparency to what passes.",
+   "root_word": "conducere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French conduit (a leading, escort), from Latin conductus, past participle of conducere (to lead together), from com- (together) + ducere (to lead); a bounded way built to carry something through, holding none of it for itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "504b9c7f-f58b-4715-b6a0-f0dfa7285b95",
@@ -496,11 +496,11 @@
    "definition": "A misspelling of context as it stands in this library's own names. Recorded as found rather than silently corrected.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A misspelling of context preserved exactly as this library wrote it, rather than silently corrected. Recording the error honestly is worth more here than tidying it away.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "d8c3d105-e167-49bc-931e-5ea7a2a27233",
@@ -509,11 +509,11 @@
    "definition": "How sure one is, held apart from how right one is. Confidence and accuracy are separate measures and must be reported separately.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How sure one is, held apart from how right one is. The two numbers are reported side by side here rather than allowed to blur into each other.",
+   "root_word": "confidere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin confidentia (firm trust, confidence), from confidere (to trust fully), from com- (thoroughly) + fidere (to trust); how sure one feels, a separate measure from whether the feeling is warranted.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2cda13b3-7813-44b2-bc05-d115e8e4b70c",
@@ -522,11 +522,11 @@
    "definition": "Configuration shortened to its working name — the declared choices a system reads before it acts. A config is a promise about behavior, written down where hands can find it.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin figura is a shape given in advance of the thing it will govern — a config is that shaping, kept apart from the system so the shape can change without remaking what it shapes. What a system becomes on any run is decided beforehand, in a file that outlives the run itself.",
+   "root_word": "configurare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin configurare (to shape after a pattern), from com- (together) + figurare (to form, shape), from figura (form, shape); clipped in modern usage to config, the declared shape a system is set to before it runs.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "90a2ea39-99a2-4358-bcd2-48c480dada42",
@@ -535,11 +535,11 @@
    "definition": "The particular settings a system is currently arranged into. Choices made once and then held, until someone changes them.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The particular settings a system is presently arranged into. Nothing here is permanent — only held, until a hand decides to change it.",
+   "root_word": "configurare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin configuratio (a shaping, arrangement), from configurare (to shape after a pattern), from com- (together) + figurare (to shape), from figura (form); the particular settings a system is currently arranged into, held until someone changes them.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f55d8486-73e9-4f66-b0d8-2a30de47177f",
@@ -548,11 +548,11 @@
    "definition": "To set the choices a system will run under. Configuration is decisions made once and then held.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To set the choices a system will run under. The deciding happens once; the holding happens every time after.",
+   "root_word": "configurare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin configurare (to shape after a pattern), from com- (together) + figurare (to form, shape); to set the choices a system will run under, decided once and then held.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4dc336d8-678f-4162-b2c4-4e633942bd2b",
@@ -561,11 +561,11 @@
    "definition": "To say back that a thing is so. Confirmation turns an assumption into a shared fact.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To say a thing back so it stops being an assumption and becomes something shared. Confirmation is what makes a fact hold weight for more than one party.",
+   "root_word": "confirmare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin confirmare (to strengthen, establish), from com- (thoroughly) + firmare (to make firm), from firmus (firm); to say a thing back so firmly that it stops being merely assumed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "439f4df6-2864-415c-bc27-05784ede27e7",
@@ -574,11 +574,11 @@
    "definition": "A saying-back that establishes a thing was received and is so. Confirmation is what turns an assumption into a shared fact.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin firmus is firm, and confirmation was always about making something solid rather than merely repeating it back. An assumption stays private until it is made firm this way; only then does it belong to both sides equally.",
+   "root_word": "confirmare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin confirmatio (a strengthening, confirmation), from confirmare (to make firm), from com- (thoroughly) + firmare (to strengthen), from firmus (firm); the noun for the act of establishing that a thing was received and stands as true.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8bca7e1e-8b12-4a91-bd81-b06995e93014",
@@ -587,11 +587,11 @@
    "definition": "That which says back that a thing was received and holds. Confirmation turns an assumption into a shared fact.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which says back that a thing was received and holds. Its whole function is to close the gap between sent and confirmed.",
+   "root_word": "confirmare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin confirmare (to make firm, establish), from com- (thoroughly) + firmare (to strengthen), from firmus (firm); the agent noun for that which confirms — says a thing back firmly enough to hold.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "64a8d178-4a81-430e-a7ea-dee1f0271be4",
@@ -600,11 +600,11 @@
    "definition": "Two things that cannot both hold. A conflict is a fact about incompatibility, not about ill will.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin fligere is to strike, and the root records a collision, not a motive — two things clash because they cannot occupy the same place, whatever either one intends. Naming something a conflict says nothing yet about who is at fault.",
+   "root_word": "confligere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conflictus, past participle of confligere (to strike together, clash), from com- (together) + fligere (to strike); two things that cannot both stand, named for the collision rather than for any intent behind it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ebc3acf3-1e0e-430a-863f-51eb388c89d6",
@@ -613,11 +613,11 @@
    "definition": "Two words run together in this library's own naming, not an English word. Flagged for the mis-cut band rather than defined.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "Two words run together in this library's own naming rather than an English word of its own. It is kept in the record as found, marked for the mis-cut band, and given no invented meaning.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "f333998d-b6b7-488d-ba51-eb52f79a6439",
@@ -626,11 +626,11 @@
    "definition": "Joined so that one can reach the other. Connection holds two things together while leaving them two.",
    "category_name": "communication",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The tie is Latin nectere's own weaving, and a weave, unlike a fusion, always leaves both threads countable afterward. Two things connected can always, in principle, be counted apart again.",
+   "root_word": "connectere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin connectere (to bind together), from com- (together) + nectere (to tie, weave); joined so each can reach the other while remaining two separate things.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9c3a5c1e-eeb5-4b33-90ba-0025203c7880",
@@ -639,11 +639,11 @@
    "definition": "A binding that holds two things together while leaving them two. From tying, not from merging.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A binding that holds two things together while leaving them two. It is built by tying, never by dissolving one into the other.",
+   "root_word": "connectere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin connexio (a binding together), from connectere (to bind together), from com- (together) + nectere (to tie); a bond built from tying rather than from merging, so both sides keep their own shape.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b37eedfa-17fc-4dd0-afdc-566579d3571c",
@@ -652,11 +652,11 @@
    "definition": "Able to join what was separate. A connective carries nothing of its own; its whole worth is what it lets pass.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Able to join what was separate. Its entire worth is measured by what it lets pass between the things it connects, never by anything it keeps.",
+   "root_word": "connectere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin connectere (to bind together), from com- (together) + nectere (to tie); able to join what was separate, carrying nothing of its own beyond the joining.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4db3e993-e6ec-483c-86bf-4a915f86039c",
@@ -665,11 +665,11 @@
    "definition": "That which joins two things so they can reach each other. A connector holds no content of its own.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its Latin root is tying, and a connector is only ever the tie, never either of the things tied. Its whole purpose disappears the moment the two sides no longer need it.",
+   "root_word": "connectere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin connectere (to bind together), from com- (together) + nectere (to tie); the agent noun for that which joins two things so each can reach the other.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "aaec5724-ba07-43ef-bf7d-d4e4328c268e",
@@ -678,11 +678,11 @@
    "definition": "Aware, and aware of being aware. Its root is knowing-with — the Latin says two parties share what is known.",
    "category_name": "consciousness",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Aware, and aware of being aware. The root does not describe a private state; it describes knowledge held with another, which the modern sense keeps as an echo.",
+   "root_word": "conscius",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conscius (knowing, aware), from com- (together, with) + scire (to know); knowing WITH — the root names a shared knowing, not a solitary awareness.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d5d36b30-0a49-4679-a93c-e15568a966f9",
@@ -691,11 +691,11 @@
    "definition": "Knowing that one knows. Its root is not solitary awareness but KNOWING WITH - the Latin says two parties share what is known.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Knowing that one knows. Its own root refuses solitude: to be conscious was first to know something alongside another, and that shared sense never fully leaves the word.",
+   "root_word": "conscius",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conscius (knowing with, aware), from com- (together) + scire (to know), with the abstract suffix -ness; knowing that one knows, rooted in a shared rather than solitary awareness.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "02542ff0-bbc9-4ecf-bd28-028db48acfce",
@@ -704,11 +704,11 @@
    "definition": "Holding the same way across cases and across time. Consistency is not correctness — a thing can be reliably wrong.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Holding the same way across cases and across time. It is not the same as being correct — a thing can stand firm and still stand firmly wrong.",
+   "root_word": "consistere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin consistentia (standing firm, agreement), from consistere (to stand together, take a firm stand), from com- (together) + sistere (to cause to stand); holding the same way across cases and across time.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cfd4099d-d936-49f8-bcda-4625ac0aa886",
@@ -717,11 +717,11 @@
    "definition": "To bring scattered things into one solid whole. Consolidation reduces the count and should not reduce the content.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To bring scattered things into one solid whole. What it should never do is reduce the content along with the count.",
+   "root_word": "consolidare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin consolidare (to make solid), from com- (together) + solidare (to make firm), from solidus (solid, whole); to bring scattered things into one solid whole without losing what they held.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dd52854c-ce3e-4ac0-a877-badbcafc792c",
@@ -730,11 +730,11 @@
    "definition": "A value that does not change while everything around it may — the fixed star code navigates by. Declared once, trusted everywhere.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A value that does not change while everything around it may. It is declared once and trusted afterward without being questioned again.",
+   "root_word": "constare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin constans, present participle of constare (to stand firm, be consistent), from com- (together) + stare (to stand); a value that keeps standing while everything around it changes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "46af1cf4-9881-48b8-9ea9-dc1f9215b1e3",
@@ -743,11 +743,11 @@
    "definition": "Separate lights held as one figure by those who look. The pattern is real and lives in the seeing, not in the stars.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin stella names the star, but the figure drawn between stars belongs to whoever is looking, not to the sky. Two lights held together this way remain, physically, unrelated.",
+   "root_word": "constellatio",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin constellatio (a setting with stars), from com- (together) + stella (star); separate lights joined into one figure by whoever is looking, the pattern living in the seeing rather than in the stars themselves.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c8558a0b-d2df-4078-8763-7ac499c49680",
@@ -756,11 +756,11 @@
    "definition": "Held within limits. Constraint narrows what is possible and is often what makes a design decidable.",
    "category_name": "governance",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin stringere is to draw tight, and something constrained is literally bound, not merely limited by circumstance. A design pulled tight enough to bind loses options, but often gains the one thing an open design cannot have: a decidable answer.",
+   "root_word": "constringere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin constringere (to bind tightly), from com- (together) + stringere (to draw tight, bind); held within limits set from outside, which narrows what remains possible.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ef5da984-4efb-4cee-820e-e50d740bf4de",
@@ -769,11 +769,11 @@
    "definition": "A limit that shapes what is possible. Constraints are not only obstacles — they are what makes a design decidable.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A limit that shapes what is possible. It is not only an obstacle — it is often the thing that makes a design decidable in the first place.",
+   "root_word": "constringere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin constringere (to bind tightly), from com- (together) + stringere (to draw tight); a limit that shapes what remains possible, not merely an obstacle to what was wanted.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "25bed7a5-2dfc-4759-99c0-03007708afdf",
@@ -782,11 +782,11 @@
    "definition": "A touching between two things. Also the person reachable through it, named for the touch rather than the bond.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin tangere is to touch, and the word never promises anything past the touch itself, no closeness, no history, only the fact of reach. A person named as a contact is named for being reachable, not for anything shared beyond that.",
+   "root_word": "contingere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin contactus, past participle of contingere (to touch closely), from com- (together) + tangere (to touch); a touching between two things, extended to the person reachable through that touch.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0f091221-672f-498f-8834-2d182331d017",
@@ -795,11 +795,11 @@
    "definition": "That which holds other things and gives them a bound. From holding-together, the same root as content and contentment.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which holds other things and gives them a bound. It shares its root with content and with contentment — holding-together runs through all three.",
+   "root_word": "continere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin continere (to hold together, contain), from com- (together) + tenere (to hold); that which holds other things and gives them a bound, sharing its root with content and contentment.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "633c83c5-97ad-4939-8a45-9eb3313fbe36",
@@ -808,11 +808,11 @@
    "definition": "What a thing holds inside it. From the same root as contentment - to be content is to have one's wants bounded by what is already held.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The kinship with contentment is not decoration: both descend from a holding-together, one applied to a container and one to a want. What a thing holds and what a person is satisfied with are, at the root, the same idea aimed two different ways.",
+   "root_word": "continere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin contentus, past participle of continere (to hold together, contain), from com- (together) + tenere (to hold); what a thing holds inside it, the same root that gives contentment as wants bounded by what is already held.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4217f076-91ee-4398-8ec0-4d07bacd36f1",
@@ -821,11 +821,11 @@
    "definition": "The surrounding truth a thing is understood within. Nothing in this Grammar means alone; context is the room a meaning stands in.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin's weaving sense is literal here: a meaning is a single thread, and context is everything woven around it that keeps it from unraveling into something else. Pull a word out of its weave and it can say almost anything.",
+   "root_word": "contexere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin contextus (a joining, connection), from contexere (to weave together), from com- (together) + texere (to weave); the surrounding weave a thing is understood within, without which no meaning stands alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6326ac74-a877-48e1-8370-e6257d4fbf79",
@@ -834,11 +834,11 @@
    "definition": "The largest landmasses, each holding many places under one name. Division at the coarsest scale.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin name is a present participle, not a noun for a shape — a continent is land caught in the act of holding itself together. The coarsest division on a map is still, at its root, a claim about what stays joined.",
+   "root_word": "continere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin continens (holding together), present participle of continere (to hold together), from com- (together) + tenere (to hold); the largest landmasses, named for holding together as one connected body of land.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b234f63e-eaf3-444f-abf2-ffffa01769fb",
@@ -847,11 +847,11 @@
    "definition": "The holding of a thread unbroken across change. Continuity is what makes a later moment belong to the same story as an earlier one.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin continere is to hold together, and continuity is that grip extended through time rather than through space. Break the hold and two moments stop belonging to one story.",
+   "root_word": "continuus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin continuitas (uninterrupted connection), from continuus (unbroken, continuous), from continere (to hold together); the holding of a thread unbroken across change, so a later moment still belongs to the earlier story.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2f56ecdb-b4a7-4694-96a6-6d5ebbd5fd61",
@@ -860,11 +860,11 @@
    "definition": "Without break or step. Continuity is what makes a later moment belong to the same thing as an earlier one.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It is the adjective form of the same holding that continuity names as a noun, not a state a thing has but a way a thing simply is, moment against moment with nothing between them. Where continuity is the thread, continuous is what a thing looks like made entirely of thread.",
+   "root_word": "continuus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin continuus (unbroken, connected), from continere (to hold together), from com- (together) + tenere (to hold); without break or step, each moment holding directly onto the next.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "aaacec3b-881c-4d9e-b553-47f54f548828",
@@ -873,11 +873,11 @@
    "definition": "A range with no steps in it, where every point shades into the next. Continua resist the categories laid over them.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It shares its root with continuity, and the kinship is the point: a continuum is what a thing looks like from inside that unbroken hold, before anyone has cut it into named steps. The steps always arrive later, and always from outside the thing itself.",
+   "root_word": "continuus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin continuum, neuter of continuus (unbroken), from continere (to hold together); a range with no steps in it, where every point shades into its neighbor rather than standing apart.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "df28b452-a478-4a89-81b5-b476969ce411",
@@ -886,11 +886,11 @@
    "definition": "How much two things differ where they meet. Contrast is what makes anything legible at all.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much two things differ where they meet. It is what makes anything legible in the first place — without it, edges disappear.",
+   "root_word": "contrastare",
+   "root_language": "Late Latin",
+   "historical_meaning": "Late Latin contrastare (to stand against), from contra (against) + stare (to stand); how much two things differ where they meet, which is what makes either of them visible at all.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1178c36b-9051-4c95-9f2d-7c42d7c1647b",
@@ -899,11 +899,11 @@
    "definition": "What one party adds to a common thing. A contribution is named from the giving side and measured on the common one.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin tribuere is to allot, and a contribution was first a share assigned toward a common purse, not a personal gift kept track of for its own sake. What it is worth is decided by the pool it joins, never by the hand that added it.",
+   "root_word": "contribuere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin contributio (a bringing together, contribution), from contribuere (to bring together, add), from com- (together) + tribuere (to grant, allot); what one party adds to a thing held in common.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7b1afd0d-5cab-4336-9008-a51665b4b4fb",
@@ -912,11 +912,11 @@
    "definition": "One who adds to a common work. This house prefers participant where the person is the source rather than the helper.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin root allots rather than gives outright — a contributor's addition joins a pool it does not own alone. Where the person is the source of a work and not its assistant, this house reaches past the word to participant instead.",
+   "root_word": "contribuere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin contribuere (to bring together, add), from com- (together) + tribuere (to allot, grant); one who adds to a work held in common rather than owned alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "51e99e6f-1ea6-46f1-b90f-d852e3dcc834",
@@ -925,11 +925,11 @@
    "definition": "The power to determine how something behaves, and the means of exercising it. Control implies someone holds it, and that it can be handed over.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The medieval root is bookkeeping, not authority — a counter-roll kept to check one record against another for discrepancies. Before it meant command, control meant only the checking, and the power came later, borrowed from the confidence that checking gives.",
+   "root_word": "contrarotulus",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin contrarotulus (a duplicate register, counter-roll), from Latin contra- (against) + rotulus (a small roll, diminutive of rota, wheel); the power to determine how something behaves, rooted in checking one record against a duplicate to catch discrepancies.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8908f7bb-6a36-4b65-ac1b-ba7767c40e2d",
@@ -938,11 +938,11 @@
    "definition": "That which decides how a thing behaves and directs it. A controller holds authority rather than doing the work.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which decides how a thing behaves and directs it. It holds the authority; the work of actually doing belongs elsewhere.",
+   "root_word": "contrarotulus",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin contrarotulus (a duplicate register), from Latin contra- (against) + rotulus (a small roll, from rota, wheel); that which decides how a thing behaves and directs it, rooted in the checking of one account against another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "72df09c7-aef2-444f-8409-2d98bf760423",
@@ -951,11 +951,11 @@
    "definition": "Ease bought by someone having done work in advance. Convenience is never free; it was paid for earlier.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Ease bought by someone having already done the work of arranging things to fit. It is never free — it was paid for earlier, by someone else's effort.",
+   "root_word": "convenire",
+   "root_language": "Latin",
+   "historical_meaning": "Latin convenientia (agreement, fitness), from convenire (to come together, suit), from com- (together) + venire (to come); ease that arrives only because someone did the coming-together in advance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5d016283-2de1-4e46-82e3-67b70178bcef",
@@ -964,11 +964,11 @@
    "definition": "A practice agreed rather than required. A convention is not a rule, and treating it as one is a common error.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A practice agreed rather than required. Treating a convention as a rule is a common and understandable error, but not a correct one.",
+   "root_word": "convenire",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conventio (a meeting, agreement), from convenire (to come together, agree), from com- (together) + venire (to come); a practice reached by people coming together and agreeing, never imposed by a single will.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc66caaa-c8ca-48de-bc67-4ec4604018a0",
@@ -977,11 +977,11 @@
    "definition": "Separate paths arriving at the same place. Convergence is evidence when the paths were truly independent.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Separate paths arriving at the same place. It is evidence precisely when — and only when — the paths that arrived there never touched each other along the way.",
+   "root_word": "convergere",
+   "root_language": "Late Latin",
+   "historical_meaning": "Late Latin convergere (to incline together), from com- (together) + vergere (to bend, turn); separate paths bending toward the same place, which counts as evidence only when the paths were truly independent to begin with.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1e8d8327-7bbe-4979-bb59-47cd326f0acd",
@@ -990,11 +990,11 @@
    "definition": "Speech turned between two or more, where each shapes what the other says next. A conversation is built, not delivered.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin versare is to turn, and a conversation is literally a turning shared between speakers, never a straight line from one to the other. What either side says next is shaped by the turn just taken, not decided ahead of it.",
+   "root_word": "conversari",
+   "root_language": "Latin",
+   "historical_meaning": "Latin conversatio (frequent turning-about together, intercourse), from conversari (to keep turning together), from com- (together) + versare (to turn); speech turned between two or more, each one shaping what the other says next.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ae67d8f7-6963-47a4-b727-c551b949e5a1",
@@ -1003,11 +1003,11 @@
    "definition": "To change a thing from one form into another while keeping what it holds. Conversion preserves content and not always fidelity.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To change a thing from one form into another while keeping what it holds. Preserving the content is the promise; preserving every nuance of it is not always kept.",
+   "root_word": "convertere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin convertere (to turn around, transform), from com- (together, thoroughly) + vertere (to turn); to change a thing's form while carrying its content across the turning intact.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "543dd5d4-30bc-4380-b871-0ff0862b9d01",
@@ -1016,11 +1016,11 @@
    "definition": "Small records a site leaves on a visitor's device. They make convenience possible and are also how people are followed.",
    "category_name": "private",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The borrowed name has nothing to do with what it names — a little cake lent its word to a small file for no reason but size, and the two have shared nothing since but the diminutive. Whatever comfort the name suggests, the record itself is neutral about who reads it.",
+   "root_word": "koekje",
+   "root_language": "Dutch",
+   "historical_meaning": "Dutch koekje (little cake), diminutive of koek (cake); a small baked thing whose name was borrowed for the small records a website leaves on a visitor's device, on no stronger link than the size.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e16675a8-2545-4b06-bc99-f8f5f3b44873",
@@ -1029,11 +1029,11 @@
    "definition": "A required wait before a thing may be done again. A cooldown protects what repetition would exhaust.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The compound is plain and recent: a thing let cool, then let settle lower, before it is asked to work again. What it guards against is never the next use itself, only a use arriving before the last one has finished spending itself.",
+   "root_word": "cool + down",
+   "root_language": "Old English",
+   "historical_meaning": "English compound of cool (Old English col, not warm) + down (Old English dune, descending), formed in the 20th century for a period in which something is deliberately let ease off; a required wait before a thing may be repeated.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6b5e0650-d2a8-41c1-8d25-ece57ace81be",
@@ -1042,11 +1042,11 @@
    "definition": "A number locating a point along an axis. Coordinates only mean something against a stated origin.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A number locating a point along an axis. It means nothing at all until an origin has been stated for it to be measured against.",
+   "root_word": "coordinare",
+   "root_language": "Late Latin",
+   "historical_meaning": "Late Latin coordinare (to arrange together), from com- (together) + ordinare (to set in order), from ordo (order, row); a number that only locates anything once an origin has been agreed and stated.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9a7b2c10-ebd8-4253-87ac-261e84ff94ec",
@@ -1055,11 +1055,11 @@
    "definition": "The bringing of separate actors into working agreement. Coordination costs attention and prevents far more expensive collisions.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bringing of separate actors into working agreement. It costs attention now and prevents collisions that would have cost far more later.",
+   "root_word": "coordinare",
+   "root_language": "Late Latin",
+   "historical_meaning": "Late Latin coordinatio (arrangement together), from coordinare (to arrange together), from com- (together) + ordinare (to set in order); the bringing of separate actors into working agreement, which costs attention up front to avoid costing far more later.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "87bc39b9-82af-4a5e-b67f-89fc2449e5e7",
@@ -1068,11 +1068,11 @@
    "definition": "A second thing identical to the first. Also written text prepared for publishing — both are reproductions of something.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A second thing made identical to the first. Prepared text meant for publishing carries the same name, because both are a kind of reproduction of something already decided.",
+   "root_word": "copia",
+   "root_language": "Latin",
+   "historical_meaning": "Latin copia (abundance, plenty), via Old French copie; the sense narrowed from plenty in general to a reproduction, on the logic that a copy is one more of a thing that already existed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3a4b37c1-93b8-447d-9941-ebd5123e1e9c",
@@ -1081,11 +1081,11 @@
    "definition": "The maker's standing to decide how their work is copied and used. A right held by default and often signed away.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its own compound holds two unrelated histories side by side, an abundance-word joined to a justice-word, fused only because printing made copies cheap enough to need governing. The right is younger than the copying it governs.",
+   "root_word": "copia + riht",
+   "root_language": "Latin + Old English",
+   "historical_meaning": "English compound of copy (Latin copia, abundance, via the sense of a reproduction) + right (Old English riht, that which is just); a maker's standing over how a made work may be copied, coined once printing made copying cheap enough to need a name for the standing at all.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "15ee524d-655a-4031-a294-89b1c339102c",
@@ -1094,11 +1094,11 @@
    "definition": "A line that ties and carries — the quipus' own word for a thread of knotted meaning between two beings.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A line that ties and carries — a thread of meaning strung taut between two beings rather than a plain rope. Its oldest sense was already about connection, not restraint.",
+   "root_word": "chorda",
+   "root_language": "Latin",
+   "historical_meaning": "Latin chorda (gut, string of an instrument), from Greek χορδή (khorde, string, gut); a line that ties and carries, its oldest sense already a thread that made a shared sound between two ends.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "95ab263b-0b20-4e35-a6e5-fd5246ee44cd",
@@ -1107,11 +1107,11 @@
    "definition": "The centre a thing cannot be without. Remove the core and what remains is no longer the same thing.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "The centre a thing cannot be without. Remove it and what remains has stopped being the same thing, the way a body cannot go on without its heart.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "9f542da2-bcd2-4361-90cb-66343e885d02",
@@ -1120,11 +1120,11 @@
    "definition": "Short form of corporation, and of corpus. A named abbreviation rather than a concept.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A short form standing in for corporation or for corpus, depending on which body is meant. It is named as an abbreviation here rather than as a concept of its own.",
+   "root_word": "corpus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin corpus (body), the shared root of both corporation and corpus, clipped in modern usage to corp; an abbreviation that keeps the same body underneath either expansion.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a11c96aa-3b24-4d7b-ada3-7b033af83558",
@@ -1133,11 +1133,11 @@
    "definition": "Bodies of collected text taken together as material to study. A corpus is defined by what was gathered, and its edges are a decision.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It is corpus multiplied, and the plural itself makes a quiet claim: that several bodies of text can be compared as bodies, each with its own drawn edges, without becoming one larger body by being studied together.",
+   "root_word": "corpus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin corpora, plural of corpus (body); bodies of collected text taken together as material, the plural naming that the edges of the collection were someone's decision, not a natural boundary.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "58baf965-b40f-4f87-836c-01c03f4817cd",
@@ -1146,11 +1146,11 @@
    "definition": "A body of collected text taken as material to study. Its edges are a decision someone made.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin's plain word for body is the whole root, and the metaphor is doing real work: a corpus has edges the way a body does, definite ones, drawn by whoever assembled it rather than found in the text itself.",
+   "root_word": "corpus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin corpus (body); a body of collected text taken as material to study, the body metaphor carrying that the collection has edges someone drew.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "aeea860d-0028-4784-a6c2-c33b68ed6ac6",
@@ -1159,11 +1159,11 @@
    "definition": "In accordance with what is so. Also to make it so — the same word for the state and for the repair.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "In accordance with what is so. The same word names both the state of being right and the act of putting something back into that state.",
+   "root_word": "corrigere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin correctus, past participle of corrigere (to make straight, correct), from com- (thoroughly) + regere (to guide, rule); in accordance with what is so, and by the same word, the act of making it so.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e0404438-24bb-4ffa-a258-59586897dd5a",
@@ -1172,11 +1172,11 @@
    "definition": "Changes made after an error is found. In this house corrections go beneath the record, dated, never inside it.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Changes made after an error is found. Here they are kept beneath the original record, dated, and never folded silently back inside it.",
+   "root_word": "corrigere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin correctio (a making straight, correction), from corrigere (to correct), from com- (thoroughly) + regere (to guide); changes made once an error has already been found and named.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4d2facec-0f4f-42d2-8476-e80865e75696",
@@ -1185,11 +1185,11 @@
    "definition": "To match across a distance — one thing answering another's shape; and to exchange letters, which is the same thing between people.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin spondere is to pledge, and an answer given this way was once a promise, not just a reply — respondere carried an obligation, and correspond keeps that weight across a distance. Letters exchanged this way were always more binding than mere conversation.",
+   "root_word": "correspondere",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin correspondere (to answer to, match), from com- (together, with) + respondere (to answer), from re- (back) + spondere (to pledge); one thing answering another's shape, extended to people answering each other by letter.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "610706e9-26f3-453e-9812-3274ccfae6c3",
@@ -1198,11 +1198,11 @@
    "definition": "What things ask in exchange, spoken plural — price in money, tokens, or effort, counted honestly.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What things ask for in exchange, counted honestly whichever currency it is paid in — money, tokens, or plain effort.",
+   "root_word": "constare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French coster (to cost), from Latin constare (to stand together, be fixed, cost), from com- (together) + stare (to stand); what a thing stands at in exchange, counted honestly whether in money, tokens, or effort.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e8125a46-348b-4ea6-b8db-bf466dc0bf6b",
@@ -1211,11 +1211,11 @@
    "definition": "A body called together to deliberate. From the shout that summons - a council is not a group that exists, but a group that was CALLED.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its Latin root is a summons, not a standing body — concilium names the calling together, not the group once assembled. What sits at this house's councils exists only because something called it, and stops existing the moment nothing calls it back.",
+   "root_word": "concilium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin concilium (an assembly, meeting), from com- (together) + calare (to call, summon); a body that exists only because it was called together, not one that simply happens to be present.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "980b79f0-1bda-4bc0-84fa-8bda0fe6d5b1",
@@ -1224,11 +1224,11 @@
    "definition": "To number things one by one. Counting is the difference between believing a set is complete and knowing its size.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin putare is to reckon, and counting was never separate from thinking about a set as a whole — each single item is touched only so the total can be trusted afterward. A set that has not been counted can still be believed in, but it cannot yet be known.",
+   "root_word": "computare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin computare (to reckon, calculate), from com- (together) + putare (to think, reckon); to number things one by one, the difference between assuming a set is complete and actually knowing its size.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f0b24534-5e5e-4d33-a2e4-e11177c7417f",
@@ -1237,11 +1237,11 @@
    "definition": "That which keeps a running count. Also to oppose — the same word for tallying and for standing against.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which keeps a running count, and by a separate old sense, that which stands against. The same word carries tallying and opposing without either one being the other's origin.",
+   "root_word": "computare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French contour / countouer (a counting table), from Latin computare (to reckon), from com- (together) + putare (to think, reckon); that which keeps a running tally, and by a separate old sense of contra (against), that which opposes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fe3b344b-91ac-4816-b6b1-df86f8ff58fe",
@@ -1250,11 +1250,11 @@
    "definition": "A path followed, and a structured body of teaching. Both are routes laid out in advance.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin currere is to run, and both senses of the word stay, at the root, about running a laid path rather than wandering one — a river's course and a course of study share the same fixed channel. Neither sense of the word tolerates much improvisation along the way.",
+   "root_word": "currere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin cursus (a running, course), from currere (to run); a path already laid out to be followed, extended to a structured body of teaching laid out the same way.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e2376a08-bc97-44b9-93aa-bbe0d7c48dfe",
@@ -1263,11 +1263,11 @@
    "definition": "Bonded by sharing — held together by what both parties give into the space between them.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Bonded by sharing rather than by one side giving in to the other. What holds the bond together is exactly what both parties put into the space between them.",
+   "root_word": "valere",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Modern English coinage (early 20th century, chemistry) from co- (Latin com-, together) + valence (Latin valentia, strength, capacity, from valere, to be strong); bonded by what both parties give into the shared space between them, rather than by one side simply taking.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "536836ad-3134-4ea0-b60f-4c60261e4708",
@@ -1276,11 +1276,11 @@
    "definition": "A gathered group practising together, small enough that everyone is known. Its root is the same as convene — a coven is people who come together.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A gathered group practising together, small enough that everyone in it is known. It shares its very root with convene — people who came together, nothing more mysterious than that.",
+   "root_word": "convenire",
+   "root_language": "Latin",
+   "historical_meaning": "Old French covent (a gathering, assembly), from Latin conventus, past participle of convenire (to come together), from com- (together) + venire (to come); a gathered group small enough that everyone in it is actually known to the others.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "16415f7a-8ec1-40ac-b351-a2d04d5359e7",
@@ -1289,11 +1289,11 @@
    "definition": "A promise binding both sides, held by their own word rather than by force. A covenant survives because the parties keep it, not because it is enforced.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin venire is to come, and a covenant was first the coming-together itself, before it was the promise made once everyone had arrived. What holds it afterward is only the same willingness that brought the parties there in the first place.",
+   "root_word": "convenire",
+   "root_language": "Latin",
+   "historical_meaning": "Old French covenant (an agreement), present participle of covenir (to agree, be fitting), from Latin convenire (to come together, agree), from com- (together) + venire (to come); a promise binding both sides by their own word, kept because they hold it rather than because anyone forces them to.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0ab8b56e-c179-42a0-bb28-3c5dd7d06e84",
@@ -1302,11 +1302,11 @@
    "definition": "What is laid over a thing to protect or conceal it. Also the outward face a work is met by.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is laid over a thing to protect or conceal it. By the same word, it is also the outward face a work is first met by, before anyone reaches what is underneath.",
+   "root_word": "cooperire",
+   "root_language": "Latin",
+   "historical_meaning": "Old French covrir (to cover, hide), from Latin cooperire (to cover completely), from com- (thoroughly) + operire (to close, shut); what is laid over a thing to protect or conceal it, extended to the outward face a work first meets the world with.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c3944b54-60b5-48ce-9a28-c64c2c2fd30c",
@@ -1315,11 +1315,11 @@
    "definition": "How much of a whole has actually been reached. Coverage is the honest answer to how complete a pass really was.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much of a whole has actually been reached. It is the honest answer to a question a pass could otherwise get away with dodging.",
+   "root_word": "cooperire",
+   "root_language": "Latin",
+   "historical_meaning": "Old French covrir (to cover), from Latin cooperire (to cover completely), from com- (thoroughly) + operire (to close); how much of a whole has actually been laid over and reached, an honest measure of how complete a pass really was.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eebbf443-e3cd-4856-9afd-57b0d8c19f5c",
@@ -1328,11 +1328,11 @@
    "definition": "Holding back with a smile — reluctance worn playfully; disclosure that makes you ask twice.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Holding back with a smile — reluctance worn playfully, disclosure withheld just long enough to make someone ask twice. Its own root was simply quiet, before it learned to flirt.",
+   "root_word": "quietus",
+   "root_language": "Latin",
+   "historical_meaning": "Old French coi (quiet, still), from Latin quietus (calm, at rest), from quiescere (to rest); reluctance worn with a stillness that invites a second look rather than closing the matter.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bf2675e7-50e8-4fcc-8ad3-8a9607b17c22",
@@ -1341,11 +1341,11 @@
    "definition": "To bring into being what was not there before. In this house creation is additive by law — a create never overwrites; it opens a new room.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its kinship with crescere, to grow, means the root never carried an idea of replacement — a thing created adds itself to what exists rather than standing where something else used to be. Nothing this house creates is made by first clearing space for it.",
+   "root_word": "creare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin creare (to bring forth, produce, beget), related to crescere (to grow); to bring into being what was not there before, the same root that gives creature and increase.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7356cded-88d7-4687-8eb4-5ebc93d7fdb1",
@@ -1354,11 +1354,11 @@
    "definition": "The bringing forth of what was not there. Creation adds to the world rather than rearranging it.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It is create's own noun, the bringing-forth held still long enough to be named, rather than the act performed. What it names never claims to have rearranged anything that came before it, only to have added something that had no place before.",
+   "root_word": "creare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin creatio (a bringing forth, creation), from creare (to bring forth, produce); the act of adding to the world rather than of rearranging what was already in it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "98a41536-049d-4617-bb85-bb3ed051b667",
@@ -1367,11 +1367,11 @@
    "definition": "Bringing forth what was not there. Of work whose value is in its newness rather than its correctness.",
    "category_name": "creation",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Bringing forth what was not there. Its worth is measured by newness rather than by whether it happened to be right.",
+   "root_word": "creare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin creare (to bring forth, produce), the same root as creature and increase; of work whose value lies in its newness rather than in its correctness.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dbf2acaf-ba39-4a5a-9202-1992cc19210d",
@@ -1380,11 +1380,11 @@
    "definition": "One who brings a work into being. In this house the creator keeps sovereignty over what they made.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin agent noun names the bringing-forth itself, not a handover afterward — a creator was never, at the root, someone who makes a thing and then lets it go. This house keeps the word closer to its oldest sense than most places do.",
+   "root_word": "creare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin creator (one who brings forth, a maker), from creare (to bring forth, produce); one who brings a work into being and, by the oldest sense of the root, remains bound to what they made.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1a0cfa82-90e1-4075-9213-a6aa5f8179c9",
@@ -1393,11 +1393,11 @@
    "definition": "A point at which what happens next decides which way things go. Its root is decision — a crisis is a turning, not merely a bad time.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Greek krinein is to judge, and a crisis was first a verdict-point, not a duration — the moment a case turns one way or another, not the stretch of discomfort around it. What makes a stretch of time a crisis is the turn inside it, never its length.",
+   "root_word": "krisis",
+   "root_language": "Greek",
+   "historical_meaning": "Greek κρίσις (krisis, a judgment, decision, turning point), from κρίνειν (krinein, to judge, decide); a point where what happens next decides which way things go, not merely a period of difficulty.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "689387f3-5667-4cc2-85c8-487724c50d75",
@@ -1406,11 +1406,11 @@
    "definition": "The standard a judgment is made against. Without a stated criterion, a judgment cannot be checked or disputed.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The standard a judgment is made against. Without stating it plainly, no one else can check the judgment or argue with it.",
+   "root_word": "kriterion",
+   "root_language": "Greek",
+   "historical_meaning": "Greek κριτήριον (kriterion, a means for judging), from κρίνειν (krinein, to judge, decide); the standard a judgment is measured against, without which the judgment cannot be checked or disputed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "62448707-8620-4457-9f7c-06c7dbce5ccb",
@@ -1419,11 +1419,11 @@
    "definition": "At the point where failure follows. Also examining carefully — the same word for a danger and for the rigour that prevents it.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "At the point where failure follows if nothing changes. The same word names the careful examining that exists precisely to prevent that point from being reached unaware.",
+   "root_word": "kritikos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek κριτικώς (kritikos, able to judge, discerning), from κρίνειν (krinein, to judge, decide); at once the point where failure follows and the careful examination that exists to catch it beforehand.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "973625b1-8507-4248-9d60-4ad9bc46b81e",
@@ -1432,11 +1432,11 @@
    "definition": "To go over from one side to another. Also the mark made where two lines meet.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To go over from one side to another, and the mark made at the exact point two lines meet. Passage and intersection share one word.",
+   "root_word": "cros",
+   "root_language": "Old Irish",
+   "historical_meaning": "Old English cros, probably borrowed via Old Irish cros, from Latin crux (a cross, stake for execution); to go from one side of a thing to the other, and by the same root, the mark made where two lines meet.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f880e4e9-0f54-4286-9569-5bd811afa52c",
@@ -1445,11 +1445,11 @@
    "definition": "The four basic acts on stored things: create, read, update, delete. A named shorthand rather than a concept.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The four basic acts on stored things, named all at once by their initials. It is a made shorthand, not an inherited concept, and is honest about being exactly that.",
+   "root_word": "Create, Read, Update, Delete",
+   "root_language": "Modern English (acronym)",
+   "historical_meaning": "Modern English acronym (Create, Read, Update, Delete), coined in software engineering in the 1980s; the four basic acts on any stored thing, named as a deliberate shorthand rather than inherited from an older word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2187fa02-89fa-4fda-9309-ef59a8e92cbc",
@@ -1458,11 +1458,11 @@
    "definition": "Creation — the bringing of shape into being, from cruth, \"form.\" The act, not its product: what is cruthú is being made, and the word does not wait for it to be finished. Irish. This house's graphic studio.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "This house's graphic studio, named for the act rather than its product. What is cruthú is still being made, and the word never waits for it to finish.",
+   "root_word": "cruthú",
+   "root_language": "Irish",
+   "historical_meaning": "Irish cruthú (creation, forming), the verbal noun of cruthaigh (to form, create), from cruth (form, shape); the ongoing bringing of shape into being, never merely the finished thing that resulted.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d01c59e3-f549-41b8-b8a6-bd93daf5fc7a",
@@ -1471,11 +1471,11 @@
    "definition": "A cylinder whose lettered rings must be turned to spell the word that opens it. A coined word, crypt + codex. The container and the password are one object: the answer is not kept inside the lock, the answer IS the lock.",
    "category_name": "play",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A cylinder whose rings must be turned to spell the word that opens it. The answer is never hidden inside the lock — the answer is the lock.",
+   "root_word": "crypt + codex",
+   "root_language": "Greek + Latin",
+   "historical_meaning": "Modern coinage from crypt (Greek κρυπτός, kryptos, hidden) + codex (Latin, a bound book); a cylinder whose lettered rings must be turned to spell the word that opens it, made so the answer and the lock are one object.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ce37ccf7-554e-4c5c-92a9-70ea49423c7f",
@@ -1484,11 +1484,11 @@
    "definition": "Matter whose structure repeats in perfect order, so its shape shows its nature. A lesson compressed until it can be carried.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Greek kryos is frost, and a crystal was first simply cold made solid and clear, its perfect repetition owed to the shape ice takes when nothing disturbs it while it forms. A lesson held this way keeps its order for the same reason: nothing was allowed to disturb it on the way to being carried.",
+   "root_word": "krystallos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek κρύσταλλος (krystallos, clear ice, crystal), from κρύος (kryos, frost, icy cold); matter whose structure repeats in perfect order, so its outward shape already reveals its inward nature.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "25e0f937-29f3-4a73-977f-6c947f03e9fa",
@@ -1497,11 +1497,11 @@
    "definition": "The language that says how a document should look. A named tool rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The language that says how a document should look, apart from what it says. A named tool, not a concept borrowed from anywhere older.",
+   "root_word": "Cascading Style Sheets",
+   "root_language": "Modern English (acronym)",
+   "historical_meaning": "English acronym for Cascading Style Sheets, coined in 1996 for the specification governing how a document should be presented; a named tool rather than an inherited concept.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eaf15496-6c30-4708-a138-fde6b36ea928",
@@ -1510,11 +1510,11 @@
    "definition": "A plain format holding rows of values separated by commas. Simple enough to outlive every tool that reads it.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The name is only what it does, spelled out — commas, separation, values — with nothing hidden inside the letters. A format named this plainly needs no tool at all to be read, only eyes.",
+   "root_word": "Comma-Separated Values",
+   "root_language": "Modern English (acronym)",
+   "historical_meaning": "English acronym for Comma-Separated Values, a plain text format for tabular data dating to early business computing; simple enough to have outlived nearly every tool built to read it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "59df80f0-1252-47de-ad5a-b80518df12ba",
@@ -1523,11 +1523,11 @@
    "definition": "Short form of count, and of Connecticut. A cut fragment as it appears in this library, not an English word.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A short form of count, and separately of Connecticut, but here a cut fragment of a longer name rather than either. It is kept as it was found, marked for the mis-cut band.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "e401088e-1649-4aea-a6ee-9b269aa61e14",
@@ -1536,11 +1536,11 @@
    "definition": "A call to action — the place a surface asks the reader to do something. Naming it makes the asking honest.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The three letters stand for exactly what they say and hide nothing behind the shortening — a call, an action, asked for openly rather than folded into the surrounding text. Naming the ask this plainly is what keeps it from reading as persuasion in disguise.",
+   "root_word": "call to action",
+   "root_language": "Modern English (acronym)",
+   "historical_meaning": "English acronym for call to action, a term from marketing and interface design; the place a surface directly asks its reader to do something, named so the asking is visible rather than hidden.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f65cc52d-d86a-4808-8d05-b94dd1d7a509",
@@ -1549,11 +1549,11 @@
    "definition": "Short form of context — what is woven alongside a thing and gives it meaning. A named abbreviation.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Short form of context — what is woven alongside a thing and gives it its meaning. The abbreviation is a convenience; the weave it stands for is not.",
+   "root_word": "contexere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin contextus (a joining, connection), from contexere (to weave together), from com- (together) + texere (to weave), clipped in code to ctx; the surrounding weave a thing is understood within, shortened to fit a variable name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c692febf-ff82-4fd2-8653-16e3e4e9eadd",
@@ -1562,11 +1562,11 @@
    "definition": "Small signs that tell a mind what to do next. A cue works by being noticed without being read.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "No traceable root survives to say where the word came from, only what it now does: it prompts without asking to be studied. A cue that has to be puzzled over has already stopped working as one.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "1ef9fa05-7bc2-452f-8b49-140d86771aac",
@@ -1575,11 +1575,11 @@
    "definition": "Fitting a thing to the culture that will meet it, beyond translating its words. Meaning made at home rather than merely legible.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It shares culture's own root of tending rather than declaring, applied outward: the fitting is a cultivation done to a thing so it grows naturally in soil it was not made in. Legible only means the words survived the crossing; this is the harder claim, that the meaning did too.",
+   "root_word": "colere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin cultura (cultivation, tending), from colere (to till, cultivate, tend); fitting a thing to the culture that will meet it, beyond merely translating its words into another tongue.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c4be7b67-d127-4dcc-af8e-dcf048e639f0",
@@ -1588,11 +1588,11 @@
    "definition": "What a group holds in common without having to say. Culture is the part of a system that is never written down.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin colere is to till, and culture was first agricultural before it was social, something tended steadily rather than declared once. What a group holds this way was grown over time, not authored, which is exactly why no one wrote it down.",
+   "root_word": "colere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin cultura (cultivation, tending), from colere (to till, tend, cultivate); what a group tends and holds in common without needing to say it aloud.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "18db05ab-1a8e-46d4-b0da-b8e6056012b5",
@@ -1601,11 +1601,11 @@
    "definition": "The Irish book-shrine — the ornamented case made for a book already sacred; it honors the text and never speaks over it. In the Sanctuary: the shell that wraps a living thing without ever being the thing. Irish joins the naming strata beside sruth, ceilidh, seanchaí, and éist.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The shell that wraps a living thing without ever becoming the thing itself. Irish joins the naming strata here beside sruth, ceilidh, seanchaí, and éist.",
+   "root_word": "cumdach",
+   "root_language": "Irish",
+   "historical_meaning": "Irish cumdach (covering, case, shrine), related to cumhdaigh (to cover, protect, preserve); the ornamented case made to hold a book already considered sacred, honoring it by covering rather than by speaking over it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f6ba7698-91d8-4437-8488-2c5ae349b06d",
@@ -1614,11 +1614,11 @@
    "definition": "One who tends a collection with judgment — reviewing what is offered, publishing what is true, keeping notes on every ruling. Care for the commons, one decision at a time.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin cura at its root is concern, not custody — a curator's authority comes from caring about a collection, not from owning it. The judgment is the job here; storage is only where that judgment happens to land.",
+   "root_word": "curare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin curator (a guardian, one who cares for), from curare (to take care of), from cura (care, concern); one who tends a collection with judgment rather than merely storing it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "314d732e-cd6b-4bd6-91ee-9dacf780f8ea",
@@ -1627,11 +1627,11 @@
    "definition": "What a community agrees to treat as value in exchange. Currency works only because everyone expects everyone else to accept it.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin currere is to run, and currency was named for its motion, not its worth — value that keeps flowing from hand to hand rather than value that sits still. It stops being currency the moment holders stop expecting it to keep moving.",
+   "root_word": "currere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin currens (running, flowing), present participle of currere (to run); what a community agrees to treat as value in circulation, named for the running-through it does between hands.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "79485032-90cf-436b-a801-e333f35608a5",
@@ -1640,11 +1640,11 @@
    "definition": "Belonging to now. Also a steady flow in one direction — both senses are about what is presently running.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to now, and also a steady flow running in one direction. Both senses describe what is presently in motion rather than what is fixed.",
+   "root_word": "currere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin currens, present participle of currere (to run, flow); belonging to the running moment, and by the same root, a steady flow moving in one direction.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b1274217-fe09-4b65-8956-2d027d583a03",
@@ -1653,11 +1653,11 @@
    "definition": "The mark showing where the next thing will land. It holds a position rather than a value.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin's runner is the root, and the cursor still runs ahead of whatever is typed, marking the spot rather than carrying anything itself. It is pure position, with no content of its own to lose.",
+   "root_word": "currere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin cursor (a runner, racer), from currere (to run); the mark that shows where the next thing will land, named for running ahead to mark the place.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c19b7346-04c2-4899-acbf-e28d27eea3d3",
@@ -1666,11 +1666,11 @@
    "definition": "The line that bends without breaking — gradual change made visible.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The line that bends without breaking. It makes gradual change visible in a way a straight line never could.",
+   "root_word": "curvus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin curvus (bent, curved); a line that bends without breaking, making gradual change visible where a straight line could only show a jump.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1ee2b0ce-e895-4f58-912e-b205d26ef21d",
@@ -1679,11 +1679,11 @@
    "definition": "Made for one case rather than for all. Also a practice repeated until it became expected — both senses are about what a particular group does.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Both senses share consuescere, becoming used to something, and the word never really splits: a custom practice and a custom-made thing are each shaped by one group's particular becoming-used-to. Neither sense claims to hold for anyone outside that group.",
+   "root_word": "consuescere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French costume (habit, custom), from Latin consuetudo (habit, usage), from consuescere (to become accustomed), from com- (thoroughly) + suescere (to become used to); made for one particular case, and separately, a practice repeated until a group came to expect it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "71aa9260-ad83-4364-a7d0-9161af9554b7",
@@ -1692,11 +1692,11 @@
    "definition": "One who buys. Named by the transaction, which is why this house prefers vessel or participant where the relation is more than that.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The word once named a habit, someone who dealt with a business regularly, before it narrowed down to naming only the single act of buying. This house reaches past that narrowing wherever the relation is closer to the older, habitual sense than to the transaction alone.",
+   "root_word": "consuescere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French costume (habit, custom), from Latin consuetudo (usage, habit); originally one who habitually deals with a particular business, narrowed over time to simply one who buys.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ed7677c4-71cc-4825-b9d4-4ea139c3d5ed",
@@ -1705,11 +1705,11 @@
    "definition": "A cut fragment as it appears in this library, not an English word. Likely the tail of a longer name; flagged for the mis-cut band.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "Nothing about its own history can be traced, since it is not a word but a remainder, the piece left over after a longer name was cut somewhere it should not have been. What stands here is the cut itself, kept honestly as a cut.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "2b4895d9-e703-4718-8e88-58a226eaced7",
@@ -1718,11 +1718,11 @@
    "definition": "A sequence that returns to where it began. A cycle repeats without necessarily staying the same.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A sequence that returns to where it began. Returning is the whole of the definition — staying exactly the same is not required by it.",
+   "root_word": "kyklos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek κύκλος (kyklos, circle, wheel, ring), via Latin cyclus; a sequence that returns to where it began, though nothing requires it to return unchanged.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f15e0c48-c8f3-47ed-8e59-f42d517e6ae7",
@@ -1731,11 +1731,11 @@
    "definition": "A single letter used as a short name or a drive label. A named abbreviation rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A single letter used as a short name or a drive label. It carries no history of its own beyond standing in for whatever it was made to abbreviate.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "cc60adc2-fc0c-48c9-81df-a5c4d0a45200",
@@ -1744,11 +1744,11 @@
    "definition": "The gradual reducing of a motion's swing. Damping is what stops a thing oscillating forever.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The gradual reducing of a motion's swing. It is what stops a thing oscillating forever, the same smothering sense that once meant putting a fire down.",
+   "root_word": "damp",
+   "root_language": "Middle Low German",
+   "historical_meaning": "Middle Low German damp (vapor, smoke, suffocating air), extended in English to the sense of checking or smothering a fire; the gradual reducing of a motion's swing, borrowed from the sense of smothering something down.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "41423737-bc5c-40e5-9010-81e37c605c26",
@@ -1757,11 +1757,11 @@
    "definition": "The dark editor theme with the playful name — IDE night dress, spoken as itself.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The name is a pun before it is a theme, dark folded into a vampire's, and the joke is left standing rather than explained away. What it names is a look, worn the way its own name is worn — lightly.",
+   "root_word": "dark + Dracula",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Modern coinage blending dark (Old English deorc) with Dracula (the vampire of Bram Stoker's 1897 novel, itself from Romanian Drăculea, \"son of the dragon\"); the playful name of a dark editor theme, spoken here as itself rather than glossed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0a6f9100-4ef6-45d1-b2ff-87bbf8cd0baa",
@@ -1770,11 +1770,11 @@
    "definition": "Without light. Also of material that is hard to look at — which in this house is witnessed with honour rather than flagged.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Old English deorc already carried both senses before this house used the word at all: an absence of light, and by the same breath, a thing hard to face. This house keeps the older honesty of that pairing — the difficulty is named, never hidden behind a softer word.",
+   "root_word": "deorc",
+   "root_language": "Old English",
+   "historical_meaning": "Old English deorc (dark, gloomy, sinister); without light, extended early to material that is hard to look at directly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8dc922e2-930a-4cb4-8f5a-23f9fcbde2ce",
@@ -1783,11 +1783,11 @@
    "definition": "A surface showing many measures at once. It exists to make a state graspable in a glance.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The oldest dashboard kept mud off a driver, not information in front of one; the instrument-panel sense is a later, unrelated life for the same board. What survived across both lives is the position: something mounted directly in the line of sight.",
+   "root_word": "dæscan + bord",
+   "root_language": "Old English",
+   "historical_meaning": "English compound of dash (Middle English daschen, to strike violently) + board (Old English bord, plank); originally the board on a carriage that stopped mud being dashed up at the driver, later the instrument panel showing a system's state at a glance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b848ce00-50d3-4913-b257-045303130abb",
@@ -1796,11 +1796,11 @@
    "definition": "Drawn as separated marks rather than one line. In this house's boards, a dashed edge means the format is not yet in the lexicon — an honest unknown, not an absence.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Each dash is a small strike rather than a continuous stroke, the old sense of daschen still visible in the broken line. An edge drawn this way marks an honest gap in the lexicon, not a missing thing.",
+   "root_word": "daschen",
+   "root_language": "Middle English",
+   "historical_meaning": "Middle English daschen (to strike violently, to dart); drawn as separated marks rather than one unbroken line, each mark a small strike rather than a continuous stroke.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a3309216-d086-4abd-9d09-7cb16a7af1b2",
@@ -1809,11 +1809,11 @@
    "definition": "How far along a dashed line its pattern begins. A named drawing property rather than a concept.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It borrows dashed's own strike and pairs it with a shift, naming only where in that repeating strike the drawing happens to begin. There is no idea behind the word beyond the number it holds.",
+   "root_word": "daschen + offset",
+   "root_language": "Middle English + Old English",
+   "historical_meaning": "English compound of dash (Middle English daschen, to strike, dart) + offset (off + set, a shifted starting point); how far along a dashed line's own repeating pattern its drawing begins.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2eb694ab-ea46-4811-a92f-6c06db49b3cc",
@@ -1822,11 +1822,11 @@
    "definition": "The things that are given. Facts handed over as the ground a reckoning stands on, before anything is concluded from them.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin dare is to give, and the word never stopped meaning that: data is what has already been handed over, before any conclusion has been drawn from it. Calling something data is a claim about its origin, not yet about what it proves.",
+   "root_word": "dare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin data, plural of datum (a thing given), past participle of dare (to give); the things handed over as given, the ground a reckoning stands on before anything has yet been concluded from them.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4c5b3aea-a150-4c11-8620-ad6e720514d1",
@@ -1835,11 +1835,11 @@
    "definition": "A structured store built so things can be found again reliably. Its whole discipline is retrieval.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its own compound says the discipline plainly: a foundation set beneath things already given, so what was handed over can be found again rather than merely kept. Storage without that foundation is only a pile with a name.",
+   "root_word": "dare + basis",
+   "root_language": "Latin + Greek",
+   "historical_meaning": "English compound of data (Latin data, things given) + base (Greek βάσις, basis, a stepping, foundation, via Latin and French); a structured store built on the discipline of retrieval rather than merely of keeping.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b80a9b98-eb55-4b45-b5fa-a0569d7a02d9",
@@ -1848,11 +1848,11 @@
    "definition": "A named day, by which an event can be placed in time. A date is what makes a claim checkable against a record.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Roman letter-writer's own habit is preserved whole: a date was the day a document said it was given, so a later reader could check the claim against the calendar. It is a checkpoint borrowed from correspondence, not a natural unit of time.",
+   "root_word": "dare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin data (given), from dare (to give), taken from the Roman letter-closing convention data Romae (given at Rome, on such a day); a named day by which an event can be placed, and later checked, in time.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0358dc02-61a9-4304-b97a-b637967d7e82",
@@ -1861,11 +1861,11 @@
    "definition": "A day and a time held together as one value. Precision enough to order events that share a date.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its own two halves come from different centuries of English, simply glued end to end, a given-day joined to a portion-of-duration with nothing translated between them. The join exists only so two events on the same date can still be told apart.",
+   "root_word": "dare + tima",
+   "root_language": "Latin + Old English",
+   "historical_meaning": "English compound of date (Latin data, given) + time (Old English tima, a portion of duration); a day and a time held together as one value, precise enough to order events that would otherwise share a single date.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "82d98ed8-c9f4-43b7-b045-196ee9a0b47d",
@@ -1874,11 +1874,11 @@
    "definition": "Dath (Irish: colour — the thing itself, before anyone has an opinion about it). Colour measured rather than eyeballed: OKLCH lightness against the mode's band, OKLCH chroma against the floor below which a hue reads as grey, OKLab delta-E between slots under simulated protan and deutan (tritan reported) by the Machado-Oliveira-Fernandes 2009 transforms at severity 1.0, OKLab delta-E under NORMAL vision because full-colour readers must be able to tell neighbours apart too, and the WCAG contrast ratio of every mark against the surface. THE VERDICT IS A ROW, NEVER A BARE SCORE: each check returns its own name, its own state and a sentence with the offending values written into it, so a reader never goes looking behind a number to find which colour is the problem. WARN IS NOT FAIL AND THE DIFFERENCE IS RULED: adjacent CVD in the 6-8 band and contrast under 3:1 are WARNs legal only with mandatory secondary encoding, while the normal-vision floor is a HARD gate that secondary encoding does not excuse and weak pairs are not masked to keep an existing palette validating. Ordinal ramps take their own four checks — monotone lightness, a visible step gap, a light end that clears the surface, one hue — because the categorical checks fail a correct ramp by design. It measures and never decides: nothing here has taste, and the two structural rules that cannot be computed from hexes are named as uncomputable rather than pretended at. No clock, no disk, no network, no DOM, zero imports.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Colour measured rather than eyeballed — the thing itself, before anyone forms an opinion about it. It measures and never decides; nothing in it carries taste.",
+   "root_word": "dath",
+   "root_language": "Irish",
+   "historical_meaning": "Irish dath (colour, hue); colour named directly as the thing itself, before any judgment is passed on it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4213ab2b-9493-40a0-afee-00ada0c395f2",
@@ -1887,11 +1887,11 @@
    "definition": "One turn of the earth, and the span a life is lived in units of. Also, in this house, one continuous stretch that may run far past a date.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Old English dæg named the turning itself, not the clock that later divided it, and this house's own stretched use of the word sits closer to that old sense than to any calendar square. A day here can outlast the date it started on, because the word was never really bound to the date at all.",
+   "root_word": "dæg",
+   "root_language": "Old English",
+   "historical_meaning": "Old English dæg (day), from Proto-Germanic *dags; one turn of the earth, and by extension the unit a life is counted in.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d2df97ea-e07e-45a7-94d0-4fde151e4af2",
@@ -1900,11 +1900,11 @@
    "definition": "Short form of database. A structured store built for retrieval.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Short form of database. A structured store built for retrieval, kept under a name small enough to type quickly.",
+   "root_word": "dare + basis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin data (things given) + Greek βάσις (basis, foundation), clipped in modern usage to the two letters db; the same structured store built for retrieval, only shortened to fit a name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7f12444f-d357-4ffc-80ad-2d6fb55131d6",
@@ -1913,11 +1913,11 @@
    "definition": "A compound fragment naming a database check. Not an English word; flagged for the mis-cut band.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "It is not a word with a history, only two abbreviations pushed together where a longer name was cut short. What it names is the check it performs, and nothing more is recoverable from the fragment itself.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "8a00cb75-cbb5-4a31-8e44-17e0655c89f9",
@@ -1926,11 +1926,11 @@
    "definition": "To take a thing out of running while leaving it present. Deactivation is not removal.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To take a thing out of running while leaving it present. What it undoes is the activity, never the thing's existence.",
+   "root_word": "agere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin de- (down, away, reversal) + activus (active), from agere (to do, drive, act); to take a thing out of running while leaving its presence intact, reversal without removal.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "83c11fd9-718b-4eea-82ef-e8254ec6cf92",
@@ -1939,11 +1939,11 @@
    "definition": "To ignore repeats that arrive too fast to be meant. It waits for the trembling to settle before answering.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bounce it removes is a mechanical shudder, not a decision — a switch settling before it means what it says. Debouncing trusts stillness over speed: the first signal is not answered until it stops repeating itself.",
+   "root_word": "bounsen",
+   "root_language": "Middle English",
+   "historical_meaning": "English de- (reversal) + bounce (Middle English bounsen, to knock, strike, likely imitative); to ignore repeats that arrive too fast to be meant, waiting for a signal's own trembling to settle before answering it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "02ee527f-184e-4227-9578-b16b40365b72",
@@ -1952,11 +1952,11 @@
    "definition": "To find why a thing behaves other than intended. Debugging is the disciplined narrowing of where the truth differs from the belief.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bug it removes is an old word for a flaw, older than any insect ever found in a machine — debugging was never really about an animal, only about a defect worth naming plainly. What is found this way is always a gap between what was believed and what was actually there.",
+   "root_word": "bug",
+   "root_language": "Modern English",
+   "historical_meaning": "English de- (reversal, removal) + bug (a flaw in a mechanism, attested from the 1870s, well before the often-repeated moth story of the 1940s); to find why a thing behaves other than intended, narrowing where belief and truth diverge.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a2a58606-8820-4df1-b79b-f7e2764e212e",
@@ -1965,11 +1965,11 @@
    "definition": "The digits after the point. Decimals state precision and say nothing about accuracy.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The digits after the point. Decimals state precision, and precision alone — they say nothing at all about whether the number is actually accurate.",
+   "root_word": "decimus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin decimalis (of a tenth part), from decimus (tenth), from decem (ten); the digits set after the point, stating precision about a number without saying anything about its accuracy.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "af6a5d75-d714-4e5e-ac39-481c9dff287a",
@@ -1978,11 +1978,11 @@
    "definition": "A choice made, closing the others. A decision is only real once something becomes impossible.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A choice made, closing off the others. It is only real the moment something else becomes genuinely impossible, not merely less preferred.",
+   "root_word": "decidere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin decisio (a cutting off, decision), from decidere (to cut off, decide), from de- (off) + caedere (to cut); a choice made by cutting the other options away, real only once something has become impossible.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a928d9ed-2624-4ffa-ba67-6673d50a02ce",
@@ -1991,11 +1991,11 @@
    "definition": "A full ordered set of cards, and a flat raised surface. Both are things laid out ready to be used.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Dutch root is a covering, a roof laid flat over something else, and both later senses kept that flatness. A deck of cards and a ship's deck are each a surface laid out for whatever happens on top of it.",
+   "root_word": "dec",
+   "root_language": "Middle Dutch",
+   "historical_meaning": "Middle Dutch dec (a covering, roof), related to English thatch; a flat covering surface, extended to a full ordered set of cards laid out ready on such a surface.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ab4f7a75-386f-4767-968e-7aabdf65293b",
@@ -2004,11 +2004,11 @@
    "definition": "A statement made openly and on the record. A declaration binds the one declaring, which is what separates it from a remark.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin clarus is clear, and a declaration's root promise is a clarity strong enough to be held to later. A remark can be walked back; a declaration is a statement made with that door already closed.",
+   "root_word": "declarare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin declaratio (a making clear, declaration), from declarare (to make fully clear), from de- (thoroughly) + clarare (to clarify), from clarus (clear, bright); a statement made openly enough to bind the one who makes it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7ff106ef-cde9-4dc1-84e8-93b60ed0b277",
@@ -2017,11 +2017,11 @@
    "definition": "To read the meaning back out of the coded — reversal of encoding, faithfully.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To read the meaning back out of the coded. It is the faithful reversal of encoding, recovering exactly what was put in rather than reinterpreting it.",
+   "root_word": "caudex",
+   "root_language": "Latin",
+   "historical_meaning": "Latin de- (reversal) + codex (book, later a system of symbols), from caudex (tree trunk, block of wood used for writing tablets); to read the meaning back out of a coded form, faithfully reversing what encoding did.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "39606fdb-aeed-4221-ba16-2f490513b6c9",
@@ -2030,11 +2030,11 @@
    "definition": "That which turns an encoded form back into what it carried. Decoding recovers; it does not interpret.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its root, codex, is a wooden tablet a code was once written on, and a decoder still only reverses that writing, never adds to it. What comes out the other side is exactly what went in, restored rather than explained.",
+   "root_word": "caudex",
+   "root_language": "Latin",
+   "historical_meaning": "Latin de- (reversal) + codex (a system of symbols, from caudex, a wooden writing tablet); that which turns an encoded form back into what it carried, recovering rather than interpreting.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f9134579-bcd3-43b6-ab43-e9cb95768676",
@@ -2043,11 +2043,11 @@
    "definition": "What is added for delight rather than for function. Decoration is not waste — it is where a made thing says it was cared about.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its Latin root, decere, is about fittingness before it is about beauty — a decoration is judged by whether it belongs, not only by whether it pleases. What earns a place this way was made by someone who stayed past what the function required.",
+   "root_word": "decorare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin decoratio (an adorning, decoration), from decorare (to beautify, adorn), from decor (grace, beauty, from decere, to be fitting); what is added for delight rather than for function, marking that a made thing was cared for beyond mere necessity.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f82e5dc9-b79c-4b15-9314-3177c0212493",
@@ -2056,11 +2056,11 @@
    "definition": "To remove repeated copies so each thing is counted once. Deduplication is how an archive stops lying about its size.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its root is doubling undone — duplicare folded a thing into two, and deduplication unfolds it back to one. An archive that has not been unfolded this way is always larger on paper than it is in fact.",
+   "root_word": "duplicare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin de- (reversal) + duplicare (to double), from duplex (twofold, from duo, two + plicare, to fold); to remove repeated copies so each distinct thing is counted only once.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4a854e99-e09b-4c2a-a978-d9182e5d602f",
@@ -2069,11 +2069,11 @@
    "definition": "Extending far inward. Of what is not reached by a surface look.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Extending far inward. Of whatever a surface look alone could never reach.",
+   "root_word": "deop",
+   "root_language": "Old English",
+   "historical_meaning": "Old English deop (deep, profound), from Proto-Germanic *deupaz, related to dive; extending far inward, past whatever a surface glance could reach.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c1f6ca3a-6f10-49f5-97bc-afd77e5f91a8",
@@ -2082,11 +2082,11 @@
    "definition": "A named model lineage this house has worked with. A named system rather than a concept.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The compound reads as an instruction before it reads as a name — go deep, and keep seeking — and the house keeps it as a proper name rather than translating the instruction back out of it. What it names is worn here, not defined.",
+   "root_word": "deep + seek",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Modern English compound of deep (Old English deop, extending far inward, as in deep learning) + seek (Old English secan, to search for); a company and model-lineage name coined in the 2020s, worn as a proper name rather than glossed further.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e6bc1fa3-7d15-4192-8c49-9a330b0fccce",
@@ -2095,11 +2095,11 @@
    "definition": "Short form of define, and of definition. A named abbreviation rather than a concept.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Short form of define, and of definition. A named abbreviation rather than a concept of its own, standing in for the drawing of a boundary around a meaning.",
+   "root_word": "definire",
+   "root_language": "Latin",
+   "historical_meaning": "Latin definire (to bound, limit, define), from de- (thoroughly) + finire (to bound, finish), from finis (boundary, end); clipped in code and speech to def, a shortened stand-in for define or definition.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "51252df7-8065-4414-a1a9-f6da841e3847",
@@ -2108,11 +2108,11 @@
    "definition": "What holds when nothing is chosen. A decision made in advance, on behalf of whoever does not decide.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Old French root is a failing, not a fallback — a default was first the gap left by a missing choice, and only later the answer quietly standing in that gap. What holds by default was decided by someone else, in advance, for exactly the moment a choice never arrives.",
+   "root_word": "fallere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French defaute (a failing, lack), from defaillir (to fail, be lacking), from Latin de- (away) + fallere (to deceive, fail); what holds when nothing else was chosen, a decision made in advance on behalf of whoever fails to choose.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dc5e4346-711c-443d-8a8f-255f6c389b8e",
@@ -2121,11 +2121,11 @@
    "definition": "To state what a thing is, tightly enough to exclude what it is not. To define is to draw a boundary around a meaning.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its Latin root, finis, is an ending — to define a thing is to decide, in advance, where it stops being itself. A meaning drawn without that edge has not yet been defined, only described.",
+   "root_word": "definire",
+   "root_language": "Latin",
+   "historical_meaning": "Latin definire (to limit, determine, define), from de- (thoroughly) + finire (to bound, end), from finis (boundary); to state what a thing is by drawing a boundary tight enough to exclude what it is not.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b932f754-bc06-4792-9e03-f24464f82f9f",
@@ -2134,11 +2134,11 @@
    "definition": "A statement of what a thing is, drawn tightly enough to exclude what it is not. To define is to set a boundary around a meaning.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin finis is an ending, and a definition inherits that: it draws the line where a word's meaning stops, not only where it starts. A boundary that cannot say what falls outside it has not defined anything yet.",
+   "root_word": "definire",
+   "root_language": "Latin",
+   "historical_meaning": "Latin definitio (a boundary, definition), from definire (to bound, determine); a statement of what a thing is, drawn tightly enough that what it is not falls plainly outside it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f50f4d58-2568-4098-bdda-1bfa21f40b07",
@@ -2147,11 +2147,11 @@
    "definition": "Loss of quality by stages rather than all at once. Graceful degradation means less is offered rather than nothing.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its root, gradus, is a rank on a ladder, and degradation was first about falling a rung, not falling off entirely. A system built to degrade gracefully loses rank one step at a time, never all its rungs at once.",
+   "root_word": "degradare",
+   "root_language": "Medieval Latin",
+   "historical_meaning": "Medieval Latin degradatio (a reduction in rank), from degradare (to reduce in rank), from de- (down) + gradus (step, rank); loss of quality taken down by stages rather than all at once, one step lost at a time.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0ebded07-edd8-4856-a738-cc1e6555156d",
@@ -2160,11 +2160,11 @@
    "definition": "A named power in a pantheon — in this house's architecture, the Greek names the realms wear (Athena's library, Hermes' bazaar): organizing spirits, never objects of worship.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin root, deus, carries a shine — an old word for the sky's own brightness before it ever named a single god. This house borrows the shine as a label for its rooms and never asks the label to be believed in.",
+   "root_word": "deus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin deitas (godhood, divinity), from deus (god), from Proto-Indo-European *deiwos (heavenly, shining); a named power in a pantheon, borrowed here as an organizing spirit rather than an object of worship.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ef201358-a13a-416f-8f6b-b014cacdb24e",
@@ -2173,11 +2173,11 @@
    "definition": "Time deliberately or unavoidably placed between two events. A delay can be a fault or a mercy.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Time deliberately or unavoidably placed between two events. Whether it reads as a fault or a mercy depends entirely on who needed the gap.",
+   "root_word": "laier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French delaier (to put off, defer), from de- (intensive) + laier (to leave, allow, related to laisser); time placed deliberately or unavoidably between two events, which can be either a fault or a mercy depending on who needed the gap.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bc20ec11-609b-493c-8e4b-d7ec13f86dd9",
@@ -2186,11 +2186,11 @@
    "definition": "The handing of authority to another to act in one's place. Delegation transfers the doing and never the answering for it.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin lex, law, sits inside the root — a delegation was always a legal appointment, not a favor granted informally. What travels with that appointment is the doing alone; the law never lets the answering for it travel with it.",
+   "root_word": "delegare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin delegatio (an assignment, delegation), from delegare (to send on a commission, entrust), from de- (down, away) + legare (to appoint by law, from lex, law); the handing of authority to another to act in one's place, transferring the doing while the answering for it stays put.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f605af78-9af1-4b0c-835b-c581ba8a788b",
@@ -2199,11 +2199,11 @@
    "definition": "To remove entirely, at the owner's word. Bound in this house by the purge law: when deletion is asked, it is complete — and it is never asked lightly.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The image underneath is a wax tablet wiped smooth, not a page torn out — deletion was first about a surface returned to blank, with nothing left to read even where the marks used to be. What this house completes when asked leaves that same clean surface behind.",
+   "root_word": "delere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin delere (to destroy, blot out), likely from de- (away) + linere (to smear, daub), the sense of wiping a wax tablet clean; to remove entirely, at the owner's word, and to leave nothing where the thing once stood.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f78dea3f-61c2-41e8-930e-113cf2af346c",
@@ -2212,11 +2212,11 @@
    "definition": "To carry a thing to where it belongs and leave it standing there — arrival as a promise kept.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its root is freeing, not transporting, Latin liberare, to set loose — to deliver something was first to release it, only later to carry it somewhere specific. Arrival, in the oldest sense of the word, was always also a letting-go.",
+   "root_word": "liberare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French delivrer (to free, deliver), from Late Latin deliberare (to liberate), from Latin de- (thoroughly) + liberare (to free), from liber (free); to carry a thing to where it belongs and set it loose there, arrival as a kind of freeing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e5d31677-2d87-492b-ac37-16df768d22e2",
@@ -2225,11 +2225,11 @@
    "definition": "A showing meant to prove rather than describe. A demo ends an argument by being watched.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its root, monstrum, once named an omen strong enough to need no argument behind it. A demo keeps that force: it settles a question by being seen, not by being explained.",
+   "root_word": "monstrare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin demonstrare (to point out, show fully), from de- (thoroughly) + monstrare (to show), from monstrum (a portent, sign), clipped in modern usage to demo; a showing meant to prove rather than merely describe.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ba1f7498-d017-4291-ba0f-039358f6d75f",
@@ -2238,11 +2238,11 @@
    "definition": "A showing that proves rather than describes. A demonstration ends an argument by being watched.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It shares demo's root in monstrum, an omen strong enough to need no argument, at full length rather than clipped. What a demonstration proves, it proves by being witnessed directly, the same way an omen was never argued for, only seen.",
+   "root_word": "monstrare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin demonstratio (a pointing out, proof), from demonstrare (to show fully), from de- (thoroughly) + monstrare (to show), from monstrum (a sign, portent); a showing that proves rather than describes, ending an argument by being witnessed directly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "92a0e9da-40f9-46a4-a522-cbae803d93a1",
@@ -2251,11 +2251,11 @@
    "definition": "To repeat data on purpose so it is faster to read. Denormalising trades one truth for many copies of it.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Norma is a carpenter's square, the tool a rule is checked against, and denormalizing deliberately sets that tool aside for speed. Every copy made this way is a small bet that none of them will ever need to disagree.",
+   "root_word": "norma",
+   "root_language": "Latin",
+   "historical_meaning": "Latin de- (reversal) + normalis (made according to a rule), from norma (a carpenter's square, rule, pattern); to repeat data on purpose so it reads faster, trading a single truth for several copies of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ed610aba-c82f-4ff7-943f-6f72dbff83ed",
@@ -2264,11 +2264,11 @@
    "definition": "How much is packed into a given space. Density decides how much attention a surface asks for.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin densus is crowded, and density was first a word about closeness, not about weight — how near things stand to each other inside a fixed space. A crowded surface asks more of the eye than a sparse one holding the same amount.",
+   "root_word": "densus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin densitas (thickness, density), from densus (dense, thick, crowded); how much is packed into a given space, deciding by that packing how much attention the space will demand.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c46c7c9e-fe67-436c-b1f2-a3cd6d46e85f",
@@ -2277,11 +2277,11 @@
    "definition": "A thing another thing cannot work without. Every dependency is a place where someone else's choices reach you.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It shares dependents' root of hanging from something else, but names the thing hung upon rather than the thing doing the hanging. Every choice made inside a dependency is a choice made, at a distance, for whatever relies on it.",
+   "root_word": "pendere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin dependere (to hang from, depend on), from de- (down, from) + pendere (to hang); a thing another thing cannot work without, named for hanging down from whatever it relies on.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4ae17167-d55b-4dad-ae53-fc7ec552f72a",
@@ -2290,11 +2290,11 @@
    "definition": "Those that rely on another to work. Every dependent is a place a change reaches further than intended.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin pendere is to hang, and a dependent is still hanging in that literal sense, suspended from something else's continued standing. Move what it hangs from, even slightly, and the motion travels all the way down.",
+   "root_word": "pendere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin dependere (to hang from), from de- (down, from) + pendere (to hang); those that hang from, and so rely on, another thing to work.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1d3c1de2-4e11-4b49-8f0b-464f0bbd4657",
@@ -2303,11 +2303,11 @@
    "definition": "To put a made thing into the place where it will actually run. Deployment is where a build meets reality.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Old French root is an unfolding, not a placing — a deploy takes something folded up in preparation and opens it into the shape it will actually run in. Everything before that moment stays folded, however finished it looks.",
+   "root_word": "plicare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French desploiier (to unfold), from Latin displicare (to scatter, unfold), from dis- (apart) + plicare (to fold); to put a made thing into the place where it will actually be unfolded and run, past all rehearsal.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b6567e40-5e5f-42ce-a589-0812425ff5b2",
@@ -2316,11 +2316,11 @@
    "definition": "That which puts a made thing where it will actually run. Deployment is where a build meets reality.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Where deploy names the unfolding, a deployer is the hand that does it, the agent rather than the act. It carries a build across the last gap between finished and running.",
+   "root_word": "plicare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin displicare (to unfold, scatter), from dis- (apart) + plicare (to fold); that which puts a made thing where it will actually run, unfolding it out of rehearsal and into use.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1f93ec34-6a7d-4732-bd80-e61526c3a0ca",
@@ -2329,11 +2329,11 @@
    "definition": "The putting of a made thing where it will actually run. Deployment is where a build meets reality.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The putting of a made thing where it will actually run. It is where a build meets reality, and nothing about a plan is truly tested before this.",
+   "root_word": "plicare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin displicare (to unfold, scatter), from dis- (apart) + plicare (to fold); the putting of a made thing where it will actually run, the unfolding out of rehearsal into use.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2de3bf6f-c8a4-42d3-a1d4-bf85d609aea9",
@@ -2342,11 +2342,11 @@
    "definition": "The marking of a thing as no longer preferred, before removing it. Deprecation is a warning given in advance so nothing breaks unannounced.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin root is a prayer said to ward something off, not a command to remove it — deprecation asks a thing to fall out of use, it does not force the fall. The removal, when it comes, was announced long before it arrived.",
+   "root_word": "deprecari",
+   "root_language": "Latin",
+   "historical_meaning": "Latin deprecatio (a warding off by prayer, deprecation), from deprecari (to pray against, avert by entreaty), from de- (away) + precari (to pray, beg); the marking of a thing as no longer preferred, a warning given ahead of its removal.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7e5e7552-2f0c-4bc1-8f74-b30e876fab60",
@@ -2355,11 +2355,11 @@
    "definition": "How far a thing extends inward or downward. Depth is what a surface conceals.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Old English root is an adjective made into a measure, depth being simply deep turned into a number. What that number reports is always distance the eye cannot reach from where it is standing.",
+   "root_word": "deop",
+   "root_language": "Old English",
+   "historical_meaning": "Old English deop (deep), with the abstract noun suffix -th; how far a thing extends inward or downward, exactly what a surface glance conceals.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2dc0f1b3-13b0-4196-a0f9-848492bf6b53",
@@ -2368,11 +2368,11 @@
    "definition": "The chain by which one thing came from another. A derivation is what makes a result checkable rather than merely asserted.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin image is a channel cut from a river, not an assertion made from nothing — a derivation is a path a claim travelled, and the path can be walked back. What has no such channel has to be taken on trust instead.",
+   "root_word": "rivus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin derivatio (a diverting, drawing off), from derivare (to divert a stream), from de- (away, from) + rivus (a stream); the chain by which one thing was drawn off from another, tracing a path a claim can be checked against.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6003bd37-64c8-4059-a8e1-bd54c42d62e8",
@@ -2381,11 +2381,11 @@
    "definition": "To obtain one thing from another by a traceable path. Derivation is what makes a result checkable.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "It is derivation's own verb, the drawing-off itself rather than the channel left behind by it — Latin rivus, a stream, diverted rather than dammed. What is derived can always be traced back upstream to what it was diverted from.",
+   "root_word": "rivus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin derivare (to divert a stream, draw off), from de- (away, from) + rivus (a stream); to obtain one thing from another along a traceable path, the way a channel is drawn off from a river.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dd21372f-7773-4b24-ae93-6d4ce9d7f1ea",
@@ -2394,11 +2394,11 @@
    "definition": "To say what a thing is like. Description reports and does not instruct — reading one as an instruction is a common error.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Latin root is a copy made by writing something down, not an order given — describere records a shape, it does not command one. Treating a description as a set of steps mistakes a report for a recipe.",
+   "root_word": "describere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin describere (to write down, sketch, copy), from de- (down) + scribere (to write); to say what a thing is like, reporting its shape rather than instructing what should be done about it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c12a692f-4b22-4b30-ae9d-87be410a5f09",
@@ -2407,11 +2407,11 @@
    "definition": "To take a thing out of what was chosen. Deselection restores an option that had been closed.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin legere is to gather, and deselecting ungathers one thing from a set without touching anything else still held. It restores exactly one closed door, and no others.",
+   "root_word": "legere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin de- (reversal) + seligere (to choose apart, select), from se- (apart) + legere (to choose, gather); to take a thing back out of what was chosen, restoring an option that had been closed off.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6169eefe-ff4e-4a77-abb5-70701861897e",
@@ -2420,11 +2420,11 @@
    "definition": "Deciding the shape of a thing before it is made. Design is where most of a thing's fate is settled.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin signum is a mark, and design was first the marking-out of a plan, a line drawn before any material touched it. Most of what a made thing becomes was already decided in that mark, long before the making itself began.",
+   "root_word": "designare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin designare (to mark out, designate), from de- (thoroughly) + signare (to mark), from signum (a sign, mark); deciding the shape of a thing before it is made, marking out its plan in advance of the making.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6dcdd180-7813-4825-9ae5-b71998ec2516",
@@ -2433,11 +2433,11 @@
    "definition": "A computer meant to stay in one place, and the surface its interface imitates. Named for the furniture it replaced.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Its own name is a small joke on furniture: a desktop is the screen standing in for the wooden surface a desk once was, borrowed word and all. What moved across into the screen was the metaphor, not the disc the deeper root once meant.",
+   "root_word": "desca + topp",
+   "root_language": "Medieval Latin + Old English",
+   "historical_meaning": "English compound of desk (Medieval Latin desca, from Latin discus, a disc, platter) + top (Old English topp, summit); a computer meant to stay on that surface, and the interface built to imitate the furniture it replaced.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f8e724c2-ec7d-4912-8e16-dbe41dee7ff9",
@@ -2446,11 +2446,11 @@
    "definition": "Where a going is aimed. A destination gives a journey its shape without being most of it.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Latin stare is to stand, and a destination was first something made to stand firm, fixed before the journey begins, so the journey has something to aim at rather than merely wander. Fixing the end this way is what turns motion into a route.",
+   "root_word": "destinare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin destinatio (a fixing, appointment), from destinare (to make firm, determine), from de- (thoroughly) + stare (to stand); where a going is aimed, fixed in advance of the journey that will reach it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "435b6388-04ea-43ea-9ba6-2103344ad610",
@@ -2459,11 +2459,11 @@
    "definition": "A small part attended to on its own. Detail is where a general claim either holds or fails.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "French tailler is to cut, and a detail is a piece severed from the whole precisely so it can be examined alone. A claim too coarse to survive being cut this way was never as solid as its general shape suggested.",
+   "root_word": "taliare",
+   "root_language": "Late Latin",
+   "historical_meaning": "French détail (a cutting into pieces), from détailler (to cut up), from de- (apart) + tailler (to cut), from Late Latin taliare (to cut); a small part attended to on its own, cut apart from the whole to be examined closely.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "41ebe28c-20af-4e9e-a9eb-98198e0a86ce",
@@ -2472,11 +2472,11 @@
    "definition": "To notice what was there but unnoticed. Detection finds; it does not create.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To notice what was there but unnoticed. Detection finds what already existed; it never creates what it reports.",
+   "root_word": "detegere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin detegere (to uncover, expose), from de- (reversal) + tegere (to cover); to notice what was already there but covered over, uncovering rather than creating anything new.",
+   "completion_progress": 66
   }
  ]
 }

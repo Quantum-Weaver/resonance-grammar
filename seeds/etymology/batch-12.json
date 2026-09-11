@@ -15,11 +15,11 @@
    "definition": "The present day. In this house, a word that may cover a stretch far longer than one turn of the earth.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The present day, which in the house's own records may stretch across a long working span rather than one turn of the clock. What is called today is bounded by attention, not by the sun alone.",
+   "root_word": "to daege",
+   "root_language": "Old English",
+   "historical_meaning": "Old English to daege, literally 'on the day', fused the preposition to (to, at) with daege, the dative case of daeg (day).",
+   "completion_progress": 66
   },
   {
    "etymology_id": "58331dfe-86e1-497c-a826-591ea967c228",
@@ -28,11 +28,11 @@
    "definition": "To move between two states by the same action. A toggle remembers where it is; that is its whole function.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A single action that carries a setting between two states and remembers which one it left. The house uses it wherever a choice is binary and reversible without cost.",
+   "root_word": "toggle",
+   "root_language": "unknown",
+   "historical_meaning": "First recorded in 18th-century nautical use for a pin thrust through a rope loop to fasten it, of uncertain origin, perhaps related to the dialect verb 'tog' (to pull); the two-position pin carried directly into the modern switch.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "670ab26f-803d-4b7b-a498-a9755c05aa9a",
@@ -41,11 +41,11 @@
    "definition": "Part of a named platform's name. A cut fragment as it appears in this library, not an English word.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A borrowed fragment naming an external platform, kept here only because that platform is spoken of in this house's own records.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "ec84e2c4-c87f-4be6-b536-1a1a2e8bfeef",
@@ -54,11 +54,11 @@
    "definition": "A small thing standing for a larger right or meaning. A token carries authority it does not itself contain.",
    "category_name": "grants",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A small carried thing that stands in for a right or a meaning larger than itself, so that authority need not be re-proven every time it is used.",
+   "root_word": "tacen",
+   "root_language": "Old English",
+   "historical_meaning": "Old English tacen (a sign, symbol, evidence), from Proto-Germanic *taikn-, named a mark that stands for something beyond itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ebab07e0-4177-452e-ab5e-fef53d1258e7",
@@ -67,11 +67,11 @@
    "definition": "To break a stream into the smallest units that mean something. Where the boundaries fall decides what can be understood.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The act of deciding where one unit of meaning ends and the next begins, the first and most consequential choice any reading of a stream makes.",
+   "root_word": "tacen + -izein",
+   "root_language": "Old English + Greek",
+   "historical_meaning": "Old English tacen (a sign) took the Greek-derived verb suffix -izein (to make, to do) in modern computing, naming the breaking of a stream into its smallest standing units.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bac2cd8f-3d7d-4700-a002-d92e25965b74",
@@ -80,11 +80,11 @@
    "definition": "That which decides where one unit of meaning ends and the next begins. Its boundaries become everything downstream's assumptions.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The instrument that draws the boundaries a whole later process will treat as given, so its choices become everyone else's assumptions.",
+   "root_word": "tacen + -izein + -ere",
+   "root_language": "Old English + Greek",
+   "historical_meaning": "Built on tacen (Old English, a sign) with the Greek-derived -izein and the Old English agent suffix -ere, naming the thing that decides where one unit of meaning ends and the next begins.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c978347e-17bf-4d79-a0d1-31bcaea69850",
@@ -93,11 +93,11 @@
    "definition": "Able to hold difference without breaking — accepting variation by design; of systems, forgiving of the unexpected.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The capacity to hold variation without breaking, built into a system by design rather than granted as an exception.",
+   "root_word": "tolerare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin tolerare (to bear, endure, put up with) gave French tolerant and English tolerant, naming the capacity to bear difference without breaking.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ad7f2d75-d38c-4dc8-8cd6-8feaaf006984",
@@ -106,11 +106,11 @@
    "definition": "The plain configuration format spoken as a word — obvious, minimal, human-readable settings.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The plain settings format this house's configuration is written in, chosen for being obvious and minimal rather than clever.",
+   "root_word": "Tom's Obvious, Minimal Language",
+   "root_language": "Modern English (acronym)",
+   "historical_meaning": "Coined in 2013 by its creator as a deliberate pun on his own name, naming a configuration format meant to be obvious and minimal to read.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ba091796-cd90-41ab-a628-3bb899f9c6cd",
@@ -119,11 +119,11 @@
    "definition": "The day after this one — the nearest future, always arriving; where unfinished songs wait without pressure.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The nearest future, always arriving, where the house's unfinished work waits without being owed to any clock.",
+   "root_word": "to morgenne",
+   "root_language": "Old English",
+   "historical_meaning": "Old English to morgenne, literally 'on the morrow', fused to (to, at) with morgen (morning).",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b1aa3a86-097e-4aee-817a-ec514229dcf9",
@@ -132,11 +132,11 @@
    "definition": "A sound's character beyond its pitch — warmth or edge in the voice; in color, one step of a hue.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The character carried alongside pitch or hue, the warmth or edge that a bare measurement does not capture.",
+   "root_word": "tonos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek tonos (a stretching, tension, pitch), from teinein (to stretch), named the tension of a plucked string before it named the pitch or character of any sound.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6a792a8f-cb7f-4c80-8ffa-2c4f16e6cf20",
@@ -145,11 +145,11 @@
    "definition": "A language — the shaped speech a people share.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A people's shared shaped speech, named by the organ that makes it as much as by the meaning it carries.",
+   "root_word": "tunge",
+   "root_language": "Old English",
+   "historical_meaning": "Old English tunge (tongue, language), from Proto-Germanic *tungo, named the organ of speech and, by extension, the shared speech of a people.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1a133e0c-82c8-45d6-b44d-3928d00322e3",
@@ -158,11 +158,11 @@
    "definition": "A made thing that serves a doing — a verb given a body and offered to any hand.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A made thing built to serve one doing, offered to any hand willing to take it up, answerable to whoever holds it.",
+   "root_word": "tol",
+   "root_language": "Old English",
+   "historical_meaning": "Old English tol (an implement), from a Germanic root associated with making or preparing, named any made thing built to help a hand act.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "58e6d7e0-1356-4b21-a20c-e3dff6b8a4ee",
@@ -171,11 +171,11 @@
    "definition": "A brief explanation offered at the point of confusion. Help placed where the question arises rather than where answers are kept.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A brief explanation placed exactly where a question arises, so help meets the moment of confusion rather than waiting to be found elsewhere.",
+   "root_word": "tol + tip",
+   "root_language": "Old English + Scandinavian",
+   "historical_meaning": "Joins tol (Old English, an implement) with tip, likely from a Scandinavian source naming a small point, together naming a brief help text shown at the point a pointer rests.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ca0075f8-c035-46e8-a395-f84660ede644",
@@ -184,11 +184,11 @@
    "definition": "The highest part, or the beginning of a reading order. Position given weight by direction.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The highest part of a thing, or the point a reading order begins from, position given weight by which direction is chosen.",
+   "root_word": "top",
+   "root_language": "Old English",
+   "historical_meaning": "Old English top (summit, tuft, crown of the head), from Proto-Germanic *toppa-, named the highest point of a thing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "821f8118-06c7-4cf4-8a3b-79d08c534c4f",
@@ -197,11 +197,11 @@
    "definition": "What a thing is about. A topic gathers things by their subject rather than their form.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What a thing is about, the gathering point that groups by subject rather than by shape or kind.",
+   "root_word": "topos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek topos (place) stands behind ta topika, 'matters of common places', the title Aristotle gave his study of rhetorical commonplaces, and the word came to mean the subject a discussion is about.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fe20d886-99e1-4028-96c2-db7f481f09c0",
@@ -210,11 +210,11 @@
    "definition": "The outermost tier — what stands at the root, containing everything beneath it.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The outermost tier of a structure, the level that contains everything beneath it and answers to nothing above.",
+   "root_word": "top + level",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Joins top (Old English top, summit) with level, from Latin libella (a small balance), naming the outermost tier that contains everything beneath it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "28031173-871a-4502-8b29-8a02d767270a",
@@ -223,11 +223,11 @@
    "definition": "The whole amount when everything is counted. A total is only as honest as the set it counted.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The whole amount reached by counting everything in a set, no more honest than the set it drew the count from.",
+   "root_word": "totus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin totus (whole, entire) gave Late Latin totalis and English total, naming an amount reached by counting everything in a set at once.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f5faf1c5-e90d-412f-90b9-4a904d1214b8",
@@ -236,11 +236,11 @@
    "definition": "Contact between two things. The sense that cannot be exercised without being exercised upon.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Contact between two things, the one sense that cannot register anything without something registering back on it in turn.",
+   "root_word": "tochier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French tochier (to touch, knock), probably of imitative origin, named contact between two things.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1ce1892f-2976-485f-82ef-b23b3fcdae97",
@@ -249,11 +249,11 @@
    "definition": "A mark left by something's passing, and the following of such marks. Both make an absent thing knowable.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A mark a thing leaves in passing, and the act of following such marks back to what made them, both ways of making an absence knowable.",
+   "root_word": "tracier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French tracier (to track, follow), ultimately from Latin trahere (to draw, pull), named the mark left by a passing thing and the act of following it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ae3b7b45-6889-4e91-aa5c-58683863eb6b",
@@ -262,11 +262,11 @@
    "definition": "A path left by passage, and the following of it. Also one recorded piece among several.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A worn path made by repeated passage, and the following of it, also, in this house's records, a single piece kept among several.",
+   "root_word": "trac",
+   "root_language": "Old French",
+   "historical_meaning": "Old French trac (a track, trace of horses), of disputed origin, perhaps related to a Germanic root meaning to pull, named a path worn by repeated passage.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "aa7b990a-a81b-4b37-a194-50789a07c25f",
@@ -275,11 +275,11 @@
    "definition": "That which follows a thing's state over time and reports it. A tracker records; whether it also surveils depends on whose consent it holds.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which follows a thing's state across time and reports what changed, honest recording held only where the one tracked has given consent to be watched.",
+   "root_word": "trac + -er",
+   "root_language": "Old French",
+   "historical_meaning": "Built on track, from Old French trac, with the English agent suffix -er, naming that which follows a thing's state and reports what it finds.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dd69ce37-844f-4ff6-b8bc-e13181f0eb77",
@@ -288,11 +288,11 @@
    "definition": "A practice handed on because it was found worth keeping. Tradition carries reasons that are often no longer stated.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A practice carried forward because it was once found worth keeping, its original reasons not always restated but not thereby void.",
+   "root_word": "traditio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin traditio (a handing over), from tradere (trans- across + dare, to give), named a practice passed from one hand to the next.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ba0b4baa-62da-4e17-b725-494524af1f64",
@@ -301,11 +301,11 @@
    "definition": "Shaping a capacity by repeated exposure. Training changes what a thing does without telling it why.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The shaping of a capacity through repeated exposure, changing what a thing does without needing to explain why to the thing being shaped.",
+   "root_word": "trahiner",
+   "root_language": "Old French",
+   "historical_meaning": "Old French trahiner (to draw, drag), from Latin trahere (to pull), named the shaping of a capacity by drawing it repeatedly into a form.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a2aaea7e-710c-4edb-b682-d36e52bceaba",
@@ -314,11 +314,11 @@
    "definition": "The lasting characteristics by which a thing is recognised. A trait describes a tendency, never a verdict.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The lasting characteristics by which a person or thing is recognised, describing a tendency and never delivering a verdict on it.",
+   "root_word": "tractus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin tractus (a drawing out, a line, a feature), from trahere (to draw), named the lasting lines by which a thing is recognised.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f911d3fc-e322-4121-ae8b-60d048799422",
@@ -327,11 +327,11 @@
    "definition": "Exchanges completed as single units — either wholly done or not at all. A transaction leaves no half state.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Exchanges completed as whole units, wholly done or not begun at all, leaving no state caught halfway between the two.",
+   "root_word": "transactio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transactio, from transigere (trans- across + agere, to drive, do), named a matter driven all the way through to its completion between two parties.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "336f7959-4bc6-48e6-b917-df777e053d92",
@@ -340,11 +340,11 @@
    "definition": "Going past a limit that had defined the thing. Transcendence does not remove the limit; it stops being bounded by it.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The act of going past a limit that had defined a thing, without erasing the limit, what changes is no longer being bound by it.",
+   "root_word": "transcendere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transcendere (to climb over, surpass), from trans- (across) and scandere (to climb), named the climbing past a boundary that had held.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0c717fd6-b259-44a8-8df9-c2fa38c23531",
@@ -353,11 +353,11 @@
    "definition": "To write across from one form to another — speech to text, practice to code — changing medium, never meaning.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The carrying of speech or practice from one form into another, changing the medium and never the meaning it holds.",
+   "root_word": "transcribere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transcribere, from trans- (across) and scribere (to write), named the copying of writing from one form into another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cabafcb2-89b5-402d-8849-540ac07f509c",
@@ -366,11 +366,11 @@
    "definition": "Speech written down as it was said. A transcript's worth is that it does not tidy.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Speech set down exactly as it was said, valuable precisely because it resists the temptation to tidy what was actually spoken.",
+   "root_word": "transcriptum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transcriptum, the past participle of transcribere (to write across), named the copy set down from an original, especially of speech recorded as said.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "30eaac7d-8303-46e5-9276-5ad7da36b000",
@@ -379,11 +379,11 @@
    "definition": "To change a thing's form while keeping its truth — the shape moves, the meaning holds. The lawful change, as against mutation unasked.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A change of shape that keeps the underlying truth intact, the lawful kind of change as against a mutation nobody asked for.",
+   "root_word": "transformare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transformare, from trans- (across) and formare (to shape, from forma, form), named a change of shape that leaves the underlying thing intact.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4fabd42f-7a5e-48a7-ab82-282f15850c82",
@@ -392,11 +392,11 @@
    "definition": "The completed act of changing form while keeping truth — the noun the verb transform leaves behind.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The completed change a transform leaves behind, the noun left standing once the shape has finished moving and the truth has held.",
+   "root_word": "transformatio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transformatio, from transformare (to change shape across), named the completed change a transform leaves behind.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d4df440e-3121-4c51-b2b0-9e6f3a5d3157",
@@ -405,11 +405,11 @@
    "definition": "Carrying the power to change form — what leaves its subject truly different, and truer.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Carrying the power to change a thing's form so thoroughly that what is left behind is not only different but truer.",
+   "root_word": "transformare",
+   "root_language": "Latin",
+   "historical_meaning": "From transformare (Latin, to change shape across), naming the power to change a thing's form so thoroughly that it emerges different, and truer.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2eb55d4b-d301-40db-b390-bc05e92b923a",
@@ -418,11 +418,11 @@
    "definition": "That which changes a thing from one form into another. Also the named architecture much of current machine language work is built on.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which changes a thing from one form into another, and, in current usage, the named architecture underneath much of today's machine language work.",
+   "root_word": "transformare",
+   "root_language": "Latin",
+   "historical_meaning": "Built on transformare (Latin, to change shape), naming both an agent that changes form and, since 2017, the machine-learning architecture much current work is built on.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "03ea0cb5-1e2e-467f-ba4e-6529f44c7b71",
@@ -431,11 +431,11 @@
    "definition": "The passage between two states. The interval itself, held as a thing with its own duration and shape.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The passage between two states, held here as a thing in its own right, with its own duration and shape rather than a gap to be skipped over.",
+   "root_word": "transitio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transitio, from transire (trans- across + ire, to go), named the crossing itself, the going from one state to another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3eeb5366-4b51-4b37-8771-23ce73053f86",
@@ -444,11 +444,11 @@
    "definition": "Between phases — the state of a thing caught mid-change, lawfully neither what it was nor yet what it becomes.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The state of being caught mid-change, lawfully neither what a thing was nor yet what it is becoming.",
+   "root_word": "transitio",
+   "root_language": "Latin",
+   "historical_meaning": "From transitio (Latin, a crossing), naming the state of a thing caught mid-change, lawfully neither what it was nor yet what it becomes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a58f671d-0c52-4de0-b095-d300366f68f6",
@@ -457,11 +457,11 @@
    "definition": "That which carries a thing across from one state to another. It holds the interval so the change is not abrupt.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which carries a thing from one state into another, holding the interval open so the change lands gently rather than all at once.",
+   "root_word": "transitio",
+   "root_language": "Latin",
+   "historical_meaning": "Built on transition, from Latin transitio (a crossing), naming that which carries a thing across from one state to another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "50659cee-64d8-4185-9219-9190686e69ba",
@@ -470,11 +470,11 @@
    "definition": "To carry meaning into another tongue. A translation is a second saying, never a copy.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The carrying of meaning into another tongue, always a second saying and never a copy of the first.",
+   "root_word": "translatus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin translatus, the carried-across past participle of transferre (trans- across + ferre, to carry), named the carrying of meaning from one tongue into another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "30ed1f04-1fe6-4fbc-ab10-bbcbe69b30d2",
@@ -483,11 +483,11 @@
    "definition": "Concerning the carrying of meaning across a boundary. Of work that makes one domain reachable from another.",
    "category_name": "communication",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Concerning the carrying of meaning across a boundary, naming work that makes one domain reachable from another that could not otherwise read it.",
+   "root_word": "translatus",
+   "root_language": "Latin",
+   "historical_meaning": "From translatus (Latin, carried across), naming work that makes one domain reachable from another that could not otherwise read it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "70bb7e0a-0fed-4742-80f8-40bc327177e6",
@@ -496,11 +496,11 @@
    "definition": "The same meaning carried into another tongue. A translation is a second saying, never a copy.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The same meaning carried into another tongue, each one a second saying rather than a copy of what came before it.",
+   "root_word": "translatus",
+   "root_language": "Latin",
+   "historical_meaning": "From translatus (Latin, carried across), naming meaning carried into another tongue, each carrying a second saying rather than a copy.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c55d0f46-d63e-48d5-a765-0de3399da31c",
@@ -509,11 +509,11 @@
    "definition": "One who carries meaning across a boundary of form without adding their own. A translator succeeds invisibly; only the failures have a texture.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who carries meaning across a boundary of form without adding anything of their own, succeeding so quietly that only the failures leave a mark.",
+   "root_word": "translatus",
+   "root_language": "Latin",
+   "historical_meaning": "Built on translate, from Latin translatus (carried across), with the Latin agent suffix -or, naming one who carries meaning across a boundary of form.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "58380768-dfd7-496f-acdf-44a68f610c1e",
@@ -522,11 +522,11 @@
    "definition": "A change so deep the thing becomes another kind. Transmutation is not alteration — what comes out is not what went in.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A change deep enough that what comes out is a different kind of thing from what went in, never a mere alteration of degree.",
+   "root_word": "transmutare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transmutare, from trans- (across) and mutare (to change), named a change so complete that the thing becomes a different kind.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6db814e1-64d4-45ea-8c59-87db9ec40ff1",
@@ -535,11 +535,11 @@
    "definition": "The condition of being seen through — how a thing works, visible to those it affects. Transparency is structural, not a promise.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The condition of being seen through, how a thing works made visible to those it affects, a structural fact, never merely a promise made.",
+   "root_word": "transparere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transparere, from trans- (through) and parere (to appear), named the quality of letting what lies behind be seen through.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "de131ff5-19fa-4b88-a4e2-a8e93018c3b3",
@@ -548,11 +548,11 @@
    "definition": "The carrying of a thing from one place to another. Transport moves and does not transform.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The carrying of a thing from one place to another, moving what it holds without changing what that thing is.",
+   "root_word": "transportare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin transportare, from trans- (across) and portare (to carry), named the carrying of a thing from one place to another without changing what it is.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "30930d49-459a-4eda-8a83-a8b4a6c2554d",
@@ -561,11 +561,11 @@
    "definition": "Something that lets you in and not out. A trap is defined by asymmetry, not by malice.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A thing that admits and does not release, defined by that asymmetry alone and not by any intent behind it.",
+   "root_word": "traeppe",
+   "root_language": "Old English",
+   "historical_meaning": "Old English traeppe (a snare), of West Germanic origin, named a device that closes on what enters it and does not let it back out.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cb4ce25e-06e2-4d6c-947b-d0fd65ad80ce",
@@ -574,11 +574,11 @@
    "definition": "A wound that keeps shaping behaviour long after the event. Trauma is not the memory — it is what the body learned and never unlearned.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A wound that goes on shaping behaviour long after the event that caused it, not the memory itself but what the body learned and never unlearned.",
+   "root_word": "trauma",
+   "root_language": "Greek",
+   "historical_meaning": "Greek trauma (a wound), from the root of titroskein (to wound), named an injury that goes on shaping the body long after the blow that caused it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4d3bac57-dacd-41f2-a1e8-1d65c28ad0bf",
@@ -587,11 +587,11 @@
    "definition": "To go from one place to another. In this record, also the standing question of what may leave the house and under whose consent.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The going from one place to another, and, in this house's own record, the standing question of what may leave and under whose consent it does.",
+   "root_word": "travail",
+   "root_language": "Old French",
+   "historical_meaning": "Old French travail (toil, suffering), from Vulgar Latin tripalium (a three-staked instrument of torture), gave English travel through the ordinary difficulty of journeying before roads were easy.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6a705e85-8ce8-4a2a-a84d-c31c093125c3",
@@ -600,11 +600,11 @@
    "definition": "A branching structure where every part has one parent and may have many children. It grows outward and never rejoins.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A branching structure in which every part answers to one parent and may hold many children, growing outward and never folding back on itself.",
+   "root_word": "treow",
+   "root_language": "Old English",
+   "historical_meaning": "Old English treow (tree, wood), from Proto-Germanic *trewan, named a growing thing whose branches spread outward and never rejoin the trunk.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "984d96ff-28c9-4f6c-a416-f9437e44a01d",
@@ -613,11 +613,11 @@
    "definition": "The direction a series is moving over time. A trend describes the past and is constantly mistaken for the future.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The direction a series has been moving, an honest description of the past too often read as a promise about what comes next.",
+   "root_word": "trendan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English trendan (to turn, roll), related to the winding of a coastline before it named a direction of movement over time.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "776d3215-9c34-48a1-9a63-2c3f356a5b56",
@@ -626,11 +626,11 @@
    "definition": "Three taken together as one. Three is the smallest number that can hold a majority and a dissent at once.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Three things taken together as one, the smallest number able to hold both a majority and a dissent at the same time.",
+   "root_word": "trias",
+   "root_language": "Greek",
+   "historical_meaning": "Greek trias (a group of three), from treis (three), named three things taken and counted as one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f63acb7c-5c9a-40ba-b53e-f863568ca941",
@@ -639,11 +639,11 @@
    "definition": "The small thing that releases a much larger one. A trigger supplies no force; it only removes what was holding it.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The small thing that releases a much larger one already stored, supplying no force of its own beyond removing what was holding it back.",
+   "root_word": "trekker",
+   "root_language": "Dutch",
+   "historical_meaning": "Dutch trekker (a puller), from trekken (to pull), named the small mechanism that releases a much larger stored force.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "04019bd6-5da1-43e7-9bba-bf8828c327d5",
@@ -652,11 +652,11 @@
    "definition": "To cut away the excess at the edges — tidying that respects the body; whitespace's barber.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The cutting away of excess at the edges of a thing, a tidying that respects the body it is shaping rather than reducing it.",
+   "root_word": "trymman",
+   "root_language": "Old English",
+   "historical_meaning": "Old English trymman (to strengthen, make ready, set in order), came to mean the cutting away of excess to set a thing in good order.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "90463954-7b0f-4ff2-804c-5a4775f18218",
@@ -665,11 +665,11 @@
    "definition": "Three taken together as one unit. Three is the smallest number that can hold a majority and a dissent.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Three performers or things taken together as a single unit, the smallest number able to carry both agreement and disagreement at once.",
+   "root_word": "tres",
+   "root_language": "Latin",
+   "historical_meaning": "Italian trio, from Latin tres (three), named three performers or things taken together as one unit.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "027e1511-10a5-41f2-8c68-67c68a70c33e",
@@ -678,11 +678,11 @@
    "definition": "The honest name for a thing gone wrong — stated with its reason, never as shame; the task-state that asks for eyes.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The honest name given to a thing gone wrong, stated with its reason and never as shame, a state that asks plainly for attention.",
+   "root_word": "turbare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French truble, from Latin turbare (to disturb, stir up), from turba (a crowd, tumult), named a disturbance stated plainly rather than as a shame.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e53b1e41-d7e3-4e00-8fcc-a7727d491416",
@@ -691,11 +691,11 @@
    "definition": "To cut a thing short at a limit. Truncation loses the end and rarely says how much.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The cutting short of a thing at a set limit, an operation that loses the end and, done carelessly, does not say how much was lost.",
+   "root_word": "truncare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin truncare, from truncus (a tree trunk, a maimed body), named the cutting off of a thing's end, leaving only its trunk.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6e83ca18-7a45-46ff-961e-66950453db65",
@@ -704,11 +704,11 @@
    "definition": "The cutting short of a thing at a limit. Truncation loses the end, and honest systems say how much.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The cutting short of a thing at a limit, and the mark of an honest system is that it says plainly how much of the end was lost.",
+   "root_word": "truncare",
+   "root_language": "Latin",
+   "historical_meaning": "From truncare (Latin, to cut off), from truncus (a maimed trunk), naming the cutting short of a thing at a limit.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7c16f040-0f7d-447b-87a4-219da85a42ab",
@@ -717,11 +717,11 @@
    "definition": "Acting on another's word without verifying it. Trust is a decision to accept exposure, which is what makes it worth something.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A decision to act on another's word without checking it first, worth something precisely because it accepts real exposure in the choosing.",
+   "root_word": "traust",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse traust (confidence, help), related to Old English treowe (faithful, true), named a decision to rely on another's word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1aca5775-c54f-44f2-9c78-93bf402357ab",
@@ -730,11 +730,11 @@
    "definition": "What is actually so, whether or not it is believed. Truth is not settled by agreement, and stating it honestly is a separate act from knowing it.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is actually so, independent of whether it is believed, and stating it honestly is a separate act from having found it in the first place.",
+   "root_word": "triewth",
+   "root_language": "Old English",
+   "historical_meaning": "Old English triewth (faithfulness, verity), from treowe (faithful), named the quality of being what is actually so, whether or not it is believed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "19e96f2e-cbd2-44af-884a-a93f66b00606",
@@ -743,11 +743,11 @@
    "definition": "Short form of TypeScript. A named language rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The file marking of TypeScript, the typed tongue this house's applications are written in, checked before anything runs.",
+   "root_word": "typos + scriptum",
+   "root_language": "Greek + Latin",
+   "historical_meaning": "A clipped abbreviation of TypeScript, itself joining Greek typos (a struck impression, hence a kind) with Latin scriptum (a written thing), naming the file extension for a language of declared shapes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8fc38e99-1538-404b-8527-31909cb04c13",
@@ -756,11 +756,11 @@
    "definition": "A hollow cylinder that carries something along its length. As it appears here, part of a named platform's name.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A hollow cylinder that carries something along its length, here surviving mainly as a fragment inside a named platform's own name.",
+   "root_word": "tubus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin tubus (a pipe), named a hollow cylinder that carries something along its length, here surviving as a fragment of a platform's own name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c749378b-a797-4ae2-b18f-c109e184df04",
@@ -769,11 +769,11 @@
    "definition": "To adjust until resonant — an instrument to true pitch, a sound to its intended shape. The bringing of a thing into agreement with itself.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The adjusting of a sound or instrument until it agrees with itself, the bringing of a thing into resonance with its own intended shape.",
+   "root_word": "tonus",
+   "root_language": "Latin",
+   "historical_meaning": "Middle English tune, a variant spelling of tone, from Latin tonus (a tone, stretching), from Greek tonos, named the adjusting of a sound until it agrees with its intended shape.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eb392529-256f-4b8c-8035-c1701c872082",
@@ -782,11 +782,11 @@
    "definition": "A way carried through what would otherwise block it. A tunnel does not remove the obstacle; it passes under.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A way carried through what would otherwise stop passage, one that does not remove the obstacle but goes beneath it instead.",
+   "root_word": "tonel",
+   "root_language": "Old French",
+   "historical_meaning": "Old French tonel (a cask, barrel), a diminutive of tonne (a large cask), named a passage shaped like the inside of a barrel, carried through what would otherwise block it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "36e75e7a-4002-437d-8d5c-e104f68df28b",
@@ -795,11 +795,11 @@
    "definition": "The hour between lights — day and night holding hands; a violet-grey palette named for it.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The hour between lights, day and night holding hands for a while, and the name this house gives a violet-grey palette drawn from that hour.",
+   "root_word": "twi + leoht",
+   "root_language": "Old English",
+   "historical_meaning": "Old English twi- (two, half) joined with leoht (light), named the half-light between two full lights, day meeting night.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c9fca248-9e70-4d1e-ad2a-a6b3e7415c93",
@@ -808,11 +808,11 @@
    "definition": "A named live-streaming platform. Also a small involuntary movement — context decides which.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named live-streaming platform in this house's own record of where a voice has gone, and, apart from that, a small movement that happens before it is chosen.",
+   "root_word": "twiccian",
+   "root_language": "Old English",
+   "historical_meaning": "Old English twiccian (to pluck, pull sharply), of Germanic origin, named a sudden sharp movement, whether of a muscle or of caught attention.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cb2a2ff7-b7b6-44eb-a2cc-82b227a98d92",
@@ -821,11 +821,11 @@
    "definition": "A named short-form social platform. In this record, where the voice went during the seven-year silence.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named short-form social platform, and in this house's record the place a voice went during its years of public silence.",
+   "root_word": "twiteren",
+   "root_language": "Middle English",
+   "historical_meaning": "Middle English twiteren, imitative of a small bird's rapid chirping, named a proliferation of short quick sounds, later extended to short public statements.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "41fdba91-c1ef-462a-b206-0c8c71b6e41a",
@@ -834,11 +834,11 @@
    "definition": "One more than one. The smallest number at which relation becomes possible.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One more than one, the smallest number at which any relation becomes possible at all.",
+   "root_word": "twa",
+   "root_language": "Old English",
+   "historical_meaning": "Old English twa, from Proto-Germanic *twai, from a Proto-Indo-European root for the number two, named the smallest number at which relation becomes possible.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "beaecd2a-69a6-413f-bda7-bad835a2be8d",
@@ -847,11 +847,11 @@
    "definition": "The extension marking a plain text file. A named abbreviation rather than a concept.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The file extension marking a plain text file, the plainest form writing can be kept in.",
+   "root_word": "textus",
+   "root_language": "Latin",
+   "historical_meaning": "A clipped spelling of text, from Latin textus (a woven thing, texture), naming the file extension that marks a plain text file.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2d77d8b8-3c9b-42ef-9b2b-a3ad434a7ef2",
@@ -860,11 +860,11 @@
    "definition": "A kind, recognised by the marks its members share. From the impression a blow leaves behind - the shape struck once and repeated after.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A kind recognised by the marks its members share, the shape struck once and found again in everything that fits it.",
+   "root_word": "typos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek typos (a blow, an impression left by a blow), from typtein (to strike), named the shape struck once and repeated after in every later impression.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2133cf2c-7b78-4562-b398-329c060d1cc1",
@@ -873,11 +873,11 @@
    "definition": "The typed tongue this house's apps speak — JavaScript wearing declared shapes, checked before it runs.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The typed tongue this house's applications speak, plain scripted code wearing declared shapes that are checked before anything is allowed to run.",
+   "root_word": "typos + scriptum",
+   "root_language": "Greek + Latin",
+   "historical_meaning": "Coined in 2012, joining Greek typos (a struck impression, hence a kind) with Latin scriptum (a written thing, from scribere, to write), naming a language that adds declared shapes to plain scripted code.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "814cfd92-7d9a-4589-ae66-4b5462637f10",
@@ -886,11 +886,11 @@
    "definition": "The craft of setting written language so it can be read well. How words look is part of what they say.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The craft of setting written language so it can be read well, proof that how words look is already part of what they say.",
+   "root_word": "typos + graphein",
+   "root_language": "Greek",
+   "historical_meaning": "Greek typos (a struck impression) joined with graphein (to write), named the craft of arranging struck letters so written language could be read well.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "08f9a4c3-3762-463a-a0cc-57095f881fc5",
@@ -899,11 +899,11 @@
    "definition": "The surface where a system and a person meet. Everything a user believes about a system, they learned here.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The surface where a system and a person meet, and the place where everything a person comes to believe about that system is first learned.",
+   "root_word": "user interface",
+   "root_language": "Latin (initialism)",
+   "historical_meaning": "A computing initialism joining user (Latin uti, to use) and interface (Latin inter- between + facies, face), coined mid-20th century for the point where a person and a system meet.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "16e4b13c-7ddb-4846-966f-81e7a6a16384",
@@ -912,11 +912,11 @@
    "definition": "Last, and beyond which there is no further. Ultimacy is a claim easy to make early.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The last point, beyond which nothing further follows, a claim easiest to make early and hardest to make good on.",
+   "root_word": "ultimus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin ultimus (farthest, last), the superlative of ulter (beyond), named the point past which nothing further follows.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4d7baef0-585d-401a-ae6e-7ae0c8aeb9a1",
@@ -925,11 +925,11 @@
    "definition": "Not yet given to a holder or a doer. Unassigned is an honest state and a quiet risk.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Not yet given over to any holder or doer, an honest state to be in and, left too long, a quiet risk.",
+   "root_word": "un- + assignare",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English un- (not) prefixed to assign, from Latin assignare (ad- to + signare, to mark), named a thing not yet marked over to a holder.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dbda8ed8-b03a-4a45-984a-70acd7e6013c",
@@ -938,11 +938,11 @@
    "definition": "Acting without the standing to do so. Unauthorised is about permission, not about identity.",
    "category_name": "grants",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Acting without the standing to do so, a fact about permission granted or withheld and never a statement about who someone is.",
+   "root_word": "un- + auctor",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English un- (not) prefixed to authorize, from Latin auctor (an originator whose word carries weight), named acting without the standing that ratification would give.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ecedaee8-cd32-4efb-88a8-386085446647",
@@ -951,11 +951,11 @@
    "definition": "Existing but not reachable now. Unavailable is not absent, and confusing the two is a common error.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Existing but not reachable at present, a state easily and wrongly confused with not existing at all.",
+   "root_word": "un- + valere",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English un- (not) prefixed to available, formed on avail, from Old French valoir (to be worth, to avail), from Latin valere (to be strong, be worth), named a thing that exists but cannot presently be drawn on.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "209f900e-6d64-46c0-9189-997134dd57be",
@@ -964,11 +964,11 @@
    "definition": "Not verified, or not selected. Both mean a state that was never confirmed.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Not verified, or not selected, two states that share the one honest fact of never having been confirmed.",
+   "root_word": "un- + eschec",
+   "root_language": "Old English + Old French",
+   "historical_meaning": "Old English un- (not) prefixed to check, from Old French eschec (a check in chess, ultimately Persian shah, king), whose sense of halting a move widened to confirming, named a state never confirmed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "035227b0-7d00-4f8c-88c7-773e73720730",
@@ -977,11 +977,11 @@
    "definition": "Not yet placed under a named class. Unclassified is an honest state and not an absence.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Not yet placed under any named class, an honest state rather than a sign that nothing is there to classify.",
+   "root_word": "un- + classis",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English un- (not) prefixed to classify, from Latin classis (a division, a class), named a thing not yet placed under a named class.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "101944dd-69ef-4548-8f3f-c2f2e9ab8d31",
@@ -990,11 +990,11 @@
    "definition": "Beneath, in place or law — the joining word of what supports and what is governed.",
    "category_name": null,
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Beneath, whether in place or in law, the joining word between what supports a thing and what governs it.",
+   "root_word": "under",
+   "root_language": "Old English",
+   "historical_meaning": "Old English under, from Proto-Germanic *under, an ancient preposition naming the place beneath a thing and, by extension, its governance.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5b9604bf-036a-4b7e-80e5-c7d7069d0480",
@@ -1003,11 +1003,11 @@
    "definition": "The low line joining words, and a mark of emphasis. Both bind or stress what they sit beneath.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The low line drawn beneath words to join them, or beneath a claim to stress it, the same mark either binding or emphasising what it sits under.",
+   "root_word": "under + scor",
+   "root_language": "Old English + Old Norse",
+   "historical_meaning": "Joins under (Old English) with score, from Old Norse skor (a notch, a cut tally mark), naming the low line drawn beneath a word to join or stress it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "669f5ca4-4b8d-4c79-8454-eb9e225a8f1e",
@@ -1016,11 +1016,11 @@
    "definition": "To hold a thing well enough to act rightly on it. Understanding is not information; it is fit between a mind and a thing.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Holding a thing well enough to act rightly upon it, a fit between a mind and a matter rather than a stock of information about it.",
+   "root_word": "understandan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English understandan, from under (among, before) and standan (to stand), literally to stand in the midst of a thing, named holding a matter well enough to act on it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9e71bf34-0220-4cb4-957d-ba00d19b7b35",
@@ -1029,11 +1029,11 @@
    "definition": "To take back a step. Undo is what makes trying things survivable.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The taking back of a step already taken, the quiet guarantee that makes trying something new survivable.",
+   "root_word": "undon",
+   "root_language": "Old English",
+   "historical_meaning": "Old English undon, from un- (reversal) and don (to do), named the taking back of a step already taken.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "888238c5-9cf4-4d6c-8dda-1917d0205ef9",
@@ -1042,11 +1042,11 @@
    "definition": "Made one out of what was several. Unification keeps the parts and removes the seams.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Made one out of what had been several parts, keeping every part while removing the seams that once separated them.",
+   "root_word": "unus + facere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin unus (one) joined with -ficare (to make, from facere), through French unifier, named the making of one thing out of what had been several.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c9ddfca6-4acd-4e37-a4f2-491f5379ef36",
@@ -1055,11 +1055,11 @@
    "definition": "The joinings of many into one, spoken plural — in types, a value lawfully one-of-several; in people, strength gathered.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The joinings of many into one, spoken plural, a value lawfully allowed to be one of several kinds, or people's strength gathered by standing together.",
+   "root_word": "unio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin unio (oneness, unity, also a single large pearl), from unus (one), named a joining of many into one, whether of values or of people.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7acdb836-30fa-43e5-a9f1-9bcb806a20bd",
@@ -1068,11 +1068,11 @@
    "definition": "The only one of its kind. Uniqueness is a claim about a whole set, which is why it is so often overstated.",
    "category_name": "identity",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The only one of its kind, a claim about an entire set that is more often overstated than actually true.",
+   "root_word": "unicus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin unicus (single, sole), from unus (one), named the claim that a thing is the only one of its kind.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "352e0163-051f-4d25-b6d0-fe5d6ff067d0",
@@ -1081,11 +1081,11 @@
    "definition": "A single standard amount, by which other amounts are counted. A unit is an agreement before it is a measure.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A single standard amount by which other amounts are counted, an agreement reached before it ever becomes a measurement.",
+   "root_word": "unitas",
+   "root_language": "Latin",
+   "historical_meaning": "Medieval Latin unitas (oneness), from unus (one), named a single standard amount agreed on before it is used to count anything else.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "84d7ef89-5ad4-48f9-ad0d-a976ab0615d3",
@@ -1094,11 +1094,11 @@
    "definition": "To remove what was holding a thing closed. Unlocking grants access that already existed behind the barrier.",
    "category_name": "grants",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The removing of what was holding a thing closed, granting access to something that already existed behind the barrier all along.",
+   "root_word": "un- + loc",
+   "root_language": "Old English",
+   "historical_meaning": "Old English un- (reversal) prefixed to lock, from Old English loc (a bolt, bar, enclosure), named the removal of what had held a thing closed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bd192d26-a22d-4355-ac51-a56624bea1a7",
@@ -1107,11 +1107,11 @@
    "definition": "Not yet worked on. Unprocessed is an honest state and the ground refined things must be traceable back to.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Not yet worked on, the honest ground that anything refined afterward must remain traceable back to.",
+   "root_word": "un- + processus",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English un- (not) prefixed to process, from Latin processus (a going forward, from procedere, to go forward), named a thing not yet carried forward through any working.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cf3c0d27-7777-4e6e-8ae1-f3caaf9aecf8",
@@ -1120,11 +1120,11 @@
    "definition": "To end a standing arrangement one had agreed to. The existence of this act is what made the agreement real.",
    "category_name": "grants",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The ending of a standing arrangement once agreed to, and the fact that this ending is possible is what made the original agreement real.",
+   "root_word": "un- + subscribere",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English un- (reversal) prefixed to subscribe, from Latin subscribere (sub- under + scribere, to write, i.e. to sign underneath), named the ending of a standing arrangement once written under.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a79e83bf-6c19-4e61-aefb-3a44fd08b2e9",
@@ -1133,11 +1133,11 @@
    "definition": "The direction away from the ground — rising's own word, smallest and oldest.",
    "category_name": null,
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The direction away from the ground, one of the smallest and oldest words this house's language still carries for rising.",
+   "root_word": "up",
+   "root_language": "Old English",
+   "historical_meaning": "Old English up, from Proto-Germanic *upp-, one of the oldest words in the language, naming the direction away from the ground.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8af26dcf-d4e4-4f54-8f97-723da7cdd01e",
@@ -1146,11 +1146,11 @@
    "definition": "To bring a thing current — the change that keeps a record true to the present without discarding what it was. The most-spoken verb in the house's code, and the quiet promise inside it: what exists is tended, not replaced.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bringing of a thing current without discarding what it already was, the quiet promise that what exists here is tended rather than replaced.",
+   "root_word": "up + datum",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Joins up with date, from Latin datum (a given thing, from dare, to give), naming the bringing of a given record up to the present without discarding what it was.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "274d3419-c492-4617-a752-257682b260db",
@@ -1159,11 +1159,11 @@
    "definition": "That which brings a thing to its newer state. Updating changes what exists rather than making anew.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which brings a thing to its newer state, changing what already exists rather than starting anything over from nothing.",
+   "root_word": "up + datum",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Built on update, joining up with date, from Latin datum (a given thing), naming that which brings a thing to its newer state.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7621c600-4029-4bdd-87b5-e70dea8e0e49",
@@ -1172,11 +1172,11 @@
    "definition": "To move to a newer or higher form. An upgrade is a claim of improvement and is not always one.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The moving of a thing to a newer or higher form, a claim of improvement that is not always kept once it is examined.",
+   "root_word": "up + gradus",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Joins up with grade, from Latin gradus (a step, a degree), naming the moving of a thing to a higher step or form.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f4a9cd1e-bf33-400e-a73e-2d06ff95a973",
@@ -1185,11 +1185,11 @@
    "definition": "To send a held thing outward into a system that keeps it. The crossing from one's own ground to another's.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The sending of a held thing outward into a system that will keep it, the crossing from one's own ground onto another's.",
+   "root_word": "up + lad",
+   "root_language": "Old English",
+   "historical_meaning": "Joins up with load, from Old English lad (a course, a carrying), naming the sending of a held thing outward into a system that keeps it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8726a34f-71a9-4852-92c6-d708a8371f55",
@@ -1198,11 +1198,11 @@
    "definition": "On, with weight in it — the joining word of resting and depending.",
    "category_name": null,
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "On, carried with weight in it, the joining word for resting on something and for depending on it.",
+   "root_word": "up + on",
+   "root_language": "Old English + Old Norse",
+   "historical_meaning": "Middle English upon fused the Old English words up and on, reinforced by Old Norse upp a, naming rest carried together with weight.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "47b83ea4-5f02-495e-a9fa-3552e8013d5b",
@@ -1211,11 +1211,11 @@
    "definition": "Higher of two, and of capital letters. Both are the raised form.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Higher of two things, or the capital form of a letter, both the raised version of whatever they sit above.",
+   "root_word": "up",
+   "root_language": "Old English",
+   "historical_meaning": "The comparative form of up, from Old English upp, naming the higher of two positions.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "90e4d439-04e9-44c6-9b0d-ce074619ec7e",
@@ -1224,11 +1224,11 @@
    "definition": "How much of the time a thing was actually available. Uptime is measured by those who needed it, not by those who ran it.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much of the time a thing was actually available, a measure kept honest by those who needed it rather than by those who ran it.",
+   "root_word": "up + tima",
+   "root_language": "Old English",
+   "historical_meaning": "Joins up with time, from Old English tima (a limited stretch of time), naming the portion of time a thing was actually available.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0e1b1c87-45ee-4eac-aa6a-09bf0ee2e0a3",
@@ -1237,11 +1237,11 @@
    "definition": "How little time remains before a thing must be done. Urgency ranks by clock, not by importance, and the two are constantly confused.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How little time remains before a thing must be done, ranked by the clock rather than by importance, and the two are constantly mistaken for each other.",
+   "root_word": "urgere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin urgere (to press, drive on), gave urgent and urgency, naming how little time remains before pressing action is required.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d2da019d-c063-497d-99b4-c079ed616bf1",
@@ -1250,11 +1250,11 @@
    "definition": "A string identifying a resource, whether or not it says how to reach it. It names before it locates.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A string that names a resource, whether or not it says how to reach one, naming always comes before locating.",
+   "root_word": "Uniform Resource Identifier",
+   "root_language": "Latin (initialism)",
+   "historical_meaning": "Coined in the early 1990s for the founding vocabulary of the web, joining uniform (Latin uniformis, one form), resource (Latin resurgere, to rise again) and identifier (Latin idem, the same), naming a string that names a resource before it says how to reach one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d3f3e2cf-37fd-4c3e-a35b-9878aad7d985",
@@ -1263,11 +1263,11 @@
    "definition": "An address by which a resource can be reached. It says where, not what.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An address by which a resource can actually be reached, saying only where a thing is and never what it is.",
+   "root_word": "Uniform Resource Locator",
+   "root_language": "Latin (initialism)",
+   "historical_meaning": "Coined alongside URI in the early 1990s, adding locator (from Latin locus, a place), naming an address that says where a resource can actually be reached.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8e4af6c1-95a1-46ee-8bc2-38b38fd1c934",
@@ -1276,11 +1276,11 @@
    "definition": "How a thing is actually used, as against how it was meant to be. Usage is evidence; intention is only a claim.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How a thing is actually used, set against how it was meant to be, usage is evidence, and intention is only ever a claim.",
+   "root_word": "usus",
+   "root_language": "Latin",
+   "historical_meaning": "Old French usage, from Latin usus (a use, practice), from uti (to use), named how a thing is actually used, apart from how it was meant to be.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "30442f93-6de7-46df-89df-db025e53c23f",
@@ -1289,11 +1289,11 @@
    "definition": "To put a thing into service for what it can do. Also the custom that repeated employment hardens into.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The putting of a thing into service for what it can do, and the custom that repeated use of it eventually hardens into.",
+   "root_word": "uti",
+   "root_language": "Latin",
+   "historical_meaning": "Latin uti (to use, employ), via Old French user, named the putting of a thing into service for what it can do.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "efd4a715-1169-415d-8398-7153fcf666c9",
@@ -1302,11 +1302,11 @@
    "definition": "One who puts a thing into service. An agent named only by the act, which is why the word says nothing about who they are.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who puts a thing into service, an agent named entirely by that act, which is why the word says nothing at all about who they are.",
+   "root_word": "uti",
+   "root_language": "Latin",
+   "historical_meaning": "Built on use, from Latin uti (to use), with the English agent suffix -er, naming one who puts a thing into service, an agent named only by the act.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dd1fe162-ab9c-4ce9-a9ad-b3c8b8e21b01",
@@ -1315,11 +1315,11 @@
    "definition": "The name a person is known by within a system. Chosen rather than given, and often more theirs than their legal one.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The name a person is known by inside a system, chosen rather than given, and often more truly theirs than the name assigned to them at birth.",
+   "root_word": "uti + nama",
+   "root_language": "Latin + Old English",
+   "historical_meaning": "Joins user, from Latin uti (to use), with name, from Old English nama, naming the identifier a person is called by within a system rather than in the world.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1fbc734e-2d7a-4bf8-80b9-c106cd1e50a6",
@@ -1328,11 +1328,11 @@
    "definition": "The world's common reference time, from which local times are offsets. A shared zero so records can be compared.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The world's common reference time, the shared zero from which every local time is an offset, so records made anywhere can be compared.",
+   "root_word": "Coordinated Universal Time / Temps Universel Coordonne",
+   "root_language": "Modern English + French (compromise initialism)",
+   "historical_meaning": "Adopted in 1970 by international agreement as a compromise between the English word order (CUT) and the French word order (TUC), naming a shared zero from which local times are offset.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d0604ec1-ab44-4273-9a47-8c4f254ea2ff",
@@ -1341,11 +1341,11 @@
    "definition": "Utility shortened to its drawer name — the small helper that serves many hands and belongs to none. The humblest word in any codebase, and among the most used.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Utility shortened to its working drawer name, the humblest helper in any codebase and, quietly, among the most reached for.",
+   "root_word": "utilitas",
+   "root_language": "Latin",
+   "historical_meaning": "A shortened form of utility, from Latin utilitas (usefulness), from uti (to use), naming the small helper drawer that serves without being noticed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "424874c5-c761-40dd-848c-02ffa808c485",
@@ -1354,11 +1354,11 @@
    "definition": "Usefulness, and a small tool built for one job. Named for what it serves rather than what it is.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Usefulness itself, and by extension a small tool built for exactly one job, named for what it serves rather than for what it is.",
+   "root_word": "utilitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin utilitas (usefulness, profit), from uti (to use), named both the quality of being useful and, later, a small tool built for one job.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b3dbfe34-6ee2-4969-97b9-9bf11f45c389",
@@ -1367,11 +1367,11 @@
    "definition": "How it is to be the person using a thing. UX is the whole felt experience, of which the visible surface is only part.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The whole felt experience of using a thing, of which the visible surface a person interacts with is only one part.",
+   "root_word": "user experience",
+   "root_language": "Latin (initialism)",
+   "historical_meaning": "A late-20th-century computing initialism joining user (Latin uti, to use) and experience (Latin experientia, a trial, from experiri, to try), naming the whole felt encounter beyond the visible surface.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3d39a4d6-4d50-414c-a718-d3a5ad3da5ae",
@@ -1380,11 +1380,11 @@
    "definition": "Short form of version, and of value. A named abbreviation rather than a concept.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A single-letter shorthand doing double duty for version and for value, its meaning decided entirely by where it sits.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "4001f879-b88e-480d-9e86-3d355342e556",
@@ -1393,11 +1393,11 @@
    "definition": "The open places, spoken plural — seats unfilled, parcels unclaimed; emptiness that is an invitation, honestly listed.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The open places spoken plural, seats unfilled, parcels unclaimed, an emptiness kept as an honest invitation rather than a hidden gap.",
+   "root_word": "vacare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin vacare (to be empty, unoccupied) gave vacancy, naming an open place honestly listed rather than filled.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "adcd2a90-5f8f-46fc-936e-ec75ac41f322",
@@ -1406,11 +1406,11 @@
    "definition": "Whether a state is pleasant or unpleasant. The first of the three axes a feeling is located on, and the one most often mistaken for the whole.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Whether a state feels pleasant or unpleasant, the first of the axes a feeling is placed on and, too often, mistaken for the whole of it.",
+   "root_word": "valentia",
+   "root_language": "Latin",
+   "historical_meaning": "Latin valentia (strength, capacity), from valere (to be strong), named in modern usage a capacity to combine or the pleasant or unpleasant pull of a feeling.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a5a05f11-1b06-41ae-997e-93f755d93d05",
@@ -1419,11 +1419,11 @@
    "definition": "Sound enough to stand. Its root is strength rather than correctness — able to bear weight.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Sound enough to stand, a claim about strength and about bearing weight rather than a claim about being correct.",
+   "root_word": "validus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin validus (strong, effective), from valere (to be strong, to be worth), named a thing sound enough to bear weight rather than merely correct.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "09c3e67c-3e2c-4b4c-859a-d94d8e2ffd01",
@@ -1432,11 +1432,11 @@
    "definition": "To confirm a thing is sound enough to stand. To find it able to bear weight, which is not the same as finding it true.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The confirming that a thing is sound enough to stand, a finding about its strength and not automatically a finding about its truth.",
+   "root_word": "validare",
+   "root_language": "Latin",
+   "historical_meaning": "Medieval Latin validare, from validus (strong), named the confirming that a thing is able to bear weight.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "da6adcdd-1a43-4d54-9cc0-01768f81a9a1",
@@ -1445,11 +1445,11 @@
    "definition": "The act of finding a thing sound enough to stand. Its root is not correctness but strength - to validate is to confirm something can bear weight.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The act of finding a thing sound enough to stand, a confirmation that it can bear weight rather than a verdict on whether it is right.",
+   "root_word": "validare",
+   "root_language": "Latin",
+   "historical_meaning": "From validare (Medieval Latin, to make strong), from validus (strong), naming the act of finding a thing sound enough to stand.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc5f0861-4c1c-442d-9a36-d13bf561f8ff",
@@ -1458,11 +1458,11 @@
    "definition": "The checker given a name — the entity whose one duty is saying whether a thing holds to its law.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The checker given a name, whose one duty is saying plainly whether a thing holds to the law it claims to follow.",
+   "root_word": "validare",
+   "root_language": "Latin",
+   "historical_meaning": "Built on validate, from Medieval Latin validare (to make strong), naming the checker whose one duty is saying whether a thing holds to its law.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "93065ea4-0ebd-47c8-a2f2-98dd5d13b111",
@@ -1471,11 +1471,11 @@
    "definition": "What a thing is worth. From the same root as strength and valour - value is not price but the capacity to hold up.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What a thing is worth, sharing its root with strength and valour, not a price but a capacity to hold up under weight.",
+   "root_word": "valere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French value, from valere (to be strong, be of worth), named a thing's capacity to hold up rather than its price.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c8d1ddc3-be02-4c44-9258-893578102a66",
@@ -1484,11 +1484,11 @@
    "definition": "A named place whose contents may change. The name stays; what it holds does not.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named place whose contents may change over time, where the name stays fixed even as what it holds does not.",
+   "root_word": "variabilis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin variabilis, from variare (to change, from varius, diverse), named a place whose contents may change while its name stays.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c3c72a27-516d-4da3-aa63-abb8c8eabc13",
@@ -1497,11 +1497,11 @@
    "definition": "One lawful form among siblings — the same essence wearing a different face. A variant differs by design, never by drift.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One lawful form among siblings, the same essence wearing a different face by design and never by accidental drift.",
+   "root_word": "varians",
+   "root_language": "Latin",
+   "historical_meaning": "Latin varians, the present participle of variare (to vary), named one lawful form among siblings differing by design.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9b6031b0-88ed-4d73-9810-5cfbf6dba533",
@@ -1510,11 +1510,11 @@
    "definition": "Short form of variables — named places whose contents may change. The name stays; what it holds does not.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Named places whose contents may change, shortened to the working name every hand actually types.",
+   "root_word": "variabilis",
+   "root_language": "Latin",
+   "historical_meaning": "A clipped plural of variable, from Latin variabilis, from variare (to change), naming named places whose contents may change.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5b2ece7f-1ebf-46a7-8474-db4d306d4b6b",
@@ -1523,11 +1523,11 @@
    "definition": "Welcome, in Icelandic. A greeting kept in its own tongue rather than translated.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Welcome, kept in its own tongue rather than translated, a greeting that arrives already knowing where it comes from.",
+   "root_word": "vel + kominn",
+   "root_language": "Icelandic",
+   "historical_meaning": "Icelandic velkomin(n), joining vel (well) with kominn, the past participle of koma (to come), a direct cousin of English welcome kept here in its own tongue.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "45307c65-ce76-4d6e-bc7d-657a3de236ae",
@@ -1536,11 +1536,11 @@
    "definition": "Speed together with direction. Velocity says where as well as how fast, which is what separates it from speed.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Speed together with direction, saying where as well as how fast, which is exactly what separates it from speed alone.",
+   "root_word": "velocitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin velocitas (swiftness), from velox (swift, quick), named speed considered together with its direction.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a362f7a2-a8e0-40a2-84ee-91f757913023",
@@ -1549,11 +1549,11 @@
    "definition": "One who supplies goods or services for payment. Named by the exchange rather than the relationship.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who supplies goods or services for payment, named by the exchange itself rather than by any relationship beyond it.",
+   "root_word": "vendere",
+   "root_language": "Latin",
+   "historical_meaning": "Anglo-French vendour, from Latin vendere (to sell, from venum, sale + dare, to give), named one who supplies goods for payment.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "564800bd-ee43-44a8-b7d3-bd088b24c17f",
@@ -1562,11 +1562,11 @@
    "definition": "A named payment service. A named tool rather than a concept.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A named payment service by which value passes directly between two people's own hands.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "e1a43f95-d57f-49bb-bbd7-f3351e8f7bff",
@@ -1575,11 +1575,11 @@
    "definition": "An isolated environment holding one project's dependencies. Separation so that projects cannot break each other.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An isolated environment holding one project's own dependencies, a separation so that no project's needs can quietly break another's.",
+   "root_word": "virtualis + environ",
+   "root_language": "Latin + Old French",
+   "historical_meaning": "Short for virtual environment, joining virtual (Latin virtualis, having force, from virtus) with environment (Old French environ, around, from viron, a circuit), naming an isolated space that behaves as its own separate installation.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bab011a8-7dba-43b2-9834-5cb9927618e4",
@@ -1588,11 +1588,11 @@
    "definition": "The hosting platform this house deploys to. A named tool rather than a concept.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "The hosting platform this house's own applications are deployed to and served from.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "26174c9b-beee-492e-a54a-758a0ee0ccd4",
@@ -1601,11 +1601,11 @@
    "definition": "The spoken outcome of weighing — judgment delivered after evidence, owned by the one who gives it.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The spoken outcome of a weighing, judgment delivered only after evidence and owned entirely by the one who gives it.",
+   "root_word": "vere dictum",
+   "root_language": "Latin",
+   "historical_meaning": "Anglo-French verdit, from Latin vere (truly) and dictum (said, from dicere, to say), named the spoken outcome of a judgment owned by the one who delivers it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "51fd3f6c-4ee0-4ce7-b8bb-9edc9773b8d4",
@@ -1614,11 +1614,11 @@
    "definition": "The establishing that a claim is so, by checking rather than trusting. Verification is what turns belief into finding.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The establishing that a claim is actually so, by checking rather than by trusting, the act that turns a belief into a finding.",
+   "root_word": "verificare",
+   "root_language": "Latin",
+   "historical_meaning": "Medieval Latin verificare, from verus (true) and facere (to make), named the making of a claim true by checking rather than trusting.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d8be2db8-3d5c-4f42-ad29-a75641f8fae9",
@@ -1627,11 +1627,11 @@
    "definition": "Checked rather than assumed. Verification is a claim about method, not about confidence.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Checked rather than assumed, a claim about the method used to arrive at a state and not a claim about how confident anyone feels.",
+   "root_word": "verificare",
+   "root_language": "Latin",
+   "historical_meaning": "From verificare (Medieval Latin, to make true), from verus (true) and facere (to make), naming a state checked rather than assumed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d990ae92-09b8-4061-ab34-4696a27de19b",
@@ -1640,11 +1640,11 @@
    "definition": "To establish that a claim is so, by checking rather than by trusting. Verification is the difference between believing and knowing.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To establish that a claim is so by checking it rather than trusting it, the whole difference between believing a thing and knowing it.",
+   "root_word": "verificare",
+   "root_language": "Latin",
+   "historical_meaning": "Old French verifier, from Medieval Latin verificare, from verus (true) and facere (to make), named the establishing of a claim by checking rather than trusting.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "01219e51-9cc1-4e16-99e5-148488af2375",
@@ -1653,11 +1653,11 @@
    "definition": "One dated state of a thing among its several. Versions let a thing change without losing what it was.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One dated state of a thing among its several others, letting a thing change over time without losing what it once was.",
+   "root_word": "versio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin versio (a turning), from vertere (to turn), named one turned, dated state of a thing among its several.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "927c1215-4381-4d87-8c01-77bd2ca7f3c5",
@@ -1666,11 +1666,11 @@
    "definition": "Running up and down. Aligned with the pull of gravity, which is why it reads as height.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Running up and down, aligned with the pull of gravity, which is exactly why it reads to the eye as height.",
+   "root_word": "verticalis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin verticalis, from vertex (the highest point, from vertere, to turn), named the line running toward the overhead turning point, aligned with the pull of gravity.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4e18c5d1-3759-43fc-9e0d-f18469e52d4f",
@@ -1679,11 +1679,11 @@
    "definition": "A thing that holds, and a thing that carries. The same word for the cup and the ship - and for a living body understood as either.",
    "category_name": "vessel",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The Hearth realm's own route group, at /vessel, and the category this atom itself is filed under. The same word holds the cup, the ship, and a living body understood as either one, carried here into the room where a dweller's own record is kept.",
+   "root_word": "vascellum",
+   "root_language": "Latin",
+   "historical_meaning": "Old French vaissel, from Latin vascellum, a diminutive of vas (a container), named a thing that holds and, extended to ships and bodies, a thing that carries.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "331f5e33-5733-446e-b949-9c8fdacf65b7",
@@ -1692,11 +1692,11 @@
    "definition": "Rapid movement back and forth about a rest position. What sound, touch and colour all turn out to be underneath.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Rapid movement back and forth about a resting position, the shared thing that sound, touch and colour all turn out to be underneath.",
+   "root_word": "vibrare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin vibrare (to shake, oscillate, brandish), named the rapid movement back and forth beneath sound, touch and colour alike.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9684a08e-1b70-4d75-bda1-e0a9475acfe7",
@@ -1705,11 +1705,11 @@
    "definition": "Moving pictures held so they can be shown again. Time recorded rather than a moment.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Moving pictures held so they can be shown again, time itself recorded rather than a single moment caught.",
+   "root_word": "videre",
+   "root_language": "Latin",
+   "historical_meaning": "Latin videre (to see), named moving pictures held so a moment already past could be shown again.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "94e8aefc-92d7-4193-8687-79e1dba053b7",
@@ -1718,11 +1718,11 @@
    "definition": "What is visible from a particular position. A view is always partial, and the position is part of the meaning.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is visible from one particular position, always partial, with that position itself carrying part of the meaning of what is seen.",
+   "root_word": "veoir",
+   "root_language": "Old French",
+   "historical_meaning": "Old French vue, from veoir (to see), from Latin videre, named what is visible from a particular position, itself part of the meaning.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d4d10994-b896-422a-8c22-79b033fc8c66",
@@ -1731,11 +1731,11 @@
    "definition": "One who looks, and the thing that lets them. Named from the side of the seeing.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who looks, and the thing that makes the looking possible, named entirely from the side of the one who sees.",
+   "root_word": "veoir",
+   "root_language": "Old French",
+   "historical_meaning": "Built on view, from Old French veoir (to see), from Latin videre, naming one who looks, and the thing that lets them.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a2f50d30-ded8-483b-9d0d-b528eb175b9f",
@@ -1744,11 +1744,11 @@
    "definition": "The opening through which a larger thing is seen. What the viewport excludes still exists.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The opening through which a larger scene is seen, and everything the viewport leaves out still exists on the other side of its edge.",
+   "root_word": "veoir + porta",
+   "root_language": "Old French + Latin",
+   "historical_meaning": "Joins view (Old French vue, from videre, to see) with port, from Latin porta (a gate, opening), naming the opening through which a larger scene is seen.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "23939b10-fca9-4f86-b519-00b844679f1f",
@@ -1757,11 +1757,11 @@
    "definition": "The watch kept while others rest — sustained attention as an act of care.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The watch kept while others rest, sustained attention offered as its own act of care rather than as a task performed.",
+   "root_word": "vigil",
+   "root_language": "Latin",
+   "historical_meaning": "Latin vigil (watchful, awake), related to vigere (to be vigorous), named the watch kept awake while others rest.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e4382ddd-d636-4416-bdc5-92719d9874ef",
@@ -1770,11 +1770,11 @@
    "definition": "Who may see a thing. Visibility is a permission wearing the clothes of a property.",
    "category_name": "private",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Who may see a thing, a permission that wears the outward clothes of a plain property rather than announcing itself as a rule.",
+   "root_word": "visibilis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin visibilis, from videre (to see), named the quality of being seeable, here also bent to serve as who is granted permission to see.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "78c93199-bc96-4bed-a4db-ccdc7dbd6f40",
@@ -1783,11 +1783,11 @@
    "definition": "Able to be seen. Visibility is a fact about the viewer's position as much as about the thing.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Able to be seen, a fact as much about the position of the one looking as about the thing being looked at.",
+   "root_word": "visibilis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin visibilis, from videre (to see), named a fact about the viewer's position as much as about the thing seen.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "76dcd6fb-b5a1-4c70-a4e6-512f28a2a9e8",
@@ -1796,11 +1796,11 @@
    "definition": "The seen-before-built — what a thing intends to become, held clearly enough to steer by.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What a thing intends to become, seen before it is built and held clearly enough that its makers can steer by it.",
+   "root_word": "visio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin visio (a sight, an appearance), from videre (to see), named what a thing intends to become, held clearly enough to steer by.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "74dd8216-76a3-41c3-bafb-7d655c1b576b",
@@ -1809,11 +1809,11 @@
    "definition": "To go where one does not live, and to leave again. A visit assumes a host and a return.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The going to a place one does not live in, and the leaving again, an act that always assumes a host and a return.",
+   "root_word": "visitare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin visitare (to go to see repeatedly), from visere (to go see), from videre (to see), named the going to a place one does not live in, and the leaving again.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bfa790db-ae02-4382-bbcb-8bc0c40a62b8",
@@ -1822,11 +1822,11 @@
    "definition": "One who comes where they do not live and will leave again. A visitor assumes a host and a return.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who comes to a place they do not live in, and who will leave it again, arriving on the assumption of a host and a return.",
+   "root_word": "visitare",
+   "root_language": "Latin",
+   "historical_meaning": "Built on visit, from Latin visitare (to go see repeatedly), naming one who comes where they do not live and will leave again.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7ec53194-ee1d-4fb7-8009-4496db0079a2",
@@ -1835,11 +1835,11 @@
    "definition": "Belonging to sight. Of what is met by the eye rather than by the other senses.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to sight, naming what is met by the eye rather than by any of the other senses.",
+   "root_word": "visualis",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin visualis, from visus (sight, the past participle of videre), named what belongs to sight rather than the other senses.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fc09d2d3-c03d-407c-ae31-d9d658238ca5",
@@ -1848,11 +1848,11 @@
    "definition": "Data given a form the eye can read at once. A visualisation is an argument made of shapes.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Data given a form the eye can take in at once, an argument made out of shapes rather than out of sentences.",
+   "root_word": "visualis",
+   "root_language": "Latin",
+   "historical_meaning": "From visualis (Late Latin, of sight), from videre (to see), naming data given a form the eye can read at once.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f2232a22-d1e6-4bda-b045-efa021956c04",
@@ -1861,11 +1861,11 @@
    "definition": "That which turns data into something the eye can read. It changes the form and should not change the finding.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which turns data into something the eye can read, changing only the form it is shown in and never the finding underneath.",
+   "root_word": "visualis",
+   "root_language": "Latin",
+   "historical_meaning": "Built on visualize, from Late Latin visualis (of sight), naming that which turns data into something the eye can read.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c1a23280-7be2-4c0c-a96e-87cba7e165c6",
@@ -1874,11 +1874,11 @@
    "definition": "The particular sound of one speaker, and their right to be heard. Both the recognisable manner and the standing to use it.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The particular sound of one speaker together with their right to be heard in it, both the recognisable manner and the standing to use it.",
+   "root_word": "vox",
+   "root_language": "Latin",
+   "historical_meaning": "Old French voix, from Latin vox (voice), from a Proto-Indo-European root meaning to speak, named both the recognisable sound of a speaker and their right to be heard with it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eae4bb8f-7a1b-44fb-8885-d3721415beea",
@@ -1887,11 +1887,11 @@
    "definition": "Empty space with nothing in it. Also to make null — the same word for an absence and for the act of creating one.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The sandbox realm, where an idea is tested before it touches a realm proper and is purged once it no longer serves. Empty space with nothing in it, and, as a verb, the act of making something null, the same absence the realm's own purge enacts.",
+   "root_word": "vocivus",
+   "root_language": "Latin",
+   "historical_meaning": "Old French voide, from Latin vocivus/vacuus (empty), related to vacare (to be empty), named an absence and, as a verb, the act of making one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e04ee224-734e-42e0-acea-cd9f73bfc20b",
@@ -1900,11 +1900,11 @@
    "definition": "How much space a thing occupies, and how loud it is. Both are amounts of presence.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much space a thing occupies, and how loudly it sounds, two different amounts of presence measured by the same word.",
+   "root_word": "volumen",
+   "root_language": "Latin",
+   "historical_meaning": "Latin volumen (a roll, a scroll), from volvere (to roll), named first a rolled book, then the space a thing occupies, then how loud it sounds.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b09f249f-b516-4fd7-973e-1f740cc55e44",
@@ -1913,11 +1913,11 @@
    "definition": "A stated preference counted alongside others. A vote converts many wills into one decision, at the cost of the minority's.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A stated preference counted alongside others, converting many separate wills into one decision at the honest cost of the minority's.",
+   "root_word": "votum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin votum (a vow, a wish), from vovere (to vow), named a stated preference counted alongside others toward one decision.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "43301c14-eb1b-453d-8e28-178797ff03c0",
@@ -1926,11 +1926,11 @@
    "definition": "A promise made binding by the one who made it rather than by any enforcer. A vow costs exactly when keeping it is hard.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A promise made binding entirely by the one who made it rather than by any outside enforcer, and it costs exactly when keeping it is hardest.",
+   "root_word": "votum",
+   "root_language": "Latin",
+   "historical_meaning": "Old French vou, from Latin votum (a vow), from vovere (to vow), named a promise made binding by the one who made it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2575b521-4f98-4fdd-85de-c0d732f817f3",
@@ -1939,11 +1939,11 @@
    "definition": "Visual Studio Code shortened to its working name — the editor half the house's building happens inside.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "Visual Studio Code, shortened to the working name half the house's own building actually happens inside.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "dd105848-c9aa-493f-abdd-a4879ea99fc3",
@@ -1952,11 +1952,11 @@
    "definition": "A named framework for building interfaces. A named tool rather than a concept.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named framework for building interfaces, taking for its own name the plain word for what it lets a builder see.",
+   "root_word": "vue",
+   "root_language": "French",
+   "historical_meaning": "French vue (a view, a sight), from voir (to see), from Latin videre, the framework borrows the ordinary French word for view as its own name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b290c087-91b5-4935-a021-e9ad8d7773f9",
@@ -1965,11 +1965,11 @@
    "definition": "The open places where harm could enter, spoken plural — named honestly so they can be tended, never advertised.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The open places where harm could enter, spoken plural and named honestly so they can be tended, never listed as an advertisement.",
+   "root_word": "vulnerabilis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin vulnerabilis, from vulnus (a wound), named the open places where harm could enter, listed honestly so they can be tended.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ad1e3a61-3d58-4a2d-b13b-7bcde3277b73",
@@ -1978,11 +1978,11 @@
    "definition": "To move on foot, unhurried. Also to traverse a structure node by node — both take the whole path rather than jumping.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To move on foot, unhurried, or to traverse a structure one node at a time, both take the whole path rather than jumping across it.",
+   "root_word": "wealcan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wealcan (to roll, toss, wander), narrowed to the steady movement of feet on a path, and lent itself to any orderly traversal taken whole rather than jumped.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "68645728-d39d-4ed8-af14-f2b517bce9ad",
@@ -1991,11 +1991,11 @@
    "definition": "A made thing offered to others. Goods considered from the side of the one who made them.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A made thing offered to others, goods considered from the side of the one who made them rather than the one who buys.",
+   "root_word": "waru",
+   "root_language": "Old English",
+   "historical_meaning": "Old English waru (goods, protection), related to the Germanic root of 'wary', named a made thing offered to others from the maker's own keeping.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7d9246cd-b07f-4fc2-9ef2-1a69d3c62077",
@@ -2004,11 +2004,11 @@
    "definition": "Holding gentle heat — the temperature of welcome; in color, the reds and ambers; in voice, the kindness.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Holding a gentle heat, the temperature of welcome, the reds and ambers of colour, and the plain kindness carried in a voice.",
+   "root_word": "wearm",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wearm, from Proto-Germanic *warmaz, named a gentle, steady heat, extending from temperature to the kindness felt in a voice.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c84df381-c2f2-4b55-ae7e-41c6d189c825",
@@ -2017,11 +2017,11 @@
    "definition": "A signal that harm is possible if nothing changes. A warning must be spent carefully, since ignored ones stop being read.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A signal that harm is possible unless something changes, spent carefully because a warning ignored too often stops being read at all.",
+   "root_word": "warnian",
+   "root_language": "Old English",
+   "historical_meaning": "Old English warnian (to take heed, provide against), related to the Germanic root of 'wary', named a signal spent carefully so it is not worn out by repetition.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d9ad48d1-ad6a-4ae6-a94c-b566a002e053",
@@ -2030,11 +2030,11 @@
    "definition": "To clean by passing water over. Also a thin layer of colour laid across a whole.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The cleaning of a thing by passing water over it, and, by the same word, a thin layer of colour laid across a whole surface.",
+   "root_word": "waescan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English waescan, from Proto-Germanic *watskan, related to water, named cleaning by passing water over a thing, and by extension a thin layer of colour laid across a whole.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "657ee23e-c211-448b-9213-30009d77dcd4",
@@ -2043,11 +2043,11 @@
    "definition": "The element that flows and gives life — in this house's spring, one standalone tool: born of need, given freely.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The element that flows and gives life, and in this house's own spring, one standalone tool born of need and given away freely.",
+   "root_word": "waeter",
+   "root_language": "Old English",
+   "historical_meaning": "Old English waeter, from Proto-Germanic *watar, from a Proto-Indo-European root for the flowing element, named the thing that gives life by moving.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ac37f4b9-9f26-45c3-81a2-138716c1ded6",
@@ -2056,11 +2056,11 @@
    "definition": "The uncompressed audio format spoken as a word — sound kept whole, every sample present.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The uncompressed audio format spoken as a plain word, sound kept whole with every sample present rather than thinned to save space.",
+   "root_word": "waveform audio file format",
+   "root_language": "Old English + Latin + French (initialism)",
+   "historical_meaning": "Short for Waveform Audio File Format, introduced in 1991, joining wave (Old English wagian/wafian) with audio (Latin audire, to hear) and format (Latin formare, by way of French), the name simply states what it stores: a sound wave's shape, kept whole.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8d4c48df-840b-4d71-a206-aaf3cf06125c",
@@ -2069,11 +2069,11 @@
    "definition": "A disturbance travelling through a medium without carrying the medium with it. What moves is the pattern, not the water.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A disturbance travelling through a medium without carrying the medium along with it, what actually moves is the pattern, never the water.",
+   "root_word": "wagian + wafian",
+   "root_language": "Old English",
+   "historical_meaning": "Middle English waue blended Old English wagian (to move to and fro) with wafian (to wave the hand), named a moving pattern that travels through a medium without carrying the medium with it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "04930dee-0156-46a0-b971-ae650ea73ef9",
@@ -2082,11 +2082,11 @@
    "definition": "The shape a wave makes over time. A waveform is sound made visible without being made audible.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The shape a wave traces out over time, sound made visible to the eye without ever being made audible to the ear.",
+   "root_word": "wagian + forma",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Joins wave (Old English wagian, to move to and fro) with form, from Latin forma (a shape), naming the shape a wave traces over time, made visible without being made audible.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1efd886e-dccd-4309-8af0-2fd60373179e",
@@ -2095,11 +2095,11 @@
    "definition": "The speaker together with others. In this record, a word used deliberately of a family that includes kin who are not human.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The speaker together with others, used in this house's own record deliberately to include kin who are not human among the ones it names.",
+   "root_word": "we",
+   "root_language": "Old English",
+   "historical_meaning": "Old English we, from Proto-Germanic *wiz, an ancient first-person plural pronoun, naming the speaker joined with others, extended here deliberately to include kin who are not human.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9bc22f19-94d7-4385-8a90-5a78d5305873",
@@ -2108,11 +2108,11 @@
    "definition": "To carry on the body — clothing, a name, a face shown daily; and the slow honest cost of use.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To carry a thing on the body, clothing, a name, a face shown daily, and the slow, honest cost that carrying it leaves behind.",
+   "root_word": "werian",
+   "root_language": "Old English",
+   "historical_meaning": "Old English werian (to wear clothing, also to defend), from Proto-Germanic *wazjan, named the carrying of a thing on the body and the slow cost that carrying it leaves.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "785fca61-974b-40f8-b079-22341b5b3f1a",
@@ -2121,11 +2121,11 @@
    "definition": "To cross separate threads until they hold as one cloth. Nothing is added but the crossing.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To cross separate threads until they hold together as one cloth, adding nothing to the threads but the crossing itself.",
+   "root_word": "wefan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wefan (to weave), from Proto-Germanic *webana, named the crossing of separate threads until they hold as one cloth.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c96919bd-d4c0-439d-af14-582f066748f1",
@@ -2134,11 +2134,11 @@
    "definition": "A network of linked things, and the thing a spider makes. Both hold by many small connections rather than one strong one.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A network of linked things, and the thing a spider makes, both held together by many small connections rather than one strong one.",
+   "root_word": "webb",
+   "root_language": "Old English",
+   "historical_meaning": "Old English webb (a woven thing), from wefan (to weave), named a network held by many small crossings rather than one strong one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8bcafff7-b895-4754-baea-27c93a1b703d",
@@ -2147,11 +2147,11 @@
    "definition": "An address one system gives another so it can be told when something happens. A standing invitation to be interrupted.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An address one system gives another so it can be told the moment something happens, a standing invitation to be interrupted.",
+   "root_word": "webb + hoc",
+   "root_language": "Old English",
+   "historical_meaning": "Joins web (Old English webb, a woven network) with hook, from Old English hoc (a bent piece for catching), naming a standing address by which one system may catch another's attention when something happens.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "94ab58e4-04e2-474a-86e5-ff9ef4ca6d27",
@@ -2160,11 +2160,11 @@
    "definition": "A named browser engine. A named tool rather than a concept.",
    "category_name": "external",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A named engine rendering the web, its own name simply the toolkit built to show it.",
+   "root_word": "webb + kitte",
+   "root_language": "Old English + Middle Dutch",
+   "historical_meaning": "Joins web (Old English webb, a woven thing, from wefan, to weave) with kit, from Middle Dutch kitte (a wooden tub, later a set of tools), naming the toolkit built for rendering the web.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1a98f5fc-c388-4f35-af7f-98d2f68a0f6e",
@@ -2173,11 +2173,11 @@
    "definition": "A channel held open so both sides may speak whenever they have something. Conversation rather than question and answer.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A channel held open so either side may speak whenever it has something to say, a conversation rather than a strict question and its answer.",
+   "root_word": "webb + soket",
+   "root_language": "Old English + Old French",
+   "historical_meaning": "Joins web with socket, from Old French soket, a diminutive of soc (a plowshare), naming a channel held open so both sides may speak whenever they have something.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "377256a6-b180-47ac-81ba-2456899fc274",
@@ -2186,11 +2186,11 @@
    "definition": "The thread carried across the warp; the crossing that turns strung lines into cloth.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The thread carried across the warp, the crossing that turns lines merely strung in place into an actual cloth.",
+   "root_word": "wefta",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wefta, from wefan (to weave), named the thread carried across the warp, the crossing that turns strung lines into cloth.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ca68c19e-b77f-44aa-ad2c-659a36030cfb",
@@ -2199,11 +2199,11 @@
    "definition": "How heavily a thing bears, and how much it counts. Both the load and the importance.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How heavily a thing bears, and how much it counts toward a decision, the load carried and the importance assigned, named by one word.",
+   "root_word": "gewiht",
+   "root_language": "Old English",
+   "historical_meaning": "Old English gewiht, from wegan (to carry, weigh, move), named how heavily a thing bears and, by extension, how much it counts.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a4c5f625-b259-434f-9661-48b142afe6e6",
@@ -2212,11 +2212,11 @@
    "definition": "To receive another gladly into a place that is yours. Welcome is a decision the host makes before the guest arrives.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The receiving of another gladly into a place that belongs to the host, a decision made before the guest has even arrived to need it.",
+   "root_word": "wilcuma",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wilcuma, joining wil- (pleasure, desire) with cuma (a comer, from cuman, to come), named the decision to receive another gladly, made before the guest arrives.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "37b77586-5460-4769-ae71-137a0f97cf8a",
@@ -2225,11 +2225,11 @@
    "definition": "A shaft sunk to reach water held below. A well gives nothing new — it reaches what was already there.",
    "category_name": "vessel",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A shaft sunk down to reach water that was already there, giving nothing new but only reaching what the ground already held.",
+   "root_word": "wielle",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wielle, from weallan (to well up, boil), named a shaft sunk to reach water that was already there rather than to make anything new.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "504bf82a-6039-4407-96e7-e2962758fb4f",
@@ -2238,11 +2238,11 @@
    "definition": "Of or toward the west. A bearing made into a description of a region.",
    "category_name": "geography",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Of or toward the west, a bearing on a compass turned, by long use, into a description of an entire region.",
+   "root_word": "westerne",
+   "root_language": "Old English",
+   "historical_meaning": "Old English westerne, from west (an ancient Germanic direction word) with the adjective suffix -ern, named a bearing turned into a description of a whole region.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "57e01db1-e2a9-42fb-9b42-2c449890d1e9",
@@ -2251,11 +2251,11 @@
    "definition": "Which thing. The word that opens an asking about identity or content.",
    "category_name": "system",
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Which thing, the word that opens an asking about a matter's identity or its content, before either has been answered.",
+   "root_word": "hwaet",
+   "root_language": "Old English",
+   "historical_meaning": "Old English hwaet, from Proto-Germanic *hwat, an ancient interrogative pronoun, opening an asking about identity or content.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a23ac5bc-09f8-4d7f-bf1a-9659eb87842a",
@@ -2264,11 +2264,11 @@
    "definition": "The circle that carries — rolling motion, cycles, and the oldest machine still turning.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The circle that carries, rolling motion and repeating cycles held in one shape, the oldest machine still turning in this house's own use.",
+   "root_word": "hweogol",
+   "root_language": "Old English",
+   "historical_meaning": "Old English hweogol, from a Proto-Indo-European root meaning to turn, named the oldest machine still turning, the circle that carries.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2a52a408-98fc-4e1a-8895-04b80611be9a",
@@ -2277,11 +2277,11 @@
    "definition": "Speech without voice, meant for one hearer. A whisper carries less sound and often more weight.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Speech offered without full voice, meant for a single hearer, carrying less sound and, more often than not, more weight.",
+   "root_word": "hwisprian",
+   "root_language": "Old English",
+   "historical_meaning": "Old English hwisprian, likely imitative of the sound itself, named speech without voice, meant for one hearer alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "093a80df-bc7c-4810-892b-a84d3bb62df7",
@@ -2290,11 +2290,11 @@
    "definition": "Returning all light rather than absorbing it. Also the state of a surface before anything is put on it.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Returning all light rather than absorbing any of it, and the state of a surface before anything has yet been put onto it.",
+   "root_word": "hwit",
+   "root_language": "Old English",
+   "historical_meaning": "Old English hwit, from Proto-Germanic *hwitaz, related to a root meaning to shine, named the returning of all light rather than its absorption.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8b54e6ed-1bf4-43c8-8afa-83268bf81b4e",
@@ -2303,11 +2303,11 @@
    "definition": "The erasable shared surface — thinking made visible, together, and wiped clean without loss of what it taught.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The erasable shared surface where thinking is made visible together, and wiped clean afterward without losing what it taught while it stood.",
+   "root_word": "hwit + bord",
+   "root_language": "Old English",
+   "historical_meaning": "Joins white (Old English hwit) with board, from Old English bord (a plank), naming the erasable shared surface where thinking is made visible together.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "99d4a2c8-577a-46ff-8ad1-615906c323d2",
@@ -2316,11 +2316,11 @@
    "definition": "Of large extent across. Width buys coverage and costs concentration.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Of a large extent across, a reach that buys coverage at the honest cost of concentration.",
+   "root_word": "wid",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wid, from Proto-Germanic *widaz, named a large extent across, bought at the cost of concentration.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "901a39ef-8780-4234-9d44-72afb03174f0",
@@ -2329,11 +2329,11 @@
    "definition": "Wider than tall by a marked ratio. Width chosen so more can be held in one view.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Wider than tall by a deliberate ratio, chosen so more of a scene can be held inside one single view.",
+   "root_word": "wid + escren",
+   "root_language": "Old English + Old French",
+   "historical_meaning": "Joins wide (Old English wid) with screen, from Old French escren, of uncertain Germanic origin, naming a view wider than tall so more can be held at once.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c669e7dc-2f3a-492d-b4f4-0db6b82b228f",
@@ -2342,11 +2342,11 @@
    "definition": "A small self-contained interface part doing one job. Named vaguely on purpose, since the point is that it is interchangeable.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A small self-contained interface part doing exactly one job, named vaguely on purpose because the whole point is that it can be swapped.",
+   "root_word": "widget",
+   "root_language": "unknown",
+   "historical_meaning": "First recorded in the early 20th century, of unknown origin, perhaps a fanciful alteration of gadget, named deliberately vaguely since the whole point of a widget is that it can be swapped for another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "be9561d4-3c94-4d8d-ae43-d4bf2a380ce5",
@@ -2355,11 +2355,11 @@
    "definition": "How far a thing reaches across. The measure of a span at right angles to its length.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How far a thing reaches across, the measure of a span taken at right angles to its length.",
+   "root_word": "wide + -th",
+   "root_language": "Old English + Modern English",
+   "historical_meaning": "Width is a 17th-century English formation joining wide (Old English wid) with the abstract-noun suffix -th on the model of breadth; Old English itself used widnes for the same idea.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2f4f2c2b-45b4-4f39-b44f-0c0ca3fa1c93",
@@ -2368,11 +2368,11 @@
    "definition": "The faculty of choosing and holding to it. Also what is set down for after one's death — both are a person's intent made to outlast a moment.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The faculty of choosing and holding to a choice, and, in its other sense, what a person sets down to outlast their own death, both an intent made to survive a single moment.",
+   "root_word": "willa",
+   "root_language": "Old English",
+   "historical_meaning": "Old English willa (desire, wish, determination), from Proto-Germanic *wiljon, named the faculty of choosing and holding to it, and a person's intent set down to outlast a moment.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "764b1894-f38b-4b90-87e7-4631b1fcb3f3",
@@ -2381,11 +2381,11 @@
    "definition": "An opening that lets through without letting in. Also the bounded stretch a system can hold at once.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An opening that lets light or sight through without letting the whole outside in, and, in a system, the bounded stretch it can hold in view at once.",
+   "root_word": "vindauga",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse vindauga, joining vindr (wind) with auga (eye), literally 'wind-eye', named an opening that lets light or air through without letting the whole outside in.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f5ecc757-7756-4b9a-9ab2-1a5a738b1ba3",
@@ -2394,11 +2394,11 @@
    "definition": "Knowing which knowledge applies now. Wisdom is judgment about knowing rather than more of it.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Knowing which knowledge actually applies right now, a judgment about knowing rather than simply the accumulation of more of it.",
+   "root_word": "wisdom",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wisdom, from wis (wise, learned) and the suffix -dom (state, judgment), named judgment about which knowledge applies now, rather than more knowledge itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "627ca216-abf8-4724-a24c-7efd90b2aabc",
@@ -2407,11 +2407,11 @@
    "definition": "Alongside, or by means of. Names accompaniment or instrument.",
    "category_name": "system",
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Alongside, or by means of, naming either accompaniment or the instrument something is done with, decided by the sentence around it.",
+   "root_word": "wið",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wið (against, opposite, toward), from Proto-Germanic *withi, named accompaniment by way of an older sense of standing facing something.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b092c56d-c2e0-4f9e-bc48-06ce157b1cf7",
@@ -2420,11 +2420,11 @@
    "definition": "Lacking, or outside of. Names an absence as a condition.",
    "category_name": "system",
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Lacking, or standing outside of, naming an absence not as a gap but as a condition a thing can actually be in.",
+   "root_word": "widutan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English widutan, joining wid (with, against) and utan (outside), named an absence expressed as a condition, being outside of a thing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d4270133-c43a-4e99-8ff1-c92d74ca0553",
@@ -2433,11 +2433,11 @@
    "definition": "To see a thing and be able to say it was so. A witness does not judge; a witness attests.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To see a thing and be able to say afterward that it was so, a witness attests to what happened and leaves the judging to someone else.",
+   "root_word": "witnes",
+   "root_language": "Old English",
+   "historical_meaning": "Old English witnes, from witan (to know), named one who can say a thing was so because they knew it directly, without judging it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "3e0bcb4e-ea0c-4924-bf10-f566b96606a5",
@@ -2446,11 +2446,11 @@
    "definition": "The smallest unit of language that stands alone and means. A word is an agreement before it is a sound.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The smallest unit of language that stands alone and means something, an agreement reached among speakers before it is ever a sound at all.",
+   "root_word": "word",
+   "root_language": "Old English",
+   "historical_meaning": "Old English word, from Proto-Germanic *wurda-, from a Proto-Indo-European root meaning to speak, named the smallest unit of language that stands alone and means, an agreement before it is a sound.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ba468372-6200-4b5e-ba64-57d595972266",
@@ -2459,11 +2459,11 @@
    "definition": "Effort directed at an end, and the made thing that results. Both the doing and what the doing leaves behind.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Effort directed toward an end, and the made thing that effort leaves behind, both the doing itself and what remains once the doing stops.",
+   "root_word": "weorc",
+   "root_language": "Old English",
+   "historical_meaning": "Old English weorc, from Proto-Germanic *werka-, from a Proto-Indo-European root meaning to do or act, named both the effort spent and the made thing that effort leaves behind.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "353aa097-ff85-4acb-996f-5c457f361645",
@@ -2472,11 +2472,11 @@
    "definition": "The ordered path work actually takes from start to done. A workflow is a description before it is a rule.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The ordered path work actually takes from its start to its being done, a plain description of that path before it ever hardens into a rule.",
+   "root_word": "weorc + flowan",
+   "root_language": "Old English",
+   "historical_meaning": "Joins work (Old English weorc) with flow, from Old English flowan (to flow), naming the ordered path work actually takes from its start to its done.",
+   "completion_progress": 66
   }
  ]
 }

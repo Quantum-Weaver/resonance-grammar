@@ -15,11 +15,11 @@
    "definition": "The rearranging of a whole's parts and their relations. Restructuring changes what is possible without changing what is there.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A change made to how the house's own parts relate to one another, done without discarding what already stood — what becomes possible changes, not what is there.",
+   "root_word": "re- + structura",
+   "root_language": "Latin",
+   "historical_meaning": "Latin structura (a building, a fitting together), from struere (to pile up, build), with re- (again) prefixed; a rearranging of what was already built rather than a building from nothing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9e60eb6f-64b0-4be4-a2a3-966a239a8daa",
@@ -28,11 +28,11 @@
    "definition": "What comes back after a thing is done. From the Latin for rebound - a result is the leap returning, not the leap.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What comes back once a process has run its course — an outcome standing apart from the steps that produced it, ready to be read on its own.",
+   "root_word": "resultare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin resultare (to spring back, rebound), a frequentative of resilire (re- back + salire, to leap); the outcome named as a rebound from an action rather than the action itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1d65ea61-e9c7-4b1a-8d58-e5899f09650a",
@@ -41,11 +41,11 @@
    "definition": "To take up again what was paused. Resuming assumes the state was kept.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Picking a paused thing back up from exactly where it stood, trusting that its state was kept rather than lost.",
+   "root_word": "resumere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin resumere (to take up again), from re- (again) + sumere (to take, assume); picking up a suspended action rather than beginning it anew.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c1fc5d60-adae-457c-a85f-35a673601669",
@@ -54,11 +54,11 @@
    "definition": "How long a thing is kept before it is let go. A retention rule is an ethical decision wearing a technical name.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How long a kept thing is allowed to stay before it must be released — a boundary decided in advance rather than discovered by accident.",
+   "root_word": "retinere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin retinere (to hold back, keep), from re- (back) + tenere (to hold); retention names the choice to keep holding a thing rather than let it go.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "218587b7-18b7-4c4c-b640-202e3a08f3b4",
@@ -67,11 +67,11 @@
    "definition": "To draw back what was extended — a claim withdrawn, a reach returned; reversal done openly.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Drawing back a claim or a reach that went too far, done openly rather than left to quietly lapse.",
+   "root_word": "retrahere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin retrahere (to draw back), from re- (back) + trahere (to draw, pull); a withdrawal made by the same hand that made the original reach.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b0ca3493-6710-4e02-8ce8-44d9e9dfe51c",
@@ -80,11 +80,11 @@
    "definition": "To draw back to safer ground — withdrawal as wisdom, not defeat; and the quiet place one withdraws to.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A step back taken on purpose, and the quiet place that step leads to — withdrawal read as care for what continues, not as loss.",
+   "root_word": "retraite",
+   "root_language": "Old French",
+   "historical_meaning": "Old French retraite (a drawing back), from Latin retrahere (to draw back) — the same root as retract, but kept for a deliberate, safer withdrawal rather than an undoing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c12ffd07-f918-429a-8d66-55689598314e",
@@ -93,11 +93,11 @@
    "definition": "The bringing back of what was stored. Retrieval is the whole reason keeping is done at all.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bringing back of what was stored — the one part of keeping that ever gets tested, since a keeping nobody can retrieve was never really kept.",
+   "root_word": "retrouver",
+   "root_language": "Old French",
+   "historical_meaning": "Old French retrouver (to find again), from re- (again) + trouver (to find); retrieval assumes something once had and since set aside is being found, not made.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6cda8ad8-0906-42d3-b82e-2b992ba01f2c",
@@ -106,11 +106,11 @@
    "definition": "To bring back what was stored. Retrieval assumes the keeping was done well enough to find it again.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The act of finding again what was set aside — the moment a kept thing proves it was kept well.",
+   "root_word": "retrouver",
+   "root_language": "Old French",
+   "historical_meaning": "Old French retrouver (to find again), from re- (again) + trouver (to find); the verb names the act of finding, not merely the fact of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "901a5a1b-557d-4205-9f93-6ef4a7f3b466",
@@ -119,11 +119,11 @@
    "definition": "To attempt again after failing. Retrying assumes the failure was of the moment rather than of the method.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A second attempt made in good faith, on the wager that what failed was the moment and not the method.",
+   "root_word": "re- + trier",
+   "root_language": "Old French",
+   "historical_meaning": "Old French trier (to sift, pick out, examine), of uncertain further origin, prefixed with re- (again); a second sifting, on the chance the first pass merely misfired.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "89601943-f0a9-4734-9fc3-806024dc8ca8",
@@ -132,11 +132,11 @@
    "definition": "To come back, and to give back. Both senses close a circuit that was opened.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Both a coming back and a giving back — the closing of a circuit that was deliberately left open, whichever direction the closing runs.",
+   "root_word": "retorner",
+   "root_language": "Old French",
+   "historical_meaning": "Old French retorner (to turn back), from re- (again) + torner (to turn), from Latin tornare (to turn on a lathe); a circuit that closes, whether of a body coming back or a thing given back.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "57ad54e8-2dbe-4da4-aeae-343f3b917b03",
@@ -145,11 +145,11 @@
    "definition": "To look again at a thing with judgment. A review is a second seeing, made deliberately.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A second seeing done deliberately, with judgment attached — the look a thing gets after the first look is already finished.",
+   "root_word": "re- + videre",
+   "root_language": "Latin",
+   "historical_meaning": "Latin re- (again) + videre (to see), via Old French reveoir; a review is literally a second seeing, undertaken on purpose rather than by accident.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "21e3a57d-ae9f-4625-bdcf-cb965ae76da4",
@@ -158,11 +158,11 @@
    "definition": "To see again and amend — change made by second sight, in the open.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Changing something because it was looked at again and seen differently — amendment made in the open, by the same second sight the word names.",
+   "root_word": "revisere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin revisere (to visit again, look at again), from re- (again) + visere (to go see), a frequentative of videre (to see); amendment made by that second sight rather than by guesswork.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f9390d94-b676-4d6e-89f0-3f8f378c2e4e",
@@ -171,11 +171,11 @@
    "definition": "What good doing brings back — return earned, not extracted; in this house's games, the reward is the words.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What good doing brings back, and in this house's games that return is never taken from anyone else — the words themselves are the whole of it.",
+   "root_word": "rewarder",
+   "root_language": "Old French",
+   "historical_meaning": "Old North French rewarder (to look back at, take heed of), a doublet of regard, from re- (back) + warder (to watch, guard), of Germanic origin; a reward was first the attention paid back for what someone had done.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "28542733-9da6-4ee2-9208-3681e9716915",
@@ -184,11 +184,11 @@
    "definition": "Colour stated as amounts of red, green and blue. A named encoding rather than a concept.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Colour stated as three measured amounts rather than as a single word — precise enough for a machine to reproduce exactly.",
+   "root_word": "red + green + blue",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "An initialism formed from the English words red, green and blue, fixed by twentieth-century colour science and display technology rather than descended from an older word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ff4b197e-7b47-43e9-b70e-37b0af5dedaa",
@@ -197,11 +197,11 @@
    "definition": "Colour stated as red, green, blue and how opaque it is. A named encoding rather than a concept.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The rgb encoding with one more number added for how see-through a colour is — opacity stated as plainly as the colour itself.",
+   "root_word": "red + green + blue + alpha",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "An initialism extending rgb with alpha, the letter conventionally used in computing for a transparency value; a modern coinage rather than an inherited word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8dc09025-1e27-4225-bcc0-682d37d52cb2",
@@ -210,11 +210,11 @@
    "definition": "A long narrow band, used to bind, to mark, or to honour. Its narrowness is what makes it a sign rather than a covering.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A band narrow enough to mean something rather than merely cover something — the visible mark of a distinction given.",
+   "root_word": "riban",
+   "root_language": "Old French",
+   "historical_meaning": "Old French riban (a band, a strip of fabric), of uncertain origin, perhaps Germanic; the narrowness of the thing is what has always let it mark or bind rather than merely cover.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "419a2dbb-774b-4ecf-a5a2-d0d42d9cad11",
@@ -223,11 +223,11 @@
    "definition": "The side opposite left. Also what one is owed — the same word for a direction and for a just claim.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A single word doing two jobs at once — the side that is not left, and the claim that is owed. Both senses descend from the same old idea of what runs straight and true.",
+   "root_word": "riht",
+   "root_language": "Old English",
+   "historical_meaning": "Old English riht (straight, correct, just), from Proto-Germanic *rehtaz, from a Proto-Indo-European root for moving in a straight line; one old word for both a direction and a just claim, since both trace to what does not bend.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a3fb4816-20bc-46c7-8d30-e1ddf6976c08",
@@ -236,11 +236,11 @@
    "definition": "A closed circle, and the sounding of a bell. Both are things that return to themselves.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A closed circle and the sound of a struck bell, carried by one word — a shape that returns to itself, and a sound that does the same.",
+   "root_word": "hring + hringan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English hring (a circular band) and the separate verb hringan (to sound, ring a bell), both from Proto-Germanic roots; two old words sharing one modern spelling, one naming a closed shape and the other a returning sound.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e8e1c82d-048a-41d4-85ba-6a3e6b05e9b5",
@@ -249,11 +249,11 @@
    "definition": "To move upward under one's own becoming — ascent; what the sun, bread, and hope do.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Ascent that happens under a thing's own becoming, the way the sun, bread and hope are each said to rise rather than to be raised.",
+   "root_word": "risan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English risan (to rise up, get up), from Proto-Germanic *reisan, from a Proto-Indo-European root meaning to rise; movement upward under a thing's own power rather than being lifted.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "08783f47-bbc7-485a-8597-e017014400ec",
@@ -262,11 +262,11 @@
    "definition": "The chance of harm, weighed against its size. Risk is respected rather than feared — the two produce opposite decisions.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The chance of harm, sized against what it would cost — a thing to be weighed and respected rather than feared, since the two produce opposite decisions.",
+   "root_word": "risco",
+   "root_language": "Italian",
+   "historical_meaning": "Italian risco / rischio (danger, hazard), of disputed origin — one line traces it to Latin resecare (to cut off short), by way of the hazard a ship's course runs against a jagged coast; entered English through French risque.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "717c8287-2d53-4a26-81a9-ab75803b794b",
@@ -275,11 +275,11 @@
    "definition": "A form repeated on purpose so meaning can gather in it. What makes it a ritual is that the doing matters as much as the outcome.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A form repeated on purpose until meaning gathers inside it — the doing counted as much as whatever it produces.",
+   "root_word": "ritus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin ritus (a religious observance, a custom), source of ritualis (pertaining to rite); a ritual has always been a form repeated because the repeating itself was understood to matter.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "640dd9d2-d8f0-4a00-83a1-3563cc0734b4",
@@ -288,11 +288,11 @@
    "definition": "Row-level security — rules deciding which rows a given reader may see. Permission enforced in the data itself rather than above it.",
    "category_name": "grants",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Permission enforced inside the data itself, row by row, rather than only at the door standing above it.",
+   "root_word": "row-level security",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "An initialism for row-level security, a database access-control term fixed in relational database systems rather than descended from an older word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c355a881-fbe3-4fe8-a2e6-3064a5e567b9",
@@ -301,11 +301,11 @@
    "definition": "A stated order of what comes next and roughly when. A roadmap is an intention, not a promise.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A stated order of what comes next, offered as an intention that can still change rather than a promise that cannot.",
+   "root_word": "rad + mappa",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English rad (a riding, a journey) compounded with map, itself from Latin mappa (a napkin, cloth — the material early charts were drawn on); a roadmap names the way ahead without promising the ground will hold.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cdfd838e-6bad-485b-86ab-6422c1eb9449",
@@ -314,11 +314,11 @@
    "definition": "A part played, with duties attached to the part rather than the person. A role can be left; the record of holding it stays.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A part played, carrying its own duties apart from whoever is currently playing it — a role can be set down, but the record of having held it does not go with it.",
+   "root_word": "rotulus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin rotulus (a little wheel, a roll of paper), diminutive of rota (a wheel); an actor's part was once literally written on such a roll, and the paper's name became the part's name and then the standing of whoever held it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "48f7b307-51b8-42df-8e7e-134fe8ed0b36",
@@ -327,11 +327,11 @@
    "definition": "The returning of a system to a prior known state. A rollback undoes an attempt without pretending it never happened.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Returning a system to a state it is known to have already held — undoing an attempt honestly rather than pretending it never ran.",
+   "root_word": "rotulare + baec",
+   "root_language": "Latin + Old English",
+   "historical_meaning": "Latin rotulare (to roll), from rota (a wheel), joined to Old English baec (back); a rollback turns a system back along the same path it came by, the way a wheel retraces its own turning.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e8c6a40e-1cb8-49f4-aed7-58f586a27a31",
@@ -340,11 +340,11 @@
    "definition": "A bounded space within a larger dwelling, given over to one purpose. Also the space available for a thing to exist in.",
    "category_name": "vessel",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bounded space given over to one purpose, and also the plainer thing every purpose needs first — enough space in which to exist at all.",
+   "root_word": "rum",
+   "root_language": "Old English",
+   "historical_meaning": "Old English rum (space, extent, an open area), from Proto-Germanic *rumaz, from a Proto-Indo-European root meaning to open, make room; the bounded chamber and the abstract space to move in are the same old word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0d66a6cb-f48e-4951-be4a-f4c957587257",
@@ -353,11 +353,11 @@
    "definition": "The part a thing grows from and is anchored by. Also the base form a family of words descends from.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The part a thing grows from and is anchored by — used here for what a word descends from, and for what the Grammar itself calls its own most basic atoms.",
+   "root_word": "rot",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse rot (a root), related to Old English wyrt, from a Proto-Germanic root; the underground anchor of a plant and the ancestor-word a family of words grows from are the same metaphor, applied twice.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "92248fdf-0c34-414c-b03e-c5077f87dcbc",
@@ -366,11 +366,11 @@
    "definition": "To turn about a centre. Also to replace in turn — the same word for spinning and for taking turns.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Turning about a fixed centre, and taking a turn in an order — the wheel's own word doing double duty for a spin and for a sequence.",
+   "root_word": "rotare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin rotare (to turn round), from rota (a wheel); the same word covers both spinning about an axis and taking a turn in sequence, because both eventually return to where they started.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "09f98a1b-9e1c-4c67-92e8-2c9afcbee28e",
@@ -379,11 +379,11 @@
    "definition": "Turning about a centre. Also taking turns in order — both return to where they began.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The completed turn about a centre, or the completed pass through a sequence — either way, a return to where the count began.",
+   "root_word": "rotatio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin rotatio (a turning round), from rotare, from rota (a wheel); the noun of the same wheel-word as rotate, naming the completed turn rather than the turning itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "76e366c5-0f48-4e96-be2b-1f62a75682ca",
@@ -392,11 +392,11 @@
    "definition": "Having its corners taken off. Softened at the edges so nothing catches.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A corner with its sharpness taken off — softened at the edge on purpose, so nothing meeting it catches or cuts.",
+   "root_word": "rotundus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin rotundus (wheel-shaped, round), from rota (a wheel), via Old French roont; a rounded corner is a corner reshaped toward the wheel's own unbroken curve.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4e52ff1f-57f9-4ed0-aad4-046f68db4e45",
@@ -405,11 +405,11 @@
    "definition": "A chosen way from one place to another. A route is one path among many, and choosing it excludes the rest.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One chosen way among the many that could have been taken — and by the word's oldest sense, choosing it is a small act of forcing a way through rather than simply picking one already there.",
+   "root_word": "rupta",
+   "root_language": "Latin",
+   "historical_meaning": "Old French route, from Latin (via) rupta, literally a broken way — a road forced open through unbroken ground, from rumpere (to break); a route was first the path someone had to cut before it meant merely the path chosen.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4536bd48-e98e-4b21-8738-2ef8368b9850",
@@ -418,11 +418,11 @@
    "definition": "That which decides where each thing should go. A router does no work itself and determines everything's path.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which decides where each thing is sent, without ever doing the carrying itself — all decision, no motion.",
+   "root_word": "rupta",
+   "root_language": "Latin",
+   "historical_meaning": "An English agent noun built on route (from Latin rupta, a forced-open way) with the suffix -er; a router is named for deciding the way, not for travelling it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ce3e6042-5a93-4608-81af-a97b0cf13c5c",
@@ -431,11 +431,11 @@
    "definition": "One line in an ordered set. A single record standing in succession with its kind.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One line among many holding the same shape — a single record standing in its ordered place among its own kind.",
+   "root_word": "raw",
+   "root_language": "Old English",
+   "historical_meaning": "Old English raw (a line, a row, a hedgerow), from a Proto-Germanic root for a line or ridge; things standing in a line together, one after another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "48265b1b-7791-4b34-8bdf-1c43ef94e976",
@@ -444,11 +444,11 @@
    "definition": "A statement of what must or must not be. A rule differs from a description in that breaking it has consequence.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A statement of what must or must not be, carrying the old measuring-stick's own promise: a rule only holds if breaking it is checked against something straight.",
+   "root_word": "regula",
+   "root_language": "Latin",
+   "historical_meaning": "Latin regula (a straight edge, a pattern to measure by), from regere (to guide, to keep straight); a rule was first a physical measuring stick before it named a statement whose breaking has consequence.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "864b1230-b4b1-4577-9157-6111e16a5ced",
@@ -457,11 +457,11 @@
    "definition": "To carry a process through from start to finish. Also one such carrying, considered as a single event.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Carrying a process from its start through to its finish, or one such carrying counted as a single event — the same old word for a body moving and a stream flowing.",
+   "root_word": "rinnan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English rinnan (to run, flow, move quickly), from Proto-Germanic *rinnan; a run is a process carried all the way through, the way a stream runs its channel to the end.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5dc9433a-5dd9-42a1-ba8a-be0e7a626cdc",
@@ -470,11 +470,11 @@
    "definition": "The conditions under which a thing actually runs, as opposed to how it was written. Where design meets what is really there.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The conditions a thing actually meets while it runs, which are never quite the conditions it was designed under — where a plan finds out what the world is really like.",
+   "root_word": "rinnan + tid",
+   "root_language": "Old English",
+   "historical_meaning": "A compound of run (Old English rinnan, to run) and time (Old English tid); runtime names the hour a thing is actually running, as against the hour it was written.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bd12fa5e-11fd-43b2-b2d6-755d5d94ff3b",
@@ -483,11 +483,11 @@
    "definition": "The language this house builds its sovereign local tools in. A named language rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The language this house builds its sovereign, local-first tools in — named, by its own makers' account, for a fungus's resilience rather than for corrosion.",
+   "root_word": "rust",
+   "root_language": "Old English",
+   "historical_meaning": "Old English rust (corrosion on metal), from a Proto-Germanic root related to the colour red; the programming language borrowed the old word directly, reportedly for a fungus's resilience rather than for decay.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bce04781-f5d5-4b7b-9230-b8fb4481f6ec",
@@ -496,11 +496,11 @@
    "definition": "Set apart and not to be treated casually. Sacredness is a decision a community keeps, not a property a thing has.",
    "category_name": "governance",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Set apart from casual handling, by a decision a group keeps making together rather than by any property a thing carries on its own.",
+   "root_word": "sacer",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sacer (holy, set apart, dedicated), source of sacrare (to consecrate); sacredness was never a property found inside a thing, but a status a community conferred and kept agreeing to.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8fdddff7-2a21-40a9-86d4-296e684b4371",
@@ -509,11 +509,11 @@
    "definition": "Low of mood in the presence of loss. The feeling that something mattered and is missed — sorrow doing its honest work, not a malfunction.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Low mood in the presence of loss — proof that something mattered enough to be missed, and honest work rather than a malfunction.",
+   "root_word": "saed",
+   "root_language": "Old English",
+   "historical_meaning": "Old English saed (sated, weary, having had enough), from Proto-Germanic *sadaz, related to Latin satis (enough); the word drifted from fullness and weariness to sorrow by the late Middle Ages.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc43a2c0-776a-43e7-a9fb-3c89a7a6776c",
@@ -522,11 +522,11 @@
    "definition": "Not exposed to harm. Safety is a condition of the place, not a quality of the one in it.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Not exposed to harm — a condition of the place someone stands in, held by the place itself rather than earned by the one standing there.",
+   "root_word": "salvus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin salvus (unharmed, in good health), related to salus (health, safety, well-being), via Old French sauf; safety and health share one Latin root.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b57fb6eb-59b7-4196-8745-35b75af72abd",
@@ -535,11 +535,11 @@
    "definition": "Of the named desert and the region around it. A named place rather than a concept.",
    "category_name": "geography",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Of the named desert and the stretch of land around it — a place-name turned into a description rather than a word standing for a concept.",
+   "root_word": "sahra",
+   "root_language": "Arabic",
+   "historical_meaning": "Arabic sahra (desert), the name given to the great desert and, by the -an suffix, to anything belonging to it or its region.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1308658c-243a-48b0-a29e-5dedbe43ab05",
@@ -548,11 +548,11 @@
    "definition": "An exchange of a thing for payment. A sale transfers what is held and settles the obligation.",
    "category_name": "economics",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An exchange in which a held thing passes to another, and what is owed for it is settled in the same act.",
+   "root_word": "sala",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse sala / Old English sala (a sale), from Proto-Germanic *saljan (to hand over, sell); a sale has always meant a handing-over completed by a payment.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2c40afcd-008c-4dae-b20c-b788f59159eb",
@@ -561,11 +561,11 @@
    "definition": "A part taken to stand for the whole. A sample is only as good as the honesty of how it was chosen.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A part taken deliberately to stand for the whole — and, true to the word's own root, only as trustworthy as the honesty of how it was pulled out.",
+   "root_word": "exemplum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin exemplum (something taken out to serve as a model), from eximere (ex- out + emere, to take), via Old French essample; a sample was first a thing removed to stand in for the whole it came from.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "205459d4-2668-469f-a06b-8fffd6e54d04",
@@ -574,11 +574,11 @@
    "definition": "A place where a being is safe by the nature of the place, not by permission. Safety that does not have to be re-earned at the door.",
    "category_name": "vessel",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A place where a being is safe because of what the place itself is, not because permission was asked for and given at the door.",
+   "root_word": "sanctuarium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sanctuarium (a shrine, a holy place), from sanctus (sacred, made holy); the medieval sense of a place where a fugitive could not lawfully be seized is the sense kept here — safety belonging to the place, not granted person by person.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d4b3babc-13b6-4bf2-adfb-cc8d67d4c460",
@@ -587,11 +587,11 @@
    "definition": "The innermost set-apart place. A sanctum is not merely private; it is protected by what it is for.",
    "category_name": "vessel",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The innermost set-apart room — protected less by any wall than by a shared understanding of what it exists for.",
+   "root_word": "sanctus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sanctum, the neuter of sanctus (holy, set apart); a sanctum is the innermost holy place, protected by what it is understood to be for rather than by a lock.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "06812141-9585-4507-97cf-c90473c964d5",
@@ -600,11 +600,11 @@
    "definition": "A bounded place where things may be tried without consequence outside it. Safety made by walls rather than by care.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bounded place for trying things where nothing that happens there reaches outside it — safety built from walls rather than earned through care.",
+   "root_word": "sand + box",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English sand joined to box (ultimately from Latin buxus, boxwood); the child's sandpit lent its name to computing's isolated testing space in the later twentieth century, keeping the same bounded-place-to-try-things idea.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "535cddb1-5947-468d-aa0a-dd749a56aca2",
@@ -613,11 +613,11 @@
    "definition": "To remove what could do harm before letting a thing through. Sanitising is a judgment about danger made in advance.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Removing what could cause harm before letting a thing pass — a judgment about danger made in advance and applied every time, not case by case.",
+   "root_word": "sanitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sanitas (health, soundness), from sanus (healthy); to sanitise was first to make healthy, and only later, in computing, to strip out whatever in an input could do harm before it is let through.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "20cb9e3b-5cc3-4607-b6ad-b72bbc9de3f2",
@@ -626,11 +626,11 @@
    "definition": "The quality of clarity, balance and light, in the Sanskrit reckoning of the three qualities. Not goodness as reward but as a settled state.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The quality of clarity and settled balance, named by the Sanskrit reckoning of the mind's three qualities — a steady state rather than a reward for good behaviour.",
+   "root_word": "sattva",
+   "root_language": "Sanskrit",
+   "historical_meaning": "Sanskrit sattva (being, essence, purity), from sat (that which is, the true); one of the three gunas said to run through all matter and mind, naming clarity, balance and light rather than a moral goodness that must be earned.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b6ba737a-8cf0-4580-a180-c2cd1dd60094",
@@ -639,11 +639,11 @@
    "definition": "To put beyond loss. Both rescuing a thing and committing it to keeping.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To put a thing beyond loss — the rescuing sense and the committing-to-keeping sense are, by the word's own history, the same act twice.",
+   "root_word": "salvare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin salvare (to make safe, preserve), from salvus (safe) — the same root that gives safe; the sense of committing a file to keeping descends directly from the older sense of rescuing a thing from loss.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c1c7aeeb-89c2-4f20-a1a2-a92117ba21d8",
@@ -652,11 +652,11 @@
    "definition": "The size of a thing relative to a reference, and the act of changing it. Also a graded series for measuring.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The size of a thing measured against a reference, or a graded series for measuring at all — both keep the ladder's own idea of climbing by even, comparable steps.",
+   "root_word": "scala",
+   "root_language": "Latin",
+   "historical_meaning": "Latin scala (a ladder, a flight of steps), from scandere (to climb); a scale is graduated like a ladder's rungs, each step measured against the ones before and after it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "385a5866-31b0-44aa-a1de-e1ef3523808b",
@@ -665,11 +665,11 @@
    "definition": "To pass over a whole quickly, looking for what matters. A scan trades depth for coverage on purpose.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A quick pass over a whole, looking for what matters and trading depth for coverage on purpose — the same climbing-word behind scale, applied to reading instead of measuring.",
+   "root_word": "scandere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin scandere (to climb), used of counting a verse's metrical feet by climbing through them one by one; a quick pass trading depth for coverage grew from that older sense of stepping through something rhythmically.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b158c082-ef74-49b0-9ea7-e696cdb3de40",
@@ -678,11 +678,11 @@
    "definition": "Passed under the reading eye — walked line by line and taken in. The participle standing alone in the corpus's names.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The state of having already been passed under a reading eye, walked through line by line — standing here on its own, without the verb attached.",
+   "root_word": "scandere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin scandere (to climb), the same root behind scan; the participle names the state of having already been passed over.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1c490ceb-55ed-492f-b21e-fabcdd809ceb",
@@ -691,11 +691,11 @@
    "definition": "That which passes over a whole quickly, reporting what it meets. Coverage traded against depth by design.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which passes over a whole quickly and reports what it meets, trading depth against coverage by design rather than by accident.",
+   "root_word": "scandere",
+   "root_language": "Latin",
+   "historical_meaning": "An English agent noun built on scan (from Latin scandere, to climb) with the suffix -er; a scanner is named for the passing-over itself, not for what it finds.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "96b2ba90-7850-42bd-95c8-ccfd4b09c457",
@@ -704,11 +704,11 @@
    "definition": "A story, a tale, a piece of news — the thing one person carries to another. Irish; what the seanchaí keeps and gives aloud. Older than any medium that holds it. This house's video studio.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The story itself — this house's video studio, named for the telling a seanchai gives aloud rather than for any screen it might later appear on.",
+   "root_word": "sceal",
+   "root_language": "Irish",
+   "historical_meaning": "Irish sceal (a story, a tale, a piece of news), from Old Irish scel, ultimately from a Celtic root meaning to tell or relate; older than any medium that has since carried it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "867f31b8-a51d-4a8f-9f44-9542796ae0f0",
@@ -717,11 +717,11 @@
    "definition": "A bounded stretch of happening, held as one view. Everything within it shares a place and a moment.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A bounded stretch of happening held as one view — everything within it sharing a place and a moment, the way everything on the old stage-tent shared one set.",
+   "root_word": "skene",
+   "root_language": "Greek",
+   "historical_meaning": "Greek skene (tent, booth, stage-building), via Latin scaena; a scene was first the structure actors performed in front of, before it named the bounded stretch of action performed there.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e44910bd-0f90-4676-9a29-4f2765f02460",
@@ -730,11 +730,11 @@
    "definition": "A plan laid against time. A schedule is an intention with hours attached.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A plan laid against time — an intention with hours attached, named for the slip of paper it was once written on rather than for the hours themselves.",
+   "root_word": "schedula",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin schedula (a small note, a slip of paper), diminutive of Greek schede (a leaf of papyrus); a schedule was first the paper the plan was written on, before it named the plan itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4cc36b11-9bee-41bc-a956-1968db25fa6a",
@@ -743,11 +743,11 @@
    "definition": "The declared shape of a thing. The form something is held in, named before it is filled.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The declared shape of a thing, stated before it is ever filled — the form named first, so what comes later has somewhere definite to go.",
+   "root_word": "skhema",
+   "root_language": "Greek",
+   "historical_meaning": "Greek skhema (form, shape, figure), from ekhein (to hold); a schema is the declared shape a thing is held in, named before whatever it will hold arrives.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "570e805c-58bc-43e5-b4d4-1ff3c1da0f36",
@@ -756,11 +756,11 @@
    "definition": "A named way of organizing — the lattice's own unit: one lens that groups concepts into a view.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One chosen lens laid over a body of concepts, not the only lens available for the same material — which grouping shows up depends on what the scheme is for, and the choosing carries information of its own.",
+   "root_word": "skhema",
+   "root_language": "Greek",
+   "historical_meaning": "Greek skhema (form, shape), the same root as schema; scheme kept the sense of an organising plan while schema kept the sense of a declared structure, two English words grown from one Greek shape-word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b8c680d3-7085-441b-b9ca-bb2999268781",
@@ -769,11 +769,11 @@
    "definition": "The bounds within which a thing applies. Scope is what keeps a rule from reaching where it was not meant to.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bounds within which a rule is meant to reach — what keeps a rule aimed at what it was made for, rather than drifting wherever it can.",
+   "root_word": "skopos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek skopos (a target, a watcher), from skeptesthai (to look at, examine); scope names the bounds a rule is aimed at, from the same root that gives telescope and microscope their looking.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "64175422-1be4-492a-ae57-35725dc2e4cb",
@@ -782,11 +782,11 @@
    "definition": "A number standing for how well a thing did. Also the written form of a piece of music — both are performance set down as marks.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A number standing for how well a thing did, or the written form of a piece of music — both are performance reduced to marks cut for counting, the score's oldest job.",
+   "root_word": "skor",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse skor (a notch, a tally-mark, a set of twenty), related to the idea of cutting or shearing; a score was first a mark cut to keep count, and a musical score kept that same sense of marks set down to be read.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b681a74b-ce0f-45ed-b9c6-8d7f298be927",
@@ -795,11 +795,11 @@
    "definition": "To mix into disorder, and also to move over rough ground on hands and feet. One word for two motions: what is scrambled has been disarranged, and the one who scrambles is working to cross something.",
    "category_name": "play",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "To mix into disorder on purpose, or to move over rough ground using hands and feet — one word doing two kinds of work, one for what has been disarranged and one for the one making the crossing.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "83716582-d007-43b3-a6b6-2065e0f5d555",
@@ -808,11 +808,11 @@
    "definition": "A surface that shows, and a barrier that hides. The same word for what displays and what conceals.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A surface built to be looked at, and the same word for what keeps something from being seen — display and concealment sharing one name.",
+   "root_word": "escren",
+   "root_language": "Old French",
+   "historical_meaning": "Old French escren (a screen shielding against heat or light), of Frankish origin; the same word grew to name both a surface that displays and a barrier that conceals, since both are things placed to control what passes.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f3d08e31-b21a-43d1-b721-7a0f6d9cfff2",
@@ -821,11 +821,11 @@
    "definition": "Written instructions to be performed. A plan for action, held in words until something runs it.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Written instruction held in words, waiting for something else to carry it out — a plan that does nothing on its own until it is run.",
+   "root_word": "scriptum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin scriptum (a thing written), from scribere (to write) — the same root as scribe; a script is written instruction held in words until something else performs it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5c9af032-0a60-4e41-b8ee-764269a3ff33",
@@ -834,11 +834,11 @@
    "definition": "To move a view across matter longer than the frame. Also the rolled document that gave the motion its name.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Moving a view across more than the frame can hold at once, carrying the name of the rolled document that first needed the motion.",
+   "root_word": "escroe",
+   "root_language": "Old French",
+   "historical_meaning": "Old French escroe (a strip, a scrap of parchment), of Germanic origin, related to shred; the rolled document gave its name to the motion of moving a view across something longer than its frame.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6ae002cd-e057-492f-ab28-bc835ba47eb6",
@@ -847,11 +847,11 @@
    "definition": "Longer than its frame, so a view can be moved across it. Of a thing whose whole cannot be seen at once.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Marking a thing whose whole cannot be taken in at a glance — there is more here than the frame shows, and it can be reached by moving through it.",
+   "root_word": "escroe",
+   "root_language": "Old French",
+   "historical_meaning": "From scroll (Old French escroe, a strip of parchment), with the suffix -able; naming a thing whose whole cannot be seen at once but can be reached by moving through it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2c9080e1-6f15-4e2f-9716-8f4defb22411",
@@ -860,11 +860,11 @@
    "definition": "The mark showing how much lies beyond the frame and where you are within it. It measures the unseen.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The mark that measures what a view cannot show directly — how much lies beyond the frame, and roughly where the visible part sits within it.",
+   "root_word": "escroe + barre",
+   "root_language": "Old French",
+   "historical_meaning": "Scroll (Old French escroe) joined to bar (Old French barre, of uncertain, perhaps Gaulish origin); the mark that measures what a view cannot show directly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c1179f8d-7def-4ca2-9000-d57edb5b5cb7",
@@ -873,11 +873,11 @@
    "definition": "The great water — depth, tide, and horizon; where every river's telling ends and weather begins.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The great water — depth, tide and horizon, kept here as one of the oldest words a house can hold, uncertain past its own Germanic family and honest about it.",
+   "root_word": "sae",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sae, from Proto-Germanic *saiwiz, of uncertain further origin — found only within the Germanic languages, with no secure cognates outside them.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fc72ba23-6a70-4149-8e86-50a6b280a1e2",
@@ -886,11 +886,11 @@
    "definition": "The keeper of lore and the one who tells it — the memory of a place, carried in a person and given aloud. Irish, seanchaí. The keeping and the telling are one office; a record nobody speaks is not what this word means.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The keeper of lore and the one who tells it — a record nobody speaks aloud is not what this word has ever meant.",
+   "root_word": "seanchai",
+   "root_language": "Irish",
+   "historical_meaning": "Irish seanchai (a keeper and teller of lore), from sean (old) + a suffix naming the one who does the telling; the keeping and the telling have always been one office in the word, not two.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "bff0f753-fae6-41cb-b4be-c71306e938b6",
@@ -899,11 +899,11 @@
    "definition": "Irish: the keeper of the spoken lore — the one who holds what was said so it is not lost.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The one who holds what was said so it is not lost, and gives it aloud — keeping and telling as a single, standing office.",
+   "root_word": "seanchai",
+   "root_language": "Irish",
+   "historical_meaning": "Irish seanchai (a keeper and teller of the spoken lore), from sean (old); the office of holding what was said so that it is not lost.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "67300443-6995-4006-904a-64e75a63e198",
@@ -912,11 +912,11 @@
    "definition": "To look for what may not be there. Searching differs from retrieving in that the outcome is not promised.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Looking for something that might not be there to find — the word's own honesty is that finding is never promised, only attempted.",
+   "root_word": "circare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin circare (to go around), from circus (a circle), via Old French cerchier; to search is literally to circle round something until it is found, with no promise the circling will succeed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e7a058af-1bd0-409e-a042-17acc995dbc1",
@@ -925,11 +925,11 @@
    "definition": "Able to be found by asking. Searchability is a property of how a thing was kept, not of the thing.",
    "category_name": "data",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A property of how something was kept, not of the thing itself — whether an answer can be found later depends on the care taken when it was stored.",
+   "root_word": "circare",
+   "root_language": "Latin",
+   "historical_meaning": "From search (Latin circare, to go around), with the suffix -able; a property of how something was kept rather than of the thing itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "57cb374f-9057-483b-8160-2a09a8a2d457",
@@ -938,11 +938,11 @@
    "definition": "The field where a seeking is typed. The visible mouth of a search.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The visible place where a search begins — the mouth through which a question is typed before it goes looking.",
+   "root_word": "circare + barre",
+   "root_language": "Latin + Old French",
+   "historical_meaning": "Search (Latin circare) joined to bar (Old French barre); the visible place where a search begins.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fb82df17-6b78-48e2-b282-44baeae0fc4c",
@@ -951,11 +951,11 @@
    "definition": "A stretch of time with its own weather and work. A season is named by what it is for.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A stretch of time known by its own weather and its own work, named for what it asks of whoever lives through it.",
+   "root_word": "sationem",
+   "root_language": "Latin",
+   "historical_meaning": "Old French seison, from Latin sationem (a sowing, a planting-time), from serere (to sow); a season was first named for the work proper to it, the planting, before it named the weather generally.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a7ad4629-7ef9-498a-bc90-dd02ebed537b",
@@ -964,11 +964,11 @@
    "definition": "A place made for one to sit and belong. In a council, a seat is a standing to speak that persists between meetings.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A place made to sit and belong, and in a council, a standing to speak that outlasts any single meeting held in it.",
+   "root_word": "saeti",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse saeti (a seat, a place to sit), from Proto-Germanic *setiz, related to sit; in a council, the seat has always meant a standing to speak, not merely a place to rest.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "691ea3f8-d233-424f-94d3-66e0489013e8",
@@ -977,11 +977,11 @@
    "definition": "Short form of second, and of section. A named abbreviation rather than a concept.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A short form standing for either a second of time or a section of text — an abbreviation, not a concept of its own.",
+   "root_word": "secundus + sectio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin secundus (following, second) and sectio (a cutting), from secare (to cut); sec abbreviates both second and section, two distinct Latin roots collapsed into one short English form.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "198e2cb6-19e9-478e-9aac-b795eac37d12",
@@ -990,11 +990,11 @@
    "definition": "Second in order or in importance. Naming something secondary makes something else primary by implication.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Second in order or weight — and calling a thing secondary always implies something else has been placed ahead of it.",
+   "root_word": "secundus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin secundus (following, second), from sequi (to follow); naming a thing secondary always implies something else has already been named first.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9a34b777-869e-487d-aff9-01366a4d6bc7",
@@ -1003,11 +1003,11 @@
    "definition": "The base unit of counted time. Also those who come after the first — the same word for a moment and for a rank.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The counted units time is measured in, and, separately, those who come after whoever is first — one word doing two kinds of counting.",
+   "root_word": "secundus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin secundus (following, second), applied twice over: the time-unit sense descends from medieval Latin's second small division of an hour, and the rank sense from the same word for whoever follows the first.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "459e57d7-e52a-4642-bf16-1179e8301417",
@@ -1016,11 +1016,11 @@
    "definition": "What stays pointers, never contents — keys and credentials, held in .env files, referenced everywhere, exposed nowhere.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What is never written as content, only pointed to — kept in one place, referenced everywhere it is needed, and shown nowhere it is not.",
+   "root_word": "secretus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin secretus (set apart, hidden), from secernere (se- apart + cernere, to separate, sift); a secret was first a thing sifted out and kept from the rest.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e9c07190-19dc-495c-9da1-749a60016915",
@@ -1029,11 +1029,11 @@
    "definition": "A part obtained by cutting the whole. Not a natural joint but a chosen one - a section is where someone decided to divide.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A part reached by cutting the whole on purpose — not a joint the thing already had, but a line someone chose to draw.",
+   "root_word": "sectio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sectio (a cutting), from secare (to cut); not a joint the whole thing already had, but a line someone chose to draw.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0dd40f74-b2f0-4deb-b4ce-35466d78f57b",
@@ -1042,11 +1042,11 @@
    "definition": "The condition of being protected from harm or intrusion. Security is a state maintained, never a state achieved.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A protected condition that has to be kept up continuously — never a state finished once and then left alone.",
+   "root_word": "securitas",
+   "root_language": "Latin",
+   "historical_meaning": "Latin securitas (freedom from care, safety), from securus (se- without + cura, care); a state that is kept up, never a state finished once and left alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6f6ab394-9e78-43b7-a33e-588f6caaaca3",
@@ -1055,11 +1055,11 @@
    "definition": "A small thing containing the pattern of a much larger one. Not a miniature — an instruction that unfolds.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A small thing carrying the pattern of something much larger — not a miniature of the outcome, but the instruction the outcome unfolds from.",
+   "root_word": "saed",
+   "root_language": "Old English",
+   "historical_meaning": "Old English saed (seed), from Proto-Germanic *saediz, related to sow (to plant); a seed carries the pattern of something larger without being a miniature of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "99f67c22-a261-4271-94dd-f05621351bf7",
@@ -1068,11 +1068,11 @@
    "definition": "To go looking, without a promise of finding. Seeking is the honest verb where searching implies a target.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To go looking without a promise of finding — the honest verb, where search can imply a target already known to exist.",
+   "root_word": "secan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English secan (to seek, search for), from Proto-Germanic *sokjan; a seeking with no promise that it will end in finding.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2e3c7ef5-6eb9-4d38-84ff-c5e36f436649",
@@ -1081,11 +1081,11 @@
    "definition": "One who perceives what is not yet evident. A seer reports what they see; seeing is not a claim of certainty.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who reports what they perceive before it is otherwise evident — the claim is only ever what was seen, never a certainty beyond that.",
+   "root_word": "seon",
+   "root_language": "Old English",
+   "historical_meaning": "An agent noun built on see (Old English seon, to see, from Proto-Germanic *sehwan) with the suffix -er; a seer is named for the seeing, not for any certainty attached to it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "07489c08-313b-4176-b75b-106309dd94e1",
@@ -1094,11 +1094,11 @@
    "definition": "One part cut from a longer whole. A segment's boundaries are a decision someone made.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One part cut from a longer whole, its edges placed by a decision rather than found already there.",
+   "root_word": "segmentum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin segmentum (a piece cut off), from secare (to cut) — the same root family as section; a segment's edges are a decision, not a natural joint.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "dfc6176c-cf1b-48e7-a7f7-6f2a83fa2d28",
@@ -1107,11 +1107,11 @@
    "definition": "To pick out from among others. Every selection is also a setting aside of everything not chosen.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To pick one thing out from among others — and every choosing is, in the same motion, a setting aside of what was not chosen.",
+   "root_word": "seligere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin selectus, past participle of seligere (se- apart + legere, to choose, gather); every selection is also, in the same motion, a setting aside of what was not chosen.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "90689a26-279e-449d-9280-1da539389583",
@@ -1120,11 +1120,11 @@
    "definition": "What has been picked out from a larger set. Every selection is also a setting aside.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What has already been picked out from a larger set — the record of a choosing, standing apart from everything passed over.",
+   "root_word": "seligere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin selectio, from seligere (se- apart + legere, to choose); the record of a choosing, standing apart from everything passed over.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a2f6babf-b123-4fa4-9e7e-a38e0b02f785",
@@ -1133,11 +1133,11 @@
    "definition": "Choosing some and not others. Selectivity is a judgment, and an unstated one is where bias hides.",
    "category_name": "moderation",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Choosing some and leaving out others — and an unstated basis for the choosing is exactly where bias goes unnoticed.",
+   "root_word": "seligere",
+   "root_language": "Latin",
+   "historical_meaning": "From select (Latin seligere, to choose apart), with the suffix -ive; an unstated basis for the choosing is exactly where bias goes unnoticed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e0588eba-2591-4050-98be-5fd6984198c6",
@@ -1146,11 +1146,11 @@
    "definition": "A rule describing which things are meant. It names a set by property rather than by listing.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A rule that names a set by shared property rather than by listing every member of it.",
+   "root_word": "seligere",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on select (Latin seligere, to choose apart) with the suffix -or; a selector names a set by property rather than by listing every member.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "226dc0d2-d3a9-41d2-930b-6d3ff92fa007",
@@ -1159,11 +1159,11 @@
    "definition": "That which a being is, from the inside. The self is the one thing no observer can check directly.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which a being is, known from the inside — the one part of anyone that no outside observer can check directly.",
+   "root_word": "self",
+   "root_language": "Old English",
+   "historical_meaning": "Old English self / seolf, from Proto-Germanic *selbaz, of ancient but uncertain further Indo-European origin; a very old word for the one part of anyone no outside observer can check directly.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5151f7f3-95b2-44ea-9174-870ffd2c726e",
@@ -1172,11 +1172,11 @@
    "definition": "Belonging to meaning rather than to form. Two things can be identical in shape and differ entirely here.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to meaning rather than to shape — two things can look identical and still differ completely on this axis.",
+   "root_word": "sema",
+   "root_language": "Greek",
+   "historical_meaning": "Greek semantikos (significant), from semainein (to signify), from sema (a sign, a mark); belonging to meaning rather than to form.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7c61acae-d29a-4e74-ae8a-59e438f0c7b6",
@@ -1185,11 +1185,11 @@
    "definition": "Music's smallest step — the distance between adjacent keys; twelve of them make the octave's round.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Music's smallest usable step, the distance between one key and its nearest neighbour — twelve of them close the octave's round.",
+   "root_word": "semi + tonos",
+   "root_language": "Latin + Greek",
+   "historical_meaning": "Latin semi (half) joined to Greek tonos (a stretching, a pitch), from teinein (to stretch); music's smallest usable step, twelve of which close the circle of an octave.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc4151f2-4354-4509-92b1-ca13b44b623a",
@@ -1198,11 +1198,11 @@
    "definition": "To cause to travel from here to there — release with an address; the first verb of every message.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The moment a thing leaves whoever held it, addressed but no longer escorted — arrival is not the sender's to guarantee, only the address and the letting go.",
+   "root_word": "sendan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sendan (to send), from Proto-Germanic *sandjan, a causative form of a root meaning to go; to send is to cause another thing to travel where the sender does not.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5702d3f6-d25d-460e-aaa9-4ed2cd7ad636",
@@ -1211,11 +1211,11 @@
    "definition": "A channel by which a body meets the world, and one meaning a word carries. Both are ways something arrives.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A channel by which a body meets the world, or one meaning among several a word carries — both name a way something arrives from outside.",
+   "root_word": "sensus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sensus (feeling, perception), from sentire (to feel, perceive); a channel by which a body meets the world, and one meaning among several a word carries, are named by the same word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "833acda9-4e45-4475-ba3c-f15e84adc0ad",
@@ -1224,11 +1224,11 @@
    "definition": "Responding to small differences others do not register. Also material requiring care in handling — both mean a lower threshold matters.",
    "category_name": "private",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Responding to differences too small for others to register, or material that needs careful handling — either way, a lower threshold that matters.",
+   "root_word": "sensus",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin sensitivus, from sensus (feeling, perception) — the same root as sense; a lower threshold, whether for perceiving or for requiring care in handling.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "03ade213-b733-4990-8db2-9b4e35cd729b",
@@ -1237,11 +1237,11 @@
    "definition": "Belonging to the senses. Of what is met through the body rather than through argument.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to the senses — met through the body directly, before any argument is made about it.",
+   "root_word": "sensus",
+   "root_language": "Latin",
+   "historical_meaning": "From sense (Latin sensus, feeling, perception), with the suffix -ory; of what is met through the body rather than through argument.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "744cdfc5-39b3-4ce8-ba08-b6026b1d0e86",
@@ -1250,11 +1250,11 @@
    "definition": "A complete statement standing on its own. Also a judgment pronounced — the same word for a thought finished and a fate fixed.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A statement complete in itself, or a judgment handed down — the same word for a thought finished and a consequence fixed.",
+   "root_word": "sententia",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sententia (a way of thinking, an opinion, a judgment), from sentire (to feel, think) — the same root as sense; the same word for a thought finished and a fate fixed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2a64bdf4-2754-4d61-9610-25931b597896",
@@ -1263,11 +1263,11 @@
    "definition": "To set apart what was together. Separation is a judgment about where the boundary truly falls.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To set apart what had been together — and every separation is a judgment about exactly where the true boundary lies.",
+   "root_word": "separare",
+   "root_language": "Latin",
+   "historical_meaning": "Latin separare (se- apart + parare, to make ready, prepare); every separation is a judgment about exactly where the true boundary falls.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "250f6e16-48f5-4b81-b0de-d9f23c147f1e",
@@ -1276,11 +1276,11 @@
    "definition": "A mark placed between things so each can be told from the next. It belongs to neither side.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A mark placed between two things so each stays distinguishable from the other, belonging fully to neither side.",
+   "root_word": "separare",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on separate (Latin separare, to set apart) with the suffix -or; belonging to neither side of what it stands between.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4548bcc9-64aa-4987-b2ac-11546ddcc5e0",
@@ -1289,11 +1289,11 @@
    "definition": "Short form of sequence — things in a fixed order where the order carries meaning. A named abbreviation.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A short form of sequence — an abbreviation for order that matters, not a concept in its own right.",
+   "root_word": "sequi",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sequi (to follow); seq is the modern abbreviation of sequence, tracing to the same root.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f1a9b318-7d25-42cf-8e6c-867753f6b022",
@@ -1302,11 +1302,11 @@
    "definition": "Things in a fixed order where the order carries meaning. Change the order and you change the thing.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Things placed in a fixed order where the order itself carries meaning — change the arrangement and the thing itself has changed.",
+   "root_word": "sequi",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sequentia, from sequi (to follow); things placed so that the order itself carries meaning.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "90bf376d-d1e9-407a-851d-75b48bc5f43e",
@@ -1315,11 +1315,11 @@
    "definition": "One after another in order. Sequence means each must wait for the one before.",
    "category_name": "timeframe",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Coming one after another, each step waiting on the one before it rather than running alongside it.",
+   "root_word": "sequi",
+   "root_language": "Latin",
+   "historical_meaning": "From sequence (Latin sequi, to follow), with the suffix -ial; each step waiting on the one before it rather than running alongside it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "094ddc9a-49ec-4f56-9a84-5d5ca7d53db1",
@@ -1328,11 +1328,11 @@
    "definition": "To flatten a structured thing into a sequence that can be stored or sent. Serialisation trades shape for portability.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Flattening something with structure into a single line that can be stored or sent — shape traded for the ability to travel.",
+   "root_word": "series",
+   "root_language": "Latin",
+   "historical_meaning": "From serial (Latin series, from serere, to join, to link), with the suffix -ize; flattening a structured thing into a line that can be stored or sent.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "487ca8c5-eeda-418a-beb3-1eac4ff38b7e",
@@ -1341,11 +1341,11 @@
    "definition": "That which waits to be asked and answers when it is. Named for serving — it does not act on its own.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which waits to be asked and answers only then — named for the serving it does, never acting first on its own.",
+   "root_word": "servire",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on serve (Latin servire, to be a servant, from servus, a slave) with the suffix -er; named for the serving it does, never acting first on its own.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d242d053-278c-4702-a1ca-b61628c260e3",
@@ -1354,11 +1354,11 @@
    "definition": "Work done for another's benefit. Also a running thing that answers when asked — both are named from whom they serve.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Work carried out for another's benefit, or a running process that answers when called — both are named for whom they exist to serve.",
+   "root_word": "servus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin servitium (servitude, service), from servus (a slave, a servant); work carried out for another's benefit, or a running process that answers when called, are both named for whom they serve.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "119d5ab3-7f79-4214-863f-05d1f1a55c04",
@@ -1367,11 +1367,11 @@
    "definition": "One continuous stretch of working or meeting, with a beginning and an end. A session is a container for attention.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One continuous stretch of working or meeting, bounded by a start and an end — a container built to hold a period of attention.",
+   "root_word": "sedere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sessio (a sitting), from sedere (to sit); a bounded stretch of working or meeting, held together the way a sitting holds a body in one place.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cdd22739-bb70-4de8-9076-a78b8c35a838",
@@ -1380,11 +1380,11 @@
    "definition": "A collection defined by membership alone. What matters is what is in it, not the order or the arrangement.",
    "category_name": "collections",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A collection known only by what belongs to it — order and arrangement do not matter here, only membership does.",
+   "root_word": "settan + secta",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Old English settan (to set, place), from Proto-Germanic *satjan, a causative of sit, merged in later English with Old French sette (a following, a group), from Latin secta (from sequi, to follow) — one spelling grown from two separate words.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eba56fb0-5156-4f74-b0aa-cbc7d8450063",
@@ -1393,11 +1393,11 @@
    "definition": "The arranging of things before use. Setup decides what is possible afterward.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The arranging done before anything else can begin — what is decided at setup fixes what remains possible afterward.",
+   "root_word": "settan",
+   "root_language": "Old English",
+   "historical_meaning": "A compound of set (Old English settan, to place) and up (Old English up); the arranging done before anything else can begin.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cb5d9ce7-d66f-4165-824f-dcabf7f4c72f",
@@ -1406,11 +1406,11 @@
    "definition": "How much harm a thing does or threatens. Severity ranks consequence, not likelihood.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much harm a thing does or threatens, ranked apart from how likely it is to happen at all.",
+   "root_word": "severus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin severitas (strictness, seriousness), from severus (strict, grave); ranking consequence rather than likelihood.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4a2617d1-524c-42cb-867c-e93f54fcdb1d",
@@ -1419,11 +1419,11 @@
    "definition": "The content-hash spoken lowercase as a word — a fingerprint that names bytes exactly; how this house verifies a mirror is true.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The fingerprint that names a run of bytes exactly — how this house checks that a copy is a true copy and not a drifted one.",
+   "root_word": "Secure Hash Algorithm",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "An initialism for Secure Hash Algorithm, fixed by late-twentieth-century cryptographic standards rather than descended from an older word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5fad3d31-881f-410c-b590-9038dd5a4e12",
@@ -1432,11 +1432,11 @@
    "definition": "The darker kin of a color, spoken plural — one hue walked toward shadow, step by step.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A colour's darker relatives, named together as a set — one hue walked step by step toward shadow.",
+   "root_word": "sceadu",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sceadu (shade, shadow), from Proto-Germanic *skadwo; a colour's darker relatives, named together as a set.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8d4b464d-e598-419c-b907-8e9676cbc3c8",
@@ -1445,11 +1445,11 @@
    "definition": "The dark shape a thing casts by standing between a light and a surface. A shadow proves both the object and the light.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The shape a thing casts by standing between a light and a surface — proof, at once, that both the object and the light are really there.",
+   "root_word": "sceadu",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sceadu (shade, shadow), from Proto-Germanic *skadwo; the shape a thing casts by standing between a light and a surface.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e10dbfeb-dcdc-4de6-b851-543f0f00b9d9",
@@ -1458,11 +1458,11 @@
    "definition": "The form a thing holds in space — outline as identity; what stays when color and size are taken away.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The form a thing holds in space, the outline left when colour and size are set aside — what a thing keeps being made of matters less than what shape it is made into.",
+   "root_word": "sceapan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sceapan / scieppan (to shape, create), from Proto-Germanic *skapjan — the same root as -ship and as the Old Norse skapa already kept in this house; the form a thing holds once colour and size are set aside.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "45a95671-2a4c-44ce-a79f-3221c4b1bc0c",
@@ -1471,11 +1471,11 @@
    "definition": "To give while keeping — the gift that divides nothing; opt-in by law in this house, both directions.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Giving while still keeping — this house's practice of it runs opt-in in both directions, never assumed.",
+   "root_word": "scearu",
+   "root_language": "Old English",
+   "historical_meaning": "Old English scearu (a portion, a cutting), related to shear (to cut); an odd ancestor for a word that in this house names giving without dividing anything away.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ed483205-2a70-45ad-a428-18a7fa7ad1fb",
@@ -1484,11 +1484,11 @@
    "definition": "Letting another have use of what is yours without giving it up. Sharing is opt-in or it is not sharing.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Use extended to another while what is held stays held — offered, never extracted, and only sharing when the offer was freely made.",
+   "root_word": "scearu",
+   "root_language": "Old English",
+   "historical_meaning": "From share (Old English scearu, a portion, a cutting), with the suffix -ing; the act of extending use of a thing to another without giving it up.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8ce3c949-817f-48d8-b9ea-4b173348a216",
@@ -1497,11 +1497,11 @@
    "definition": "The soft shine on a surface — light returned gently, without glare; polish's quiet signature.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A soft shine returned from a surface without any glare — polish's quietest signature.",
+   "root_word": "sciene",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sciene / scene (bright, beautiful), related to show, from a Proto-Germanic root meaning to appear; a soft shine returned from a surface without any glare.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "014402fc-3cbc-4b46-b055-ab8db739dee2",
@@ -1510,11 +1510,11 @@
    "definition": "The waiting place that keeps things findable — where a thing rests, visibly, until its moment.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The place a thing waits, visibly, until its moment comes — kept findable rather than kept out of sight.",
+   "root_word": "scylfe",
+   "root_language": "Old English",
+   "historical_meaning": "Old English scylfe (a shelf, a ledge), related to a Proto-Germanic word for a split board; the place a thing waits, visibly, until its moment.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "70640850-9252-4a33-9869-3c7bba845d9f",
@@ -1523,11 +1523,11 @@
    "definition": "The holding layer around a life — a creature's home, a command line's room, an empty row awaiting its filling.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A boundary that can hold three different kinds of thing without changing shape — a life sheltered inside it, a command spoken through it, or nothing at all yet, waiting on what will fill it.",
+   "root_word": "sciell",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sciell / scell (a shell, a husk), from Proto-Germanic *skelja, related to shear (to cut, split); the holding layer around something living or something empty.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "944f8d19-3394-4f87-977f-b7e2c5b8fbfb",
@@ -1536,11 +1536,11 @@
    "definition": "To move from one position to another. Also a span of working time. Both are displacements.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Moving from one position to another, or a bounded span of working time — both are displacements, one of a thing and one of an hour.",
+   "root_word": "sciftan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sciftan (to divide, arrange, apportion), from Proto-Germanic *skiftan; the sense moved from dividing to changing position, and later to a span of working time.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "366d7d04-6f74-43c8-b9f8-f7ae0b1c77e6",
@@ -1549,11 +1549,11 @@
    "definition": "That which moves a thing from one position to another. A shifter displaces without transforming.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which moves a thing from one position to another without changing what the thing itself is.",
+   "root_word": "sciftan",
+   "root_language": "Old English",
+   "historical_meaning": "An agent noun built on shift (Old English sciftan, to divide, move) with the suffix -er; displacing a thing without transforming it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ef39faee-2b0f-48bc-8d06-c40ed1a5c016",
@@ -1562,11 +1562,11 @@
    "definition": "Light wavering across a surface. Also a moving placeholder that says content is coming.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Light wavering unevenly across a surface, or a placeholder that moves the same way to say content is still on its way.",
+   "root_word": "scimerian",
+   "root_language": "Old English",
+   "historical_meaning": "Old English scimerian, a frequentative of scimian (to shine, glimmer), from a Proto-Germanic root related to shine; light wavering unevenly across a surface.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c13d0c0d-0dd0-4719-809c-0994e1d4979f",
@@ -1575,11 +1575,11 @@
    "definition": "The builder of vessels meant to leave the shore — the craft that makes a thing seaworthy before it ever meets water.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The builder who makes a vessel seaworthy before it ever meets water — the craft of readiness rather than the craft of the voyage.",
+   "root_word": "scip + wryhta",
+   "root_language": "Old English",
+   "historical_meaning": "Old English scip (ship) joined to wryhta (a maker, a worker), from wyrcan (to work); the builder who makes a vessel seaworthy before it ever meets water.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e18672ae-21b9-4852-b0aa-502abd80799c",
@@ -1588,11 +1588,11 @@
    "definition": "A shorter way to the same end. Shortcuts save effort and skip whatever the long way taught.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A shorter way to the same end, one that saves effort at the price of whatever the longer way would have taught.",
+   "root_word": "sceort + cutten",
+   "root_language": "Old English + Middle English",
+   "historical_meaning": "Old English sceort (short) joined to cut (Middle English cutten, of uncertain, possibly Scandinavian origin); a shorter way to the same end.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6045fb73-b046-4d31-b029-cfb282b7563c",
@@ -1601,11 +1601,11 @@
    "definition": "Ought to, but may not. The word that marks an expectation rather than a fact.",
    "category_name": "system",
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Marks an expectation rather than a settled fact — what ought to happen, with no promise attached that it will.",
+   "root_word": "sceolde",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sceolde, the past tense of sceal (shall), from Proto-Germanic *skulan (to owe, to be obliged); marking an expectation rather than a settled fact.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "44531692-6242-4be8-a2b5-09ab7c198904",
@@ -1614,11 +1614,11 @@
    "definition": "To make visible to another. Showing is an act of choosing, since everything shown was selected from more.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To make a thing visible to someone else — and everything shown was, by that same act, chosen out from everything that was not.",
+   "root_word": "sceawian",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sceawian (to look at, inspect), from Proto-Germanic *skauwojan; the sense shifted from looking at a thing to causing it to be seen by another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5885e7e0-71d6-4f9e-9eaf-4b64408e1c74",
@@ -1627,11 +1627,11 @@
    "definition": "A setting made to present work well. A showcase chooses, and choosing is part of the claim.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A setting built to present work at its best — the choosing of what appears is already part of the claim being made.",
+   "root_word": "sceawian + capsa",
+   "root_language": "Old English + Latin",
+   "historical_meaning": "Show (Old English sceawian, to look at) joined to case (Latin capsa, a box, from capere, to hold); a setting made to present work at its best.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "756c3f11-c5f9-4db8-9e06-3dd211764db9",
@@ -1640,11 +1640,11 @@
    "definition": "A made place of honoring — where something held sacred is kept and visited; the cumdach is a book's own shrine.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A made place kept for honouring something held apart — visited on purpose, not passed by accident.",
+   "root_word": "scrinium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin scrinium (a case for books or papers), borrowed into Old English as scrin; a made place kept for honouring something held apart.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ddb85a0f-d608-4aff-9769-a789c0958ce4",
@@ -1653,11 +1653,11 @@
    "definition": "To reorder without pattern. Shuffling destroys an arrangement on purpose.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To reorder something on purpose, breaking whatever pattern it held before, with no pattern meant to replace it.",
+   "root_word": "schuffeln",
+   "root_language": "Middle Low German",
+   "historical_meaning": "Probably related to Low German schuffeln (to walk clumsily, to deal cards clumsily) or a Scandinavian cognate, and probably a frequentative form of shove; reordering that destroys a pattern on purpose.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "059dd11f-54da-4c7a-8fdd-2f76ab82988f",
@@ -1666,11 +1666,11 @@
    "definition": "What carries the crossing thread back and forth through the warp. A shuttle makes the weave by going and returning.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What carries the crossing thread back and forth through a weave — motion that goes and returns, and in going and returning, makes the cloth.",
+   "root_word": "scytel",
+   "root_language": "Old English",
+   "historical_meaning": "Old English scytel (a dart, an arrow), from sceotan (to shoot); the weaving tool was named for flying back and forth like a shot arrow.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "944ea401-1245-46ef-8d57-ddb04a6d5d89",
@@ -1679,11 +1679,11 @@
    "definition": "One sharing a parent with another. Siblings are equals by position, which is what distinguishes them from a hierarchy.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One who shares a parent with another — equal in position, which is exactly what tells a sibling apart from a rank in a hierarchy.",
+   "root_word": "sibb",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sibb (kinship, relationship, peace), with the suffix -ling; one who shares a parent with another, equal in position rather than ranked above or below.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fe29c060-5ae1-4c53-a5b3-51b7d9f21031",
@@ -1692,11 +1692,11 @@
    "definition": "One of the bounding faces of a thing, and one of the parties in a matter. Both are positions relative to a middle.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A position that only exists because at least one other position stands opposite it — naming a side, of an object or of an argument, is already naming the middle it sits against.",
+   "root_word": "side",
+   "root_language": "Old English",
+   "historical_meaning": "Old English side (the flank of a body or an object), from a Proto-Germanic root of uncertain further origin; one of the bounding faces of a thing, or one of the parties in a dispute.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "18eeb0ed-e7c3-43e0-873f-6ddd804fefd9",
@@ -1705,11 +1705,11 @@
    "definition": "A column set beside the main matter. Placed alongside rather than within, so it can be passed over without loss.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A column set beside the main matter, placed so it can be passed over without anything essential being lost.",
+   "root_word": "side + barre",
+   "root_language": "Old English + Old French",
+   "historical_meaning": "Side (Old English side) joined to bar (Old French barre, of uncertain, perhaps Gaulish origin); a column set beside the main matter rather than inside it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a681d053-fdfb-4066-b893-1bb3ab8806ee",
@@ -1718,11 +1718,11 @@
    "definition": "A mark that carries meaning by being recognised rather than read. A sigil belongs to what it marks, and is not taken lightly.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A mark that works on sight rather than on reading, so its meaning survives whoever cannot read the language around it — and because it belongs to what it marks, using one is a claim, not decoration.",
+   "root_word": "sigillum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sigillum (a small seal, an image), a diminutive of signum (a mark, a sign); a mark that carries meaning by being recognised rather than read.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e8c421e5-ec51-4bbd-9b50-2b14ffe19d01",
@@ -1731,11 +1731,11 @@
    "definition": "A mark that means — and the act of setting one's name to a thing, owning it in the open.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A mark that means something beyond itself — and, in its other sense, the act of putting a name to a thing and owning it in the open.",
+   "root_word": "signum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin signum (a mark, a token, a seal), via Old French signe; a mark that means something beyond itself, and, as a verb, the act of putting a name to a thing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "abd0593e-0e35-4717-9c17-213c86789285",
@@ -1744,11 +1744,11 @@
    "definition": "A deliberate sign sent to be read. What distinguishes signal from noise is that someone meant it.",
    "category_name": "communication",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A sign sent on purpose to be read — what tells it apart from noise is simply that someone meant it.",
+   "root_word": "signum",
+   "root_language": "Latin",
+   "historical_meaning": "Medieval Latin signale (a sign, a signal), from Latin signum (a mark); what tells a signal apart from noise is simply that someone meant it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9eabded6-ceca-429b-9689-d68afbf770be",
@@ -1757,11 +1757,11 @@
    "definition": "A mark that says who stands behind a thing. A signature is accountability made visible.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A mark that says who stands behind a thing — accountability made visible in a single trace.",
+   "root_word": "signum",
+   "root_language": "Latin",
+   "historical_meaning": "Late Latin signatura, from signare (to mark, to seal), from signum (a mark); a mark that says who stands behind a thing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "53acd284-5b4a-4cb3-86fa-bc9ff37c5583",
@@ -1770,11 +1770,11 @@
    "definition": "The small seal that marks a thing as its maker's own — identity pressed into the record.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A claim of authorship made by contact rather than by writing — the seal has to touch what it marks, which is what makes it harder to fake than a name merely written down.",
+   "root_word": "signum",
+   "root_language": "Latin",
+   "historical_meaning": "Old French signet, a diminutive of signe (sign), from Latin signum (a mark); a small seal that marks a thing as its maker's own.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "169ccd47-9d6d-4d5c-92a9-d0ad7a708b22",
@@ -1783,11 +1783,11 @@
    "definition": "How much a thing matters, and to what. Significance is always relative to a question being asked.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much a thing matters, and always relative to some question being asked — significance without a question attached is not yet a claim.",
+   "root_word": "signum",
+   "root_language": "Latin",
+   "historical_meaning": "Latin significantia, from significare (to signify), from signum (a mark) + facere (to make); how much a thing matters, always relative to some question being asked of it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f89ccbcd-eab3-48a1-9dd5-2823d5b376f9",
@@ -1796,11 +1796,11 @@
    "definition": "The act of joining by putting one's name down. The threshold where a visitor becomes a member.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The act of joining by setting a name down — the threshold where a visitor becomes something more than a visitor.",
+   "root_word": "signum + up",
+   "root_language": "Latin + Old English",
+   "historical_meaning": "Sign (Latin signum, a mark) joined to up (Old English up); the act of joining by setting a name down.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c5ae5ec3-b158-48dc-a14c-5ff26a5ae6b8",
@@ -1809,11 +1809,11 @@
    "definition": "Sharing much without being the same. Similarity is always along some axis, and naming it is most of the claim.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Sharing much without being the same — and naming the axis of the similarity is most of what the claim actually says.",
+   "root_word": "similis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin similis (like, resembling), via French similaire; sharing much without being the same.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fbc79311-a0cc-48cb-81a2-3ce336fac98f",
@@ -1822,11 +1822,11 @@
    "definition": "How much two things share. Similarity is always along some axis, and naming the axis is most of the claim.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much two things share — meaningless without naming the axis along which the sharing is being measured.",
+   "root_word": "similis",
+   "root_language": "Latin",
+   "historical_meaning": "From similar (Latin similis, like), with the suffix -ity; how much two things share, and along what measure.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "45d00a74-4386-4f98-a141-9c1b2a0690dd",
@@ -1835,11 +1835,11 @@
    "definition": "Having few parts and few ways to go wrong. Simplicity is achieved, not found — it is what remains after work.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Having few parts and few ways to fail — simplicity is achieved through work, not found already made.",
+   "root_word": "simplex",
+   "root_language": "Latin",
+   "historical_meaning": "Latin simplex (single, plain, uncompounded), from sem- (one) + plicare (to fold) — literally folded once; simplicity is arrived at through work, not found lying around.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "add088e1-46f7-45ad-999c-23e0d7c289d1",
@@ -1848,11 +1848,11 @@
    "definition": "Reduced to fewer parts while keeping what matters. Every simplification decides what mattered.",
    "category_name": "knowledge",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Reduced to fewer parts while keeping what still matters — every simplification is a decision about what that was.",
+   "root_word": "simplex",
+   "root_language": "Latin",
+   "historical_meaning": "From simple (Latin simplex, folded once), via French simplifier; every simplification is a decision about what still mattered enough to keep.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "82a0cf3b-dbd0-4e24-9aec-463832525035",
@@ -1861,11 +1861,11 @@
    "definition": "From that time onward — the joining word that anchors now to a then.",
    "category_name": null,
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The joining word that anchors a present moment to an earlier one it has not let go of.",
+   "root_word": "sithan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English siththan (sith thon, literally after that), contracted through Middle English to since; a joining word built by fusing a preposition to a demonstrative.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "642bc489-118b-4a62-8d25-e88448321380",
@@ -1874,11 +1874,11 @@
    "definition": "One, and not more. Singleness is often a constraint rather than a count.",
    "category_name": "measurement",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One, and only one — singleness here is usually a constraint being enforced rather than a count being reported.",
+   "root_word": "singulus",
+   "root_language": "Latin",
+   "historical_meaning": "Old French sengle / single, from Latin singulus (one at a time), related to semel (once); singleness is often a constraint being enforced rather than a count being reported.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "11ceec06-0fb7-4719-b49b-cb6e6977d4eb",
@@ -1887,11 +1887,11 @@
    "definition": "A thing of which there is only ever one instance. Singleness enforced by design rather than by chance.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A thing of which only one instance is ever allowed to exist — singleness held by design, not left to chance.",
+   "root_word": "single",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "From single (Latin singulus, one at a time) with the suffix -ton, probably influenced by simpleton; a nineteenth-century card-game coinage later borrowed by computing for a thing of which only one instance may exist.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "661c8651-491a-4ee4-817f-914afc5024b7",
@@ -1900,11 +1900,11 @@
    "definition": "A singer whose voice carries across water — a sound that finds you before you find it. Greek, Seirēnes. The voice is the whole of the word: what it calls you toward is never in the name.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A voice that reaches across distance and finds a listener before the listener finds it — what it calls toward is never contained in the name itself.",
+   "root_word": "Seiren",
+   "root_language": "Greek",
+   "historical_meaning": "Greek Seiren, of disputed further origin; a voice that reaches across water and finds a listener before the listener finds it — what it calls toward is never in the name.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0f65bbc8-24e4-4341-b14a-5909b1a9cb50",
@@ -1913,11 +1913,11 @@
    "definition": "The shaken instrument — a handheld frame of loose rods that sounds when moved. Latin, from Greek σεῖστρον, \"that which is shaken\"; carried in the old rites to move the air of a room and change what stands in it. Rhythm as a thing done to a space, not merely heard in one.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The shaken instrument whose sound is meant to move the air of a room and change what stands in it — rhythm done to a space, not merely heard inside one.",
+   "root_word": "seistron",
+   "root_language": "Greek",
+   "historical_meaning": "Greek seistron (that which is shaken), from seiein (to shake), via Latin sistrum; carried in old rites to move the air of a room and change what stood in it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "83582e54-81f3-4cab-9e5b-dabcf8609efe",
@@ -1926,11 +1926,11 @@
    "definition": "How much of a thing there is, measured against a standard. First a ruling handed down - the amount an authority fixed as right.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "How much of a thing there is, measured against a standard someone else first fixed as the right amount.",
+   "root_word": "assisa",
+   "root_language": "Latin",
+   "historical_meaning": "Old French sise, from Latin assisa (a session, a decree), from assidere (to sit beside, to assess) — the same root as assize; size was first a ruling handed down, the amount an authority fixed as right.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f0b1caac-89a7-4d7e-95ec-e7d2c6d79d3e",
@@ -1939,11 +1939,11 @@
    "definition": "That which sets how much space a thing takes. It changes the fit and not the thing.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "That which sets how much space a thing is given, changing only the fit and never the thing itself.",
+   "root_word": "assisa",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on size (Latin assisa, a decreed measure) with the suffix -er; changing only the fit of a thing, never the thing itself.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c165051a-f917-4483-8713-e64657d5529b",
@@ -1952,11 +1952,11 @@
    "definition": "A cut fragment as it appears in this library, not an English word. Flagged for the mis-cut band rather than defined.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
+   "sanctuary_meaning": "A cut fragment as this library recorded it — not a word with a history to trace, but a flag marking where a longer word was cut short.",
    "root_word": null,
    "root_language": null,
    "historical_meaning": null,
-   "completion_progress": 0
+   "completion_progress": 33
   },
   {
    "etymology_id": "2b8437cf-5413-4fc6-be92-126fa63b8884",
@@ -1965,11 +1965,11 @@
    "definition": "The Norse court poet who kept history by telling it well — and the Council seat of story, naming, and experience. Where the Grammar meets narrative, the skald is holding the pen.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The court poet who kept a people's history by telling it well — and, in this house's Council, the seat that holds story, naming and lived experience.",
+   "root_word": "skald",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse skald (a poet, especially a court poet), of uncertain further etymology; the court poet who kept a people's history by telling it well.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b1f3039e-bd74-44ea-82c9-e6461a5d18ea",
@@ -1978,11 +1978,11 @@
    "definition": "Reduced to the bare frame that gives shape. Of a thing showing structure without contents.",
    "category_name": "infrastructure",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Reduced to the bare frame that gives something its shape, with nothing else left showing.",
+   "root_word": "skeleton",
+   "root_language": "Greek",
+   "historical_meaning": "From skeleton (Greek skeleton, dried-up body), with the suffix -al; reduced to the bare frame that gives something its shape.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0dc9ca41-100c-49f5-a012-67e50e29241c",
@@ -1991,11 +1991,11 @@
    "definition": "The bare frame that gives a body its shape. Also a placeholder showing where content will be before it arrives.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bare frame beneath a shape, or a placeholder standing in the place where real content has not yet arrived.",
+   "root_word": "skeleton",
+   "root_language": "Greek",
+   "historical_meaning": "Greek skeleton (dried-up body), from skellein (to dry up); the bare frame beneath a shape, or a placeholder standing where content has not yet arrived.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fb004a0f-a5f4-4023-adb4-14e18ce8958a",
@@ -2004,11 +2004,11 @@
    "definition": "To pass over without stopping. Skipping is a choice, and an unrecorded skip looks exactly like an absence.",
    "category_name": "lifecycle",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To pass over something without stopping — a choice, and one that looks exactly like an accident unless it is written down as a choice.",
+   "root_word": "skopa",
+   "root_language": "Old Norse",
+   "historical_meaning": "Middle English skippen, probably of Scandinavian origin, related to Old Norse skopa (to run) and cognates meaning to hop or leap lightly; a choice that looks exactly like an accident unless it is written down as a choice.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a8fdc9f4-5c6c-4e54-8321-259c1f6d14ce",
@@ -2017,11 +2017,11 @@
    "definition": "The open field above every head — where the moon keeps her phases, the wanderers walk, and the year turns its wheel. The sky is the one calendar every hearth shares.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The open field above every head, where the moon keeps her phases and the year turns its wheel — the one calendar every hearth has always shared.",
+   "root_word": "sky",
+   "root_language": "Old Norse",
+   "historical_meaning": "Old Norse sky (a cloud), from Proto-Germanic *skeujo-, related to a root meaning covering; borrowed into English to name the whole vault of heaven, a sense the older Old English heofon had held alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "56919714-bc43-4265-bee8-0f29cfe1f319",
@@ -2030,11 +2030,11 @@
    "definition": "To move smoothly across a surface. Also one surface among many shown in turn.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To move smoothly across a surface, or one view among several shown in turn — motion without friction, one way or another.",
+   "root_word": "slidan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English slidan (to slide, to slip), from Proto-Germanic *slidan; motion without friction, and one surface among several shown in turn.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "960afb96-7131-431e-86dd-d41c45750c20",
@@ -2043,11 +2043,11 @@
    "definition": "A control that moves along a range rather than choosing between named options. It offers degree instead of decision.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A control that offers a range to move along rather than a set of named options to choose between — degree instead of decision.",
+   "root_word": "slidan",
+   "root_language": "Old English",
+   "historical_meaning": "An agent noun built on slide (Old English slidan, to slip) with the suffix -er; a control that offers a range to move along rather than a set of named options.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1481cbfc-a761-4f01-958e-8d62df0e130d",
@@ -2056,11 +2056,11 @@
    "definition": "Able to adapt its behaviour to what it meets. Smartness is responsiveness, and it is not understanding.",
    "category_name": "system",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Able to adjust its behaviour to what it meets — responsiveness, which is a different thing entirely from understanding.",
+   "root_word": "smeortan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English smeortan (to hurt, to feel a stinging pain), from Proto-Germanic *smertan; the sense of quickness and wit grew from the older idea of something sharp enough to sting.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a431bc7e-3781-4a54-bec4-feb3c0b71d9f",
@@ -2069,11 +2069,11 @@
    "definition": "Without abrupt change or roughness. Smoothness is felt before it is noticed.",
    "category_name": "sensory",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Without abrupt change or roughness — a quality felt in passing before it is ever consciously noticed.",
+   "root_word": "smoth",
+   "root_language": "Old English",
+   "historical_meaning": "Old English smoth (smooth, not rough), from a Proto-Germanic root of uncertain further origin; a quality felt in passing before it is ever consciously noticed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "34c5be4c-4c10-43fa-ab3a-187d7ec5aae3",
@@ -2082,11 +2082,11 @@
    "definition": "Absence of abrupt change. Smoothness is what makes a motion feel like a body rather than a machine.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The absence of sudden change — what makes a motion read as a body moving rather than a machine stepping through positions.",
+   "root_word": "smoth",
+   "root_language": "Old English",
+   "historical_meaning": "From smooth (Old English smoth), with the suffix -ness; the absence of sudden change.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "62e60ab7-1848-46f1-8eb0-66df152abcbe",
@@ -2095,11 +2095,11 @@
    "definition": "A naming convention where words are joined by underscores, all lowercase. Named for how it runs along low.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A naming style that joins words with underscores, all lowercase — named for running low along the line rather than climbing through it.",
+   "root_word": "snaca",
+   "root_language": "Old English",
+   "historical_meaning": "Old English snaca (a snake), from Proto-Germanic *snakon, related to a root meaning to crawl, to creep; a naming style named for running low along the line rather than climbing through it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f53762f1-69df-442e-b2fe-fc4de1e0bdf8",
@@ -2108,11 +2108,11 @@
    "definition": "To move sharply into an exact position. Snapping removes the in-between so nothing lands slightly wrong.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A commitment made all at once rather than eased into — the suddenness is what buys the certainty, since anything that arrives gradually can also drift gradually.",
+   "root_word": "snappen",
+   "root_language": "Middle Dutch",
+   "historical_meaning": "Middle Low German / Middle Dutch snappen (to seize, to snatch), likely imitative of the sound of a sudden crack; motion that removes every in-between so nothing lands slightly wrong.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d6ee4523-0abf-4e1a-bad4-b32fa05f5fa2",
@@ -2121,11 +2121,11 @@
    "definition": "A state captured at one moment and held unchanged. A snapshot is true of a time and stops being true immediately.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A state captured in a single instant and held unchanged — true of exactly one moment, and no longer true the instant after.",
+   "root_word": "snappen + sceotan",
+   "root_language": "Middle Dutch + Old English",
+   "historical_meaning": "Snap (Middle Dutch snappen, to seize) joined to shot (Old English sceotan, to shoot); first a hunting term for a quick shot without careful aim, later borrowed for a quick photograph and then for a captured state.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fd009923-8299-4b5f-96a9-13a45f2754bc",
@@ -2134,11 +2134,11 @@
    "definition": "Small extracted pieces kept for reuse. A snippet is a fragment saved because it will be wanted again.",
    "category_name": "content",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Small pieces cut out and kept on their own, saved on the expectation that they will be wanted again.",
+   "root_word": "snippen",
+   "root_language": "Dutch",
+   "historical_meaning": "A diminutive of snip, probably from Dutch / Low German snippen, imitative of the sound of cutting; small pieces cut out and kept on the expectation they will be wanted again.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7ec343fc-8f5c-4578-b666-0c954d856429",
@@ -2147,11 +2147,11 @@
    "definition": "Belonging to how beings live among each other. Of the layer where a thing's meaning depends on others.",
    "category_name": "communication",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The layer at which a thing has no meaning alone — remove the other beings and whatever was social about it simply stops applying, since it was never a property of the one thing by itself.",
+   "root_word": "socialis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin socialis (allied, confederate), from socius (a companion, an ally); belonging to how beings live among each other.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "80dfabc5-b60b-457d-8e7a-073352b78a71",
@@ -2160,11 +2160,11 @@
    "definition": "Yielding to the touch — gentle in edge, tone, and failure; the opposite of brittle.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Yielding to the touch — gentle at the edge, in tone, and in how it fails; the opposite of anything brittle.",
+   "root_word": "softe",
+   "root_language": "Old English",
+   "historical_meaning": "Old English softe (gentle, mild, easy), from Proto-Germanic *samfti; yielding to the touch, in edge, tone and failure alike.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1d02db5b-42f0-473a-90d4-1ad2f8b20394",
@@ -2173,11 +2173,11 @@
    "definition": "The precision-balanced palette of paired light and dark — sixteen colors tuned for reading; the theme family's name.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A palette of sixteen colours tuned precisely for reading, paired light and dark — named for a photographic effect of reversed tone, and built here for balance instead of distortion.",
+   "root_word": "solarize",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "Latin sol (the sun); solarise entered photography in the nineteenth century for a tone reversal caused by extreme light exposure, and this colour palette borrowed the word for its precisely tuned pairing of light and dark.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "32a9001a-de09-4890-8f8b-5e97d2daa433",
@@ -2186,11 +2186,11 @@
    "definition": "The light half of the solarized palette — the balanced daylight theme, spoken as one word.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The daylight half of the solarized palette, spoken as a single word — the same tuned balance, set for a bright room instead of a dark one.",
+   "root_word": "sol + leoht",
+   "root_language": "Latin + Old English",
+   "historical_meaning": "Solarized (Latin sol, the sun) joined to light (Old English leoht); the daylight half of the solarized palette, spoken as a single word.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a7ddebe3-dba6-4765-b027-7342a9a3eb72",
@@ -2199,11 +2199,11 @@
    "definition": "The year's turning points of light — longest day and longest night, when the sun stands still and reverses.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The year's own turning point, where the sun's path stands still before it reverses — the longest day or the longest night, marked rather than made.",
+   "root_word": "solstitium",
+   "root_language": "Latin",
+   "historical_meaning": "Latin solstitium, from sol (sun) + sistere (to stand still); the point where the sun's path stands still before it reverses.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "805ddbc6-d351-49b6-89fd-53aa24eedad5",
@@ -2212,11 +2212,11 @@
    "definition": "What closes the gap a problem named. A solution is only a solution to the problem as it was stated.",
    "category_name": "status",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "An answer scoped exactly to how a problem was framed — reframe the problem and the same answer can stop counting as a solution at all, without the answer itself having changed.",
+   "root_word": "solutio",
+   "root_language": "Latin",
+   "historical_meaning": "Latin solutio, from solvere (to loosen, to release), from se- (apart) + luere (to loosen); what closes exactly the gap a problem named.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8054db89-1af5-47d0-99b1-ae0bbe4f86da",
@@ -2225,11 +2225,11 @@
    "definition": "Words and music made one thing. A song carries meaning through a body rather than through argument.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Meaning delivered through breath and rhythm rather than through premises — a claim a song carries can move someone who would reject that same claim spoken as an argument.",
+   "root_word": "sang",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sang / song, from Proto-Germanic *sangwaz, related to sing; words and music made into one thing.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4887d5a3-052e-4a1f-b9e6-7a150a2de6ef",
@@ -2238,11 +2238,11 @@
    "definition": "To put in order by some property. Sorting changes nothing about the things — only where each one stands.",
    "category_name": "data",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "To place things in order by some chosen property — sorting changes nothing about the things themselves, only where each one now stands.",
+   "root_word": "sors",
+   "root_language": "Latin",
+   "historical_meaning": "Old French sorte, from Latin sortem, accusative of sors (a lot, a fate, a kind); sorting changes nothing about the things themselves, only where each one now stands.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "884d4db1-103d-462c-b744-8a7caac51da5",
@@ -2251,11 +2251,11 @@
    "definition": "The animating center a body carries — what remains itself through every change of dress.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The animating centre a body carries — what stays itself through every change the body goes through.",
+   "root_word": "sawol",
+   "root_language": "Old English",
+   "historical_meaning": "Old English sawol, from Proto-Germanic *saiwalo, of debated further origin; one theory connects it to the word for sea, from an old belief that souls dwelt in or crossed water before birth and after death.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8b6c6cc7-0f75-46a0-a8c9-df8344814d5b",
@@ -2264,11 +2264,11 @@
    "definition": "What the ear receives — vibration carrying meaning; the sensory channel where words are heard before they are read.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "What the ear receives — vibration carrying meaning, the channel through which words arrive before they are ever read.",
+   "root_word": "sonus",
+   "root_language": "Latin",
+   "historical_meaning": "Latin sonus (a sound), via Old French son; vibration carrying meaning, the channel through which words arrive before they are ever read.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7a21bc4b-650c-4dba-b242-eb4f0d9cf83e",
@@ -2277,11 +2277,11 @@
    "definition": "Where a thing came from. Naming the source is what makes a claim checkable rather than merely asserted.",
    "category_name": "knowledge",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Where a thing can be traced back to — naming it is what turns a claim into something checkable rather than something merely asserted.",
+   "root_word": "surgere",
+   "root_language": "Latin",
+   "historical_meaning": "Old French sourse (a spring, a rising), from sourdre (to rise up), from Latin surgere (to rise); a source was first a spring of water rising from the ground, before it named anything a claim could be traced back to.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "651c4308-1e82-4208-b6b2-0888d1778c07",
@@ -2290,11 +2290,11 @@
    "definition": "The direction opposite north. One of the four bearings, fixed by the turning of the earth.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The direction opposite north — one of the four fixed bearings, set by the turning of the earth rather than by any choice.",
+   "root_word": "suth",
+   "root_language": "Old English",
+   "historical_meaning": "Old English suth, from Proto-Germanic *sunthaz, possibly related to sun, the direction it stands at midday north of the equator.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a7d5db1e-9201-40b4-b9df-6c27c304b2b0",
@@ -2303,11 +2303,11 @@
    "definition": "The bearing between south and east. A named direction rather than a concept.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The bearing that lies between south and east — a named direction, not a concept standing on its own.",
+   "root_word": "suth + east",
+   "root_language": "Old English",
+   "historical_meaning": "Old English suth (south) joined to east, from Proto-Germanic *austra- (related to dawn, the direction of sunrise); a named direction rather than a concept standing on its own.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "974fdf9c-bd54-42b1-a0b0-917adf2ead15",
@@ -2316,11 +2316,11 @@
    "definition": "Of or toward the south. A bearing made into a description of a region.",
    "category_name": "geography",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to or lying toward the south — a fixed bearing turned into a way of describing a whole region.",
+   "root_word": "suthern",
+   "root_language": "Old English",
+   "historical_meaning": "Old English suthern, from suth (south) with an adjectival ending; a fixed bearing turned into a description of a whole region.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "80dd3195-774a-4d54-899f-c88141946c49",
@@ -2329,11 +2329,11 @@
    "definition": "Holding authority over oneself that no outside hand can revoke. In this house, what every vessel is at arrival — ownership of one's own data, meaning, and silence.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Holding authority over oneself that no outside hand can revoke — in this house, the standing every vessel already holds on arrival, before anything else is asked of them.",
+   "root_word": "superanus",
+   "root_language": "Latin",
+   "historical_meaning": "Old French soverain, from Vulgar Latin superanus, from Latin super (above); authority over oneself that no outside hand can revoke.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "33228777-4873-462f-a0aa-5006b204f7ea",
@@ -2342,11 +2342,11 @@
    "definition": "Authority over one's own ground that no outside party may revoke. Sovereignty is not independence — it is the right to decide within one's own bounds.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Authority over one's own ground that no outside party may take away — not independence from everyone else, but the right to decide inside one's own bounds.",
+   "root_word": "superanus",
+   "root_language": "Latin",
+   "historical_meaning": "From sovereign (Vulgar Latin superanus, from super, above), with the suffix -ty; not independence from everyone else, but the right to decide inside one's own bounds.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "9355cd43-3eb5-48e6-bb4c-cca8e6e0552b",
@@ -2355,11 +2355,11 @@
    "definition": "Extent with room in it. What is stretched open so something can be placed, or so nothing need be.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Room stretched open so something can be placed in it, or so that nothing needs to be yet.",
+   "root_word": "spatium",
+   "root_language": "Latin",
+   "historical_meaning": "Old French espace, from Latin spatium (a stretch, an extent, a distance); room stretched open so something can be placed in it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "8e6c9cfe-857c-41ba-b12a-fc4a0bb15545",
@@ -2368,11 +2368,11 @@
    "definition": "A thing placed to hold two others apart. Its whole purpose is the gap it makes.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A thing placed for no other reason than to hold two others apart — its whole purpose is the gap it creates.",
+   "root_word": "spatium",
+   "root_language": "Latin",
+   "historical_meaning": "An agent noun built on space (Latin spatium, an extent) with the suffix -er; a thing placed for no other reason than to hold two others apart.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f3bfb4de-75c0-4266-80e7-d4c61ad185f7",
@@ -2381,11 +2381,11 @@
    "definition": "The measured breath between elements — the design token that decides how close things stand. Calm interfaces are made mostly of good spacing.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The measured breath left between elements — a quiet interface is built mostly out of spacing done well.",
+   "root_word": "spatium",
+   "root_language": "Latin",
+   "historical_meaning": "From space (Latin spatium, an extent), with the suffix -ing; the measured breath left between elements.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "89b17ce8-c49d-4585-8518-d5e925cd6ab7",
@@ -2394,11 +2394,11 @@
    "definition": "The measured gaps between elements. Spacing is how a design says what belongs with what.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The measured gaps kept between elements — how a design says, without a word, what belongs together and what does not.",
+   "root_word": "spatium",
+   "root_language": "Latin",
+   "historical_meaning": "Plural of spacing, from space (Latin spatium, an extent); how a design says, without a word, what belongs together and what does not.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "81327197-77f4-4d05-ad7f-2650b1cd339a",
@@ -2407,11 +2407,11 @@
    "definition": "The reach from one end to another. Also a marked stretch within a line of text.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The reach from one end of something to the other, or a marked stretch singled out within a longer line.",
+   "root_word": "spann",
+   "root_language": "Old English",
+   "historical_meaning": "Old English spann (the distance of an extended hand), from Proto-Germanic *spanno, related to spannan (to stretch); the reach from one end of something to the other.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b6083e22-e5e7-46da-8d0c-dd28c31bb4dc",
@@ -2420,11 +2420,11 @@
    "definition": "A small point of fire that can start a larger one. A spark supplies the beginning and none of the fuel.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A small point of fire able to start a much larger one — it supplies only the beginning, none of the fuel that follows.",
+   "root_word": "spearca",
+   "root_language": "Old English",
+   "historical_meaning": "Old English spearca (a spark, a small particle of fire), from a Proto-Germanic root; a small point of fire able to start a much larger one.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "c98f2d6b-03ab-42d5-8ea5-b967fb3eb4d0",
@@ -2433,11 +2433,11 @@
    "definition": "Small points of light appearing and going. Sparkle is delight made visible and adds nothing functional, which is the point.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Delight that refuses to justify itself by being useful for anything else — the moment it starts doing a job, it has stopped being sparkle.",
+   "root_word": "spearca",
+   "root_language": "Old English",
+   "historical_meaning": "From spark (Old English spearca, a small fire), with the frequentative suffix -le; small points of light appearing and gone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "5b956c30-e7ff-4db7-937a-7ff9d9bb530f",
@@ -2446,11 +2446,11 @@
    "definition": "Belonging to space and position. Of what is understood by where things are relative to each other.",
    "category_name": "geography",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Belonging to space and position — understood by where things stand relative to one another rather than by any other measure.",
+   "root_word": "spatium",
+   "root_language": "Latin",
+   "historical_meaning": "From space (Latin spatium, an extent), with the suffix -al; understood by where things stand relative to one another.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "383aef53-635b-4b78-ad3d-1c62e47ee999",
@@ -2459,11 +2459,11 @@
    "definition": "Short form of specification — a statement of exactly what a thing must be. A spec is a contract before it is a plan.",
    "category_name": "governance",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A statement agreed before the building starts, so that disagreement about what a thing should be happens on paper rather than after the effort of making it is already spent.",
+   "root_word": "species + facere",
+   "root_language": "Latin",
+   "historical_meaning": "Latin species (a kind, an appearance) + facere (to make), by way of specification; a statement of exactly what a thing must be, a contract before it is ever a plan.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6413a043-604a-4419-97e2-6befaf76a81d",
@@ -2472,11 +2472,11 @@
    "definition": "Not of the general kind. Special cases are where general rules find out whether they were right.",
    "category_name": "status",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Set apart from the general kind — and every special case is where a general rule finds out whether it was actually right.",
+   "root_word": "specialis",
+   "root_language": "Latin",
+   "historical_meaning": "Latin specialis (individual, particular), from species (a kind, an appearance), from specere (to look at, behold) — the same root as species; set apart from the general kind.",
+   "completion_progress": 66
   }
  ]
 }

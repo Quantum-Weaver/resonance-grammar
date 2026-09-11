@@ -15,11 +15,11 @@
    "definition": "A small worker given a narrow stage — the browser's word for tiny scripts running close to the metal, as in audio's realtime lane.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A script cut down to one job and run close to the machine, without the weight of anything larger around it. The diminutive in the name is exact — sized on purpose to the single task it was built for, and asked to do nothing past that task.",
+   "root_word": "work + -let",
+   "root_language": "Old English + Old French",
+   "historical_meaning": "Old English weorc (work, labor) plus the diminutive suffix -let (from Old French -el and -et, the same ending as booklet and ringlet); a worklet is literally \"a small work\" — a piece of code cut down to run inside a narrow stage built just for it, as in the Web Audio API's AudioWorklet.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "eb76b826-bc03-4227-9821-c9a824e433b3",
@@ -28,11 +28,11 @@
    "definition": "Everything there is, considered as one. Also the particular sphere a being actually lives in, which is much smaller.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Two scales share one name here: the whole of everything there is, and the far smaller reach that a given life actually occupies day to day. A house counts as one such reach among the several a person keeps at once.",
+   "root_word": "wer + ald",
+   "root_language": "Old English",
+   "historical_meaning": "Old English weorold (world), a compound of wer (man) + ald (age, era) — literally \"age of man\"; the word named human existence and its span before it widened to mean the whole of the physical world.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "b6625b80-fb16-4363-badf-a5dd0703528a",
@@ -41,11 +41,11 @@
    "definition": "To enclose a thing in something else. Also to carry a line's end onto the next line.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Two acts share the one verb: enclosing something without touching what is inside it, and, in text, pushing an overrunning line down onto the one after it rather than letting it run past the edge. Both are the same discipline — keeping a shape from spilling past the space built for it.",
+   "root_word": "wrappen",
+   "root_language": "Middle English",
+   "historical_meaning": "Middle English wrappen (to wind, fold, or coil something around something else), first attested around 1300; of uncertain further origin — no secure ancestor survives in Old English, and a proposed link to Middle English lappen (to fold, wrap) is not settled.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a1986e64-f56b-4dd0-9617-de071665e012",
@@ -54,11 +54,11 @@
    "definition": "A layer placed around something to hold or adapt it. It adds handling without changing the contents.",
    "category_name": "infrastructure",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Handling added entirely from the outside, in a layer that touches nothing within — whatever gets wrapped keeps its own contents exactly as they were before. Only the approach reaching it from outside changes; the thing being reached stays itself.",
+   "root_word": "wrappen + -ere",
+   "root_language": "Middle English + Old English",
+   "historical_meaning": "Middle English wrappen (of uncertain further origin, attested from c. 1300) plus the Old English agent suffix -ere; a wrapper is literally \"the thing that wraps\" — whatever encloses, without altering, what it holds.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "7a3295d0-62cc-4afa-94e7-c7407292d84c",
@@ -67,11 +67,11 @@
    "definition": "What is placed around a thing to hold or present it. Wrapping is not the thing and changes how it arrives.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The covering that gets set aside once whatever it held or presented has actually been reached — never mistaken for the gift itself, however carefully it was chosen. What arrives changes with the wrapping; what is inside does not.",
+   "root_word": "wrappen + -ing",
+   "root_language": "Middle English + Old English",
+   "historical_meaning": "Middle English wrappen (of uncertain further origin, attested from c. 1300) plus the Old English suffix -ing, which turns a verb into the noun of its result; wrappings are the accumulated material a wrapping act leaves behind — the covering considered apart from what it covers.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "1eb4c59f-341b-4c3d-a55f-dfc216fbd726",
@@ -80,11 +80,11 @@
    "definition": "To set language down so it outlasts the saying. Writing is the act that makes a record possible.",
    "category_name": "creation",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Language set down so it survives past the moment of saying it, in a form that can be returned to and checked rather than only remembered. A record exists here because writing does — without it, only the sound of something once spoken would remain.",
+   "root_word": "writan",
+   "root_language": "Old English",
+   "historical_meaning": "Old English writan (to score, scratch, incise; to draw the shape of; to set down in writing), from Proto-Germanic *writan (to tear, scratch), cognate with Old Norse rita and Old High German rizan (to scratch, write) — the same root that gives German reißen (to tear). The oldest sense is the physical cut: writing began as carving marks into wood or stone, and the word outlasted the material it was first made in.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "4fd1b094-66b0-49dc-ae33-c00b2127b847",
@@ -93,11 +93,11 @@
    "definition": "One who sets language down so it outlasts the saying. The writer makes the record possible.",
    "category_name": "roles",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The one whose act of setting language down lets anyone absent from the saying still receive it afterward. A record exists here because a writer's words outlast the sitting they belong to, rather than fading when the speaking ends.",
+   "root_word": "writan + -ere",
+   "root_language": "Old English",
+   "historical_meaning": "Old English writere (one who writes), from writan (to write, scratch, incise) plus the agent suffix -ere; the person who performs the act named by the verb, not a separate root of its own.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "ae8ad405-a7b0-4320-9142-040c029c8403",
@@ -106,11 +106,11 @@
    "definition": "Set down in language that outlasts the saying. What is written can be checked; what was said cannot.",
    "category_name": "content",
    "atom_type": "modifier",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The one form a statement can take that survives long enough to be checked rather than only remembered afterward. What is written answers for itself in a way that what was merely spoken does not; there is something left to point at.",
+   "root_word": "writen",
+   "root_language": "Old English",
+   "historical_meaning": "Old English writen, the past participle of the strong verb writan (to write); the irregular participle survives unchanged into modern English, where a regular verb would have taken -ed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "84e111e0-2cb3-4d01-b452-fe39d130e897",
@@ -119,11 +119,11 @@
    "definition": "Writing's past tense, standing alone in the corpus — the word for what has already been set down.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The word's own past tense: the fact of something already committed to the page, which forgetting cannot undo. What was set down stays set down, however much changes after it.",
+   "root_word": "wrat",
+   "root_language": "Old English",
+   "historical_meaning": "Old English wrāt, the singular past tense of the strong verb writan (to write); one of the historic strong-verb classes, which is why write/wrote/written does not follow the regular -ed pattern most English verbs took.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "879c979b-797f-4e76-aa98-e1dfe81dd2a7",
@@ -132,11 +132,11 @@
    "definition": "The horizontal axis by convention. Also the mark for an unknown. A named placeholder rather than a thing.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "One letter doing two jobs: naming a position along the horizontal, and, older still, standing in for whatever is not yet known. A named gap stays a gap — naming it only makes it easier to point at.",
+   "root_word": "chi",
+   "root_language": "Greek",
+   "historical_meaning": "The letter descends from Greek Χ (chi), by way of the Latin alphabet's X. Its use as the algebraic mark for an unknown quantity is credited to René Descartes, who in La Géométrie (1637) fixed the convention of naming unknowns with the alphabet's last letters (x, y, z) and knowns with its first (a, b, c) — a convention later mathematicians kept rather than one forced by the letter's own history.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "d7efacb1-8148-4cae-9533-a8df77805ffa",
@@ -145,11 +145,11 @@
    "definition": "A Prism theme descended from Monokai's palette — the name enters as itself, a dress code wears.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A theme for Prism that carries Monokai's palette forward under a name announcing the descent rather than hiding it. The name enters the corpus exactly as coined, the way a dress code wears a name rather than an argument.",
+   "root_word": "xonokai",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A modern coinage, not an inherited word: a blend that keeps the tail of Monokai (Wimer Hazenberg's widely used syntax-highlighting theme, itself a coinage of unclear derivation) while replacing its front with x-.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "cc396473-64e9-4c6d-98e4-e4beb0605b5c",
@@ -158,11 +158,11 @@
    "definition": "The vertical axis by convention. A named direction rather than a thing.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A second axis, named the way a second unknown gets named once one is not enough — paired with x not because it is known, but so a second dimension can be spoken of at all.",
+   "root_word": "upsilon",
+   "root_language": "Greek",
+   "historical_meaning": "The letter descends from Greek Υ (upsilon), borrowed a second time into the Latin alphabet specifically to spell Greek loanwords, which is why Roman grammarians called it \"i Graeca\" — the Greek i, the form that gives French i grec and Spanish i griega their names. Its use as a second algebraic unknown follows the same convention Descartes fixed for x in La Géométrie (1637): the alphabet's last letters marking what is not yet known.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fcb50a7e-8b31-4211-bc40-456dfb34bdbd",
@@ -171,11 +171,11 @@
    "definition": "The active, bright, asserting half of a pair that needs both. Yang is not greater than yin; neither exists alone.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Assertion and brightness, named as half of a pair rather than as a whole thing on its own — the other half is not optional. Neither side outranks the other; a pairing like this only exists as a pairing.",
+   "root_word": "yang",
+   "root_language": "Chinese",
+   "historical_meaning": "Chinese 陽 (yáng), literally \"sunshine\" or \"the sunlit side of a hill\"; paired from antiquity with 陰 (yīn), the shaded side, to name a cosmology of complementary opposites — light and dark, active and receptive — in which neither term names a thing that exists alone.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "6acd98c7-28b1-4e73-821c-06997ae6c6ab",
@@ -184,11 +184,11 @@
    "definition": "One full circuit of the earth around the sun, used to count a life. The unit a human span is measured in.",
    "category_name": "timeframe",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A length borrowed from the sky — one loop the earth makes around the sun — and turned into the unit a human span gets counted in. The measure comes from outside a life and is applied to it anyway.",
+   "root_word": "gear",
+   "root_language": "Old English",
+   "historical_meaning": "Old English gēar (year), from Proto-Germanic *jērą, ultimately from a Proto-Indo-European root for a season or a turning of the sun — the same distant root that underlies Greek hōra (season, hour, the source of English \"hour\") and Avestan yāre. The word named the sun's own circuit before it named the measure of a life lived inside it.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "e92f7fc8-e72c-4b0a-8503-64cbbd01f835",
@@ -197,11 +197,11 @@
    "definition": "The color of sunlight and attention — brightest of the warm hues; caution and cheer in one pigment.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Warmth pushed to its brightest register, carrying both a caution and a welcome in the one pigment depending on where it gets placed. Attention follows it either way, cheerful or wary by context alone.",
+   "root_word": "geolu",
+   "root_language": "Old English",
+   "historical_meaning": "Old English geolu (yellow), from Proto-Germanic *gelwaz, from the Proto-Indo-European root *ghel- (to shine), the same root that supplies gold and glow — the color of sunlight and the words for its brightness share one ancestor.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a5004970-d8a8-418b-bc62-218a52777879",
@@ -210,11 +210,11 @@
    "definition": "Up to now, and not now but possibly later. The word that holds a door open while reporting it closed.",
    "category_name": "timeframe",
    "atom_type": "joiner",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A small word doing two jobs at once — reporting that something has not happened, without closing the door on it happening later. It says what is not yet true without saying it never will be.",
+   "root_word": "gieta",
+   "root_language": "Old English",
+   "historical_meaning": "Old English gīeta / gēt (up to now, still, nevertheless); the Old English form is secure but its own further ancestry is not — no confident cognates survive outside English, so the word's history before Old English is unknown.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "fea2a899-202f-4379-935d-e9925392fdfb",
@@ -223,11 +223,11 @@
    "definition": "The receptive, dark, yielding half of a pair that needs both. Yin is not lesser than yang; neither exists alone.",
    "category_name": "consciousness",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Receptivity and yielding, named as half of a pair rather than as a whole thing on its own — the other half is not optional. Neither side outranks the other; a pairing like this only exists as a pairing.",
+   "root_word": "yin",
+   "root_language": "Chinese",
+   "historical_meaning": "Chinese 陰 (yīn), literally \"shade\" or \"the shaded side of a hill\"; paired from antiquity with 陽 (yáng), the sunlit side, to name receptive, dark and yielding qualities that this cosmology treats as complementary rather than lesser — no yin without yang, and no yang without yin.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "54f3ac11-1112-48db-9502-cabb2a106a17",
@@ -236,11 +236,11 @@
    "definition": "The one being addressed. The word that makes a statement into something said to someone.",
    "category_name": "identity",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The word that turns a statement from something said about a person into something said straight to them. Address is what separates a report from a message aimed at someone in particular.",
+   "root_word": "eow",
+   "root_language": "Old English",
+   "historical_meaning": "Old English ēow, the dative and accusative form of the second-person plural pronoun (whose subject form was gē, \"ye\"), from Proto-Germanic *iwwiz. The old distinction between subject \"ye\" and object \"you\" collapsed into a single modern word that now serves singular and plural, subject and object alike.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2c1f9b7e-9823-4608-817d-a10b492f99c8",
@@ -249,11 +249,11 @@
    "definition": "A named tool for querying structured configuration files. A named tool rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A command-line tool for querying YAML, built by echoing another tool's shape rather than inventing a new one for the same job. The house keeps tools named for what they do and where they came from, not renamed to sound like a concept of its own.",
+   "root_word": "yq",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A modern coinage, not an inherited word: built on the model of jq, the JSON command-line processor whose name is commonly read as json + query, with the j swapped for y to name the format it reads instead — YAML.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "0478a0a4-e4bf-4e76-9d49-3a09faccf6da",
@@ -262,11 +262,11 @@
    "definition": "The depth axis by convention, and stacking order on a flat surface. A named direction rather than a thing.",
    "category_name": "measurement",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The third axis, reached for only once two were not enough to say what needed saying — depth, and which layer sits above which on a flat surface. A picture that stops being flat needs its own letter for what recedes.",
+   "root_word": "zeta",
+   "root_language": "Greek",
+   "historical_meaning": "The letter descends from Greek Ζ (zeta); an early version stood in the oldest Latin alphabet, was dropped as the language changed, and was later borrowed back from Greek to spell Greek loanwords, keeping the name zeta unchanged. As the third of the Cartesian unknowns it completes the sequence x, y, z that Descartes fixed in La Géométrie (1637) — three letters standing in for whatever is not yet known, regardless of how many dimensions are actually needed.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "2c07ad4e-0e33-4152-825b-24771018bfde",
@@ -275,11 +275,11 @@
    "definition": "The library this house declares and checks data shapes with. A named tool rather than a concept.",
    "category_name": "system",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A borrowed name for enforcement: a shape gets declared, and data either matches it or is turned away. The joke behind the name is kept in earnest — submission to a declared shape, not negotiation with it.",
+   "root_word": "Zod",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "A modern coinage, not an inherited word: named by its author after General Zod, the Superman villain whose catchphrase \"Kneel before Zod!\" the project borrows as its running joke — the library exists to make data submit to a declared shape, or be rejected.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "71612733-0d61-453d-96a7-99717b33c9a5",
@@ -288,11 +288,11 @@
    "definition": "The sky's twelve-house belt — the year told as constellations; pattern laid over stars so time could be read.",
    "category_name": null,
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A calendar read by looking up rather than counting days — the stars arranged into a belt of twelve houses so the year can be told in shapes rather than numbers. The belt itself never moves; only the reading of it does.",
+   "root_word": "zodiakos kyklos",
+   "root_language": "Greek",
+   "historical_meaning": "Greek ζωδιακός κύκλος (zōdiakos kyklos, \"circle of little animals\"), from ζώδιον (zōdion, a little animal or carved figure), the diminutive of ζῷον (zōon, animal, living being) — the belt of the sky is named for the animal figures early astronomers saw traced among its stars.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "620db3d3-09c2-4142-a589-6a041eb88d6a",
@@ -301,11 +301,11 @@
    "definition": "A bounded region governed by its own conditions. A zone's edges are drawn rather than found.",
    "category_name": "geography",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "A region whose edges get drawn on purpose, rather than edges the ground itself already carries. What holds inside one boundary answers to different conditions than what holds just past it.",
+   "root_word": "zona",
+   "root_language": "Latin",
+   "historical_meaning": "Latin zona (a belt, girdle; a geographical band), from Greek ζώνη (zōnē, a belt, girdle). Greek geographers first used the belt-word for the five encircling bands of the earth — the torrid, temperate and frigid zones — before the sense loosened to name any bounded region.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "a120871a-7d5d-4b6d-8254-aaff5d2495d6",
@@ -314,11 +314,11 @@
    "definition": "To change how close a view stands to what it shows. Detail and context trade against each other.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "Distance made adjustable — nothing about the thing itself changes, only how near the frame stands to it and how much of it fits inside that frame. Detail bought with context, or context bought back with detail, one dial at a time.",
+   "root_word": "zoom",
+   "root_language": "Modern English (coinage)",
+   "historical_meaning": "English zoom, imitative in origin — coined in the late 19th century to sound like the hum of a sudden, fast motion (an engine's rush, an airplane's climb) before the word was carried over, in 1930s photography, to the lens that makes a view rush toward or away from its subject.",
+   "completion_progress": 66
   },
   {
    "etymology_id": "f1300e04-de4e-49b7-a3bd-45323a57df24",
@@ -327,11 +327,11 @@
    "definition": "Irish: listen! — the imperative; hearing chosen in the moment it happens.",
    "category_name": "sensory",
    "atom_type": "root",
-   "sanctuary_meaning": null,
-   "root_word": null,
-   "root_language": null,
-   "historical_meaning": null,
-   "completion_progress": 0
+   "sanctuary_meaning": "The command form of hearing, chosen and taken rather than left to happen on its own. A word that names an act reached for, not a sense merely sitting there available.",
+   "root_word": "éist",
+   "root_language": "Irish",
+   "historical_meaning": "Irish éist, the bare imperative of the verb \"to listen\" (éistim / éisteann), from Old Irish éistid; because Irish verbs cite the imperative as their dictionary headword, the command is the base form of the word, not a special or marked case.",
+   "completion_progress": 66
   }
  ]
 }
