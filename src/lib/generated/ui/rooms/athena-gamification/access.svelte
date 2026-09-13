@@ -32,10 +32,12 @@
 
 	let {
 		surfaceHref,
+		counts,
 	}: {
-		/** given a surface's table name, the route it lives at — left undefined
-		 *  until a hand-built route wires this room in; unlinked cards until then. */
+		/** given a surface's table name, the route it lives at; undefined leaves the card unlinked */
 		surfaceHref?: (name: string) => string | undefined;
+		/** given a surface's table name, the rows its relation holds */
+		counts?: Record<string, number | null>;
 	} = $props();
 
 	let q = $state('');
@@ -84,11 +86,16 @@
 		<div class="surfaces">
 			{#each found as name (name)}
 				{@const href = surfaceHref?.(name)}
+				{@const rows = counts?.[name]}
 				{#if href}
-					<a class="surface-card" {href}>{title(name)}</a>
+					<a class="surface-card" {href}>
+						{title(name)}
+						{#if rows != null}<span class="surface-card__count">{rows}</span>{/if}
+					</a>
 				{:else}
 					<span class="surface-card surface-card--unwired" title="no route wired yet">
 						{title(name)}
+						{#if rows != null}<span class="surface-card__count">{rows}</span>{/if}
 					</span>
 				{/if}
 			{/each}
@@ -178,6 +185,15 @@
 
 	a.surface-card:hover {
 		background-color: color-mix(in srgb, var(--face) 16%, var(--bg-surface));
+	}
+
+	.surface-card__count {
+		margin-left: 0.45rem;
+		font-size: 0.72rem;
+		padding: 0.05rem 0.4rem;
+		border-radius: 999px;
+		background-color: color-mix(in srgb, var(--face) 22%, transparent);
+		color: var(--text-secondary);
 	}
 
 	.surface-card--unwired {
