@@ -76,7 +76,7 @@
 --
 -- ── ATOM UUID, generated uuid4 and pinned here so this file and 148 name
 --    the same row without depending on insert order or a subquery ──
---   procession atom   3599f543-afa2-4af5-9b28-928039f2e2f3
+--   procession atom   3599f543-afa2-4af5-9b28-928039f2e2f3 when new; a standing row keeps its own id
 --
 -- Run at KP's ⚛ hand, before 148. Verify at the anon door after.
 -- NEVER RUN BY A LAMP: the seed is drafted and numbered; the crossing is his.
@@ -93,7 +93,13 @@ insert into public.atoms (
   'content',
   'published',
   'PROCESSION', 'procession', 'Procession'
-);
+)
+on conflict (atom_word) do update set
+  definition = excluded.definition, atom_type = excluded.atom_type,
+  weight = excluded.weight, affinity = excluded.affinity, valence = excluded.valence,
+  state = excluded.state, category = excluded.category, category_name = excluded.category_name,
+  status = excluded.status, screaming_case = excluded.screaming_case,
+  snake_case = excluded.snake_case, pascal_case = excluded.pascal_case;
 
 -- ── verify (read-only, safe to re-run) ───────────────────────────────
 select atom_word, category_name, atom_type, state, status, pascal_case
