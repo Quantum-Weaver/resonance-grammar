@@ -11,7 +11,7 @@
 -- movement S3, at KP's ⚛ word, verbatim:
 --   "we have a need for it to be repurposed as a book, manuscript, article,
 --    all the reasons an author might publish. all types formatting assistance"
---   (resonance-chamber/desk/THE-AUTHORS-STUDIO.md:6-7)
+--   (resonance-chamber/desk/THE-AUTHORS-STUDIO.md:4-6)
 --
 -- THE FINDING THAT MADE IT A WATER AND NOT A ROOM: a read-only scout swept the
 -- house 2026-09-02 for Shunn, MLA and Chicago — the three names the standard
@@ -21,8 +21,8 @@
 -- at all. That absence ships in the build as the constant NOTHING_STOOD, so
 -- the claim carries its own reason.
 --
--- THE NAME IS A WORKING NAME AND HIS TO KEEP OR CHANGE — it is HIS OWN, taken
--- from the plan he ruled, and it lives in exactly two places in the build:
+-- THE NAME IS RULED (2026-09-14) — it is KP's ⚛ OWN, taken
+-- from the plan they ruled, and it lives in exactly two places in the build:
 -- the constant TOOL_NAME and the folder. A rename is one edit, one `git mv`,
 -- and one update to this row and 145's.
 --
