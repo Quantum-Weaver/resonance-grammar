@@ -82,7 +82,7 @@ who query the Grammar through the bridge instead of guessing.
 - [Resonance Bridge](https://github.com/Quantum-Weaver/resonance-bridge) exposes query tools for AI assistants
 - Vessels download their knowledge graph from their Sanctuary
 - Glossaries decompose complex language through it — see the
-  [papers glossary](https://github.com/Quantum-Weaver/resonance-papers/blob/main/GLOSSARY.md)
+  papers' glossary (resonance-papers, archived and private)
   and [Resonance-Lucida](https://github.com/Quantum-Weaver/Resonance-Lucida)
 
 ---
